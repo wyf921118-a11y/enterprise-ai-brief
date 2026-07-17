@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="企业 AI 情报早报">
+  <title>企业 AI 情报早报</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main>
+    <header class="topbar">
+      <div class="brand"><span class="shield">◇</span><span>企业 AI 情报早报</span></div>
+      <div class="meta"><span>▣</span><span id="display-date">加载中</span></div>
+      <div class="meta"><span>◷</span><span id="updated">加载中</span></div>
+      <div class="archive-control" aria-label="日期切换">
+        <button id="older" aria-label="上一期" title="上一期">‹</button>
+        <label><span>查看日期</span><input id="date-picker" type="date"></label>
+        <button id="newer" aria-label="下一期" title="下一期">›</button>
+        <button id="latest" class="latest-button">最新</button>
+      </div>
+    </header>
+    <div id="content" aria-live="polite"></div>
+    <footer>企业 AI 高价值情报筛选 · AI HOT 精选与指定媒体信源 · 每日自动更新</footer>
+  </main>
+  <script src="app.js" defer></script>
+</body>
+</html>

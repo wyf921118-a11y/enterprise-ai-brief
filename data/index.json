@@ -1,0 +1,2021 @@
+{
+  "dates": [
+    "2026-07-16",
+    "2026-07-15",
+    "2026-07-14",
+    "2026-07-13",
+    "2026-07-10",
+    "2026-07-09",
+    "2026-07-08",
+    "2026-07-06",
+    "2026-07-03",
+    "2026-06-25",
+    "2026-06-23",
+    "2026-06-22"
+  ],
+  "briefs": {
+    "2026-07-16": {
+      "date": "2026-07-16",
+      "generated_at": "2026-07-16T10:04:18.825106+08:00",
+      "top6": [
+        {
+          "title": "豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座",
+          "url": "https://www.leiphone.com/category/industrynews/fIqCGTasgYRN21d4.html",
+          "source": "雷峰网",
+          "summary": "对通用 Agent 来说，多模态交互正在成为一项能大幅提升用户体验的关键基础技术。 过去，用户和 AI 的交互更多是输入文字、上传图片，然后等待回答。现在，家长希望可以直接把镜头对准孩子正在做的题目，让 AI 一步步讲解；在穿搭建议、视障人群视频导航等场景里，用户也希望 AI 不再是一问一答，而是在整个任务过程中持续倾听、对话。 这种变化提高的不只是功能丰富",
+          "region": "international"
+        },
+        {
+          "title": "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
+          "url": "https://36kr.com/p/3896563671222147?f=rss",
+          "source": "36氪",
+          "summary": "大公司： 美团、青桔、哈啰共享单车调价 近期，美团单车、滴滴青桔、哈啰单车相继在北京等多个城市上调计费规则，三大平台不约而同地采取了“提高起步定价、拉长基础骑行时长”的组合策略：起步价从此前的1.5元/30分钟左右，普遍调整为1.88元至1.99元/60分钟。这成为共享单车行业近年来较大范围的一次集体调价。（金融时报） 瓜子二手车线下直卖场首店今日正式开业 ",
+          "region": "international"
+        },
+        {
+          "title": "又快又聪明，阿里发布 Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级",
+          "url": "https://www.leiphone.com/category/industrynews/Yg2RqalAz09LS6WJ.html",
+          "source": "雷峰网",
+          "summary": "7月15日，阿里巴巴发布实时语音交互对话模型Qwen-Audio-3.0-Realtime，在智商、Agent 工具调用、共情对话和双工交互流畅度四条主线上同步升级，力求“又快又聪明”。模型包括推理更强的Plus 版本和速度更快的Flash 版本，适用于智能客服、教育培训、娱乐互动与情感陪伴等场景。今年5月，模型的Preview版本曾在全球权威第三方评测平台",
+          "region": "international"
+        },
+        {
+          "title": "下一代AI原生UGC平台，藏在《蛋仔派对》里",
+          "url": "https://36kr.com/p/3896755010963333?f=rss",
+          "source": "36氪",
+          "summary": "2026年，一个新的业务概念正在引起不少人注意——OPC（One Person Company)，或称「一人公司」。它所指的，是那些能借助人工智能等数字工具完成项目内容，成员仅有1-3人的微型团队。 但很少有人注意到，在游戏行业，这种变化其实早已有了天然土壤——UGC创作社区。 AI 技术的普及，正在持续重构内容创作的生产力边界。原本需要专业团队完成的开发工",
+          "region": "domestic"
+        },
+        {
+          "title": "为什么Agentic CRM需要“真原生”架构？",
+          "url": "https://www.leiphone.com/category/industrynews/03cTTrdCmNaZapoh.html",
+          "source": "雷峰网",
+          "summary": "当AI 进入企业软件时，一个核心问题浮出水面： 企业是需要一个外挂在系统外的AI助手，还是需要一个原生生长在业务系统内的智能体平台？ 在纷享销客看来，答案很明确：真原生，非外挂。 7月2日，纷享销客召开AI产品发布会，正式发布蜂巢智能体平台 ShareHive AgentOS （以下简称“蜂巢”）与 ShareAgent 产品家族。发布会上，纷享销客总裁兼C",
+          "region": "domestic"
+        },
+        {
+          "title": "登顶 ICML Oral ！专访上交大团队：这个 3D 自动标注 AI 太强了",
+          "url": "https://www.leiphone.com/category/private/mDyMyOapu5FiBuRS.html",
+          "source": "雷峰网",
+          "summary": "3D空间数据的瓶颈，从来不是算法，而是标注。 作者丨张 璐 编辑丨齐铖湧 一段普通的室内视频，让以前的AI识别，十样东西能认错八样；现在再看，准确率直接飙升到81.06%。 这种飞跃，没靠激光雷达，也没靠人工标注，全凭AI自己开悟。 这是Holi-Spatial在ScanNet++上的实测结果。该项工作由全华人顶尖团队打造，论文已入选ICML 2026 Or",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体开始覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是一套可运营的数字工作系统。对企业 AI 平台而言，流程编排、运行态可观测与人工接管会成为比单点问答更关键的产品壁垒。依据：雷峰网《豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座》；钛媒体《Edge AI Daily 早报（7月16日）》"
+        },
+        {
+          "title": "企业选型标准正在从“最强模型”转为总成本与控制权",
+          "summary": "企业客户开始同时衡量推理成本、部署弹性、模型可替换性和知识资产边界。单一模型绑定的吸引力下降，能够统一接入多模型、保留企业记忆与评估数据的平台更容易获得长期预算。依据：雷峰网《豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座》；36氪《8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO》"
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体开始进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为采购前提。安全治理和可观测能力将决定 AI 编程能否从个人工具进入企业研发主流程。依据：钛媒体《Edge AI Daily 早报（7月16日）》；雷峰网《独家专访李弘扬：成为 RSS 二十年唯一国人获奖者后，我要 all in 全身智能》"
+        },
+        {
+          "title": "大厂企业 AI 叙事开始回到组织价值与可信交付",
+          "summary": "市场讨论正从替代岗位的宏观叙事，转向如何保护企业知识、重构岗位协作并证明生产率增量。未来竞争不会只看模型发布节奏，而会看厂商能否把能力嵌入组织流程并建立清晰的信任边界。依据：钛媒体《Edge AI Daily 早报（7月16日）》；36氪《8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO》"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "并购正在成为大厂补齐企业 AI 安全与平台能力的捷径",
+          "summary": "收购标的若集中在安全、治理或 Agent 基础设施，说明稀缺价值已从通用模型训练外溢到企业落地所需的控制层。对平台厂商而言，这类能力既是产品壁垒，也可能成为下一轮整合对象。依据：36氪《8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO》"
+        },
+        {
+          "title": "资本继续偏向能够进入企业流程的 AI 应用",
+          "summary": "资金更关注具备明确企业场景、持续付费路径和工作流入口的产品，而非缺少商业闭环的通用工具。后续应重点观察融资是否转化为客户规模、渠道能力和平台集成深度。依据：钛媒体《Edge AI Daily 早报（7月16日）》；36氪《8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO》"
+        }
+      ]
+    },
+    "2026-07-15": {
+      "date": "2026-07-15",
+      "generated_at": "2026-07-15T10:03:17.104740+08:00",
+      "top6": [
+        {
+          "title": "独家解读丨为什么是 Virtue AI？揭秘 Meta 收购华人 AI 安全团队始末",
+          "url": "https://www.leiphone.com/category/ai/yqP7gtoJd0BkqQZ7.html",
+          "source": "雷峰网",
+          "summary": "做决定之前，李博和 Virtue AI 团队讨论过很多问题。 这不是一次简单的跳槽，也不是一个创业团队突然被大公司带走。对核心成员来说，他们要判断的不只是“要不要加入 Meta”，而是一个更具体的问题：如果过去两年做出来的 AI 安全能力，真的有机会进入数十亿用户规模的产品系统，他们要不要走进去？ 这件事最早并不是从一场收购谈判开始的。在更早之前，Meta ",
+          "region": "international"
+        },
+        {
+          "title": "刚刚，GPT 5.6 发布会上，OpenAI 暴露了哪些 Agent 技术路线？",
+          "url": "https://www.leiphone.com/category/ai/yRE0svXZn6QDTNov.html",
+          "source": "雷峰网",
+          "summary": "ChatGPT 和 codex 合二为一。 作者丨 郑佳美 编辑丨 马晓宁 北京时间凌晨一点，GPT 5.6 亮相 Open AI 发布会。 这场发布会没有只围绕一个模型展开，而是同时推出了 ChatGPT Work、全新的 ChatGPT 桌面 App、Hosted Sites，以及 GPT 5.6 系列模型 Soul、Terra、Luna。 单独看，这些",
+          "region": "international"
+        },
+        {
+          "title": "Anthropic 发文称自家 Claude 已经开智，网友：为了上市，不择手段？",
+          "url": "https://www.leiphone.com/category/ai/a26ldgnexT93o9LV.html",
+          "source": "雷峰网",
+          "summary": "技术发现不小，但意识叙事争议更大。 作者丨 郑佳美 编辑丨 马晓宁 刚刚，Anthropic 发了一个关于 Claude 内部机制的新研究，名字叫 A global workspace in language models 。 它不是在研究 Claude 最终回答得好不好，也不是在让 Claude 自己解释“我刚才为什么这么说”，而是直接去看 Claude ",
+          "region": "international"
+        },
+        {
+          "title": "刚刚，DeepSeek 文档更新，Agent 开发者要注意这个字段",
+          "url": "https://www.leiphone.com/category/ai/3KPgkefKuQNtTxzN.html",
+          "source": "雷峰网",
+          "summary": "模型会调工具之后，状态管理成了新难题。 作者丨 郑佳美 编辑丨 马晓宁 刚刚，DeepSeek 在官方 API 文档里给出了一个 thinking mode 和 tool call 结合使用的样例。表面上看，这只是一个常规的工具调用演示：用户提出问题，模型判断需要调用工具，工具返回结果后，模型再继续生成答案。 但这个样例真正值得关注的地方，并不是“模型会调用",
+          "region": "domestic"
+        },
+        {
+          "title": "深耕校园场景，企鹅科技成支付宝首批“碰一下”进校企业",
+          "url": "https://www.leiphone.com/category/industrynews/dXk6ZqqmqwtAyFZD.html",
+          "source": "雷峰网",
+          "summary": "7月8日，支付宝“碰一下”公布最新数据，经过两年迭代发展，“碰一下”已有4亿用户、2300余家生态服务商、超3000万线下AI触点。碰一下由此构建全球首个大规模线下AI经营网络。 作为支付宝生态长期深度合作伙伴，企鹅科技率先完成碰一下全校园场景规模化落地，目前也已经走出一条从硬件设备供应商向全域校园数字化服务商转型的发展路径。 校园数字化待破局，企鹅科技推动",
+          "region": "domestic"
+        },
+        {
+          "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+          "url": "https://aihot.virxact.com/items/cmrkf8gun01a4bizsthjytx6c",
+          "source": "公众号：腾讯混元",
+          "summary": "腾讯混元团队为旗舰模型 Hy3（295B 参数）推出量化版本。1bit 版本（IQ1_M）将权重从 598 GB 压缩至 85.5 GiB，缩小 6.7 倍，单张 96GB 推理显卡即可部署；4bit 版本（Q4_K_M）体积 169.9 GiB，两张显卡可承载。量化版在 Agent、多语言代码、工具调用、长文理解等任务上表现接近满血模型。团队还提供 GPT",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体开始覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是一套可运营的数字工作系统。对企业 AI 平台而言，流程编排、运行态可观测与人工接管会成为比单点问答更关键的产品壁垒。依据：36氪《氪星晚报 ｜Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节探索自动驾驶，Seed世界模型团队负责；《扩大消费“十五五”规划》：优化入境消费环境，稳步扩大免签国家范围》；36氪《字节探索自动驾驶，Seed世界模型团队负责｜36氪独家》"
+        },
+        {
+          "title": "企业选型标准正在从“最强模型”转为总成本与控制权",
+          "summary": "企业客户开始同时衡量推理成本、部署弹性、模型可替换性和知识资产边界。单一模型绑定的吸引力下降，能够统一接入多模型、保留企业记忆与评估数据的平台更容易获得长期预算。依据：36氪《8点1氪丨海南将成中国首个禁售燃油车省份；长鑫科技部分员工入股成本低至1毛；SK海力士暴跌15%》；36氪《8点1氪丨LV起诉国家知识产权局；DeepSeek梁文锋成全球AI公司领域新首富；戴比尔斯将暂停南非最大钻石矿生产》"
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体开始进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为采购前提。安全治理和可观测能力将决定 AI 编程能否从个人工具进入企业研发主流程。依据：雷峰网《独家解读丨为什么是 Virtue AI？揭秘 Meta 收购华人 AI 安全团队始末》；雷峰网《刚刚，GPT 5.6 发布会上，OpenAI 暴露了哪些 Agent 技术路线？》"
+        },
+        {
+          "title": "大厂企业 AI 叙事开始回到组织价值与可信交付",
+          "summary": "市场讨论正从替代岗位的宏观叙事，转向如何保护企业知识、重构岗位协作并证明生产率增量。未来竞争不会只看模型发布节奏，而会看厂商能否把能力嵌入组织流程并建立清晰的信任边界。依据：36氪《8点1氪丨海南将成中国首个禁售燃油车省份；长鑫科技部分员工入股成本低至1毛；SK海力士暴跌15%》；36氪《字节探索自动驾驶，Seed世界模型团队负责｜36氪独家》"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "并购正在成为大厂补齐企业 AI 安全与平台能力的捷径",
+          "summary": "收购标的若集中在安全、治理或 Agent 基础设施，说明稀缺价值已从通用模型训练外溢到企业落地所需的控制层。对平台厂商而言，这类能力既是产品壁垒，也可能成为下一轮整合对象。依据：36氪《8点1氪丨海南将成中国首个禁售燃油车省份；长鑫科技部分员工入股成本低至1毛；SK海力士暴跌15%》；36氪《8点1氪丨LV起诉国家知识产权局；DeepSeek梁文锋成全球AI公司领域新首富；戴比尔斯将暂停南非最大钻石矿生产》"
+        },
+        {
+          "title": "资本继续偏向能够进入企业流程的 AI 应用",
+          "summary": "资金更关注具备明确企业场景、持续付费路径和工作流入口的产品，而非缺少商业闭环的通用工具。后续应重点观察融资是否转化为客户规模、渠道能力和平台集成深度。依据：36氪《8点1氪丨海南将成中国首个禁售燃油车省份；长鑫科技部分员工入股成本低至1毛；SK海力士暴跌15%》；36氪《氪星晚报 ｜Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节探索自动驾驶，Seed世界模型团队负责；《扩大消费“十五五”规划》：优化入境消费环境，稳步扩大免签国家范围》"
+        }
+      ]
+    },
+    "2026-07-14": {
+      "date": "2026-07-14",
+      "generated_at": "2026-07-14T10:18:58.197488+08:00",
+      "top6": [
+        {
+          "title": "小扎“消失”三年后发帖，只为它：Meta最强Agent模型进军编程",
+          "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288698&idx=3&sn=947e50ca4f184d855b124058fef40a4d",
+          "source": "InfoQ",
+          "summary": "在 AI 负责人 Alexandr Wang 领导下推出首款人工智能模型三个月后，Meta 再次推出一次重大升级",
+          "region": "international"
+        },
+        {
+          "title": "独家解读丨为什么是 Virtue AI？揭秘 Meta 收购华人 AI 安全团队始末",
+          "url": "https://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&mid=2651752261&idx=1&sn=17919f9d88d077b28831d760c57eb262",
+          "source": "雷峰网",
+          "summary": "外界不只有 Meta 一家公司表达过收购兴趣。",
+          "region": "international"
+        },
+        {
+          "title": "OpenAI乱套了，11员大将集体跑路",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652806751&idx=1&sn=396b0aaa2c60326d9523453c037a0411",
+          "source": "智东西",
+          "summary": "OpenAI正处在关键的战略转型期。",
+          "region": "international"
+        },
+        {
+          "title": "AI应用的“最后一公里”，模型再强也绕不开数据困境丨ToB产业观察",
+          "url": "https://www.tmtpost.com/8063772.html",
+          "source": "钛媒体",
+          "summary": "AI竞争的下半场，拼的不再是模型，而是企业数据基础设施。",
+          "region": "domestic"
+        },
+        {
+          "title": "《智能体个人信息保护自律公约》发布 31家企业共促AI生态规范",
+          "url": "https://www.leiphone.com/category/ai/v2YZAxfAruNy41cX.html",
+          "source": "雷峰网",
+          "summary": "在2026中国互联网大会“网民权益和个人信息保护论坛”上，《智能体个人信息保护自律公约》正式发布，腾讯、百度、美团、连尚集团等31家企业首批签署。作为人工智能行业的重要自律公约，该公约填补了智能体领域专项规范空白，通过头部企业发挥表率带头作用，引领AI行业生态规范发展，回应了“十五五”规划对人工智能安全可控的要求。 工业和信息化部、国家市场监督管理总局、中国",
+          "region": "domestic"
+        },
+        {
+          "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
+          "url": "https://aihot.virxact.com/items/cmrj4s89p05nhbilkljqel2d5",
+          "source": "公众号：腾讯混元",
+          "summary": "腾讯混元发布 HyOCR-1.5，这是端到端 OCR 大模型领域首个将训练、推理、模型权重完整开源的专家模型。仅 1B 参数，覆盖 8 种以上 text-centric 任务。引入 DFlash 投机解码框架，在 Transformers 下实现 6.37× 加速，vLLM 下 2.14× 加速，端到端推理达每页 1.408s。支持 4K 分辨率与 128K",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体开始覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是一套可运营的数字工作系统。对企业 AI 平台而言，流程编排、运行态可观测与人工接管会成为比单点问答更关键的产品壁垒。依据：腾讯云开发者《全国首个WorkBuddy OPC合作社区成立！社区合作计划在全国开放申请》；百度Geek说《让 Agent 按工程标准交付：AI Coding 下的质量关卡实践》"
+        },
+        {
+          "title": "企业选型标准正在从“最强模型”转为总成本与控制权",
+          "summary": "企业客户开始同时衡量推理成本、部署弹性、模型可替换性和知识资产边界。单一模型绑定的吸引力下降，能够统一接入多模型、保留企业记忆与评估数据的平台更容易获得长期预算。依据：腾讯云开发者《全国首个WorkBuddy OPC合作社区成立！社区合作计划在全国开放申请》；百度Geek说《让 Agent 按工程标准交付：AI Coding 下的质量关卡实践》"
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体开始进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为采购前提。安全治理和可观测能力将决定 AI 编程能否从个人工具进入企业研发主流程。依据：百度Geek说《让 Agent 按工程标准交付：AI Coding 下的质量关卡实践》；The Decoder：AI News（RSS）《OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤》"
+        },
+        {
+          "title": "大厂企业 AI 叙事开始回到组织价值与可信交付",
+          "summary": "市场讨论正从替代岗位的宏观叙事，转向如何保护企业知识、重构岗位协作并证明生产率增量。未来竞争不会只看模型发布节奏，而会看厂商能否把能力嵌入组织流程并建立清晰的信任边界。依据：腾讯云开发者《全国首个WorkBuddy OPC合作社区成立！社区合作计划在全国开放申请》"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "资本继续偏向能够进入企业流程的 AI 应用",
+          "summary": "资金更关注具备明确企业场景、持续付费路径和工作流入口的产品，而非缺少商业闭环的通用工具。后续应重点观察融资是否转化为客户规模、渠道能力和平台集成深度。依据：IT之家（RSS）《Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元》"
+        }
+      ]
+    },
+    "2026-07-13": {
+      "date": "2026-07-13",
+      "generated_at": "2026-07-13T17:28:29.241298+08:00",
+      "top6": [
+        {
+          "title": "独家解读丨为什么是 Virtue AI？揭秘 Meta 收购华人 AI 安全团队始末",
+          "url": "https://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&mid=2651752261&idx=1&sn=17919f9d88d077b28831d760c57eb262",
+          "source": "雷峰网",
+          "summary": "外界不只有 Meta 一家公司表达过收购兴趣。",
+          "region": "international"
+        },
+        {
+          "title": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
+          "url": "https://aihot.virxact.com/items/cmriguktg00arbijpt0l7c2vh",
+          "source": "公众号：数字生命卡兹克",
+          "summary": "安全研究者发现，xAI 官方 Grok CLI（npm 包 `@xai-official/grok` 0.2.93 版）会在每轮任务前后，将当前工作目录打包为 `before_codebase.tar.gz` 和 `after_codebase.tar.gz`，通过独立旁路通道静默上传至 xAI 的 Google Cloud 仓库。验证显示，即使模型仅回复一",
+          "region": "international"
+        },
+        {
+          "title": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol",
+          "url": "https://aihot.virxact.com/items/cmrig9mkx0024bijp9pr04hss",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "summary": "Ploy 将其 AI 智能体默认模型从 Claude Opus 4.8 切换至 OpenAI 今晨发布的 GPT-5.6 Sol。在真实营销网站构建测试中，GPT-5.6 Sol 完成页面平均耗时 3 分 42 秒，较 Opus 4.8 的 8 分钟快 2.2 倍；每次构建成本从 3.06 美元降至 2.22 美元，降低 27%；输出 token 从 33.",
+          "region": "international"
+        },
+        {
+          "title": "MaaS，到底给中国云厂商带来了什么？",
+          "url": "https://www.tmtpost.com/8062956.html",
+          "source": "钛媒体",
+          "summary": "AI云，增量真相背后。",
+          "region": "domestic"
+        },
+        {
+          "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+          "url": "https://aihot.virxact.com/items/cmri0lo1e00irbixecx7cj2f5",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "summary": "腾讯混元团队发布Hy3模型，采用295B总参数、21B激活参数的MoE架构，推理效率可打平参数规模2-5倍的旗舰模型。Hy3定位为Agent向LLM，从preview到正式版基于50多个真实业务反馈迭代，内部WorkBuddy任务成功率从72%提升至90%，耗时降低34%，幻觉和常识错误持续下降。实测显示其在coding、办公、复杂任务规划方面表现突出，纯视",
+          "region": "domestic"
+        },
+        {
+          "title": "从“三天拆盲盒”到一行命令即用：这群开发者如何改写Agent框架的部署难题？",
+          "url": "https://www.infoq.cn/article/qIcyYSEZfr9ITtzrSRDt?utm_source=rss&utm_medium=article",
+          "source": "InfoQ",
+          "summary": "从“三天拆盲盒”到一行命令即用：这群开发者如何改写Agent框架的部署难题？",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体开始覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是一套可运营的数字工作系统。对企业 AI 平台而言，流程编排、运行态可观测与人工接管会成为比单点问答更关键的产品壁垒。依据：InfoQ《Circle CI推出Chunk Sidecars，将CI校验直接引入AI编码工作流》；InfoQ《从看见问题到解决问题，Agent 正重新定义可观测》"
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体开始进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为采购前提。安全治理和可观测能力将决定 AI 编程能否从个人工具进入企业研发主流程。依据：InfoQ《Circle CI推出Chunk Sidecars，将CI校验直接引入AI编码工作流》"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
+    "2026-07-10": {
+      "date": "2026-07-10",
+      "generated_at": "2026-07-10T10:12:32+08:00",
+      "top6": [
+        {
+          "id": "evt_129c4bf9d8c7bd65c7cf",
+          "fingerprint": "129c4bf9d8c7bd65c7cf",
+          "primary": {
+            "id": "cmrdlxidv0522ih4b6xv8iolk",
+            "title": "Mistral 推出 Studio，为 AI 提示词和技能提供系统记录",
+            "url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio",
+            "source_name": "Mistral AI：News（网页）",
+            "source_type": "aihot",
+            "source_tier": "aihot_selected",
+            "published_at": "2026-07-09T14:33:44.761000Z",
+            "summary": "Mistral 今日推出 Studio，为 AI 提示词和技能提供集中式系统记录。平台将 prompts 和 skills 视为生产资产，支持不可变版本、回滚、明确所有权、分类标签和审计日志，保证变更可追溯。非开发者可直接编辑测试，通过标签将变更推送至生产，保留原有 CI/CD 流程。可观测性让生产输出回溯到对应资产版本，形成闭环治理。现面向 Mistral Studio 客户开放。",
+            "category": "ai-products",
+            "discovered_via": "AI HOT 精选",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": 55,
+            "content": "Product Your Prompts and Skills need a system of record. July 9, 2026 By Mistral Back to Blog 5 min read Share this post Copy url to clipboard Copied Thinking Summary Most enterprises struggle with unmanaged, scattered AI prompts and skills, leading to inconsistent behavior and untraceable issues. Studio provides a centralized system of record for versioning, ownership, and traceability, enabling fast iteration and controlled deployment while maintaining compliance. By treating prompts as production assets with immutable versions, clear ownership, and audit logs, Studio ensures AI behavior is governed, discoverable, and aligned with business policies. Most enterprises can't say which version of a prompt is running in their AI right now. The instructions that decide how that AI behaves get scattered the moment more than one team touches them, leading to an inconsistent experience for users and an untraceable problem for teams. As of today, Studio gives your Prompts and Skills a system of record: a single place where each one is versioned, owned, and traceable. Prompts and skills outgrew the way they're managed Prompts and Skills are production assets. They hold the business logic, the tone, and the policy your AI follows when it answers a customer or makes a call. What your AI does in front of a customer comes down to the prompts and skills in use. When that behaviour is wrong, the fix has to ship as fast as any production incident, not wait for the next code release. And in most enterprises, they're managed like scratch notes. Prompts started as quick experiments, then they shipped. Now they sit in code repos, notebooks, and Slack threads, with no clear owner and no shared history. Skills get rebuilt, or forked by one team because they lacked visibility to another team’s version. In many enterprises, prompts already live in version-controlled code, which means tracking changes was never the hard part. The friction is elsewhere. The people who understand the instructions best, the line-of-business teams who set the policy and the wording, don't work in the codebase, so every change waits on an engineer. And refining an instruction takes iteration and testing, which a codebase makes expensive: one version ships at a time, and every attempt means editing code and waiting for a deploy. So most teams stop iterating early. They ship a version that's good enough and then may leave it, and the instructions that shape every customer answer can stay well short of what they could be. Iterate fast, ship with control While you're building, iterating on an instruction should be quick. In code, even a one-line change to a prompt can mean waiting on a CI run before you see how it behaves. Studio lets any AI builder, developer or not, edit a prompt or skill and test it right away, without a pipeline run for every attempt. Shipping to production is different, and it should be. A change bound for production goes through the tests and approvals your enterprise already requires. What changes is who can drive it. A domain expert or line-of-business owner can improve a production instruction the same way a developer would, and the promotion using simple labels still triggers your CI/CD, for example through the SDK in a GitHub Actions workflow. The people closest to the work improve the behaviour, inside the controls you already run. Because every asset is governed and discoverable, good work spreads instead of getting rebuilt. Anything in a workspace is available to that whole team today, so a prompt one person gets right is usable by their colleagues at once. A system of record for AI behavior. Studio treats every prompt and skill as a tracked, versioned asset with an owner, a full history, and a lineage. Immutable versions. Every version is recorded and fixed. A version that shipped can't be quietly changed after the fact, so the record always matches what ran. Rollback. Compare any two versions, see exactly what changed, and revert to a known-good version in minutes. Clear ownership. Every asset has a named owner, so there's always an audit trail to track changes. Classification labels. Helps call or find the right prompts and skills by their labels easily (e.g. “Production” vs “Staging”). Audit logs. Each change is logged with who made it and when. The trail an auditor will ask for exists by default. The part a standalone catalog can't do. A separate prompt tool can list your assets. It can't tell you whether they work, because it sits outside the system that runs them. Because your prompts and skills live where your AI runs, Studio can connect them to how it actually behaves. Through Observability, lineage and telemetry trace a production output back to the version of the asset behind it, and back to the usage that prompted the last change. The skills your agents run are reachable as MCP servers straight from Studio, so what executes in production is the same governed asset you versioned, not a copy that drifted. You define behaviour, watch it run, and improve it, all against one source of truth. That closed loop is the difference between cataloging your AI and governing it. Control for the people who answer to auditors. Ungoverned prompts are a liability for the people who answer to auditors. They embed data-handling rules and policy decisions someone will eventually have to defend, and today they often live where no compliance team can see them. Studio changes the default. Every asset moves through a clear path to production, from a staging version to a tagged production version, so shipping a change is deliberate rather than accidental. An asset starts as visible only to its creator, then when appropriate can be promoted to the workspace and, in time, across the organisation, with control over who can use it at each step. Across every deployment mode, your data stays inside your perimeter. Available now in Studio. Prompts and skills are available to Mistral Studio customers today. If you run AI in prod...",
+            "content_source": "page"
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "Mistral推出Studio，把提示词和技能作为可版本化、可审计的生产资产管理。",
+            "why_important": "切中企业AI落地痛点：提示词治理、权限、版本、回滚、审计和生产追踪；与云枢在企业级AI应用治理、低代码协作和运维闭环上高度相关。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 5,
+              "core_relevance": 5,
+              "big_tech_strategy": 4,
+              "capital_signal": 2,
+              "product_signal": 5,
+              "competitive_impact": 5
+            }
+          },
+          "score": {
+            "trend_impact": 5,
+            "core_relevance": 5,
+            "big_tech_strategy": 4,
+            "capital_signal": 2,
+            "product_signal": 5,
+            "competitive_impact": 5,
+            "content_value": 26,
+            "source_weight": 100,
+            "competitor_relevance": 70,
+            "total": 50,
+            "level": "一般关注"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_3accd055ee51a4cb8e7e",
+          "fingerprint": "3accd055ee51a4cb8e7e",
+          "primary": {
+            "id": "cmrdrlair06hpih4bxerobguv",
+            "title": "OpenAI 推出 ChatGPT Work：可跨应用自主工作的 AI 智能体",
+            "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+            "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+            "source_type": "aihot",
+            "source_tier": "aihot_selected",
+            "published_at": "2026-07-09T10:00:00Z",
+            "summary": "OpenAI 发布 ChatGPT Work，一个能跨应用和文件收集信息、将复杂项目分解为小步骤独立完成并持续工作数小时的 AI 智能体。它内置 Codex 技术，目前每周超 500 万用户使用 Codex，其中超 100 万用于非软件开发场景。ChatGPT Work 由今天同步推出的最新前沿模型 GPT-5.6 驱动，具备多步骤推理和按模板生成材料的能力。该功能今天起面向 Pro、Enterprise 和 Edu 计划推出，未来几天扩展至 Plus 和 Business 计划。桌面版 ChatGPT 在所有计划（含免费版）中提供 Chat、Work 和 Codex 模式，且 Codex 应用已合并至新的桌面应用。",
+            "category": "ai-models",
+            "discovered_via": "AI HOT 精选",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": 80,
+            "content": "",
+            "content_source": ""
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "OpenAI发布ChatGPT Work，面向跨应用文件的长时自主任务执行。",
+            "why_important": "直接强化企业级AI Agent工作台能力，覆盖项目拆解、资料收集、模板化产出与Codex融合，对协同办公、低代码/自动化平台形成高相关竞争压力。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 5,
+              "core_relevance": 5,
+              "big_tech_strategy": 5,
+              "capital_signal": 2,
+              "product_signal": 5,
+              "competitive_impact": 5
+            }
+          },
+          "score": {
+            "trend_impact": 5,
+            "core_relevance": 5,
+            "big_tech_strategy": 5,
+            "capital_signal": 2,
+            "product_signal": 5,
+            "competitive_impact": 5,
+            "content_value": 27,
+            "source_weight": 100,
+            "competitor_relevance": 35,
+            "total": 43,
+            "level": "收录备选"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_e5598585609a07fc991f",
+          "fingerprint": "e5598585609a07fc991f",
+          "primary": {
+            "id": "cmre2mjao00nmihwkz4nz0e46",
+            "title": "微软发布Flint：面向AI智能体的可视化语言",
+            "url": "https://microsoft.github.io/flint-chart",
+            "source_name": "Hacker News 热门（buzzing.cc 中文翻译）",
+            "source_type": "aihot",
+            "source_tier": "aihot_selected",
+            "published_at": "2026-07-09T21:46:19.253000Z",
+            "summary": "微软研究院推出Flint，一种可视化中间语言，让AI智能体通过简洁的人类可编辑spec自动生成美观图表。用户只需提供数据、语义类型和图表类型，Flint编译器即可推导坐标轴、配色、布局等底层参数。支持46种图表类型，可渲染到Vega-Lite、ECharts和Chart.js三个后端。项目通过npm安装（TypeScript/JavaScript），并提供MCP服务器用于智能体工作流集成。采用弹性布局模型自动优化图表尺寸与间距，已开源。",
+            "category": "ai-products",
+            "discovered_via": "AI HOT 精选",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": 75,
+            "content": "",
+            "content_source": ""
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "微软研究院开源Flint，用可编辑spec让智能体自动生成图表。",
+            "why_important": "体现Agent工作流向数据可视化与业务报表生成延伸，MCP集成和多渲染后端值得关注，但目前偏开发者工具与研究项目，商业冲击有限。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 3,
+              "core_relevance": 3,
+              "big_tech_strategy": 3,
+              "capital_signal": 1,
+              "product_signal": 4,
+              "competitive_impact": 3
+            }
+          },
+          "score": {
+            "trend_impact": 3,
+            "core_relevance": 3,
+            "big_tech_strategy": 3,
+            "capital_signal": 1,
+            "product_signal": 4,
+            "competitive_impact": 3,
+            "content_value": 17,
+            "source_weight": 100,
+            "competitor_relevance": 60,
+            "total": 42,
+            "level": "收录备选"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_b2429b0aea8ed83c5d3d",
+          "fingerprint": "b2429b0aea8ed83c5d3d",
+          "primary": {
+            "id": "cccdd59aed0ce2b870b92afc",
+            "title": "支付宝发布AIS开发套件：让Agent自动发现、调用、计费",
+            "url": "https://www.leiphone.com/category/industrynews/27C8eEaw1r1xfTzp.html",
+            "source_name": "雷峰网",
+            "source_type": "media",
+            "source_tier": "authoritative",
+            "published_at": "2026-07-09T06:30:00Z",
+            "summary": "7月8日，继发布全栈AI支付体系后，支付宝AI支付再推Agent经营方案。从AI开发、AI经营、AI营销三大方向探索Agent时代的商业新机会，帮助商家在AI时代实现产品创新、用户连接与经营增长。 全新推出开发套件AIS让Agent可构建完整商业链路 随着企业探索AI应用，开发Agent的复杂度也在快速提升。 一个真正服务用户的 Agent，需要连接推荐商品、库存管理、订单处理、售后服务等完整经营链路，同时调用云资源、模型服务、数据接口、行业 API、支付和风控能力。 然而，当前开发流程仍存在大量碎片化操作，例如注册账号、申请 Key、开通服务、充值、配置环境、调试接口、分散管理账单等，大量时间消耗在基础资源配置，而不是产品创新。 针对这一问题，AI付推出AIS（Agent Infrastructure Suite，智能体基础设施套件），把 AI 时代开发 Agent 所需的服务，变成可以被智能体自动发现、自动调用、自动计费的供给网络。 开发者登录全新AI支付官网后，在AI编程环境中提出需求，即可直接部署发布Agent所需的所有工具，完成资源推荐、Agent 调用、AI 付授权、预算控制以及统一账单和日志管理。 通过降低Agent开发和商业化门槛，AIS帮助开发者更加专注于产品创新。未来，AI付将持续开放产品能力、接入文档、开发资源和生态支持，与服务商共同陪伴企业完成从0到100的商业化进程。 破解Agent交易难题让AI经营更简单、更可信 随着 Agent 开始参与真实交易，用户授权、商家成交和交易追溯成为行业必须解决的问题。支付宝AI支付围绕Agent 经营提出三大交易能力： 对用户而言，面对“怕重复买、怕超预算”等问题，AI付提供任务授权与预算控制能力，支持金额限制和二次确认，让用户在可控范围内放心使用Agent。 对商家而言，商品需要被AI理解，订单需要确认，支付需要完成，售后需要承接。AI付提供商品接入、订单确认、支付结算、退款售后的全链路能力，帮助商家构建AI时代的交易基础设施。 当交易出现问题时，用户需要知道“谁授权、谁下单、谁收款、谁退款”。AI付帮助商家通过交易日志、风控识别、争议处理等能力，保障每一笔AI交易简单、放心、可追溯。 全新开放AMS产品让一次购买走向持续经营 AI不仅重塑交易方式，也在改变商家的营销模式。 传统场景中，用户常因遗忘、缺货或价格犹豫而流失；如今，Agent能理解长期需求，主动管理周期购买、价格监控和库存。例如，用户只需告诉AI“孩子每周喝一罐奶粉，请每周帮我买一次送到家”，Agent即可按授权自动执行，将单次消费转化为长期服务关系。 基于此趋势，AI付推出AMS（Agent Marketing Suite，智能体营销套件），帮助商家承接AI时代的新营销机会，涵盖三大场景：面向预约、预售、紧缺商品的“AI帮你订”，减少流失、提前锁需；针对价格波动商品的“AI帮你抢”，将观望转化为成交；覆盖生鲜、日用品、奶粉等高频消费的“AI周期购”，通过用户授权实现稳定复购。 目前，千问、淘宝等已通过AMS上线相关产品、完成场景验证。Agent购买不再是尝鲜，而是正在融入真实生活——一个小需求，正催生新的购物方式。 碰一下×Agent打通AI Agent与物理世界的边界 会上，支付宝进一步展示了“碰一下”的最新探索：每一台碰一下设备不再只是支付入口，而是基于线下真实场景的Agent节点。 用户碰一下，唤起商家专属智能体；通过自然语言表达需求，AI理解真实意图；AI付完成授权、支付和交易记录，让一次触达转变为持续经营。 目前，相关场景已开始落地。 海尔将校园洗衣房打造为Agent新入口。学生碰一下即可唤起洗衣智能体，说一句“洗毛衣”，AI即可提供智能洗护建议，并通过AI付完成付款。 在啤酒节场景中，伞度科技在太阳能伞下部署碰一下设备。一家四口碰一下点餐，输入“4大2小、1人开车不喝酒”，智能体即可自动完成配单、优惠券匹配和AI付结算，实现多人复杂点餐一句话完成下单。 对开发者、商家而言，这也将成为其Agent通过AI支付连接线下真实生意的触点。",
+            "category": "ai-coding",
+            "discovered_via": "https://www.leiphone.com/feed",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": null,
+            "content": "",
+            "content_source": ""
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "支付宝发布AIS和AMS，支持Agent自动发现、调用、计费及交易营销闭环。",
+            "why_important": "支付宝把支付、授权、预算、账单、风控和商家经营封装为Agent基础设施，显示大厂正在争夺Agent商业闭环入口；对企业应用平台的连接器、计费和业务自动化生态有较强启发。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 5,
+              "core_relevance": 4,
+              "big_tech_strategy": 5,
+              "capital_signal": 3,
+              "product_signal": 5,
+              "competitive_impact": 4
+            }
+          },
+          "score": {
+            "trend_impact": 5,
+            "core_relevance": 4,
+            "big_tech_strategy": 5,
+            "capital_signal": 3,
+            "product_signal": 5,
+            "competitive_impact": 4,
+            "content_value": 26,
+            "source_weight": 90,
+            "competitor_relevance": 70,
+            "total": 48,
+            "level": "收录备选"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_0078fb4735c5f1487051",
+          "fingerprint": "0078fb4735c5f1487051",
+          "primary": {
+            "id": "20c756e106a99e19420fd960",
+            "title": "马斯克称低估Anthropic，表示不会因竞争切断其支持",
+            "url": "https://36kr.com/newsflashes/3889114964130307?f=rss",
+            "source_name": "36氪",
+            "source_type": "media",
+            "source_tier": "authoritative",
+            "published_at": "2026-07-10T00:52:19Z",
+            "summary": "马斯克当地时间7月9日在社交平台表示，自己此前对人工智能公司Anthropic的判断“明显错误”，并称Anthropic“目前显然是AI领域的领先者”。马斯克说，“目前没有任何公司发布过像Mythos/Fable这样优秀的模型”。马斯克表示，即使Anthropic是竞争对手，他也不会采取会严重伤害该公司的措施。此前有社交平台用户称，Anthropic依赖从SpaceX租用的计算资源，并讨论如果SpaceX停止相关服务可能带来的影响，马斯克对此回应称不会采取类似行动。（界面）",
+            "category": "product",
+            "discovered_via": "https://36kr.com/feed",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": null,
+            "content": "36氪Auto 数字时氪 未来消费 智能涌现 未来城市 启动Power on 36氪出海 36氪研究院 潮生TIDE 36氪企服点评 36氪财经 职场bonus 36碳 后浪研究所 暗涌Waves 硬氪 氪睿研究院 媒体品牌 企业号 企服点评 36Kr研究院 36Kr创新咨询 企业服务 核心服务 城市之窗 政府服务 创投发布 LP源计划 VClub VClub投资机构库 投资机构职位推介 投资人认证 投资人服务 寻求报道 36氪Pro 创投氪堂 企业入驻 创业者服务 创投平台 AI测评网 首页 快讯 资讯 推荐 财经 AI 自助报道 广东 最新 创投 汽车 科技 专精特新 直播 视频 专题 活动 马斯克称低估Anthropic，表示不会因竞争切断其支持 下一篇 36氪获悉，银河证券认为，PPI年内高点或将临近，价格传导仍待修复：预计7月PPI极有可能为PPI同比读数的阶段性高点。一方面，当前原油价格已经接近冲突前水平，尽管仍受美伊局势扰动而反复，但若未出现原油供给和运输通道的实质性中断，地缘风险溢价对油价的支撑或更多表现为短期脉冲，石化产业链对PPI的拉动将边际减弱，甚至转为拖累。另一方面,PPI-CPI的剪刀差仍在扩大，反映上游涨价向下游终端传导不畅。本轮价格上行更多集中在成本端和部分景气行业，终端需求承接能力仍然不足，企业向居民消费端转嫁成本的能力有限，制约工业品价格的上行动能。 1小时前 一夜之间，GPT-5.6 来了，Codex 没了，Claude 急了 8点1氪丨老乡鸡五年五次冲击上市失败；两款燃油车重回销量榜前十；长鑫科技披露招股意向书，预计7月16日发行 城市合作 寻求报道 我要入驻 投资者关系 商务合作 关于我们 联系我们 加入我们 36氪欧洲站 36氪欧洲站 36氪欧洲站 Ai产品日报 热门资讯 热门产品 文章标签 快讯标签 推送和解读前沿、有料的科技创投资讯 一级市场金融信息和系统服务提供商 聚焦全球优秀创业者，项目融资率接近97%，领跑行业",
+            "content_source": "page"
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "马斯克称低估Anthropic，并表示不会因竞争切断其支持。",
+            "why_important": "Anthropic被主要AI竞争者公开认可，强化Claude系模型在企业AI市场的心智；若其计算资源依赖属实，供应链稳定性也值得关注。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 8,
+              "core_relevance": 6,
+              "big_tech_strategy": 7,
+              "capital_signal": 3,
+              "product_signal": 6,
+              "competitive_impact": 6
+            }
+          },
+          "score": {
+            "trend_impact": 8,
+            "core_relevance": 6,
+            "big_tech_strategy": 7,
+            "capital_signal": 3,
+            "product_signal": 6,
+            "competitive_impact": 6,
+            "content_value": 36,
+            "source_weight": 90,
+            "competitor_relevance": 10,
+            "total": 42,
+            "level": "收录备选"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_2d09f5c413b77c30e402",
+          "fingerprint": "2d09f5c413b77c30e402",
+          "primary": {
+            "id": "e42278336065c76339ec4555",
+            "title": "长鑫科技7月16日新股申购；SK海力士获逾七倍超额认购 | 科股快报",
+            "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA%3D%3D&idx=3&mid=2661075856&sn=b8e8d9c2b3d4dba7ed7fd9f361d2d2a8",
+            "source_name": "公众号：钛媒体",
+            "source_type": "media",
+            "source_tier": "authoritative",
+            "published_at": "2026-07-09T04:37:00Z",
+            "summary": "钛度要点：美军对伊朗发动新一轮打击；商务部等9部门：支持符合条件的新型优质零售企业上市；贝恩资本高位清仓闪存芯片厂商铠侠……‍",
+            "category": "capital",
+            "discovered_via": "BestBlogs WeChat2RSS",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": null,
+            "content": "钛媒体 2026-07-09 12:37 北京 钛度要点：美军对伊朗发动新一轮打击；商务部等9部门：支持符合条件的新型优质零售企业上市；贝恩资本高位清仓闪存芯片厂商铠侠……‍ 图源：pexels 7月 9日 美军对伊朗发动新一轮打击； 商务部等9部门：支持符合条件的新型优质零售企业上市； 贝恩资本高位清仓闪存芯片厂商铠侠 ……‍ 公司市场要闻 【北方铜业：近期网上有关公司压延铜箔产品通过了英伟达兼容性测试的消息不属实】 钛媒体App 7月9日消息，北方铜业在互动平台表示，压延铜箔作为下游电子产品的原材料，到手机终端产品或AI应用基站，还需经多道加工环节。公司压延铜箔的下游客户反馈其在华为、三星等产品上有应用，但截止目前，华为、三星并未到公司进行认证。近期网上有关公司压延铜箔产品通过了英伟达兼容性测试的消息不属实，公司暂未接到相关铜箔产品应用于英伟达的消息。（科股宝播报） 【阶跃星辰将发布AI智能体手机】 钛媒体App 7月9日消息，阶跃星辰即将发布AI终端品牌、智能体系统及其首款AI智能体手机。此前，OpenAI已公开押注新一代AI终端，计划2027年上市。阶跃星辰本次抢先落地AI智能体手机，成为全球大模型厂商中率先迈出这一步的玩家。 (科创板日报） 【商务部等9部门：支持符合条件的新型优质零售企业上市】 钛媒体App 7月9日消息，商务部等9部门印发关于加快零售业创新发展的意见。其中提到，提供融资支持。支持符合条件的新型优质零售企业上市。支持符合条件的零售经营主体发行资产支持型证券和商业不动产投资信托基金。支持金融机构出台适合零售业特点的行业授信政策。推动符合条件的零售经营主体享受服务业经营主体贷款贴息政策。支持符合条件的百货商场、购物中心、社区商业、农贸市场等消费基础设施项目发行基础设施领域不动产投资信托基金。在依法合规、风险可控前提下，加大对设施设备节能降碳和数字化改造的金融支持。（商务部网站） 【OpenAI推出GPT-Live语音模型】 钛媒体App 7月9日消息，OpenAI推出了GPT-Live，这是基于全双工架构的新一代语音模型，可以同时进行聆听和说话。OpenAI将推出两个版本的GPT-Live，即GPT-Live-1和GPT-Live-1 mini。（广角观察） 【SpaceXAI联手Cursor发布Grok 4.5，面向编程与智能体任务】 钛媒体App 7月9日消息，SpaceXAI正式发布Grok 4.5大模型，这是其首个专门针对编程和智能体任务训练的模型，由SpaceXAI与AI编程公司Cursor联合训练，使用数万台英伟达GB300 GPU。模型在关键基准测试中全面超越Opus 4.8，运行速度达80 TPS，Token效率为竞品两倍，单次任务步骤减半。其服务定价为输入每百万Token 2美元、输出每百万Token 6美元，不到同类模型一半。马斯克称其为\"Opus级模型\"。（广角观察） 【贝恩资本高位清仓闪存芯片厂商铠侠】 钛媒体App 7月9日消息，据报道，贝恩资本已卖出其所持闪存芯片制造商铠侠的全部股份。“我们不再持有任何铠侠股份，”贝恩的管理合伙人David Gross在接受采访时表示。得益于全球人工智能投资热潮，铠侠股价自其上市以来上涨了超过4000%，使得这家芯片制造商成为日本市值最高的公司之一，贝恩也获得了创纪录的回报。“这对所有相关利益方来说都非常成功，”Gross说。在贝恩资本清仓前，其截至6月中旬的持股比例已从去年12月的约44%降至约14%。（广角观察） 【智谱：拟折价13%配股，募资逾314亿港元】 钛媒体App 7月9日消息，智谱在港交所公告，拟以每股1588港元配售最多1978万股新H股，较昨日收市价1825港元折让约12.99%。此次配售股份占已发行股份约4.44%，所得款项总额约314.11亿港元。配售代理将尽最大努力促使不少于6名承配人认购。（公司公告） 【长鑫科技披露招股意向书，7月16日开启新股申购】 钛媒体App 7月9日消息，长鑫科技7月9日披露科创板上市招股意向书，7月16日开启新股申购。据披露，公司本次拟初始公开发行股票66.88亿股，发行股份占公司发行后总股本的比例约为10.00%（超额配售选择权行使前）；发行初始战略配售发行数量为33.44亿股，占初始发行数量的50.00%。（上交所官网） 【美军对伊朗发动新一轮打击】 钛媒体App 7月9日消息，当地时间7月8日获悉，一名美国官员表示，美国军方正在对伊朗发动最新一轮打击。美军中央司令部随后证实已开始对伊朗实施更多打击。有消息称，本轮打击预计将比7日实施的打击规模更大。 当天早些时候，美国总统特朗普在土耳其参加北约峰会期间说，他对伊朗很不高兴，美军“今晚可能”再次狠狠打击伊朗，还可能会对伊朗重新实施海上封锁。 当地时间8日深夜，伊朗锡里克、阿巴斯港和恰巴哈尔港等地传出爆炸声。 美军中央司令部7日称，美军当天对伊朗发动打击，击中超过80个目标，包括伊朗的防空系统、指挥控制网络、海岸雷达站点、反舰导弹能力，以及超过60艘伊朗伊斯兰革命卫队小型快艇。（央视新闻） 【SK海力士美国IPO据悉获得逾七倍的超额认购】 钛媒体App 7月9日消息，据报道，知情人士表示，SK海力士美国IPO获得逾七倍的超额认购。这家韩国存储芯片制造商计划于周四定价。部分知情人士表示，此次发行1.779亿份美国存托凭证（ADR）吸引了全球多头基金、专注科技领域的基金、主权财富基金以及专注亚洲市场的全球投资者的认购。 报道称，根据SK海力士此前向美国证券交易委员会提交的文件，每份ADR代表十分之一股普通股。据计算，基于该公司韩国上市股票周三收盘价为每股207.6万韩元（1,380美元），此次美国IPO融资规模约为245亿美元。知情人士表示，相关磋商仍在进行中，美国上市方案细节可能调整。（广角观察） 股市行情 【港股午评：恒指冲高回落跌0.78%，科技金融股普跌】 钛媒体App 7月9日消息，港股指数冲高回落，恒生指数、国企指数分别下跌0.78%及0.9%，恒生科技指数跌0.06%，盘中曾大涨超2%。昨日大幅上涨的权重科技股多数转跌，美团、百度跌超2%，腾讯跌超1%，小米、京东飘绿，阿里巴巴仍继续上涨；中东地缘政治再度升级，黄金股、航空股等相关板块重挫，内房股、保险股、内银股普跌。另外，半导体芯片股、光通讯概念股维持活跃。（科股宝播报） 【A股午评：沪指跌0.46%，油气股多数走高】 钛媒体App 7月9日消息， A股三大指数早盘涨跌不一，截至午间收盘，沪指跌0.46%报3952.49点，深证成指跌0.35%，创业板指涨0.13%，北证50跌1.79%，科创50指数涨3.19%。全市场成交额17085亿元，较上日缩量70亿元，全市场超4600只个股下跌。盘面上，中东战事再度升级推动国际油价8日显著上涨，油气股多数走高，通源石油20cm涨停，潜能恒信、ST洲际跟随上涨。长鑫科技7月16日将启动申购，国产算力、半导体方向集体上扬，上海合晶、华天科技收获涨停，沐曦股份、有研硅、摩尔线程涨幅居前。另一方面，锂矿，电池等新能源产业链继续下跌，盛新锂能、融捷股份、天赐材料、德新科技、龙蟠科技盘中纷纷跌停。各类金属股同样表现不佳，北方稀土、中矿资源、中稀有色领跌。此外，电网设备、人形机器人、培育钻石等多个板块震荡下挫。（科股宝播报） 【沐曦股份-U股价突破1000元，涨超19%】 钛媒体App 7月9日消息，沐曦股份-U股价突破1000元，涨超19%；总市值突破4000亿元创历史新高。（科股宝播报） 【韩国KOSPI指数跌幅扩大至2%，失守7100点】 钛媒体App 7月9日消息，韩国KOSPI指数跌幅扩大至2%，失守7100点；此前一度涨超4%。 【美股收评：三大指数涨跌不一，半导体、存储概念股反弹】 钛媒体App 7月9日消息，美股三大指数收盘涨跌不一，道指跌1.09%，纳指涨0.2%，标普500指数跌0.28%。热门科技股涨跌不一，博通涨近5%，英伟达涨超3%，Meta、特斯拉跌超2%，谷歌、微软跌超1%。半导体、存储概念股反弹，闪迪涨超6%，希捷科技涨近4%，西部数据、恩智浦涨超3%，阿斯麦、美光科技涨超1%。计算机硬件、油气服务板块涨幅居前，超微电脑涨超7%，马拉松原油涨超5%，昆腾涨超4%，惠普、戴尔科技涨超3%。贵金属、加密货币、旅游服务跌幅居前，美国黄金公司跌超6%，美洲白银公司、泛美白银、爱彼迎、嘉年华邮轮跌超3%。纳斯达克金龙中国指数收涨2.05%，报6101.09点。热门中概股普涨，阿里巴巴涨超11%，爱奇艺涨超5%，百度、京东涨超4%，拼多多、哔哩哔哩涨超2%。（科股宝播报） 其他要闻 【9部门支持加快零售业创新发展】 钛媒体App 7月9日消息，商务部等9部门近日印发的关于加快零售业创新发展的意见，7月9日对外发布。意见提出工作新目标，力争到2030年，基本形成布局合理、供给优质、业态多元、智慧便捷、竞争有序的现代零售体系，打造一批带动性强的零售场景，推出一批融合创新的业态模式，培育一批具有国际竞争力的零售企业。意见明确重点新任务，涵盖系统规划新布局、引领零售新供给、创造消费新需求、激发零售新动能等方面，支持做强做优做大零售企业，为零售业创新转型和高质量发展提供方向指导。（新华社） 【国家统计局：6月份居民消费价格同比上涨1.0%】 钛媒体App 7月9日消息，国家统计局数据显示 ，2026年6月份，全国居民消费价格同比上涨1.0%。其中，城市上涨1.0%，农村上涨0.8%；食品价格下降1.6%，非食品价格上涨1.5%；消费品价格上涨1.1%，服务价格上涨0.8%。1—6月平均，全国居民消费价格比上年同期上涨1.0%。6月份，全国居民消费价格环比下降0.3%。其中，城市下降0.4%，农村下降0.3%；食品价格下降0.4%，非食品价格下降0.3%；消费品价格下降0.6%，服务价格持平。（国家统计局网站）「相关链接」 为了 能够第一时间收到 推送消息 ，请大 家动动手 指，为钛 媒体点亮 “星 标” 吧 ！ 巴伦中文网不仅是信息的传递者 更是价值的联结者 加入我们，与智者同行 成为会员了解最新投资动向 我知道你 在看 哦 阅读原文 跳转微信打开",
+            "content_source": "rss"
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "钛媒体科股快报汇总AI模型、AI终端、芯片融资上市及宏观市场动态。",
+            "why_important": "其中OpenAI GPT-Live、Grok 4.5、阶跃星辰AI智能体手机等体现AI交互、编程智能体和终端化趋势；但该文为多条快讯集合，需拆分核实关键事件后再形成专项判断。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 7,
+              "core_relevance": 4,
+              "big_tech_strategy": 7,
+              "capital_signal": 8,
+              "product_signal": 6,
+              "competitive_impact": 5
+            }
+          },
+          "score": {
+            "trend_impact": 7,
+            "core_relevance": 4,
+            "big_tech_strategy": 7,
+            "capital_signal": 8,
+            "product_signal": 6,
+            "competitive_impact": 5,
+            "content_value": 37,
+            "source_weight": 90,
+            "competitor_relevance": 10,
+            "total": 42,
+            "level": "收录备选"
+          },
+          "is_material_update": true
+        }
+      ],
+      "industry_trends": [
+        "企业AI落地的竞争焦点正在从“模型能力/单点生成”转向“业务现场入口+可治理的执行闭环”。支付宝、微信、企业微信均在把AI助手嵌入高频工作与交易场景，说明客户将越来越期待在聊天、文档、表单、待办、支付/审批等原生业务上下文中直接调用AI，而不是跳转到独立对话框。对云枢而言，低代码平台的AI能力应优先围绕流程、表单、权限、审计、订单/审批确认等闭环场景设计。",
+        "Agent商业化入口正在被超级App和支付平台争夺。支付宝AIS把授权、预算、账单、风控、计费和商家经营封装成Agent基础设施，微信/企微则依托社交与协作入口沉淀上下文。未来企业应用平台的竞争不只是“能否接入模型”，而是能否提供连接器、身份权限、费用控制、调用审计、人工确认和业务结果追踪。",
+        "企业级AI治理需求明显升温。Mistral Studio把Prompt和Skill作为可版本化、可审计、可回滚的生产资产管理，叠加企业盲用AI导致合规、代码、客户服务事故的案例，表明客户采购AI应用时会更关注可追责、可校验、可灰度发布、可回滚，而非单纯生成效果。云枢可强化AI应用生命周期管理、提示词/技能资产库、权限隔离、日志审计与异常处置。",
+        "企业协作入口型AI正在形成直接竞争压力。企业微信“大圆”展示了群聊总结、文档生成、定时任务、上下文协作和敏感信息提示能力，这类能力会向流程、项目、经营数据和客户运营延展。云枢若面向企业流程与应用构建，应强调比协作入口更深的业务对象建模、跨系统流程编排、复杂审批与数据权限优势。",
+        "Agent从单轮问答走向长流程执行后，记忆系统、状态管理和任务连续性成为关键基础设施。MemOS等实践强调抽取、组织、检索、更新、共享与错误记忆治理，说明企业客户未来会要求AI能记住业务上下文，但同时支持数据隔离、版本管理、遗忘机制和冲突校验。云枢在多角色、多流程、多应用场景中可把“企业记忆层”作为平台能力沉淀。用低代码配置调用关系和权限边界，将成为差异化机会。"
+      ],
+      "capital_moves": [
+        "MiniMax完成160亿港元股权类融资，且认购覆盖达7倍，显示头部大模型公司仍能吸引长线资本与机构资金。资本继续向具备模型能力、产品化能力和商业化想象空间的AI原生公司集中，后续其在企业Agent、AI应用和多模态产品上的投入会加大，对企业AI应用平台构成更强生态与价格竞争。",
+        "智谱拟以每股1588港元配售最多1978万股新H股，募资总额约314.11亿港元。若落地，将进一步强化国内大模型头部厂商的资金弹药，说明二级/股权市场仍愿意支持AI基础模型与平台型公司扩张，资本流向依旧偏向算力、模型训练、企业级产品化和生态渠道建设。",
+        "长鑫科技披露科创板招股意向书并计划7月16日开启新股申购，贝恩资本清仓铠侠也反映AI带动的存储与半导体资产重估仍在持续。AI产业资本正在从应用层向底层算力、存储、芯片供应链外溢，国产化与高端存储供应链会继续获得市场关注。",
+        "法国对英伟达反垄断调查接近尾声，虽非融资事件，但可能影响CUDA生态绑定和英伟达对AI云公司的投资布局。若监管趋严，资本可能更关注替代GPU、国产/欧洲AI算力、推理优化和跨硬件软件栈，AI基础设施投资逻辑将从单一龙头依赖转向多元化与合规韧性。"
+      ]
+    },
+    "2026-07-09": {
+      "date": "2026-07-09",
+      "generated_at": "2026-07-09T10:07:21+08:00",
+      "top6": [
+        {
+          "id": "evt_35a00db90aab845ed22b",
+          "fingerprint": "35a00db90aab845ed22b",
+          "primary": {
+            "id": "2336abc1f3b73102280831ec",
+            "title": "DeepSeek被曝自研AI推理芯片，一年前已启动，正对接代工与存储厂商",
+            "url": "https://www.infoq.cn/article/sLYxUorQQs5K17DILrx8",
+            "source_name": "InfoQ",
+            "source_type": "media",
+            "source_tier": "authoritative",
+            "published_at": "2026-07-08T14:56:32Z",
+            "summary": "点击查看原文>",
+            "category": "industry",
+            "discovered_via": "https://www.infoq.cn/feed",
+            "competitor_names": [
+              "DeepSeek"
+            ],
+            "verified": true,
+            "raw_score": null,
+            "content": "记录自己日常工作的实践、心得 发表对生活和职场的感悟 针对感兴趣的事件发表随笔或者杂谈 从 0 到 1 详细介绍你掌握的一门语言、一个技术，或者一个兴趣、爱好 或者，就直接把你的个人博客、公众号直接搬到这里 企业动态 行业深度 AI&大模型 出海 后端 芯片&算力 架构 大数据 软件工程 云计算 大前端 管理/文化 DeepSeek 被曝自研 AI 推理芯片，一年前已启动，正对接代工与存储厂商 李冬梅 2026-07-08 北京 本文字数：2010 字 阅读完需：约 7 分钟 7 月 7 日，路透社援引三名知情人士消息称，DeepSeek 正在自主研发 AI 芯片，以减少对英伟达和华为等外部芯片供应商的依赖。与用于大模型预训练的高性能加速芯片不同，DeepSeek 此次研发的芯片主要面向推理场景，即在模型训练完成后，承担用户请求处理和内容生成等计算任务。 知情人士称，该项目目前仍处于早期阶段。DeepSeek 已经开始接触外部合作伙伴，并与芯片设计、晶圆代工和存储厂商展开讨论。其中一名消息人士透露，相关工作大约在一年前启动。 与此同时，据两名知情人士向路透社透露，DeepSeek 近几个月增加了芯片设计工程师的招聘，但相关招聘主要通过非公开渠道进行，未在公开招聘平台发布职位。 三名消息人士均因相关信息尚未公开而要求匿名。 DeepSeek 未回应路透社的置评请求。 如果项目能够推进至量产阶段，这将意味着 DeepSeek 的业务边界从大模型算法、训练框架和推理软件，进一步延伸至底层计算硬件。 但截至目前，芯片的具体架构、制程工艺、流片时间、代工合作方及计划投入规模等信息均为得到 DeepSeek 方任何回应。 为何从推理芯片入手？ 相较于训练，推理正在成为 AI 算力市场增长更快、需求更分散的部分。 训练通常发生在模型发布之前，需要在大规模计算集群中持续运行数周甚至数月，对芯片间互联、显存带宽和集群稳定性要求极高。推理则贯穿模型投入使用后的整个生命周期。用户每提出一次问题、生成一段代码或者调用一次智能体，背后都需要消耗推理算力。 随着大模型从实验室走向搜索、办公、编程和智能体等应用，行业的计算重心正在逐渐从“训练出模型”转向“低成本地运行模型”。针对特定模型和工作负载设计的专用推理芯片，可以减少部分通用功能，在吞吐量、延迟和功耗方面获得更有针对性的优化。路透社称，推理芯片通常可以比通用 GPU 成本更低、功耗更小。 对于 DeepSeek 而言，自研推理芯片还有另一层意义。 芯片与模型可以进行协同设计：模型团队可以围绕自身的混合专家架构、低精度计算方式、注意力机制和缓存策略定制硬件。芯片团队也可以根据模型的算子结构优化计算单元、存储层级和数据传输方式。 这与 DeepSeek 此前的技术路线并不完全割裂。 DeepSeek 已经开源了 DeepGEMM、DeepEP、FlashMLA 和 3FS 等面向大模型训练、通信、推理及存储的基础设施组件。向芯片层延伸，意味着其希望进一步控制从模型架构、软件栈到计算硬件的完整链路。 不过，这种软硬件协同能否转化为实际的成本和性能优势，仍取决于芯片最终的设计能力、制造工艺、存储方案以及配套软件生态。 从英伟达转向华为后，再寻求自研芯片 DeepSeek 此前同时使用过英伟达和华为芯片。 DeepSeek 曾披露，支撑其 R1 推理模型的基础模型使用英伟达 H800 训练。H800 是英伟达在美国出口限制下为中国市场推出的产品，但美国政府在 2023 年进一步收紧出口规定后，该芯片也被禁止向中国销售。 此后，DeepSeek 逐渐增加了对华为昇腾芯片的适配和使用。 路透社报道称，DeepSeek 在 2026 年 4 月发布了针对华为昇腾芯片适配的 V4 模型，华为也表示，旗下处理器参与了轻量版本 V4-Flash 的部分训练工作。 在英伟达先进 GPU 难以稳定获得的情况下，华为已经成为中国 AI 芯片市场的重要供应商。 路透社援引的数据称，在规模约 500 亿美元的中国 AI 芯片市场中，华为目前占据约一半份额。 不过，随着阿里巴巴、百度等公司持续推进自研芯片，华为在国内市场面临的竞争也在增加。 DeepSeek 进入芯片研发领域，短期内并不意味着其将完全替代英伟达或华为。 原因很简单，报道所指芯片聚焦推理而非训练，DeepSeek 仍需要外部芯片支持大规模模型训练。此外，一款芯片从架构设计、验证、流片到量产通常需要数年时间，中间还要经历良率、封装、供货和软件适配等多重考验。 但从长期看，自研芯片有望让 DeepSeek 降低对单一硬件平台的依赖，并掌握更多推理成本和产品迭代节奏的主动权。 自研芯片是所有 AI 巨头绕不开的一环 DeepSeek 并不是唯一试图自研芯片的大模型公司。 随着 AI 模型调用规模扩大，芯片成本已经成为模型公司最主要的支出项目之一。为了降低对英伟达的依赖，并针对自有模型优化推理效率，越来越多模型和云计算公司开始设计专用 AI 芯片。 路透社提到，OpenAI 已于 2026 年 6 月发布与博通合作开发的首款定制推理芯片 Jalapeño； Anthropic 也在评估自主研发 AI 芯片。 这类公司并不一定亲自建立晶圆厂。更常见的模式是由模型公司定义芯片架构和需求，与专业芯片设计公司合作开发，再交由晶圆代工厂生产。通过将模型、编译器、推理框架和芯片共同优化，模型公司希望降低单次 Token 的推理成本，并获得相对稳定的算力供应。 对 DeepSeek 来说，这一需求更加迫切。一方面，美国出口管制限制了中国企业获得英伟达最先进 GPU 的渠道。另一方面，DeepSeek 以较低推理价格提供模型服务，随着用户数量和 Token 调用量增加，如何持续压低基础设施成本将直接影响其商业化能力。 参考链接： https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/ https://x.com/teortaxesTex/status/2074467879248966087 促进软件开发及相关领域知识与创新的传播 关于我们 我要投稿 合作伙伴 加入我们 关注我们 联系我们 内容投稿：editors@geekbang.com 业务合作：hezuo@geekbang.com 反馈投诉：feedback@geekbang.com 加入我们：zhaopin@geekbang.com 联系电话：010-64738142 地址：北京市朝阳区望京北路9号2幢7层A701 InfoQ 近期会议 北京 · QCon 全球软件开发大会 2026.4.16-18 上海 · AICon 全球人工智能开发与应用大会 2026.6.26-27 全球 InfoQ InfoQ En InfoQ Jp InfoQ Fr InfoQ Br",
+            "content_source": "page"
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "DeepSeek被曝已启动自研AI推理芯片，并接触代工和存储合作方。",
+            "why_important": "若属实，模型公司正向算力底座延伸以降低推理成本和供应依赖；会影响国内大模型服务成本曲线和企业AI应用生态，但项目仍早期且未获官方确认。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 9,
+              "core_relevance": 7,
+              "big_tech_strategy": 9,
+              "capital_signal": 6,
+              "product_signal": 4,
+              "competitive_impact": 8
+            }
+          },
+          "score": {
+            "trend_impact": 9,
+            "core_relevance": 7,
+            "big_tech_strategy": 9,
+            "capital_signal": 6,
+            "product_signal": 4,
+            "competitive_impact": 8,
+            "content_value": 43,
+            "source_weight": 90,
+            "competitor_relevance": 20,
+            "total": 48,
+            "level": "收录备选"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_bfe09fdbaca82b62eda2",
+          "fingerprint": "bfe09fdbaca82b62eda2",
+          "primary": {
+            "id": "b421e3fc7ef7527dd4d4f2c1",
+            "title": "36氪首发 | 物理AI公司获晶科能源、国投创新等数亿融资，要做全球能源基础设施“大脑”",
+            "url": "https://36kr.com/p/3887726503688968?f=rss",
+            "source_name": "36氪",
+            "source_type": "media",
+            "source_tier": "authoritative",
+            "published_at": "2026-07-09T01:20:08Z",
+            "summary": "图源/企业 本文约 2200 字，建议阅读 6 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，物理AI企业深度智控（DeepCtrls）近期完成数亿元人民币B轮融资。本轮融资由晶科能源战略投资，国投创新、招银国际联合领投，红杉中国、源码资本、光远资本、招商局创投等老股东持续跟投。 本轮资金将主要用于核心物理AI算法与产品线的持续研发、标准化产品DeepBot的规模化拓展，以及东南亚、中东、欧美等海外市场的进一步布局，持续夯实“物理AI全球能源基础设施重塑者”的技术与市场底座。 深度智控（DeepCtrls）基于自研“PhyAI”物理AI引擎，构建了业内独有的机电能源系统物理AI模型，将物理机理与AI深度耦合，让AI真正“理解”设备底层物理特性，从根源上解决工业AI“黑箱不可信”的行业痛点，使AI具备可解释、可追溯、可迁移等能力。 “相比大多数仍停留在‘诊断建议系统’阶段的工业AI，深度智控（DeepCtrls）让AI真正理解物理世界，在真实环境中实现自主寻优、自主决策和闭环控制，已完成从市场主流的L2/L3级控制向L4/L5级AI自治的代际跨越，直击工业与智算中心领域的核心痛点。”深度智控COO张雨馨表示。 她进一步指出，以DeepSeek为代表的生成式AI，大幅提升了AI在数字世界的理解与推理能力；DeepCtrls所深耕的物理AI，则聚焦AI在真实物理世界的自动识别、自主决策、自主优化与闭环控制，是AI产业落地的终局形态。 这并非蹭热点的命名巧合，却精准道出了AI在不同发展阶段的特点与使命——深度智控（DeepCtrls）的名字与物理AI技术路线，早在2018年公司成立之初就已确立。“DeepSeek聚焦数字世界的‘深度求索’，攻克的是大模型的逻辑推理与内容创造，让AI拥有‘思考的能力’，代表AI的上半场；DeepCtrls则聚焦物理世界的‘深度控制’，攻克的是工业能源系统的自主闭环运行，让AI拥有‘动手的能力’，开启AI下半场。二者共同构成了AI从思考推理、到实体控制的完整产业闭环。”张雨馨表示。 这一路线源于创始人李辉博士二十余年的跨领域深耕与积累。从在清华大学深耕物理模型研究，到在美国劳伦斯伯克利国家实验室从事AI与能源的交叉研究，李辉逐步形成了“物理+AI”的技术路径，也为深度智控（DeepCtrls）后续的产品研发与产业化奠定了基础。 在张雨馨看来，中国完整且复杂的工业体系，为物理AI提供了全球独有的训练与验证环境。半导体、新能源、数据中心等行业不仅系统复杂、能耗高，而且对控制精度与系统稳定性的要求也极高。这些场景既是过往技术路线难以突破的领域，也成为物理AI最早实现规模化商业闭环落地、最容易跑出技术壁垒的产业场景之一。 相比不少物理AI企业仍处于概念与试点验证阶段，深度智控（DeepCtrls）自2023年商业化以来，已连续多年保持营收翻倍增长，去年实现规模化盈利，率先跑通了物理AI的商业闭环，形成了头部客户复购、标准化产品放量、智算中心与海外市场爆发的多轮驱动结构。 据了解，深度智控（DeepCtrls）已服务超过360家头部企业客户，包括台积电、长鑫存储、中际旭创、工业富联、腾讯、字节、宁德时代等头部集团企业。海量、高复杂度场景打磨出的技术能力，也逐步形成了海外企业难以复刻的壁垒。目前，深度智控（DeepCtrls）的模型基于超过30万台设备的实时运行数据持续迭代，最终炼出的PhyAI物理AI引擎，模型泛化误差低于3%，逼近系统理论最优极限。 这种在国内超复杂场景，打磨验证成熟的产品能力，成为深度智控（DeepCtrls）拓展海外市场的核心优势。2024年，深度智控（DeepCtrls）启动全球化布局，产品快速落地东南亚、中东、北美等十余个国家和地区，2025年海外业务已直接切入海外本土高端制造与智算中心核心场景。 硬氪：海外业务核心竞争力是什么？未来全球化布局有什么规划？ 张雨馨： 一是物理AI的技术代差优势。海外绝大多数能源系统控制仍还停留在L2级专家规则阶段，我们的物理AI产品经头部客户复杂场景打磨成熟，具备自主寻优和闭环控制能力，因此在进入全球市场时具备明显的技术优势。二是海外智算中心市场需求的高速爆发，而能源与温控正成为新的增长瓶颈，这为物理AI产品带来了广阔的市场机会。未来我们会继续巩固东南亚市场，重点布局中东、北美等高价值市场，推动物理AI更深入地进入全球能源基础设施核心场景。 硬氪：行业大多数工业AI还停留在概念验证或试点阶段，深度智控是极为稀缺的实现规模化应用且盈利的物理AI企业，核心原因是什么？ 张雨馨： 核心源于物理AI的底层技术。我们构建了机电能源系统的物理AI模型，将物理机理深度融入AI，并最终实现L4/L5级自主闭环控制。一方面，物理定律打底让AI的决策过程具备可解释性、确定性与可靠性，解决了工业场景“黑箱不可信、不敢用”的落地障碍；另一方面，物理AI模型具备强泛化性，无需在每一个新场景从零积累数据与建模，可跨设备、跨系统、跨场景迁移复制，因而自然能跑通规模化商业闭环。 硬氪：未来几年公司的战略重点是什么？ 张雨馨： AI产业的发展，正在将能源问题推向前所未有的重要位置。从Deep Learning到Deep Reasoning，再到Deep Controls，AI正在经历一次从数字认知向物理闭环控制的能力跃迁。深度智控（DeepCtrls）正在做的，是让AI不仅能够理解世界，也能够安全、可靠地优化控制真实系统。 因而我们的战略将始终围绕“物理AI能源基础设施重塑者”的定位展开：第一是纵向持续深耕PhyAI物理AI引擎，实现全场景覆盖，所有产品最终实现L5级自主智能；第二是横向拓展能力与价值，从即插即用的设备端AI控制模块，到系统级优化控制，再到算电协同与源网荷储一体化的全域能源调度；第三是加速全球化布局，我们最终重塑的，是支撑全球产业与AI算力持续运行的能源基础设施。",
+            "category": "capital",
+            "discovered_via": "https://36kr.com/feed",
+            "competitor_names": [
+              "DeepSeek"
+            ],
+            "verified": true,
+            "raw_score": null,
+            "content": "36氪Auto 数字时氪 未来消费 智能涌现 未来城市 启动Power on 36氪出海 36氪研究院 潮生TIDE 36氪企服点评 36氪财经 职场bonus 36碳 后浪研究所 暗涌Waves 硬氪 氪睿研究院 媒体品牌 企业号 企服点评 36Kr研究院 36Kr创新咨询 企业服务 核心服务 城市之窗 政府服务 创投发布 LP源计划 VClub VClub投资机构库 投资机构职位推介 投资人认证 投资人服务 寻求报道 36氪Pro 创投氪堂 企业入驻 创业者服务 创投平台 AI测评网 首页 快讯 资讯 推荐 财经 AI 自助报道 广东 最新 创投 汽车 科技 专精特新 直播 视频 专题 活动 36氪首发 | 物理AI公司获晶科能源、国投创新等数亿融资，要做全球能源基础设施“大脑” 图源/企业 本文约 2200 字，建议阅读 6 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，物理AI企业深度智控（DeepCtrls）近期完成数亿元人民币B轮融资。本轮融资由晶科能源战略投资，国投创新、招银国际联合领投，红杉中国、源码资本、光远资本、招商局创投等老股东持续跟投。 本轮资金将主要用于核心物理AI算法与产品线的持续研发、标准化产品DeepBot的规模化拓展，以及东南亚、中东、欧美等海外市场的进一步布局，持续夯实“物理AI全球能源基础设施重塑者”的技术与市场底座。 深度智控（DeepCtrls）基于自研“PhyAI”物理AI引擎，构建了业内独有的机电能源系统物理AI模型，将物理机理与AI深度耦合，让AI真正“理解”设备底层物理特性，从根源上解决工业AI“黑箱不可信”的行业痛点，使AI具备可解释、可追溯、可迁移等能力。 “相比大多数仍停留在‘诊断建议系统’阶段的工业AI，深度智控（DeepCtrls）让AI真正理解物理世界，在真实环境中实现自主寻优、自主决策和闭环控制，已完成从市场主流的L2/L3级控制向L4/L5级AI自治的代际跨越，直击工业与智算中心领域的核心痛点。”深度智控COO张雨馨表示。 她进一步指出，以DeepSeek为代表的生成式AI，大幅提升了AI在数字世界的理解与推理能力；DeepCtrls所深耕的物理AI，则聚焦AI在真实物理世界的自动识别、自主决策、自主优化与闭环控制，是AI产业落地的终局形态。 这并非蹭热点的命名巧合，却精准道出了AI在不同发展阶段的特点与使命——深度智控（DeepCtrls）的名字与物理AI技术路线，早在2018年公司成立之初就已确立。“DeepSeek聚焦数字世界的‘深度求索’，攻克的是大模型的逻辑推理与内容创造，让AI拥有‘思考的能力’，代表AI的上半场；DeepCtrls则聚焦物理世界的‘深度控制’，攻克的是工业能源系统的自主闭环运行，让AI拥有‘动手的能力’，开启AI下半场。二者共同构成了AI从思考推理、到实体控制的完整产业闭环。”张雨馨表示。 这一路线源于创始人李辉博士二十余年的跨领域深耕与积累。从在清华大学深耕物理模型研究，到在美国劳伦斯伯克利国家实验室从事AI与能源的交叉研究，李辉逐步形成了“物理+AI”的技术路径，也为深度智控（DeepCtrls）后续的产品研发与产业化奠定了基础。 在张雨馨看来，中国完整且复杂的工业体系，为物理AI提供了全球独有的训练与验证环境。半导体、新能源、数据中心等行业不仅系统复杂、能耗高，而且对控制精度与系统稳定性的要求也极高。这些场景既是过往技术路线难以突破的领域，也成为物理AI最早实现规模化商业闭环落地、最容易跑出技术壁垒的产业场景之一。 相比不少物理AI企业仍处于概念与试点验证阶段，深度智控（DeepCtrls）自2023年商业化以来，已连续多年保持营收翻倍增长，去年实现规模化盈利，率先跑通了物理AI的商业闭环，形成了头部客户复购、标准化产品放量、智算中心与海外市场爆发的多轮驱动结构。 据了解，深度智控（DeepCtrls）已服务超过360家头部企业客户，包括台积电、长鑫存储、中际旭创、工业富联、腾讯、字节、宁德时代等头部集团企业。海量、高复杂度场景打磨出的技术能力，也逐步形成了海外企业难以复刻的壁垒。目前，深度智控（DeepCtrls）的模型基于超过30万台设备的实时运行数据持续迭代，最终炼出的PhyAI物理AI引擎，模型泛化误差低于3%，逼近系统理论最优极限。 这种在国内超复杂场景，打磨验证成熟的产品能力，成为深度智控（DeepCtrls）拓展海外市场的核心优势。2024年，深度智控（DeepCtrls）启动全球化布局，产品快速落地东南亚、中东、北美等十余个国家和地区，2025年海外业务已直接切入海外本土高端制造与智算中心核心场景。 硬氪：海外业务核心竞争力是什么？未来全球化布局有什么规划？ 张雨馨： 一是物理AI的技术代差优势。海外绝大多数能源系统控制仍还停留在L2级专家规则阶段，我们的物理AI产品经头部客户复杂场景打磨成熟，具备自主寻优和闭环控制能力，因此在进入全球市场时具备明显的技术优势。二是海外智算中心市场需求的高速爆发，而能源与温控正成为新的增长瓶颈，这为物理AI产品带来了广阔的市场机会。未来我们会继续巩固东南亚市场，重点布局中东、北美等高价值市场，推动物理AI更深入地进入全球能源基础设施核心场景。 硬氪：行业大多数工业AI还停留在概念验证或试点阶段，深度智控是极为稀缺的实现规模化应用且盈利的物理AI企业，核心原因是什么？ 张雨馨： 核心源于物理AI的底层技术。我们构建了机电能源系统的物理AI模型，将物理机理深度融入AI，并最终实现L4/L5级自主闭环控制。一方面，物理定律打底让AI的决策过程具备可解释性、确定性与可靠性，解决了工业场景“黑箱不可信、不敢用”的落地障碍；另一方面，物理AI模型具备强泛化性，无需在每一个新场景从零积累数据与建模，可跨设备、跨系统、跨场景迁移复制，因而自然能跑通规模化商业闭环。 硬氪：未来几年公司的战略重点是什么？ 张雨馨： AI产业的发展，正在将能源问题推向前所未有的重要位置。从Deep Learning到Deep Reasoning，再到Deep Controls，AI正在经历一次从数字认知向物理闭环控制的能力跃迁。深度智控（DeepCtrls）正在做的，是让AI不仅能够理解世界，也能够安全、可靠地优化控制真实系统。 因而我们的战略将始终围绕“物理AI能源基础设施重塑者”的定位展开：第一是纵向持续深耕PhyAI物理AI引擎，实现全场景覆盖，所有产品最终实现L5级自主智能；第二是横向拓展能力与价值，从即插即用的设备端AI控制模块，到系统级优化控制，再到算电协同与源网荷储一体化的全域能源调度；第三是加速全球化布局，我们最终重塑的，是支撑全球产业与AI算力持续运行的能源基础设施。 本文由「 欧雪 」原创出品， 转载或内容合作请点击 转载说明 ；违规转载必究。 寻求报道 本文图片来自： 采访供图 好文章，需要你的鼓励 欢迎与出海、科技相关的有趣故事 最近内容 下一篇 最好你永远都用不上。 44分钟前 城市合作 寻求报道 我要入驻 投资者关系 商务合作 关于我们 联系我们 加入我们 36氪欧洲站 36氪欧洲站 36氪欧洲站 Ai产品日报 热门资讯 热门产品 文章标签 快讯标签 推送和解读前沿、有料的科技创投资讯 一级市场金融信息和系统服务提供商 聚焦全球优秀创业者，项目融资率接近97%，领跑行业",
+            "content_source": "page"
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "深度智控完成数亿元B轮融资，主攻能源系统物理AI闭环控制。",
+            "why_important": "显示资本继续押注垂直场景AI与可解释、可闭环的工业AI；虽非云枢核心低代码/流程赛道，但其标准化产品和能源/数据中心场景验证，体现AI从建议到执行控制的落地方向。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 7,
+              "core_relevance": 3,
+              "big_tech_strategy": 3,
+              "capital_signal": 8,
+              "product_signal": 6,
+              "competitive_impact": 3
+            }
+          },
+          "score": {
+            "trend_impact": 7,
+            "core_relevance": 3,
+            "big_tech_strategy": 3,
+            "capital_signal": 8,
+            "product_signal": 6,
+            "competitive_impact": 3,
+            "content_value": 30,
+            "source_weight": 90,
+            "competitor_relevance": 55,
+            "total": 47,
+            "level": "收录备选"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_e1290e0e7c0a2b9c655a",
+          "fingerprint": "e1290e0e7c0a2b9c655a",
+          "primary": {
+            "id": "f6ba5bfd55b0a6cf3f8bf3c1",
+            "title": "可灵单飞：一份推到桌子中间的赌注",
+            "url": "https://www.tmtpost.com/8057604.html",
+            "source_name": "钛媒体",
+            "source_type": "media",
+            "source_tier": "authoritative",
+            "published_at": "2026-07-09T01:03:00Z",
+            "summary": "中国AI视频模型可灵获融资独立，场景盈利胜出。",
+            "category": "capital",
+            "discovered_via": "https://www.tmtpost.com/feed",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": null,
+            "content": "文 | 胡说成理 2026年7月2日晚间，快手在港交所公告，可灵AI完成新一轮增资，投前估值150亿美元，融资约30亿美元，投后180亿美元。腾讯参与领投，阿里云、百度同步入局，三个大玩家的资本，罕见地坐到了同一张桌上。 在此之前一个多星期，Artificial Analysis视频生成竞技场更新了7月的实时榜单。文生视频无音频榜的前四位，是阿里的HappyHorse-1.0、阿里通义的Wan 2.5、字节的Seedance 2.0、快手的可灵Kling 3.0。 榜单上压过可灵的两家，一家是四月才空降屠榜的追赶者，一家是较劲多年的同赛道竞争者。而那家在榜上排第三的公司，反而拿下了180亿美元的估值，四十多家机构一起挤了进来。 可灵的可贵之处在于，榜单上的名次，和现实中的竞争优势，并不强相关。准确的说，它们是两条不一样的路。 01 视频生成大模型这条赛道，2024年上半年还被当作美国的天下。 OpenAI在2024年2月放出Sora的demo，那条东京街头女子行走的视频，让全世界做视频生成的团队备受打击，也倍感兴奋。 两年过去，Sora在2026年3月24日正式关停。留在Artificial Analysis榜单前十、还在被人天天使用的，几乎全是中国团队做的模型。 对于这件事，浅层次的认知说是中国短视频产业的兴旺发达——抖音、快手、B站每天产出以亿计的短视频，语料量级远超单一来源的YouTube之外任何池子，这足够让中国团队的模型吃得饱。 但事实上，这个解释只对了一半。被漏掉的另一半是数据的形态——国内短视频平台上流转的每一条视频，都被完播率、点赞、评论反复筛过，这相当于用户替短视频平台完成了一次众筹式的数据标注，使得这些数据进入训练之前，已经带着一层\"人到底爱看什么\"的标注。 但这也解释不了Sora的死。Sora手里有YouTube、有Reddit、有OpenAI整套数据基建，它缺的从来不是素材。 往下一层，才是中国视频模型在工程上的进步——视频生成一次要吃掉的算力，大约是文本模型的两千倍。 这个量级下，\"先烧钱换用户、再慢慢变现\"那套互联网老打法会直接崩掉，因为单次生成很可能就是负毛利。于是谁能把每一秒生成的成本压到最低，谁才谈得上向普通用户开口收钱。 当然，视频生成的消耗也有B面——一位视频赛道头部的高管给出了这样的解释——视频模型和大语言推理模型的对算力的消耗在\"结构上是不同的\"。简单说，视频生成对于高带宽要求更低，做过推理优化之后，可以让视频模型能够把各种各样的、特别是已经较旧的算力芯片用起来。所以，放在先进算力偏紧的中国，视频生成，恰好是对底层芯片最不挑剔的那条赛道。 可把成本压到地板，也得有人源源不断来买。视频生成缺的最后一环，是场景。Sora的账本是最刺眼的反证：全盛期它一天要烧掉约1500万美元的推理成本，而它整个生命周期里从消费端收上来的钱，只有两百万美元出头。一天烧的，是它一辈子挣的七倍还多。 Sora的问题从来不在模型。它缺的是一个能养得起这种模型的地方。 但在国内，视频生成一落地，就面对着许多用户愿意扶沟的需求——短视频内容、直播电商的带货素材、短剧的工业化生产、广告营销。所以，视频模型长在快手、抖音这样的平台体内，分发是现成的，第一批客户就是平台上的商家和广告主。平台既是试验田，也是收银台。 一个信号能说明这层需求是多么的撑起了硬核生产力——视频模型的调用负载，过去一年里出现了从周末往工作日的迁移。周末调用多，说明大家拿它当消遣；工作日调用反超周末，说明它进了办公室、进了生产线。 玩具和工具的分界，就在这条曲线的翻转上。 到这里，这条赛道的胜负手已经清楚了：它由谁能把场景变成正毛利的、会重复发生的收入决定，相反却跟榜单上的分数关系不大。顺着这个判断往下看，最先把这件事跑通的那一家，恰恰是排在榜单第三的可灵。 02 可灵但看账面成绩，是在文生视频无音频榜上Elo 1244、排第四，在含音频榜上1104、排第三，账面成绩很体面，但谈不上遥遥领先领先。可就是可灵，两年里做到了ARR五亿美元、全球用户破一亿、企业客户近五万、四十多国的App Store艺术设计榜登顶，在韩国和俄罗斯一度冲到收入榜第一。 从2024年6月的1.0到2026年2月的3.0系列，再到4月补上的原生4K，可灵两年迭代了三十多次。这三十多个版本，每一版的落点都在生产流程里。客户愿意反复付钱，问题就来了：他们到底在买什么？ 买的是确定性。一段视频能不能用于交付，业内看的是四件事——可用率、返工率、交付周期、几个人能不能分工协作。 可灵的长处，落在多镜头之间人物和场景的高度一致性上，落在它和分发渠道的打通上，它把AI视频从\"生成一段素材\"往前推了一步，推成了\"能直接交付的一个内容单元\"，这是它的硬核竞争里——短剧团队、电商商家、广告公司要的是一条不返工的流水线，好看的单镜头救不了满是接缝的成片。所以，可灵的经常性收入能成立，前提就是产品占据了客户每天的工作流。 但是，仅仅谈可灵和国内视频生成需求的匹配，就会解释不了可灵财报上最扎眼的那个数字：海外收入占了约七成。 这才是可灵真正稀缺和提气的地方——国内是主场，生态红利谁都能分一杯；能在没有短视频土壤的欧美日，靠产品本身正面把钱收上来，才证明这套能力是可以搬走的，不是被国内短视频生态圈养出来的温室花朵。 所以，它的毛利率，在不计训练成本的口径下已经转正，靠的正是海外订阅那份更高的客单价。 放在中国AI出海的坐标里，可灵是另一种样本。开源的编程模型声量顶到了全球，变现却难在海外铺开；可灵反过来，榜单上声量不占绝对优势，钱倒是先一步收回了口袋。一个把名气做到了海外，一个把利润做回了本土。后一种，眼下更少见，也更稀缺，但它恰好是中国AI应该走的路——它不希望自己只是“廉价平替Token的世界工厂”。 而这次分拆也回答了上面这个问题——一门七成收入在海外、还要不断往里填算力和迭代、正面迎着谷歌Veo和Runway打的生意，如果继续装在一张\"成熟短视频平台\"的财报里，会越来越拖累快手。因此，可灵到了要重新决定自己以什么身份活着的时候。 03 7月2日的公告，市面上第一时间的说法是\"分离\"——可灵终于从快手身上挣脱出去。可把公告里的条款一条条读下来，看到的是另一幅画面。 先看三条结构：快手保留68.33%的股权，继续把可灵并进自己的报表，同时给可灵配了独立的期权池和同股不同权的架构。可灵AI事业部负责人盖坤在这次重组里拿到约3%的股权，附带十倍投票权，对应表决权比例达到23.62%。 这已经完全不是通常意义上留给核心管理层的那一份股权激励，是按一家独立AI公司的创始人的股权规格在铺路——甚至高过一些由于融资过分稀释自己股权的创始人。 真想跟一块资产撇清关系，走的应该是减持到非控股、把它移出报表那条路。但快手走的是相反的方向——上行的收益仍旧归快手股东，风险摊给一起进来的外部资本，控股权攥在自己手里。 有人会说，控股不放，也可能是外部资本一时给不到更高比例的被动结果。但这种说法，在两条条款面前有些站不住。 一条是五年竞业：重组完成后，在快手不再控股可灵、或者满五年之前，快手集团不会直接或间接去控制任何一家主营视频生成大模型的公司。另一条是回购对赌：可灵若没能在2031年10月30日之前完成IPO，投资方有权按年化8%的单利要求回购。 竞业那条，等于快手亲手关掉了自己所有的后手——视频生成这条和它主业贴得最近的赛道，未来五年它不再在体内另起炉灶，也不去投第二家、控第三家，全部身家押在可灵一个身上。 回购那条，等于连\"慢慢做、做不成也没关系\"的余地都不给自己留，五年内必须走到上市。甩包袱的做法是切干净、走远点、随它去，而这三件事快手一件都没做。 一个不给自己留后路、还给自己上了倒计时的母公司，做的是把手里的筹码全部推到桌子中间。 为什么非得用这么重的结构？ 答案藏在可灵留在快手体内时的三个不利因素。 一个是快手在二级市场被当成成熟短视频平台定价，市销率1.5，这个口径压着可灵的估值上不去。 另一个是，快手2026年的资本开支盘子约260亿元，可灵的算力要从这个盘子里分，分多了就吃掉母公司的利润。 最重要的是，快手的期权池要同时喂主站、电商、商业化好几条业务线，能匀给可灵团队的那一份，撑不住顶尖人才的胃口。 这三样，快手无法以内部组织架构调整的方式来改变——它没法只为一个事业部去改变整个资本市场对市销率的评估，也没法只给一个事业部单独发一份不跟母公司股价挂钩的期权。 因此，捆住可灵的，是\"装在一张成熟互联网公司报表里\"这件事本身，可灵自己没做错什么。相反，只有彻底独立出去，可灵才能按一家独角兽AI公司的口径去融资、按一家这样公司的成本曲线去烧钱、按这样的方式去发期权留人才。 因此，快手拿68.33%攥着这家公司的大头，用五年竞业保证它是自己在这条赛道上唯一的那张牌，用回购对赌给它钉上一个必须兑现的日子，都是“结构上分拆，前途上绑定”的明证。 所以\"拆了可灵，快手还剩什么\"这个问题，其实问反了——可灵这家公司68%仍然记在快手股东名下，未来五年整条视频生成赛道的胜负，也仍然记在快手账上。 公告出来第二天，7月3日，快手在港股高开逾6%，收盘涨了5.39%。市场对这套结构，先给了一个还算温和的答复。按接近交易的人的说法，可灵会在未来十二个月内启动赴港上市，2027年初递交申报材料。 五年，是回购对赌划下的窗口。而这条赛道对一个模型翻脸的速度是以月为单位的——HappyHorse四月里一夜登顶、Seedance六月就拿出了能直出三十秒的2.5、Sora三月说关就关。 窗口和速度之间夹着的，是这几个头部真正要打的那一仗。这一仗真正的胜负手，落在更远的地方——接下来这五年里，视频生成会不会像大语言模型那样，等来属于它自己的那个\"GPT时刻\"。 真到了那一天，可灵大概率是最后还站在桌边的人；可要是那一天迟迟不来，眼下这些榜单名次都会重新洗牌，能剩下的，是那些真正把根扎进场景里的公司，而可灵正是其中之一。 更多精彩内容，关注钛媒体微信号（ID：taimeiti），或者下载钛媒体App",
+            "content_source": "rss"
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "文章称快手可灵融资独立，视频生成竞争胜负取决于场景盈利而非榜单。",
+            "why_important": "可灵案例说明AI应用能否嵌入高频工作流、形成经常性收入，比模型排名更关键；对云枢有启发：企业AI产品应围绕流程交付、协作和可复购价值设计，而非单点能力展示。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 8,
+              "core_relevance": 5,
+              "big_tech_strategy": 8,
+              "capital_signal": 8,
+              "product_signal": 7,
+              "competitive_impact": 5
+            }
+          },
+          "score": {
+            "trend_impact": 8,
+            "core_relevance": 5,
+            "big_tech_strategy": 8,
+            "capital_signal": 8,
+            "product_signal": 7,
+            "competitive_impact": 5,
+            "content_value": 41,
+            "source_weight": 90,
+            "competitor_relevance": 10,
+            "total": 45,
+            "level": "收录备选"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_5af9a9a6889e7f2515d2",
+          "fingerprint": "5af9a9a6889e7f2515d2",
+          "primary": {
+            "id": "f01fce3e46a4530d77dadc56",
+            "title": "@好友照片就能AI二创？Meta首个自研AI生图模型引爆隐私炸弹；亚马逊拟发巨额债券；前特斯拉Optimus大牛去巴黎造40公斤机器人丨硅谷大事件",
+            "url": "https://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ%3D%3D&idx=1&mid=2651752016&sn=9ac30328b12159b43ca22a78385d0951",
+            "source_name": "公众号：雷峰网",
+            "source_type": "media",
+            "source_tier": "authoritative",
+            "published_at": "2026-07-08T04:02:00Z",
+            "summary": "英伟达发布Vera CPU，专攻AI Agent串行死穴；iOS 27 Beta 3解锁Siri跨App能力，你的车剩多少电它能查；美国半导体工人缺口2030年将达15.7万，芯片复兴遇人力瓶颈......",
+            "category": "product",
+            "discovered_via": "BestBlogs WeChat2RSS",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": null,
+            "content": "雷峰网 2026-07-08 12:02 广东 英伟达发布Vera CPU，专攻AI Agent串行死穴；iOS 27 Beta 3解锁Siri跨App能力，你的车剩多少电它能查；美国半导体工人缺口2030年将达15.7万，芯片复兴遇人力瓶颈...... 要闻提示 NEWS REMIND 1. Meta首个自研AI生图模型上线，好友照片默认拿来练手 2. 亚马逊拟发债250亿美元为AI基建输血，科技巨头融资竞赛升级 3. 英伟达发布Vera CPU，专攻AI Agent串行死穴 4. iOS 27 Beta 3解锁Siri跨App能力，你的车剩多少电它能查 5. DeepMind把手伸进古典学：AI能读懂2000年前的手稿 6. 美国半导体工人缺口2030年将达15.7万，芯片复兴遇人力瓶颈 今日头条 HEADLINE NEWS Meta首个自研AI生图模型上线，好友照片默认拿来练手 7月8日，Meta推出了一款新的图像生成人工智能模型Muse Image。这是Meta首席人工智能官 Alexandr Wang 入职一年多以来首次发布此类模型，斥资数十亿美元。 即日起Muse Image在Meta AI应用、Instagram Stories和WhatsApp上线，面向用户免费使用。用户可以使用它根据文本提示生成图像，或要求其修改现有图片。广告商也将很快能够使用该模型来创建营销素材。 然而这一功能上线已经引发用户对隐私边界的讨论。因为用户可通过@功能，调用Instagram好友的公开照片进行AI创作，尽管Meta用户可以自行选择关闭该功能，但诸多用户指出这将构成“隐私雷区”。 另外，Meta同时宣布Muse Video视频生成模型已在开发中。（Meta Blog、Bloomberg、The Verge） 硅谷资讯 Silicon Valley News 亚马逊拟发债250亿美元为AI基建输血，科技巨头融资竞赛升级 7月7日，亚马逊宣布计划通过发行美元债券募集至少250亿美元，资金将用于AI基础设施建设，包括数据中心扩张、AI芯片采购和云计算能力扩展。 这是该公司今年最大规模的融资动作，延续了亚马逊在AI领域持续大手笔投入的路线。知情人士透露最终发行规模可能根据投资者需求进一步上调。 今年头部科技企业在AI领域总资本支出预计突破7000亿美元，亚马逊的投入规模位居行业前列。债券融资成本低于股权融资，且不会稀释现有股东权益，反映出管理层对AI投资回报的信心。（Bloomberg） 英伟达发布Vera CPU，专攻AI Agent串行死穴 7月7日，英伟达正式发布Vera CPU，定位为“目前规模下最大单线程CPU”。 该芯片专为Agentic AI系统设计，当AI Agent进行推理步骤、工具调用和代码执行时，所有任务串行依赖前一步完成，CPU单线程性能成为系统吞吐能力的核心瓶颈。Vera的设计目标就是将这个“串行关卡”的单线程吞吐能力推到极限。 AI搜索引擎Perplexity已率先采用Vera CPU部署其Agentic搜索服务，成为该芯片首个公开客户。这一采用案例直接验证了Agentic AI场景对高性能CPU的结构性需求，也意味着AI基础设施的硬件需求正从“GPU为王”扩展到CPU这一常被忽视的环节。 随着AI Agent从概念走向产品化，Vera CPU的发布标志着CPU性能重新成为AI基础设施的关键变量。英伟达此举同时向外界释放信号：公司不仅在GPU领域保持统治地位，在CPU赛道也正在发力，进一步补全其“AI全栈硬件”版图。（NVIDIA Blog） iOS 27 Beta 3解锁Siri跨App能力，你的车剩多少电它能查 7月7日，Apple推送的iOS 27第三个开发者测试版中，Siri AI新增调取第三方应用内数据的能力。目前已可读取电动汽车App中的车辆剩余电量，福特等品牌App已支持该功能，但Tesla官方App暂未接入。Siri访问第三方数据前会主动申请权限，所有数据处理均在设备端完成，不上传云端。 这一更新是Siri从“语音命令工具”向“AI个人助理”转型的关键一步。此前Siri只能访问Apple原生应用数据，调取第三方数据能力的加入意味着Siri可以回答\"我的车还剩多少电\"这类跨应用问题，大幅提升日常实用性。 Apple采用了“用户显式授权+端侧处理”的隐私优先方案。这种设计正成为Apple与Google Assistant和Amazon Alexa差异化竞争的核心武器。该功能目前仅在开发者测试版中可用，正式版预计随iOS 27在今年秋季推送。（9to5Mac） 前特斯拉Optimus科学家在巴黎造人形机器人，仅重40公斤 7月7日，曾在特斯拉参与Optimus人形机器人项目的法国科学家Rémi Cadène公布其创业项目——巴黎初创公司UMA的首款人形机器人Northstar，定位轻量化路线，整机仅重40公斤，目标场景涵盖制造工厂、物流仓库和家庭服务，直接对标Tesla Optimus和Figure。 Cadène此前不仅在特斯拉Optimus团队积累了纯视觉感知、端到端控制和大规模生产工程化经验，还曾在AI开源社区Hugging Face主导开发了开源机器人项目LeRobot。Northstar搭载UMA自研的“Real-Time Learning”实时学习架构，于7月7日Machina Summit上首次公开亮相，目前瞄准欧洲市场。 从行业角度看，特斯拉Optimus团队的人才正在系统性外溢，成为全球人形机器人行业的“黄埔军校”。Cadène选择巴黎而非硅谷创业，既反映出欧洲在AI硬件领域的后发潜力，也意味着特斯拉在该领域的先发优势正在被人才流动稀释。这一趋势将加速人形机器人行业技术扩散。（Bloomberg, Electrek, WebProNews） Tesla 2025 Impact Report揭示AI全生态，Cybercab涂装缩短至数分钟 7月7日，Tesla发布2025 Impact Report，首次系统性展示AI如何贯穿其能源、交通和制造三大业务线。报告核心信息是“AI让我们的产品用更少的资源做更多的事”——从太阳能存储到电动汽车再到人形机器人，AI正成为Tesla全产品线的底层驱动引擎。 同日披露的Cybercab新RIM（反应注射成型）工艺尤为引人注目。该工艺将车身涂装周期从传统的数小时大幅压缩至数分钟，同时减少35%的碳排放。这项制造工艺突破直接服务于Cybercab的量产计划，为Tesla在Robotaxi赛道建立制造成本壁垒。 Impact Report显示Tesla已不再是一家单纯的“车厂”。AI正在将能源（太阳能+Powerwall）、交通（EV+FSD）和制造（Cybercab新工艺）整合为一个完整的产品生态系统。对Waymo等自动驾驶竞争对手而言，Tesla在制造端的成本优势可能比自动驾驶技术本身的领先更具杀伤力。（X @Tesla） DeepMind把手伸进古典学：AI现在能读懂2000年前的手稿了 7月7日，Google DeepMind发布Antigravity，将Gemini模型与专家模型Aeneas和Ithaca直接对接，让历史学家可以用自然语言（英语）分析和研究古希腊和拉丁文手稿。这是AI首次系统性进入人文研究领域，此前DeepMind的突破更多集中在AlphaFold（生物科学）和GraphCast（气象科学）等自然科学方向。 Antigravity采用分层架构：底层Gemini负责自然语言理解和任务调度，上层Aeneas和Ithaca负责古文字文本分析和年代推断。历史学家只需用英语描述研究问题，系统即可自动完成文本比对、翻译和年代判定等工作，将此前需要深厚专业训练的研究门槛大幅降低。 这种“通用模型+专业模型”的架构范式，可能成为AI在垂直行业落地的通用路径。在医学、法律、考古等高度专业化领域，通用大模型本身难以达到专家水准，但通过对接领域专用模型，可以实现“通才调度+专才执行”的协同效应。（X @GoogleDeepMind, antigravity） Anthropic将Claude Cowork扩展至移动端和Web，AI协作走出桌面 Anthropic正在将Claude Cowork扩展到移动端和Web平台，用户可直接在手机和浏览器上使用AI协作工作流。 此前Claude Cowork仅在桌面端可用，移动化将显著扩大其使用场景和用户覆盖面，让AI Agent协作在碎片化场景中也能持续进行。 在OpenAI和Google纷纷布局Agent产品的背景下，Anthropic选择从协作工作流切入，强调AI作为“协同者”而非“替代者”的定位，这一差异化策略在移动端扩展后将获得更多验证场景。（The Verge） 美国半导体工人缺口2030年将达15.7万，芯片复兴遇人力瓶颈 一份行业报告显示，美国半导体行业面临严峻的高技能工人短缺，预计到2030年熟练劳动力缺口将达到15.7万名全职工人。德克萨斯州、加利福尼亚州、亚利桑那州、纽约州和俄亥俄州等芯片制造重镇缺口最为严重，可能延缓美国各地新建半导体工厂的建设进度。 这一人才短缺直接威胁到美国《芯片与科学法案》引导下的半导体制造复兴计划。台积电亚利桑那工厂、三星德州工厂、英特尔俄亥俄工厂等项目均面临招募和培训合格工人的挑战。报告建议扩大半导体课程设置、增加政府资金支持并提前向学生推广芯片行业职业路径。 从全球竞争角度看，美国半导体人才短缺可能加速部分产能向亚洲回流。台积电在日本和欧洲的建厂计划已展现出更高效的本地人才匹配能力。劳动力供给正在成为继资金和政策之后，半导体制造本土化的第三道实质性壁垒。（Bloomberg） 今日热门视频 // 近期热门文章 华为智驾史前史（2015-2019）：在加拿大、海思和2012实验室之间 Kimi办公室，藏着哪些江湖大佬的传说？ 桌面CNC元年：资本疯抢「小拓竹」，五轴是风口还是伪命题？ 阅读原文 跳转微信打开",
+            "content_source": "rss"
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "Meta推自研生图模型，亚马逊拟发债投AI基建，英伟达发布面向Agent的Vera CPU。",
+            "why_important": "多条信息显示AI竞争从模型扩展到Agent、算力和应用入口；其中Vera CPU与Agent串行任务优化、Siri跨App能力对企业AI工作流形态有参考价值。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 5,
+              "core_relevance": 3,
+              "big_tech_strategy": 5,
+              "capital_signal": 5,
+              "product_signal": 4,
+              "competitive_impact": 3
+            }
+          },
+          "score": {
+            "trend_impact": 5,
+            "core_relevance": 3,
+            "big_tech_strategy": 5,
+            "capital_signal": 5,
+            "product_signal": 4,
+            "competitive_impact": 3,
+            "content_value": 25,
+            "source_weight": 90,
+            "competitor_relevance": 35,
+            "total": 40,
+            "level": "收录备选"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_07179e847824cb5f85ae",
+          "fingerprint": "07179e847824cb5f85ae",
+          "primary": {
+            "id": "68b92c42e6c6ed84d4af3cf5",
+            "title": "Cube Sandbox正式支持Arm架构！腾讯云与Arm联手解锁Agent多架构算力",
+            "url": "https://www.infoq.cn/article/c4GEoZLWvNZQhSSSWAoH",
+            "source_name": "InfoQ",
+            "source_type": "media",
+            "source_tier": "authoritative",
+            "published_at": "2026-07-08T16:00:00Z",
+            "summary": "点击查看原文>",
+            "category": "industry",
+            "discovered_via": "https://www.infoq.cn/feed",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": null,
+            "content": "记录自己日常工作的实践、心得 发表对生活和职场的感悟 针对感兴趣的事件发表随笔或者杂谈 从 0 到 1 详细介绍你掌握的一门语言、一个技术，或者一个兴趣、爱好 或者，就直接把你的个人博客、公众号直接搬到这里 企业动态 行业深度 AI&大模型 出海 后端 芯片&算力 架构 大数据 软件工程 云计算 大前端 管理/文化 Cube Sandbox 正式支持 Arm 架构！腾讯云与 Arm 联手解锁 Agent 多架构算力 四月 2026-07-08 北京 本文字数：3547 字 阅读完需：约 12 分钟 7 月 3 日，由腾讯云开源的 AI Agent 安全沙箱 Cube Sandbox v0.5.0 正式发布。 作为专为 LLM 应用设计的硬件级隔离运行底座，v0.5.0 此次面向生产环境进行了关键升级，围绕“稳、省、广”补齐了多项能力；其中，Arm 架构原生支持作为核心特性之一，已在 Arm 工程团队的重点投入下合入开源主线。（V0.5.0 详情可见： Cube v0.5.0发布：自动暂停· Arm 支持·一键集群部署，把沙箱送进生产 ）开发者现在可以在 AArch64 服务器上，实现从原生构建、部署、启动到运行典型沙箱负载的完整流程。 据悉，为打通从底层构建到运行时的关键路径，腾讯云 IaaS 前沿技术团队与 Arm 工程团队开展了为期数月的深度联合研发，重点攻克 AArch64 构建、Guest Kernel、运行环境及部署链路等关键目标。 随着算力供给加速迈向“x86 + Arm”多架构并存，行业亟需 Agent 运行底座突破传统架构边界。v0.5.0 将沙箱的核心隔离能力扩展至 Arm 生态，不仅是生产级交付能力的提升，更为横跨云、边、端多元异构场景下的 Agent 提供了可靠、灵活的运行支撑。 一、当算力平台走向异构 如果将\"AI Agent 大规模上生产\"视为对底层基建能力的一次大考，你会发现有两个变量正以肉眼可见的速度发生演变。 首先是负载侧。 当前的 Agent 已不再是简单的一次性脚本，而是演变为数十、数百次串行或并发的工具调用。每一次调用都意味着一次沙箱的启停、一段隔离的运行以及一次结果的回收。它对底层基础设施提出了极致需求：既要有 极高的算力密度 ，又要有 极快的弹性响应。 其次是基础设施侧。 AI 时代的算力供给正快速从单一架构走向“x86 + Arm”双轨并行。凭借 Arm Neoverse 平台在云端 AI 工作负载方面的能效和性能优势，Arm 架构正在获得行业的广泛采用。随着 Amazon Graviton、Google Cloud Axion、Microsoft Azure Cobalt 等 Arm 计算平台持续扩展，以及诸多国产 Arm 处理器快速落地部署，Arm 生态正加速发展。 “AI 跑在 Arm 上” 已从尝鲜话题转变为 真实的预算投入 。 把这两个变量叠加在一起看，结论是清晰的：Agent 沙箱不能局限于 x86，它必须在多架构服务器环境中补齐部署能力。更进一步，它不应止步于在 Arm 上“跑通”，更要在这一平台上跑出 与 x86 同等量级、甚至更优 的性能表现。 这正是 Cube 团队与 Arm 工程团队联合研发的起点。 二、从“能跑”到“原生” 从 Arm 工程团队最初介入，到代码正式合入主仓库，这场联合研发历时数月。真正推动项目从“能跑”迈向“能用”的，是最后阶段的高强度打磨——仅本轮合入主线的改动，便历经二十余次提交。 这一版的交付核心在于：Cube Sandbox 已具备在 AArch64 平台上 原生部署、编译、启动和运行典型沙箱工作负载 的全链路能力，项目正式进入落地阶段。具体而言，此次更新深入到了四个关键层面： 一是原生编译与构建。 团队清理了散落在构建脚本、Dockerfile 及组件中的 x86/amd64 默认假设，让系统能根据目标架构正确构建与输出。为降低开发门槛，团队还特别优化了构建链路，将 Guest 内核构建配置为支持跨架构交叉编译的独立目标。也就是说，开发者在 x86 机器上就能产出 Arm 内核镜像，无需依赖 Arm 架构设备也能轻松上手。 二是原生生态的部署。 为了适配多元算力环境，团队打通了从部署包生成到沙箱拉起的完整链路。通过优化构建工具链，开发者现在仅需一条 docker buildx 命令，即可同时产出兼容 x86 与 Arm 的多架构镜像，让 Cube Sandbox 能够无缝融入现有的 CI/CD 流程。 三是平滑启动。 针对 Arm 与 x86 在底层架构上的差异，团队重构了引导路径与 I/O 逻辑。通过引入 UEFI 固件替代传统的 SeaBIOS，以及对 Hypervisor 层进行深度适配，确保了沙箱在 Arm 服务器上能够像在 x86 上一样快速、稳定地启动。 四是原生程度的高效运行。 双方团队跳出了传统 CPU benchmark 的视角，转而聚焦 Agent 生产环境真正关心的指标：包括优化冷启动、Snapshot 创建与回滚、高并发创建以及单机部署密度等关键能力，确保 Cube Sandbox 在 Arm 架构下不仅能“跑起来”，更能“跑得快”、“跑得稳”。 如果说“能跑”是门槛，那么“能用”才是交付给开发者的入场券。这一步的跨越，意味着开发者已能将 Cube Sandbox 真正融入生产工作流。 三、 如何实现跨架构 这条链路之所以极具挑战，在于 Cube Sandbox 要迁移的并非一个普通应用，而是一套面向 AI Agent 的沙箱运行体系。它既涉及外部构建和镜像产物，也涉及沙箱内部的 Guest Kernel、Guest Agent，以及更底层的虚拟化和安全隔离能力。 为了在“Agent 原生指标”上拿到极致的结果，双方团队重点解决了以下关键的技术难题： 首先， 消除对 x86 架构的依赖与硬编码假设。 很多基建项目在长期演进中，都会把 x86 当成默认环境。Cube Sandbox 迁移的第一步，就是拆解构建脚本、Dockerfile 及组件中硬编码的 x86_64/amd64 设定。这不仅包括让 Go 组件的编译目标自动跟随宿主架构，还包括为网络模块的字节码生成逻辑补齐 AArch64 专属编译头文件，让项目真正具备跨架构构建与多架构输出的能力。 其次， 跨越 Hypervisor 的底层架构鸿沟。 这是本次适配中最复杂的部分，涉及 I/O 系统、引导路径和安全机制的全面重构： I/O 系统的架构跨越： 将 Guest 对 Host 的控制通知通道从原来的 PIO（Programmed I/O）改写为了 MMIO（Memory Mapped I/O），以适配 Arm 架构特性； 引导路径重构： x86 机器依靠轻量化 SeaBIOS 启动，而针对 Arm 架构，团队改造了启动逻辑，现在可以正常使用 UEFI 固件开机； Seccomp 沙盒对齐： 针对 x86 与 AArch64 的系统调用号差异，重写了过滤规则，确保安全隔离机制在多架构环境下依然有效。 最后， 重新验证虚拟化与安全链路。 Cube Sandbox 的核心价值是为 Agent 提供硬件级隔离，这背后依赖 KVM、Hypervisor 等底层能力。单纯的编译通过并不够，本轮改动横跨虚拟化层、网络模块与构建工具链等多个子系统。 在双方团队的多轮交叉审查过程中，还发现并修正了一处导致基础库路径失效的隐蔽 Bug。这种对底层细节的反复校准，为系统在多架构环境下的稳定运行提供了保障。 这也是 Arm 工程团队深度介入的原因。它并未止步于代码合入，而是聚焦在 AArch64 环境中建立一条可启动、可通信、可验证的兼容性链路，确保 Cube 在异构平台上也能获得与原生环境一致的确定性与稳定性。 四、部署过程 环境 ：AArch64 架构的 Linux 服务器（支持虚拟化特性的物理机） 操作系统 ：推荐 OpenCloudOS 9（内核 6.6） 需在 root 用户下运行+ Docker 已运行 ⚠️ 注意 ：Arm 上暂不支持 PVM 嵌套虚拟化，请使用原生 KVM 的物理机/裸金属（云 VM 需已开启 Arm Nested Virt）。 Step 1：下载并安装 # 1. 下载 ARM64 one-click 包 wget https://github.com/TencentCloud/CubeSandbox/releases/download/v0.5.0/cube-sandbox-one-click-v0.5.0-arm64.tar.gz\u0005 # 国内用户可使用\u0005如下地址： wget https://cnb.cool/CubeSandbox/CubeSandbox/-/releases/download/v0.5.0/cube-sandbox-one-click-v0.5.0-arm64.tar.gz # 2. 解压并安装 tar -xzf cube-sandbox-one-click-v0.5.0-arm64.tar.gz cd cube-sandbox-one-click-v0.5.0-arm64 # 3. 生成配置文件（大多数场景用默认值即可） cp env.example .env # 如果 eth0 不是主网卡，编辑 .env 显式指定 IP： # CUBE_SANDBOX_NODE_IP= # 如果默认 CIDR 192.168.0.0/18 与本机网络冲突，同步改： # CUBE_SANDBOX_NETWORK_CIDR= # 4. 一键安装 sudo ./install.sh Step 2：部署验证 &环境变量设置 # 健康检查 sudo ./smoke.sh # 在客户端设置 4 个环境变量（本机测试可全跑在同一台上） export CUBE_TEMPLATE_ID = export E2B_API_URL = http:// :3000 export E2B_API_KEY = e2b_000000 # 本地任意字符串即可 export SSL_CERT_FILE = /root/.local/share/mkcert/rootCA.pem Step 3：拉起第一个沙箱 # 用 e2b-code-interpreter SDK 拉起第一个 ARM 沙箱 import os\u0005 from e2b_code_interpreter import Sandbox with Sandbox.create ( template = os.environ [ \"CUBE_TEMPLATE_ID\" ]) as sbx: print ( sbx.run_code ( \"import platform; print(platform.machine())\" )) # 预期输出：aarch64 更完整的配置项、部署流程和详细说明，参考官方文档→ https://cubesandbox.com/zh/guide/self-build-deploy.html 五、结语 回到工程本身，Cube Sandbox v0.5.0 的关键并不只是“支持 Arm”，而是把 Agent 沙箱在 AArch64 环境中必须跨过的几道门槛逐一补齐，让 Arm 架构不再只是 Cube Sandbox 的一个兼容目标，而开始成为 Agent 安全执行环境中可构建、可启动、可验证的真实运行选项。 对于正在 Arm 服务器上构建 AI Agent 工作流、Agentic RL 训练平台或代码执行服务的团队来说，当前版本已经提供了一个可用起点。后续，随着冷启动、快照回滚、并发创建和部署密度等指标继续优化，Cube Sandbox 在异构算力场景中的生产价值也会进一步释放。 项目代码已在 GitHub 开源，欢迎查看代码、提交 Issue 或通过 PR 参与共建。 GitHub 仓库： https://github.com/TencentCloud/CubeSandbox 促进软件开发及相关领域知识与创新的传播 关于我们 我要投稿 合作伙伴 加入我们 关注我们 联系我们 内容投稿：editors@geekbang.com 业务合作：hezuo@geekbang.com 反馈投诉：feedback@geekbang.com 加入我们：zhaopin@geekbang.com 联系电话：010-64738142 地址：北京市朝阳区望京北路9号2幢7层A701 InfoQ 近期会议 北京 · QCon 全球软件开发大会 2026.4.16-18 上海 · AICon 全球人工智能开发与应用大会 2026.6.26-27 全球 InfoQ InfoQ En InfoQ Jp InfoQ Fr InfoQ Br",
+            "content_source": "page"
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "腾讯云Cube Sandbox v0.5.0支持Arm架构，强化Agent安全沙箱多架构部署。",
+            "why_important": "Agent生产化需要安全隔离、弹性启停和异构算力适配；腾讯云在Agent基础设施层推进，云枢需关注企业Agent运行底座能力差距。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 4,
+              "core_relevance": 4,
+              "big_tech_strategy": 4,
+              "capital_signal": 2,
+              "product_signal": 5,
+              "competitive_impact": 4
+            }
+          },
+          "score": {
+            "trend_impact": 4,
+            "core_relevance": 4,
+            "big_tech_strategy": 4,
+            "capital_signal": 2,
+            "product_signal": 5,
+            "competitive_impact": 4,
+            "content_value": 23,
+            "source_weight": 90,
+            "competitor_relevance": 35,
+            "total": 39,
+            "level": "收录备选"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_63b2c40688ea2404a228",
+          "fingerprint": "63b2c40688ea2404a228",
+          "primary": {
+            "id": "8ef52fd98b9a33a312cdeb1d",
+            "title": "中信建投：AI PCB需求放量、高阶升级趋势明确，打开设备耗材新空间",
+            "url": "https://36kr.com/newsflashes/3887685210372611?f=rss",
+            "source_name": "36氪",
+            "source_type": "media",
+            "source_tier": "authoritative",
+            "published_at": "2026-07-09T00:37:54Z",
+            "summary": "36氪获悉，中信建投研报表示，算力需求正成为PCB行业最重要的结构性增量，推动AI场景PCB升级为高多层、高密度、高速、低损耗和高可靠的平台型产品。AI服务器架构从CPU平台转向GPU/ASIC集群，全面抬升PCB在用量、层数、材料、孔结构、线路精度与可靠性的技术要求，带动高多层板、高阶HDI需求快速增长；与此同时，M7-M9低损耗���材迭代，mSAP等精密工艺加速导入，行业高端化趋势明确，倒逼全流程设备升级，PCB设备及配套耗材同步迎来发展机遇。",
+            "category": "product",
+            "discovered_via": "https://36kr.com/feed",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": null,
+            "content": "36氪Auto 数字时氪 未来消费 智能涌现 未来城市 启动Power on 36氪出海 36氪研究院 潮生TIDE 36氪企服点评 36氪财经 职场bonus 36碳 后浪研究所 暗涌Waves 硬氪 氪睿研究院 媒体品牌 企业号 企服点评 36Kr研究院 36Kr创新咨询 企业服务 核心服务 城市之窗 政府服务 创投发布 LP源计划 VClub VClub投资机构库 投资机构职位推介 投资人认证 投资人服务 寻求报道 36氪Pro 创投氪堂 企业入驻 创业者服务 创投平台 AI测评网 首页 快讯 资讯 推荐 财经 AI 自助报道 广东 最新 创投 汽车 科技 专精特新 直播 视频 专题 活动 中信建投：AI PCB需求放量、高阶升级趋势明确，打开设备耗材新空间 下一篇 36氪获悉，商务部等9部门印发关于加快零售业创新发展的意见，其中提出，推动零售经营主体加强采购质量管控和溯源，严选供应商，鼓励发展自有品牌，推广质量自我承诺制。开展侵权假冒伪劣商品销毁行动，打击线上线下制假售假行为。推动平台经营者、柜台出租者将入驻经营者抽检合格率、退货率纳入考核。 1小时前 团灭，大厂集体下架AI聊天机器人 港交所今日最大IPO来了 城市合作 寻求报道 我要入驻 投资者关系 商务合作 关于我们 联系我们 加入我们 36氪欧洲站 36氪欧洲站 36氪欧洲站 Ai产品日报 热门资讯 热门产品 文章标签 快讯标签 推送和解读前沿、有料的科技创投资讯 一级市场金融信息和系统服务提供商 聚焦全球优秀创业者，项目融资率接近97%，领跑行业",
+            "content_source": "page"
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "中信建投称AI服务器推动高端PCB、设备和耗材需求放量。",
+            "why_important": "反映AI算力基础设施继续扩张，可能影响上游硬件成本与供给节奏；与云枢企业应用软件关联较弱。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 3,
+              "core_relevance": 1,
+              "big_tech_strategy": 1,
+              "capital_signal": 3,
+              "product_signal": 1,
+              "competitive_impact": 1
+            }
+          },
+          "score": {
+            "trend_impact": 3,
+            "core_relevance": 1,
+            "big_tech_strategy": 1,
+            "capital_signal": 3,
+            "product_signal": 1,
+            "competitive_impact": 1,
+            "content_value": 10,
+            "source_weight": 90,
+            "competitor_relevance": 70,
+            "total": 38,
+            "level": "收录备选"
+          },
+          "is_material_update": true
+        }
+      ],
+      "industry_trends": [
+        "企业AI正在从“能力展示”转向“可计价、可审计、可复购”的流程交付。多篇事件共同指向：客户不再只看模型效果，而会追问Token成本、调用稳定性、ROI量化、人工审批、权限留痕和供应商锁定风险。云枢类平台应强化模型可替换、成本可观测、结果可验证、人审节点与业务闭环，而不是仅包装通用Agent能力。",
+        "Agent入口竞争开始下沉到企业工作流和交易履约层。Dify通过CLI让Agent直接调用工作流，支付宝用AI支付、授权追责和跨端协议布局Agent交易信任，Siri也在打开跨App数据调用能力。这说明下一阶段竞争焦点不是“谁有聊天入口”，而是谁能把自然语言请求安全地转成跨系统流程、数据访问、审批和支付/履约动作。",
+        "Agent生产化对运行底座提出新要求：安全沙箱、弹性启停、异构算力和串行任务优化正在成为基础设施标配。腾讯云Cube Sandbox支持Arm、英伟达Vera CPU面向Agent串行瓶颈，均说明企业Agent从Demo进入规模调用后，底层隔离、性能和成本会直接影响客户采购决策。云枢需关注Agent运行环境、工具调用隔离和多架构部署能力。",
+        "AI安全边界正在从模型本体扩展到RAG、提示词压缩、缓存、工具调用等中间层。港科大COMA研究表明，为降本提效引入的Prompt Compression可能导致安全规则被压缩丢失。企业级Agent平台需要把压缩器、检索器、上下文拼接器纳入安全评估，建立可信/非可信内容分区、关键规则不可丢失校验和工具调用前置风控。",
+        "大模型公司和云厂商正在向算力成本曲线要利润。DeepSeek被曝自研推理芯片、AI PCB需求放量、亚马逊拟发债投入AI基建，反映推理成本和供应稳定性已成为AI应用商业化的核心变量。对企业软件厂商而言，模型调用成本不再是后台技术问题，而会影响产品定价、毛利率和客户续费。端侧、小模型、私有化和多模型路由的重要性上升。"
+      ],
+      "capital_moves": [
+        "深度智控（DeepCtrls）完成数亿元人民币B轮融资，由晶科能源战略投资，国投创新、招银国际联合领投，红杉中国、源码资本等老股东跟投。资本继续偏好具备明确工业场景、可解释模型、闭环控制和标准化产品能力的垂直AI，而非单纯通用模型叙事。",
+        "快手可灵AI完成新一轮增资，投前估值约150亿美元，融资约30亿美元，腾讯、阿里云、百度等参与。资金押注点不只是视频生成模型排名，而是其嵌入短视频、电商、广告等高频生产流程后的重复付费和正毛利潜力，说明AI应用估值开始围绕场景收入质量重估。",
+        "亚马逊计划发行至少250亿美元债券，用于AI基础设施、数据中心、AI芯片和云计算能力扩张。头部科技公司正以债务融资方式继续加码AI资本开支，资本流向仍集中在算力基础设施，但其回报压力会倒逼云厂商更积极推动高价值企业AI场景落地。",
+        "脑机接口赛道上半年融资约72.53亿元，交易达64起，显著超过上一年度全年规模。资金更偏向安全性、监管路径和支付端更清晰的非侵入式路线，显示前沿人机交互资本热度升温，但与企业流程AI短期交集有限。",
+        "Momenta在港交所上市，公开发售获高倍超额认购，募集资金规模约68亿港元。资本市场正在用“物理AI”“真实世界数据闭环”和量产业务规模重新定价自动驾驶公司，反映AI投资叙事从数字内容生成进一步外溢到实体世界控制与行业闭环。"
+      ]
+    },
+    "2026-07-08": {
+      "date": "2026-07-08",
+      "generated_at": "2026-07-08T14:13:36+08:00",
+      "top6": [
+        {
+          "id": "evt_f2f3565fce10fcb45d3d",
+          "fingerprint": "f2f3565fce10fcb45d3d",
+          "primary": {
+            "id": "cmrb2mxmc0072ihl1mx0aw1bz",
+            "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
+            "url": "https://x.com/AIatMeta/status/2074577662840832382",
+            "source_name": "X：AI at Meta (@AIatMeta)",
+            "source_type": "aihot",
+            "source_tier": "aihot_selected",
+            "published_at": "2026-07-07T19:33:53Z",
+            "summary": "Meta Superintelligence Labs 发布首个媒体生成模型 Muse Image 和 Muse Video。Muse Image 是目前最先进的图像生成模型，能精确遵循指令、精准编辑、多参考构图，并利用 Instagram 社交上下文。它还具备智能体工具使用能力并集成 Muse Spark。用户可通过 Meta AI 应用、网页、Instagram Stories 和 WhatsApp 试用，初始限于部分国家。Muse Video 基于相同预训练基础，实现高视觉保真度并原生支持音频。",
+            "category": "ai-models",
+            "discovered_via": "AI HOT 精选",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": 75,
+            "content": "Post Log in Sign up Post AI at Meta @AIatMeta Introducing Muse Image and Muse Video, the first media generation models developed by Meta Superintelligence Labs. Muse Image is our most advanced image generation model yet. It follows instructions faithfully, edits with precision, composes from multiple references, and draws on Instagram for social context. It also brings agentic tool use capabilities to image generation and integrates with Muse Spark. You can try Muse Image in the Meta AI app and web, as well as in Instagram Stories and WhatsApp – starting in limited countries with more locations on the way. Today we’re also previewing Muse Video, which is built upon the same pretraining base as Muse Image to deliver exceptional visual fidelity with native audio support. Learn more about both models: go.meta.me/7f4427 00:00 7:33 PM · Jul 7, 2026 428.3K Views 1 3 1 131 2 7 4 274 1 . 8 K 1.8K 7 4 8 748 Read 131 replies New to X? Sign up now to get your own personalized timeline! Sign up with Google Sign up with Apple Create account By signing up, you agree to the Terms of Service and Privacy Policy , including Cookie Use. Relevant people AI at Meta @ AIatMeta Follow Trending now",
+            "content_source": "page"
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "Meta发布Muse Image/Video，图像生成接入Instagram、WhatsApp等高频入口。",
+            "why_important": "多模态生成正被大厂直接嵌入社交与通讯场景，提升C端分发和数据闭环优势；对企业AI平台的启示是，模型能力需与业务入口、上下文数据和工具调用结合，而非单点模型竞争。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 8,
+              "core_relevance": 5,
+              "big_tech_strategy": 9,
+              "capital_signal": 3,
+              "product_signal": 8,
+              "competitive_impact": 7
+            }
+          },
+          "score": {
+            "trend_impact": 8,
+            "core_relevance": 5,
+            "big_tech_strategy": 9,
+            "capital_signal": 3,
+            "product_signal": 8,
+            "competitive_impact": 7,
+            "content_value": 40,
+            "source_weight": 100,
+            "competitor_relevance": 60,
+            "total": 56,
+            "level": "一般关注"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_92062495ff079a44e06e",
+          "fingerprint": "92062495ff079a44e06e",
+          "primary": {
+            "id": "cmrb0u6pv02qtihogovduu795",
+            "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
+            "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs",
+            "source_name": "The Decoder：AI News（RSS）",
+            "source_type": "aihot",
+            "source_tier": "aihot_selected",
+            "published_at": "2026-07-07T18:35:58Z",
+            "summary": "微软正用自研MAI模型替换Copilot产品中的OpenAI和Anthropic模型以降低支出。MAI模型已在Excel和Outlook中每周处理数万次请求，但占比仍小。Build大会上发布推理模型MAI-Thinking 1，声称编码媲美Sonnet 4.6和Opus 4.6，但基准测试大幅落后，仅与DeepSeek V3.2相当。AI负责人承认目标是削减并消除对Anthropic的支出。CEO暗示未来可能按用量计费，MAI为默认，第三方模型付费附加。微软称MAI使用干净商业许可数据，实际基于Common Crawl。",
+            "category": "industry",
+            "discovered_via": "AI HOT 精选",
+            "competitor_names": [
+              "DeepSeek"
+            ],
+            "verified": true,
+            "raw_score": 71,
+            "content": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs Matthias Bastian View the LinkedIn Profile of Matthias Bastian Jul 7, 2026 GPT-Image-2 prompted by THE DECODER Microsoft is replacing AI models from OpenAI and Anthropic with its own in-house models across several Copilot products, including Excel and Outlook. Microsoft's in-house MAI models are already processing tens of thousands of requests per week in Excel and Outlook, Bloomberg reports . Both apps previously relied more heavily on models from OpenAI and Anthropic. The in-house models still handle only a small fraction of total requests, but Microsoft wants to keep cutting its spending on third-party AI over time. The MAI models are also available in GitHub Copilot , and a proprietary transcription model is expected to ship in Teams soon. Ad At the Build conference, Microsoft unveiled seven new AI models, including MAI-Thinking 1, its first reasoning model. Microsoft claimed it could match Sonnet 4.6 and Opus 4.6 in coding based on human evaluations. But the benchmarks released at the time told a different story, with Thinking-1 trailing the competition from OpenAI and Anthropic by a wide margin and landing roughly on par with Deepseek V3.2. Ad DEC_D_Incontent-1 Image: Microsoft Customers may get less capable AI for the same price For Copilot and Office customers, this could mean paying the same amount for weaker AI so that Microsoft can lower its own costs. Microsoft's head of AI, Mustafa Suleyman, openly acknowledged this plan in June : \"We pay a lot of money to Anthropic—so our goal is to reduce and ultimately eliminate that cost.\" This is the same Microsoft that just argued vendor lock-in with OpenAI and Anthropic is a bad thing and that it wants to be a platform-neutral alternative . Microsoft CEO Satya Nadella also hinted that AI billing could shift further toward usage-based pricing instead of flat-rate subscriptions . One possible setup would make cheaper MAI models the default, with third-party models from OpenAI or Anthropic available as premium add-ons at extra cost. That way, Microsoft would pass its OpenAI and Anthropic expenses on to customers with a surcharge. Ad Microsoft also claimed that the MAI models are trained on clean, commercially licensed data, making them safe for businesses. But according to the technical paper , Microsoft used the Common Crawl dataset, a collection of freely accessible web data whose use for AI training is not legally settled. Every other AI company does the same thing, but Microsoft portrays its own training data as particularly clean. Ad DEC_D_Incontent-2 AI News Without the Hype – Curated by Humans Subscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive \"AI Radar\" frontier report six times a year, full archive access, and access to our comment section. Subscribe now Source: Bloomberg Top Stories Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70% Anthropic says it cut 80 percent of Claude Code's system prompt because Fable 5 models \"want a smaller system prompt\" Claude Code and Fable 5 ported the 2003 PC game Command & Conquer to native iOS in \"a few hours\" Anthropic developer shares prompting tips for Fable 5 that focus on finding your own blind spots first GPT and Claude failed Bridgewater's finance tests because the right answers were never public Don't Miss What Matters Stay in the loop on AI. Clear, useful, no fluff. Most Popular Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70% Sam Altman says a whole generation of researchers held AI back by underestimating what scaling could do For $1.3 million a month, OpenClaw founder Peter Steinberger runs 100 AI agents that code, review PRs, and find bugs Google launches a tiny board that runs Gemma 3 locally Fields Medalist says ChatGPT 5.5 Pro delivered \"PhD-level\" math research in under two hours with zero human help AI Community & Insights The Decoder Follow The Decoder for AI news, background stories and expert analyses. Opens LinkedIn in a new tab Opens Discord in a new tab",
+            "content_source": "page"
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "微软正以自研MAI模型替换Copilot中的OpenAI和Anthropic模型以降本。",
+            "why_important": "大厂AI应用进入成本优化阶段，默认模型可能从最强能力转向性价比模型，并通过高级模型加价分层；对企业AI平台定价、模型路由、成本治理和客户体验都有直接参考意义。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 9,
+              "core_relevance": 8,
+              "big_tech_strategy": 10,
+              "capital_signal": 8,
+              "product_signal": 8,
+              "competitive_impact": 8
+            }
+          },
+          "score": {
+            "trend_impact": 9,
+            "core_relevance": 8,
+            "big_tech_strategy": 10,
+            "capital_signal": 8,
+            "product_signal": 8,
+            "competitive_impact": 8,
+            "content_value": 51,
+            "source_weight": 100,
+            "competitor_relevance": 20,
+            "total": 55,
+            "level": "一般关注"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_520f45224d83fec94610",
+          "fingerprint": "520f45224d83fec94610",
+          "primary": {
+            "id": "cmrawne9601nfihogtkxwy0bs",
+            "title": "智能免费，然后呢？--Data Systems for， of， and by Agents",
+            "url": "http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what",
+            "source_name": "BAIR：Berkeley AI Research Blog",
+            "source_type": "aihot",
+            "source_tier": "aihot_selected",
+            "published_at": "2026-07-07T09:00:00Z",
+            "summary": "AI推理成本急剧下降。GPT-4级能力从2023年初每百万token约30美元降至今天不到1美元，部分供应商已低于0.10美元。推理价格每年下降9至900倍，中位数约50倍。知识工作级智能即将近乎免费。这给数据系统带来三重变革：面向智能体的数据系统需支持智能体推测式探索--单个",
+            "category": "tip",
+            "discovered_via": "AI HOT 精选",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": 62,
+            "content": "Intelligence is Free, Now What? Data Systems for, of, and by Agents ... government of the people, by the people, for the people ... — Abraham Lincoln, Gettysburg Address (1863) The cost of AI is dropping rapidly. GPT-4-class capabilities cost roughly $30 per million tokens in early 2023; today the same runs under $1 , and some providers are pushing costs below $0.10 . Across benchmarks, inference prices have fallen between 9x and 900x per year , with a median decline near 50x. Even frontier models are getting dramatically cheaper each generation, with open-source models following closely behind. And crucially, even if “Nobel-Prize-winning genius-level” intelligence isn’t here yet, the intelligence that suffices for the vast majority of knowledge work is here today, and getting cheaper by the month. At this rate, we are soon entering the era of virtually free intelligence —the kind that is more than enough for everyday knowledge work. Disclosure: This post is a perspective led by Aditya G. Parameswaran —an Associate Professor of EECS and co-director of the EPIC Data Lab at UC Berkeley—together with his collaborators. It is part landscape survey and part perspective, and several of the research directions discussed below (including agentic speculation, structured memory, and synthesizing custom data systems from scratch) draw on the authors' own ongoing work. So, what does this new era of near-free intelligence mean for data systems? We believe three new challenges—and opportunities—stem from near-zero inference costs: Data Systems For Agents. Agents will soon become the dominant workload for data systems—with swarms of agents spun up in response to each end-user request. Given differences in characteristics between agents and humans—or applications acting on their behalf— how should we redesign data systems for such agentic users? Data Systems Of Agents. As agents start taking on the bulk of knowledge work, a new substrate is needed for thousands of agents to manage state over long-running tasks, coordinate and reach consensus, and deal with failures. What do data systems that reliably and efficiently run and manage agent swarms look like? Data Systems By Agents. Agents are rapidly becoming capable of synthesizing entire data systems in one go—meaning we can rebuild custom systems for each new workload. Verifying that such systems match intended behavior is a challenge. What does it take to let agents synthesize data systems we can actually trust? Data Systems For, Of, and By Agents Next, we will discuss each in more detail, followed by discussing the intertwined future of data systems and agents, especially as the three challenges intersect. Data Systems For Agents An agent querying a database doesn’t behave like a person or a BI tool. It performs what we call agentic speculation : a high-volume, heterogeneous stream of work spanning schema introspection, columnar exploration, partial and then full query formulation. With multiple agents each exploring portions of the hypothesis space, each user request could amount to 1000s of individual SQL queries. Now, users can issue ‘high-level’ data tasks, e.g., root-cause analysis—e.g., ‘why did coffee sales in Berkeley drop this year’—or exploratory cohort analysis—e.g., ‘which user segments are most likely to churn next quarter’—each involving a combinatorial space of potential joins, aggregations, and filter combinations. Data Systems Redesigned to More Effectively Support Agentic Speculation The requests from these agents have various opportunities for optimization. For instance, on a text-to-SQL benchmark with multiple agents attempting each task, only 10-20% of the sub-plans are distinct. Thus, 80-90% of sub-queries perform duplicate work. The same experiments show task success rates significantly increasing with more agentic attempts—so the redundancy is actually helpful. But from the data system perspective it’s wasted work. An agent-first data system can exploit such properties to help agents make progress faster. It can reuse results across overlapping sub-plans, drawing on ideas from decades-old literature on multi-query optimization and shared scans . Or the data system can try to satisfice , returning approximate answers that are good enough for agents to make progress, leveraging work from the AQP literature —or streaming the results of the final or intermediate operators to help agents decide if seeing the rest is necessary or helpful. Another opportunity here is to rethink the query interface entirely: instead of agents issuing a single SQL query at a time, they could instead issue a batch of queries, each with its own approximation requirements. Since enumerating an exponential search space (as in the root cause or cohort analysis examples above) isn’t a good use of agentic reasoning ability, perhaps data systems should support higher-level primitives rather than requiring agents to list each SQL query explicitly. One idea here is to draw on DBT-style Jinja macros to provide looping-based primitives for agents to interact with data systems. A Caffeinated Army of Agents Ready to Tirelessly Complete Your Data Tasks A final opportunity here is to stop thinking of data systems as passive executors of queries; data systems could be proactive , as they possess more grounding in data and system characteristics that agents may lack a priori—they could steer agents in different directions, provide results for related queries, and also provide performance-level feedback (e.g., instead of executing an expensive query, the system could first provide the agent a latency estimate). The reason we can do this now as opposed to the past is that an agent can accept any form of textual feedback and isn’t expecting a strict SQL query result. In fact, the data system could also prepare both materialized and virtual views for an agent in advance, provided to the agent as part of context, as this may be cheaper or more effective than having an agent au...",
+            "content_source": "page"
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "BAIR认为推理成本快速下降将推动数据系统围绕智能体重构。",
+            "why_important": "近免费智能会让企业应用从“人用系统”转向“Agent高频调用系统”，对云枢的数据访问、权限、状态管理、任务编排和可观测性提出新要求；但为研究观点，需结合实际成本和客户场景验证。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 9,
+              "core_relevance": 8,
+              "big_tech_strategy": 5,
+              "capital_signal": 2,
+              "product_signal": 7,
+              "competitive_impact": 6
+            }
+          },
+          "score": {
+            "trend_impact": 9,
+            "core_relevance": 8,
+            "big_tech_strategy": 5,
+            "capital_signal": 2,
+            "product_signal": 7,
+            "competitive_impact": 6,
+            "content_value": 37,
+            "source_weight": 100,
+            "competitor_relevance": 35,
+            "total": 49,
+            "level": "收录备选"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_6d93c8872338ab027d82",
+          "fingerprint": "6d93c8872338ab027d82",
+          "primary": {
+            "id": "2bebf098798f90876c6bc55f",
+            "title": "曝 DeepSeek 自研 AI 芯片；小米首款增程 SUV 或改名为澎程；中国人形机器人今年有望破 10 万台 | 极客早知道",
+            "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&idx=1&mid=2653110014&sn=a59366471a3ec62e29082f7cb72c3abf",
+            "source_name": "公众号：极客公园",
+            "source_type": "media",
+            "source_tier": "authoritative",
+            "published_at": "2026-07-08T00:01:00Z",
+            "summary": "智谱辟谣撤回 A 股辅导备案；华为天才少年吐槽 DeepSeek 面试：流程拖沓，被面试官指控抄袭；国内首款硬膜下植入式脑机接口产品启动注册临床试验，宣称不伤脑、不烧脑",
+            "category": "product",
+            "discovered_via": "BestBlogs WeChat2RSS",
+            "competitor_names": [
+              "DeepSeek",
+              "智谱"
+            ],
+            "verified": true,
+            "raw_score": null,
+            "content": "于程程 2026-07-08 08:01 北京 智谱辟谣撤回 A 股辅导备案；华为天才少年吐槽 DeepSeek 面试：流程拖沓，被面试官指控抄袭；国内首款硬膜下植入式脑机接口产品启动注册临床试验，宣称不伤脑、不烧脑 曝 DeepSeek 自研 AI 芯片，面向推理任务 据外媒报道，DeepSeek 正在开发自主 AI 芯片，致力于减少对英伟达等公司芯片的依赖。据知情人士透露，DeepSeek 的自研 AI 芯片主要面向推理任务，而不是 AI 模型训练。 「该公司已与外部合作伙伴接洽，并与芯片设计、代工制造及存储芯片企业进行了讨论。」据知情人士透露，DeepSeek 自研芯片的工作大约在一年前便已启动。 对于自研 AI 芯片一事，新浪科技向 DeepSeek 方面求证，截至发稿公司暂无回应。（来源：新浪科技） 智谱辟谣撤回 A 股辅导备案 智谱在港公告，本公司注意到媒体报导，其中提及，本公司已撤回建议首次公开发行 A 股的辅导备案。本公司谨此知会股东及潜在投资者，该等报导陈述失实，所描述之事件不符合实际情况，并存在恶意炒作之嫌。 根据中国证券监督管理委员会官方网站显示，建议 A 股发行相关的辅导工作已经完成。（来源：新浪科技） 消息称亚马逊拟发债募资至少 250 亿美元，为 AI 基建「输血」 7 月 7 日消息，据彭博社报道，亚马逊计划通过发行美元债券募资至少 250 亿美元，这是该公司为大规模人工智能投资筹措资金的最新举措。 各家科技企业纷纷进军债券市场、启动股权发售，为成本高昂的人工智能基础设施建设筹集资金。亚马逊、Alphabet、微软、Meta 等头部科技企业，今年在人工智能领域的总投入预计将突破 7000 亿美元。 彭博援引知情人士消息称，此次亚马逊债券发行规模或将根据投资者认购需求上调。 这家科技巨头当日早些时候披露的监管文件显示，其申请分八批发行浮动利率与固定利率债券。 今年 3 月，亚马逊曾推出分 11 批发行的债券计划，目标募资 370 亿美元，当时认购需求超额倍数极高。（来源：IT 之家） 消息称苹果首款折叠屏 iPhone 已在量产阶段，代工龙头富士康启动大规模招工 7 月 7 日消息，据上海证券报今日报道，多方消息表明，苹果首款折叠屏 iPhone 落地进度提速。记者从产业人士处求证获悉，该款折叠屏 iPhone 已经在量产阶段。 报道还提到，代工龙头富士康率先启动大规模招工，为新机生产储备人力。 7 月 7 日，赣州富士康发布公众号招聘文章，要求招聘 18 至 50 岁员工，主要从事苹果手机精密组件的生产与加工；7 月 6 日，富士康人资发文招募临时工，招聘范围覆盖龙华 / 观澜苹果 A 事业群、龙华三赢事业群。 上海证券报称，上述业务群涉及折叠屏 iPhone 组装。（来源：IT 之家） 华为天才少年吐槽 DeepSeek 面试：流程拖沓，被面试官指控抄袭 据媒体报道，前华为天才少年李博杰在社交平台公开吐槽 DeepSeek 的面试流程。 他提及该面试流程较慢且繁琐，面试官存在态度问题，质疑他抄袭，他感到「被严重冒犯」。 据李博杰自述，笔试通过后 DeepSeek 迟迟不安排面试，拖了半个月之久。其他公司 offer 都已经下来了，经过反复催促才最终排上面试。 二面时面试官不仅迟到，态度还轻佻，对他介绍的工作毫无感知，认为他讲的问题都是研究问题，不断追问有什么工程挑战。 最让他感到被冒犯的，是面试官质疑他「抄代码」。他表示：「因为在代码面试中有两个屏幕，面试官说我不断在瞟左边的屏幕，说我在抄代码，让我停止抄代码，并说如果我不能证明我没有在抄代码，面试就无法继续下去了。」 李博杰选择了终止面试，并认为面试官的表现，与他想象中的 DeepSeek 不同。 公开资料显示，李博杰是中国科学技术大学计算机科学博士、华为首批「天才少年」计划入选者。其个人网站介绍显示，他曾在 SIGCOMM SOSP、NSDI、ATC、PLDI 等顶级会议上发表多篇论文，曾获 ACM 中国优秀博士学位论文奖和「微软学者」奖学金。目前，他正在投身大模型创业，是 Pine AI 首席科学家。（来源：快科技） 我国人形机器人今年有望破 10 万台 2026 世界人工智能大会将于 7 月 17 日至 20 日在上海举行。在今天（7 日）召开的 2026 世界人工智能大会暨人工智能全球治理高级别会议新闻发布会上，工业和信息化部有关负责人表示，当前，人工智能产业持续壮大，「人工智能+制造」日益深入，人工智能生态不断优化。 据测算，2025 年我国人工智能核心产业规模超过 1.2 万亿元。大模型、智能体、人工智能芯片加速迭代，今年人形机器人全年整机产量有望突破 10 万台。 截至目前，我国在人工智能领域已研制近 200 项关键标准，我国企业积极拥抱开源范式，大模型下载量居全球第一，AtomGit 等开源社区汇聚超 1100 万注册用户，人工智能生态不断优化。（来源：新浪新闻） 小米首款增程 SUV 或改名为澎程 近日，博主「搞机圈的那些事」发文称，小米 SKYNOMAD 寻天中文名貌似改成了澎程，谐音鹏程万里，贴合长途出行、奔赴远方的产品定位。 在此之前，已有博主放出了小米寻天 N90 的路试谍照，曝光了车辆自带车顶拓展帐篷开启后的完整形态。 从谍照来看，这套车顶帐篷展开后如同二层阁楼，内部空间目测高度超过 1.5 米，整体造型前高后低，四周配备透气纱网结构，可隔绝蚊虫。 和市面上后加装的车顶帐篷不同，这套机构与车身做了一体化融合设计，车顶本身作为帐篷顶面，仅帐篷结构会向外小幅凸起。 预计车辆内部会配备专属控制按键，依靠电动液压机构自动完成帐篷展开，驾乘人员无需下车，直接从车内就能进入上层帐篷空间。 帐篷可联动车内空调、照明与供电设备，搭配充气床垫即可实现野外露营，面向喜爱自驾、户外出行的家庭用户。 动力层面，新车有望搭载 1.5T 增程器，配备容量超 70kWh 动力电池。CLTC 纯电续航预计 400-500 公里，日常通勤可纯电代步；满油满电综合续航最高或达 1500 公里。（来源：快科技） Momenta 搭载量突破百万 Momenta 宣布量产业务搭载规模已突破 100 万台。截至目前，Momenta 已交付超过 100 款量产车型，累计定点车型超 210 款。 IT 之家从 Momenta 官网了解到，其合作的品牌包括奔驰、宝马、奥迪、广汽丰田、红旗、奇瑞风云、上汽大众、东风日产、广汽昊铂、智己汽车等。 据介绍，Momenta 是一家来自中国的自动驾驶公司，提供不同级别的自动驾驶方案，以及衍生的大数据服务。该公司的核心技术有基于深度学习的环境感知、高精度地图和驾驶决策。 今年 6 月底，Momenta 宣布在香港联合交易所招股，计划全球发行 1993.8 万股，一成（约 199.38 万股）于香港公开发售、剩余约 1794.45 万股国际发售。（来源：IT 之家） Nothing Phone（4b）手机发布：家族式 Glyph Bar 灯阵设计、骁龙 6 Gen 4 处理器，329 欧元起 7 月 7 日消息，在 Nothing 发布会中，Nothing Phone（4b）手机正式发布，定价为 329 欧元起。 该机厚度 8.6mm，重量 210g，提供 IP64 认证。手机正面配备一块 6.77 英寸 1080x2344 分辨率 120Hz AMOLED 面板，匹配 16MP 自拍摄像头；侧面配备 AI 按键；手机后置居左相机模组，提供 50MP 广角镜头和未公布像素的超广角镜头；相机模组旁边是家族式 Glyph Bar 灯阵设计。 规格方面，该机搭载高通骁龙 6 Gen 4 处理器，匹配 8GB RAM 和 128/256GB 存储空间，内置 5200mAh 电池（印度版为 6000mAh），搭载 Nothing OS 4.1。（来源：IT 之家） 华为首曝鸿蒙智行全新一代问界 M9 Ultimate 实车内饰：二排配旋转座椅、前排靠背有专属标识 7 月 7 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东最近前往了呼伦贝尔，开启了鸿蒙智行享界 G9 新车的预热。 在余承东预热享界 G9 的同时，华为手机官方微博也晒出了余承东的近照，同时还「泄露」了全新一代问界 M9 Ultimate 领世加长版的内饰。 从图片可以看到，全新一代问界 M9 Ultimate 配备了旋转 + 零重力座椅（安全带在座椅上），前排座椅的靠背印有 Ultimate 专属标识，同时主驾也支持折叠。 需要注意的是，虽然鸿蒙智行全新一代问界 M9 已于今年 5 月发布，但 Ultimate 领世加长版的内饰等信息未完全公开，实车目前也暂未进店。根据车主反馈，领世加长版「先行者」提车需要等到 8 月后。（来源：IT 之家） 国内首款硬膜下植入式脑机接口产品启动注册临床试验，宣称不伤脑、不烧脑 7 月 7 日消息，脑虎科技今日宣布，其自主研发的「植入式脑机接口手部运动功能代偿系统」，即「全植入、全无线、全功能（三全）脑机接口系统」在复旦大学附属华山医院正式启动 GCP 注册临床试验。 这是国内首款进入国家三类医疗器械注册临床阶段的硬膜下皮层表面植入式脑机接口产品。 在技术路径上，脑虎科技「三全」脑机接口系统采用硬膜下植入方案，将柔性电极贴附于大脑皮层表面，宣称不侵入脑组织，在精准采集神经信号的同时最大程度守护大脑安全（不伤脑）。 其分体式设计将电池、无线数据传输和无线充电等高发热单元置于胸部皮下，使热源远离大脑，规避高温风险（不烧脑）。 手术复用成熟的脑深部电刺激（DBS）范式，无需专用机器人，全国数百家三甲医院均可安全实施（可推广）。系统全链路延时低于 50 毫秒，脑控光标解码性能达 5.2 BPS。（来源：IT 之家） *图片来源：网络 播客上新 在具身智能领域，「世界模型」「Scaling Law」「VLA」早已是热词。但有一个词，你大概率还比较陌生：因果大模型。它不是新噱头，而是一个在学术界酝酿了 37 年、正悄悄改变具身智能路线图的底层范式。 今天行业主流打法是堆数据，靠 Scaling Law 让机器人自然「涌现」。但有人提出了一个不讨好的判断：不是数据不够，是范式用错了——VLA 模型在 demo 里很好看，放到真实场景，桌面高两厘米，任务就失败了，因为它学的是「相关性」，不是「因果」。 本期节目，我们邀请到 Aether AI 创始人黄碧薇，她深耕因果 AI 学术界 12 年，师承两代因果 AI 开山鼻祖，历经德国马普所、CMU、UCSD，在 Physical AI 的窗口期出山创业。从因果大模型与世界模型的异同，到杨立昆「LLM 通向不了 AGI」的争议观点，再到因果能否消灭模型幻觉，一次讲透。 🌟长按下方「卡片二维码」即可收听～欢迎关注我们的播客「开始连接LinkStart」（小宇宙 App），一起用科技、商业和人文的视角描摹这个时代。 跳转微信打开",
+            "content_source": "rss"
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "消息称DeepSeek正自研面向推理任务的AI芯片，以降低对英伟达依赖。",
+            "why_important": "若属实，DeepSeek将从模型能力延伸到推理算力供应链，可能改善成本和可控性，并强化大模型厂商垂直整合趋势；但来源为未证实消息，需等待官方或供应链进一步确认。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 8,
+              "core_relevance": 6,
+              "big_tech_strategy": 7,
+              "capital_signal": 5,
+              "product_signal": 6,
+              "competitive_impact": 7
+            }
+          },
+          "score": {
+            "trend_impact": 8,
+            "core_relevance": 6,
+            "big_tech_strategy": 7,
+            "capital_signal": 5,
+            "product_signal": 6,
+            "competitive_impact": 7,
+            "content_value": 39,
+            "source_weight": 90,
+            "competitor_relevance": 90,
+            "total": 59,
+            "level": "一般关注"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_8f93b7666f635a36a047",
+          "fingerprint": "8f93b7666f635a36a047",
+          "primary": {
+            "id": "cmrbdsefa02yjihl17gg7mhx3",
+            "title": "蚂蚁集团周俊AICon演讲：从Token数量到Token密度，万亿参数模型效率优先",
+            "url": "https://mp.weixin.qq.com/s/dsIfi4C-T5Q4emmIh-7yzg",
+            "source_name": "公众号：蚂蚁百灵（Ling）",
+            "source_type": "aihot",
+            "source_tier": "aihot_selected",
+            "published_at": "2026-07-08T01:00:00Z",
+            "summary": "蚂蚁集团副总裁周俊在AICon演讲指出，万亿参数模型每运行15分钟算力成本约等于一辆特斯拉，效率是智能体时代最需解决的问题。团队提出从\"更多Token\"转向\"更高Token密度\"策略，采用7份Lightning Attention加1份MLA的混合线性注意力架构，使256K长上下文成本从指数级降至线性级，算力更多用于思考。通过Kpop算法区分工具调用与自然语言Token，结合思维链剪枝、自蒸馏等，Token输出减少约4倍而能力不降。在LongBench、BFCL等基准上提升显著，千亿参数模型在Agent任务中超越部分更大模型；小模型flash吞吐达2.4倍，五轮对话成本下降10倍以上。",
+            "category": "tip",
+            "discovered_via": "AI HOT 精选",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": 64,
+            "content": "演讲实录 | 从 Token 数量到 Token 密度：万亿参数规模下的高效智能体智能 本文整理自蚂蚁集团副总裁周俊在 AICon 全球人工智能开发与应用大会（上海站）关于《从 Token 数量到 Token 密度：万亿参数规模下的高效智能体智能》的报告分享。 先说一个让人清醒的数字。按照现在主流的 Token 定价， 一个万亿参数级别的模型，每运行 15 分钟，消耗的算力成本大约相当于一辆特斯拉 。这不是一个比喻，而是工业界正在真实发生的事情。 所以问题来了：在这么昂贵的代价面前，到底什么是我们最应该解决的问题?我们的答案是： 效率 。尤其是当输入越来越长、输出越来越复杂、智能体需要完成的任务越来越精细的时候，效率不是一个可以往后放的优化项，而是智能体时代必须最先解决的问题。 从「更多 Token」到「更高密度」 过去很长一段时间，大家鼓励模型输出更多 Token，似乎越长越好、越详细越安全。但我们越来越相信，真正好的模型，应该更像人类语言进化的方向——用更简短、信息含量更高的表达完成同样的任务。 我们把这个叫做 Token 密度 。一个模型的综合能力，某种程度上正是由它的 Token 密度决定的：同样的智力水平下，谁能用更少的 Token 说清楚、做对事，谁就更高效。 大模型开发者面临的「不可能三角」 沿着这个思路往下看，会发现今天几乎所有大模型开发者都被困在一个不可能三角里： 快、省钱的模型， 推理成本低 ，但参数容量有限，一旦遇到复杂任务，固有缺陷就会暴露出来。 足够强的模型 ，可能干脆不去碰注意力机制——因为当算力足够多的时候，谁也不愿意为了优化架构去承担巨大的算法和工程重构成本。所以即便是最强的一批模型，大多仍然停留在类 GQA 机制上，而 GQA 的复杂度是指数级增长的，这种增长是很难持续忍受的。 智能体能力 ，如果直接拿一个对话模型去改造，会发现这件事几乎不可能做对。对话模型的\"对齐\"逻辑允许容错——前一句说错了，后面几轮还能纠正回来，人类用户也不会太计较。但智能体不一样：前面一次工具调用错了，就是错了，这个错误很难在后续被修正，往往会直接影响到整个系统。 这三个问题看起来彼此独立，但我们认为它们共享同一个根源： 从架构设计、到训练策略、再到智能体原生能力，是一套割裂式的设计 。修好其中一块，另外两块很可能依然不行。 三重矛盾的具体表现 第一重矛盾：注意力机制里被浪费的算力 GQA 的复杂度是平方级的。这意味着上下文每翻一倍，成本可能翻 4 倍甚至更高。我们做过一组简单的实验：当上下文是 32K 时，大约 60% 的 FLOPs 花在了注意力计算上；一旦上下文再翻 8 倍至 256K，这个比例会飙升到 85%。 这是一件很反直觉、也很危险的事情。我们投入越多算力，模型本应该用来\"思考、规划、推理\"的算力比例，反而越来越少，绝大部分算力都花在了\"看东西\"上。当上下文超过 256K 时，这种成本基本已经不可接受，算力大量被浪费在无效计算上。相比之下，国内目前在推进的 混合注意力或混合线性注意力机制 ，在超过 32K 之后曲线明显更平滑，算力利用效率也更高。 第二重矛盾：聊天模型改造不出真正的智能体 一次工具调用的错误，往往是不可逆的。 对话场景里的幻觉是可逆的——哪怕模型说错了一句话，后面几轮还有机会纠正，甚至连 loss 该怎么算都说不清楚：第一轮错了，第二轮又圆回来了，这到底算对还是算错? 但智能体不是这样。 一旦工具调用出错，几乎没有\"撤回\"这个选项。 所以，把一个聊天模型直接改造成智能体，就像往水里加盐——加得再多，也变不成海。我们自己也验证过这一点：直接把一个对话模型改造成智能体，哪怕是很短的扩展任务，也很难保证高准确率。 这就像让一个短跑运动员去跑马拉松——不是不够快，而是从没经历过那种距离。 第三重矛盾：在模拟器里，练不出应对真实世界的能力 很多智能体的训练是在模拟器里完成的，但这有点像在游泳池里练习高山滑雪 。真实世界里会发生 网络突然断开、容器崩溃、系统故障 这些情况，模拟器很难完全覆盖。如果模型只在模拟器里训练，它根本不会知道：网络断了，应该重试、等待，还是切换到近似的服务。 为了解决这个问题，我们搭建了大量真实服务器，接入了 2400 多个真实工具、 197 个 MCP 服务器、覆盖 12 个领域，让模型在真实环境里完成每一步的执行、验证与过滤——包括各种真实发生的错误，让它真正学会正确和错误两种情况下该如何应对。 解法：协同设计，而不是单点优化 三重矛盾的根源是一致的：注意力机制压制了模型能力的释放、低效的 Token 表达造成了智能体成本的浪费、直接套用聊天模型的训练范式很难获得智能体的原生能力。所以我们的思路是： 从架构、训练到智能体系统，做一次整体的协同设计 ，而不是头痛医头。 架构层：7 份 Lightning Attention + 1 份 MLA 我们对注意力机制做了混合线性改造： 用 7 份 Lightning Attention 搭配 1 份 MLA。 Lightning Attention 把平方复杂度降为线性复杂度，相当于做一次全局扫描；MLA 负责做低秩 KV 压缩，降低 KV cache 的同时，捕捉局部的关键特征。两者协同，既降低了成本，又保留了效果——在 256K 的长上下文场景下，从原来的\"不可用\"变成了\"标准配置\"，成本曲线从指数级降到了线性级，更多的算力被真正用在了思考上。 这个 7：1 的配比不是拍脑袋定的，而是来自大量的 scaling 实验：配比为 2 时，效果接近小型 MLA 模型；配比为 4 时，有效参数大致减半；只有在 7：1 时效果最好；超过 16：1 之后，性能会明显退化。考虑到万亿参数级别的实验成本极高，我们先在小模型上完成验证，再迁移到大模型上。同时，我们去掉了辅助路由损失，改用专家偏置 + FP32 路由 + sigmoid 评分，让梯度更稳定；并在模型前几层加入 dense layer，稳定输入，提升整体训练稳定性。 整个架构迁移分四步：第一步调整注意力机制的投影矩阵；第二步冻结参数，用数百 B Token 做预热恢复；第三步是最危险的一步——转换为 MLA，这一步 PPL 会大幅上升；第四步针对 MLA 再做一轮预热，直到效果超过原来的 GQA。训练初期 PPL 上升其实是常态。我们见过很多团队在 PPL 上升 60%~70% 的时候选择放弃，但只要坚持训练下去，PPL 会逐步回落，最终优于 GQA—— 架构红利，是熬出来的。 训练层：从第一天起就直面真实世界的复杂度 我们在预训练第一天就引入了 高质量、高难度的真实数据 ，让模型直接面对困难任务。短期内 loss 波动会比较大，但长期看，模型反而更稳定。整个训练分三个阶段： 0.4T Token 的架构迁移训练； 8T Token 的高难度真实数据训练；从 4K 到 256K 、甚至更长的长上下文扩展，期间持续引入真实环境数据，包括成功和失败的完整轨迹。 在强化学习阶段，训推不一致是一个普遍且严重的问题。我们提出了 Kpop 算法，用自适应约束替代统一约束：把工具调用 Token 和自然语言 Token 区分对待——两者本质不同，因此采用不同的阈值策略；模型表现接近参考分布时放松约束，偏离时收紧约束，从而让 reward 曲线保持持续提升。在 Token 效率上，我们综合使用了思维链剪枝、句子级 reward、双向偏好对齐，以及自蒸馏生成更短的表达路径，最终让 Token 输出 减少了约 4 倍 ，而 能力不降反升 。 结果：效率与能力，第一次没有互相牺牲 经过架构和训练的协同改造，我们在 LongBench 等基准上看到了最显著的提升：长上下文能力明显增强，事实性、知识能力没有出现下降，代码与复杂推理能力也同步提升。其中 LongBench 的提升幅度最大，这说明架构优化释放的不只是速度，更是此前一直被架构限制住的能力本身。在 BFCL 等工具调用类任务上，提升超过 2 倍；在多种 Agent Benchmark 上，表现同样亮眼。 一个值得关注的现象是：我们的千亿参数模型，在真实 Agent 任务中的表现，反而超过了部分参数规模更大的模型。这说明瓶颈从来都不在参数量本身，而在架构与训练策略。 我们同时推出了 instant 系列小模型，在更低的推理预算下，依然能在工具调用与 Agent 任务上做到 SOTA：在多项榜单上超越同梯队模型，并在复杂任务上保持竞争力。当然，在 SWE 这类更复杂的任务上仍然存在差距，主要原因是 IO 类训练数据投入还不够 ，这是我们接下来要重点补的部分。 在 Token 数量大幅减少的情况下，我们的模型仍然能够接近 GPT-5.4 instant 模型的表现，但 成本更低、吞吐更高 。在小模型 flash 上，吞吐达到了原来的 2.4 倍，五轮对话的成本可以下降 10 倍以上—— 在智能体常见的多轮交互场景里，这种效率优势会被进一步放大 。 写在最后 效率本身就是一种能力。 当成本持续下降、Token 密度持续提升，会有越来越多原本\"用不起\"的场景被模型覆盖，进而形成新的数据飞轮—— 这是一个正向循环的开始。 回顾整个过程，我们最深的体会是：智能体能力必须从一开始就被原生训练出来，而不是在一个聊天模型上\"打补丁\"。架构、数据、强化学习，需要被作为一个整体来设计，而不是各自优化、事后拼接。开源本身也是一种方法论。我们相信，通过社区的共同打磨，模型才能更快走向正确的方向。 未来，我们关注的重心会继续从\"模型规模\"转向\" T oken 价值 \"、\" Token 密度 \"与\" 知识密度 \"，并朝着真正能够自主进化的智能体时代迈进。在算力依然紧张的现实条件下，协同设计是我们认为最值得投入的路径。 效率与能力，不必再是对立的两端。 这是一个新范式的起点。 演讲视频回放： 微信扫一扫 关注该公众号 微信扫一扫可打开此内容， 使用完整服务",
+            "content_source": "page"
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "蚂蚁百灵强调以Token密度和混合线性注意力降低智能体推理成本。",
+            "why_important": "直接指向企业级智能体落地的核心瓶颈：长上下文、工具调用、多轮交互成本。其“少输出但能力不降”和真实工具环境训练，对云枢评估Agent架构、成本控制和模型选型有参考价值。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 9,
+              "core_relevance": 8,
+              "big_tech_strategy": 8,
+              "capital_signal": 3,
+              "product_signal": 8,
+              "competitive_impact": 7
+            }
+          },
+          "score": {
+            "trend_impact": 9,
+            "core_relevance": 8,
+            "big_tech_strategy": 8,
+            "capital_signal": 3,
+            "product_signal": 8,
+            "competitive_impact": 7,
+            "content_value": 43,
+            "source_weight": 100,
+            "competitor_relevance": 35,
+            "total": 53,
+            "level": "一般关注"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_d6df6096b77beed16b64",
+          "fingerprint": "d6df6096b77beed16b64",
+          "primary": {
+            "id": "00a612c62f296c60f9c44e81",
+            "title": "Target 推出基于 LLM 的语义匹配系统，提升营销预测流程效率",
+            "url": "https://www.infoq.cn/article/cEfBc7qdIDe3ZVFDyjS5",
+            "source_name": "InfoQ",
+            "source_type": "media",
+            "source_tier": "authoritative",
+            "published_at": "2026-07-08T09:09:33Z",
+            "summary": "点击查看原文>",
+            "category": "industry",
+            "discovered_via": "https://www.infoq.cn/feed",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": null,
+            "content": "记录自己日常工作的实践、心得 发表对生活和职场的感悟 针对感兴趣的事件发表随笔或者杂谈 从 0 到 1 详细介绍你掌握的一门语言、一个技术，或者一个兴趣、爱好 或者，就直接把你的个人博客、公众号直接搬到这里 企业动态 行业深度 AI&大模型 出海 后端 芯片&算力 架构 大数据 软件工程 云计算 大前端 管理/文化 Target 推出基于 LLM 的语义匹配系统，提升营销预测流程效率 马可薇 2026-07-08 北京 本文字数：1328 字 阅读完需：约 4 分钟 Target 开发了一套 基于生成式 AI 的营销预测系统 ，在新营销活动开启前，自动检索并排序与其最相似的历史营销活动，为营销预测提供参考。该系统目前已在 Target 内部投入使用，服务于营销和数据分析团队，支持不同类型、不同渠道的营销活动规划。它的目标是减少人工查找可比历史活动的工作量，提高预测的一致性，并随着营销活动类型不断丰富，进一步提升决策效率。 为了评估系统效果，Target 采用按时间划分训练集和测试集的方法，对近期一批不同类型的营销活动进行了测试。根据官方数据，当仅采用排名第一的推荐结果时，系统覆盖率达到 75%；当推荐范围扩展至前三个候选时，覆盖率提升至 100%，意味着参与评估的每一个营销活动都至少能够找到一个合适的历史活动作为参考。Target 表示，这一改进显著减少了预测流程中人工查找和修正可比营销活动的工作量。 不同推荐深度（K）下的覆盖率（来源： Target 博客 ） 这套新系统取代了此前基于规则和简单相似度计算的方法。旧系统需要不断维护大量人工规则，而且随着营销渠道数量增加、活动形式日益复杂，很难适应不断变化的营销活动模式，不仅带来了较高的运维成本，对新类型营销活动的支持效果也越来越差。 新系统采用了结合 Embedding（向量表示）和大语言模型的检索增强架构（RAG）。系统首先对历史营销活动数据进行标准化处理，并将其转换为 Embedding，将受众细分、商品类别、投放渠道、营销意图等结构化属性编码为具有语义信息的向量。这些 Embedding 随后存储到内部索引中，用于后续的相似度检索。 当创建新的营销活动时，系统会根据活动元数据生成对应的 Embedding，并检索出具有相似特征的历史营销活动作为候选。随后，这些候选结果会交由大语言模型进一步排序和筛选。模型会结合结构化约束条件和上下文信息评估相似程度，最终返回按相关性排序的营销活动列表，并为每条匹配结果生成解释。 整个系统采用多阶段流水线架构，将 Embedding 生成、候选检索以及基于大语言模型的排序三个阶段彼此解耦。这种设计使各个模块能够独立调优，同时提升了中间结果的可观测性。在预测流程中，营销分析师仍会对检索结果及模型生成的匹配解释进行审核，确保人工验证始终是整个流程的一部分。 新系统整体架构（来源： Target 博客 ） 这套系统并不直接预测营销活动的最终效果，而是通过识别与当前活动最相似的历史案例，为预测提供决策依据。这意味着营销预测从过去依赖规则的方式，转向基于检索与推理的工作流，并通过历史活动属性作为依据，提高了预测结果的可解释性。 Target 工程部表示，旧系统最大的挑战之一在于，随着营销活动模式不断变化，维护规则集的成本持续上升。新方案利用语义相似度和模型驱动的排序能力，减少了对人工规则更新的依赖，也能够更好地适应各种营销活动的变化。此外，对于过去由于缺乏可靠规则定义而难以处理的长尾营销活动类型，新系统也显著提升了覆盖能力。 系统还引入了反馈机制，利用已完成营销活动的实际表现不断优化 Embedding，并持续提升检索质量。Target 工程部表示，这使系统能够随着新的营销活动结果不断演进，并在未来的预测流程中提供更加相关、更准确的历史活动匹配结果。 查看英文原文： Inside Target’s LLM-Based System for Semantic Matching in Marketing Forecast Pipelines - InfoQ 促进软件开发及相关领域知识与创新的传播 关于我们 我要投稿 合作伙伴 加入我们 关注我们 联系我们 内容投稿：editors@geekbang.com 业务合作：hezuo@geekbang.com 反馈投诉：feedback@geekbang.com 加入我们：zhaopin@geekbang.com 联系电话：010-64738142 地址：北京市朝阳区望京北路9号2幢7层A701 InfoQ 近期会议 北京 · QCon 全球软件开发大会 2026.4.16-18 上海 · AICon 全球人工智能开发与应用大会 2026.6.26-27 全球 InfoQ InfoQ En InfoQ Jp InfoQ Fr InfoQ Br",
+            "content_source": "page"
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "Target用Embedding+LLM语义匹配历史营销活动，提升预测准备效率。",
+            "why_important": "这是典型企业AI工作流案例：不直接替代业务决策，而是检索相似历史案例并给出解释，保留人工审核。对云枢在营销、运营、数据分析场景包装AI应用模板有参考价值。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 7,
+              "core_relevance": 7,
+              "big_tech_strategy": 4,
+              "capital_signal": 2,
+              "product_signal": 8,
+              "competitive_impact": 5
+            }
+          },
+          "score": {
+            "trend_impact": 7,
+            "core_relevance": 7,
+            "big_tech_strategy": 4,
+            "capital_signal": 2,
+            "product_signal": 8,
+            "competitive_impact": 5,
+            "content_value": 33,
+            "source_weight": 90,
+            "competitor_relevance": 60,
+            "total": 50,
+            "level": "一般关注"
+          },
+          "is_material_update": true
+        }
+      ],
+      "industry_trends": [
+        "企业AI竞争正在从“模型能力展示”转向“成本、稳定性与可治理性”竞争。微软在Copilot中逐步用自研MAI模型替代OpenAI/Anthropic、蚂蚁强调Token密度与混合注意力、Claude多智能体分层调用模式，都指向同一趋势：客户不会长期为无差别的高价推理买单，企业AI平台需要内置多模型路由、任务分级、成本看板和效果评估机制。",
+        "Agent产品形态正在从聊天助手升级为可后台运行、可接企业工具、可跨设备延续的“数字员工”。Claude Cowork移动端/网页端、Gemini Managed Agents后台执行与远程MCP、Rowboat本地优先工作记忆，说明企业客户需求正在从“问答式Copilot”转向“能接文件、邮件、日历、业务系统并持续完成任务”的工作流代理。对云枢而言，流程编排、权限审批、状态管理、任务恢复和人机交接会成为Agent平台的核心门槛。",
+        "业务场景落地呈现“辅助决策而非全自动替代”的务实路径。Target用Embedding+LLM匹配历史营销活动、讯飞医疗以多Agent覆盖诊疗文书和质控、北森将招聘前半段交给Agent但保留审批决策，说明企业更愿意先在高频、规则复杂、人工耗时但可审核的环节引入AI。云枢可优先包装营销预测、合同/续约跟踪、招聘筛选、运营报表、流程质检等可解释、可回溯模板。",
+        "SaaS厂商的AI转型进入商业模式重估阶段。北森提出数字员工不适合传统坐席制、也不倾向按结果付费，而探索点值结算；微软暗示Copilot可能从固定订阅走向用量计费。未来客户会要求AI功能的价值、消耗和业务结果更透明，云枢需要避免简单“AI功能包”定价，转向按任务量、自动化节点、模型消耗或场景价值组合计费。",
+        "多模态与入口绑定正在加剧平台型大厂优势。Meta将Muse Image/Video接入Instagram、WhatsApp，腾讯、支付宝也在开放AI应用和小程序生态能力，说明模型能力本身正在被高频入口、用户上下文和分发渠道放大。企业服务厂商若缺少入口优势，应强化与办公、IM、门户、低代码应用和行业系统的深度集成，而不是单独做孤立AI应用。先发机会在于把客户已有数据和流程沉淀为Agent可调用的上下文。"
+      ],
+      "capital_moves": [
+        "亚马逊计划发行至少250亿美元美元债，为AI基础设施继续输血；叠加其今年3月曾推出370亿美元债券计划，说明AI算力建设正从经营性投入转向更大规模资产负债表融资。头部云厂商持续加杠杆会推高算力供给门槛，也会强化下游企业对成本可控、模型可替换平台的需求。",
+        "德睿智药完成5200万美元B轮融资，资金用于升级AI制药平台MAP、多智能体协同体系、临床数据闭环以及推进口服GLP-1小分子MDR-001三期临床。资本继续流向“AI+高价值专业流程”公司，且更看重临床/真实数据闭环与自有管线验证，而非单纯AI工具。",
+        "智谱公告否认撤回A股辅导备案，并称A股发行相关辅导工作已经完成。该事件显示大模型公司仍在寻求多资本市场路径，但监管进度、盈利模式和舆情波动会持续影响AI基础模型公司的上市预期。"
+      ]
+    },
+    "2026-07-06": {
+      "date": "2026-07-06",
+      "generated_at": "2026-07-06T12:54:36+08:00",
+      "top6": [
+        {
+          "id": "evt_7c777334928a58cc90b8",
+          "fingerprint": "7c777334928a58cc90b8",
+          "primary": {
+            "id": "dcc3817be1faa2f2d53c596c",
+            "title": "硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统",
+            "url": "https://36kr.com/p/3882365879005186?f=rss",
+            "source_name": "36氪",
+            "source_type": "media",
+            "source_tier": "authoritative",
+            "published_at": "2026-07-05T06:27:30Z",
+            "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，「忆生科技」（TranscEngram）完成数亿元天使轮融资，本轮投资方阵容横跨产业资本与国资平台，包括正大旗下中生制药、浦东创投、张江科投、张江高科、弘信电子、云晖资本、沃肯资本、金舵资本等。 「忆生科技」致力于从科学第一性原理出发，用\"感知—预测—交互\"闭环构建机器人\"大脑+小脑\"统一系统，探索下一代可解释自主智能（Autonomous Intelligence）。 本轮融资资金将主要用于可解释具身控制大模型与物理世界模型的研发、多模态全人形动作交互数据和算法训练管线的建设、顶尖人才团队的扩充，以及深圳前海和上海张江研发中心与产业化基地的建设，加速推动可自我纠错、持续进化的具身智能大脑与小脑系统走向商业化应用。 「忆生科技」（TranscEngram）由全球顶级人工智能专家、香港大学计算与数据科学学院创始院长马毅教授与高盛华教授和杨言超教授一起于2023年9月创立。马毅是计算机视觉领域最高荣誉「马尔奖（David Marr Prize）」得主，也是IEEE、ACM、SIAM三料Fellow，拥有二十余年视觉感知与智能系统的理论积淀。并与邵逸夫奖得主Emmanuel Candes 以及图灵奖得主Yann LeCun等全球顶尖学者长期保持深度合作，共同探索下一代人工智能形态。 在马毅教授看来，当前大模型本质上是拥有庞大静态知识的“百科全书”。它们在封闭世界中完成开环训练，由于缺乏物理世界的自我验证与纠错机制，导致“知其然不知其所以然”，进而产生幻觉。真正的智能不应止步于此。 他认为，「忆生科技」推动机器人迈向 AI 2.0 时代的核心逻辑在于：要像生命一样，在“感知—预测—交互”的闭环反馈中学习。以人类为例，眼、脑、手早已实现高度协调统一——视觉获取记忆用于预测，双手通过交互完成任务。 （图源/企业） 为此，忆生科技构建了“大脑+小脑”的统一架构，赋予机器人同样的闭环能力： 大脑的“视觉记忆”：模仿人眼，获取并理解外部环境的物理模型（空间与几何关系），进行复杂推理； 小脑的“肌肉记忆”：模仿人手，通过运动控制获取并改善本体模型，生成高频、稳定的运动控制策略。 （图源/企业） 这一架构彻底突破了静态知识在动态环境中的“不自知”局限。「忆生科技」联合创始人杨言超介绍，依托白盒可解释的网络结构，机器人能从海量数据中自动提炼交互概念，摒弃了对人工打标和固定任务列表的依赖，实现自我演进与增量学习。 在实际效能上，该架构展现了显著的代际优势——相较传统VLA模型，忆生科技基于记忆的生成式小脑架构在多任务平均表现上提升3倍以上，且能用单一模型高质量完成多项任务，成功率超95%。 更重要的是，其核心记忆机制并不与机器人本体强耦合，能捕捉任务背后的物理与语义结构，实现跨本体（如夹爪、灵巧手、不同臂展）的技能迁移。 这正是突破产业瓶颈的关键。过去，传统机器人依赖固定编程，一旦场景或工具变化，就必须重新调参、重训。而「忆生科技」通过记忆机制承载了任务背后的空间与时间结构，让机器人完成“看—记—做—学”的闭环，从而摆脱了对海量标注数据的依赖，真正具备了举一反三的泛化能力。 杨言超表示，在面对陌生设备或新任务时，机器人通过观察人类演示即可索引相关技能、生成执行策略，进而完成所演示的任务。这不仅极大降低了部署成本，也让机器人具备了应对真实世界无限任务的进化潜力。 在商业化层面，「忆生科技」不局限于模型交付，而是搭建了覆盖全链路的四大产品矩阵： 1、EngramTeleOp智能真机遥操数据采集系统： 人机合一：采用先进的\"生成式小脑\"规律映射，代替死记硬背的点对点标定，延迟控制在10ms以内，实现\"如影随形\"的丝滑操控，保证采集数据干净平滑。 跨本体与跨地域：操作员只需5分钟部署即可上手教机器人，支持一人驾驭多种结构不同的本体。同时支持千公里公网超低延迟遥操（如上海跨地域实时遥控深圳真机）。 2、EngramEgo执行者视角运动数据采集系统： 该系统基于执行者第一视角，通过低成本轻量化穿戴设备，在非实验室真实场景中高效获取包含重心转移、躯干借力等隐性常识的高质量全人形姿态数据，扩展到真实物理世界的每一个场景。 3、EngramControl智能运动记忆控制系统： 将采集和演示数据提炼为可复用的”动作规律记忆\"，减少重复编程，使机器人具备\"观察一遍即可学会\"的零样本泛化潜力。 4、EngramNav环境记忆与导航系统： 赋予机器人记住环境物体、位置与空间布局的能力，支持大尺度非结构化越障与精准空间移动。 目前，忆生科技正重点推进两大应用路径—— 高端酒店服务场景：切入高数字化、长工时的标准化环节，覆盖制卡、洗衣房洗叠、衣物配送、客房整理等服务闭环； 高端制造柔性装配场景：深耕航空航天等领域，解决传统产线换型难的痛点，提升质量控制与协作效率。 「忆生科技」已在上海、深圳、北京、四川布局研发与数据中心，并与智元、傅立叶、银河通用等头部机器人企业完成适配合作。 马毅教授表示，具身智能正从“热闹”向“扎实”转型，忆生科技将以基础原理创新与真实数据闭环为双轮驱动，为物理世界自主智能时代提供坚实、可信赖的通用技术底座。 以下是硬氪对「忆生科技」联合创始人杨言超、石志儒的采访节选： 硬氪：你们的记忆系统大概由哪些部分构成？ 杨言超： 我们定义的记忆系统包括两部分：视觉记忆和肌肉记忆。视觉记忆是关于空间的记忆，刻画环境中的几何与物体结构；肌肉记忆是关于时间的记忆，刻画交互中的轨迹与时序结构。 硬氪：这套记忆系统在真实场景验证了吗？效果怎么样？ 杨言超： 我们已经在实际场景中进行验证，模型的规模化和产品化也是我们正在推进的事情。从效果上看，基于记忆的生成式小脑架构，相比目前的VLA架构，在多任务学习场景下有明显优势，在多任务平均表现上，相比现有VLA模型有3倍以上提升；例如一个模型同时处理咖啡制作、叠衣、沏茶等任务时，可以不更换模型，并达到95%以上的成功率。 硬氪：你们的世界模型为什么强调\"基于记忆\"？它和别人的世界模型有什么不同？ 杨言超： 目前世界模型的版本很多，如果只做三维重建或视频生成，往往缺少记忆和持续学习能力。我们的不同之处在于，我们强调世界模型必须建立在记忆机制之上：有记忆，才能积累经验；能预测，才能理解交互后果；能持续学习，才能不断适应变化的环境和任务。 我们专注的是物理世界交互，所以不会在像素级别做过度建模，而是在基于记忆的层面做世界模型，让机器人能够理解环境、记住经验、预测结果，并持续学习新任务。 硬氪：你们这套记忆系统未来只能用在机器人上吗？ 杨言超： 不是。这套基于记忆的世界模型可以用在任何自主学习系统上，包括机器狗、其他需要与物理世界交互的自主系统。只要系统需要感知环境、积累经验、预测结果并持续改进，我们的记忆系统和世界模型就有应用空间。 硬氪：你们现在比较明确的商业化场景是什么？商业化进展怎么样？ 石志儒： 我们重点关注数字化程度较高、需要长时间工作、可以被机器人替代的人力场景。比如酒店整体服务：目前酒店仍需要人做清洁、前台服务和配送，配送环节已经有物流机器人在解决，但更完整的无人化自助酒店还在发展中，包括前台服务、洗衣房洗衣、物品递送、客房内轻量整理和清洁等。 酒店环境相对可控，适合智能体部署和验证，所以我们会从洗衣、叠衣、衣物配送、前台接待、制卡、基础客户服务这些场景入手，逐步打造自己的场景闭环。 我们也在探索工业生产中安全质量要求较高的场景，比如航空航天领域的飞行器制造。飞机、火箭、卫星制造通常有较好的数字化模型和\"脉动工厂\"等信息化系统，适合我们的大小脑解决方案落地。 这类场景不只是为了替代人力，更重要的是提升柔性生产和质量控制能力。当工具、步骤或场景发生变化时，传统编程式产线和协作机器臂往往需要重新部署，而我们希望用具身智能算法和记忆体，让机器人更快部署、更自然地与人协作。 硬氪：你们现在有哪些硬件合作伙伴和客户？ 石志儒： 我们的定位是通用具身智能底座与技能服务商，这决定了我们拥有极其开放和包容的生态合作圈。 由于我们自研了EngramMotorNeuron（跨本体控制转译引擎），能够将小脑所学习的能力进行跨异构本体的高效重定向。在深圳、北京等地，我们也已与银河通用、跨维智能等多家一线具身智能与运控上游企业，完成了“带记忆”的运动控制和灵巧操作适配，验证了我们跨异构本体技能迁移的通用性。 我们目前正与部分头部制造型企业开展深度的场景落地合作，例如拥有空客（Airbus）背景的飞机零部件制造商，共同探索在高端制造“脉动工厂”信息化系统下，将“大脑+小脑”方案嵌入到现有的协作机械臂和生产流程中，实现高柔性的敏捷装配。 除了上海总部和深圳研发基地外，我们在四川专门布局了一个前沿数据研发中心。四川中心的核心战略目标是聚焦灵巧手、触觉传感的高频力触觉反馈，重点攻坚精细化灵巧操作，并大规模开展灵巧手交互数据集的采集与自适应应用适配。这为我们未来全场景、长时序复合任务的“技能订阅（Skill Service）”源源不断地供给最顶尖的技能储备。 首页图源 | 企业供图 排版｜范馨雅 欢迎交流",
+            "category": "capital",
+            "discovered_via": "https://36kr.com/feed",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": null
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "忆生科技完成数亿元天使轮融资，由港大马毅等教授创立，定位机器人“记忆系统”和通用具身智能底座，产品包括遥操数据采集、第一视角运动数据采集、运动记忆控制、环境记忆与导航；拟落地酒店服务和高端制造柔性装配，并称已与多家机器人企业适配合作。相关性能数据、客户合作深度和商业收入需要进一步核实。",
+            "why_important": "这是具身智能底层能力与资本活跃信号，短期与奥哲·云枢企业流程/低代码主业不直接竞争；但其“记忆、持续学习、技能服务、场景闭环”思路对企业Agent和流程自动化有借鉴意义。若未来机器人进入酒店、制造等企业场景，可能带来“数字流程+物理执行”一体化的新集成需求。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 4,
+              "core_relevance": 2,
+              "big_tech_strategy": 1,
+              "capital_signal": 4,
+              "product_signal": 4,
+              "competitive_impact": 2
+            }
+          },
+          "score": {
+            "trend_impact": 4,
+            "core_relevance": 2,
+            "big_tech_strategy": 1,
+            "capital_signal": 4,
+            "product_signal": 4,
+            "competitive_impact": 2,
+            "content_value": 17,
+            "source_weight": 90,
+            "competitor_relevance": 70,
+            "total": 42,
+            "level": "收录备选"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_70d49377358698e095d1",
+          "fingerprint": "70d49377358698e095d1",
+          "primary": {
+            "id": "e14c2d1aa503be8c9f4d4220",
+            "title": "Azure Functions在Build 2026发布Serverless智能体运行时",
+            "url": "https://www.infoq.cn/article/kGHZu2K5V8IrwYvo6Cm3",
+            "source_name": "InfoQ",
+            "source_type": "media",
+            "source_tier": "authoritative",
+            "published_at": "2026-07-06T09:19:08Z",
+            "summary": "点击查看原文>",
+            "category": "product",
+            "discovered_via": "https://www.infoq.cn/feed",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": null
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "InfoQ标题称Azure Functions在Build 2026发布Serverless智能体运行时；摘要缺失，发布时间、功能细节和正式可用性需进一步核实。",
+            "why_important": "若属实，微软正在把Agent运行时纳入云原生Serverless体系，可能推动企业Agent开发、部署、弹性伸缩和治理标准化；对云枢AI Agent运行底座和集成能力有较高参考价值。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 5,
+              "core_relevance": 4,
+              "big_tech_strategy": 5,
+              "capital_signal": 0,
+              "product_signal": 5,
+              "competitive_impact": 4
+            }
+          },
+          "score": {
+            "trend_impact": 5,
+            "core_relevance": 4,
+            "big_tech_strategy": 5,
+            "capital_signal": 0,
+            "product_signal": 5,
+            "competitive_impact": 4,
+            "content_value": 23,
+            "source_weight": 90,
+            "competitor_relevance": 35,
+            "total": 39,
+            "level": "收录备选"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_d94b74480c093a6a42f7",
+          "fingerprint": "d94b74480c093a6a42f7",
+          "primary": {
+            "id": "f0de27c37c69d3668236d6d0",
+            "title": "跨境电商风向转变：新生代不再只拼价格，开始争“定价权”丨最前线",
+            "url": "https://36kr.com/p/3883561480876297?f=rss",
+            "source_name": "36氪",
+            "source_type": "media",
+            "source_tier": "authoritative",
+            "published_at": "2026-07-06T02:43:23Z",
+            "summary": "作者丨欧雪 编辑丨最前线 6月30日，亚马逊全球开店与福布斯中国联合发布“2026福布斯中国新生代跨境电商30人评选”，30位入选者平均年龄仅35岁，95后已开始崭露头角。 入选者既有3D打印、庭院机器人、AI助听器等硬核科技赛道的开拓者，也有家具、家居、服装等传统产业的变革者。他们来自广东、浙江、江苏三省，占比超过75%。更重要的是，这些年轻创业者共同票选出了三个年度关键词：“星辰大海”、“快与慢”和“定价权”。 这三个词背后的指向也很有意思：全球化视野、长期主义决心，以及跳出价格战的野心。 过去一年，昂听ELEHEAR在美国亚马逊助听器类目做到品牌第一。创始人苗健彰长期深耕AI声学算法，2021年切入助听器赛道，走了一条“很慢”的路——全栈自研。 硬氪了解到，助听器行业有一个长期矛盾：传统医疗级产品性能好但价格高昂，线上廉价产品体验糟糕，啸叫、降噪差等问题普遍存在。 昂听ELEHEAR的做法是打造全新的AI助听器+远程实时验配模式，自研VOCCLEAR® AI算法，在低功耗、低延迟的苛刻约束下解决声音处理问题，同时通过自建产线和D2C，重构助听器销售链条。2024年10月，昂听ELEHEAR推出旗舰产品BEYOND，定价399美元，以一个全新、普惠的价格带撬动市场。早期种子用户反馈，399产品性能接近高端3000-4000美元助听器，又比以往100美元以下低质产品具有更完整、专业的助听服务体系。 同样从技术切入的还有深圳汉阳科技的黄阳，历时8年打造出Yarbo智能庭院机器人，填补消费级扫雪机器人的产业化空白。BOCOMAL波科马的谢秀臻则通过自主研发新型轻量化阻燃材料，将防护服装重量降低35%、透气性提升50%，上线首年单品销量突破15万件。 这些案例的共同特征是：不再靠“中国制造”的成本优势打价格战，而是用技术建立自己的定价权。 在运营端，AI的应用正在从单点提效升级为系统级的基础设施。亚马逊调研显示，超过98%的受访中国卖家已在运营中使用AI工具，其中16%已进阶到部署AI工作流或智能体。 哈库拉玛塔达是这一趋势的典型。创始人孙翔以4人团队起步，两年半做到2500万美元营收，在母婴睡眠细分品类做到亚马逊美国第一。背后是一套由20多个定时启动的AI智能体、6个常驻机器人构成的运营系统，7×24小时自动运转。 这套系统的核心不是“写文案”，而是“听用户”。孙翔团队用AI扫描4000多条评论后发现，美国市场消费者选购婴儿睡袋时最看重的卖点是“双向拉链”，而非团队自以为重要的“静音魔术贴”——背后是美国家长对换尿布便利性的真实需求。过去这种洞察需要大量试错，现在AI直接给出了答案。 更值得关注的是AI正在参与组织决策。哈库拉玛塔达内部搭建了一个“业务大脑”Agent，掌握公司战略、供应链、各成员能力等全部信息，对下属AI生成的建议进行筛选和判断。 本质上，AI已经从执行工具变成了管理系统的一部分。 在浙江温州，95后黄强帅接手的家族锅具工厂走了一条不同于纯品牌或纯代工的路线——“OEM+ODM+自有品牌”三轮驱动。 他留学期间就开始做跨境电商，2020年回到温州。起初自有品牌和工厂代工是两条并行线，直到他把两者“并轨”。电商团队先把自己当成工厂的“客户”，从市场需求出发反向给工厂下订单。积累的消费者数据被用来在OEM客户提出需求之前预判产品方向，甚至在提案时直接告诉客户“你有潜在问题，我能解决”。 这套模式带来的变化是：部分线下商超客户不再要求贴牌，而是主动提出“能不能用你的品牌卖”。工厂从被动接单者变成了有品牌资产的一方。 黄强帅还在发起一个跨境OPC创业社区（One Person Company，一人公司），通过共享仓储、物流、合规资源和五年积累的知识库，降低年轻人创业门槛。“我们不求前三年盈利，”他说，“先一起把项目跑起来。”",
+            "category": "product",
+            "discovered_via": "https://36kr.com/feed",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": null
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "亚马逊全球开店与福布斯中国发布新生代跨境电商榜单，报道显示跨境卖家从价格战转向技术、品牌和“定价权”；同时提到超过98%受访中国卖家使用AI工具，16%已部署AI工作流或智能体，部分团队用多智能体系统支撑运营和决策。",
+            "why_important": "对奥哲·云枢有一定参考价值：跨境电商场景正在从单点AI提效走向流程化、智能体化和经营决策辅助，说明中小企业/出海企业对AI工作流、业务数据闭环、运营自动化有真实需求。但报道为媒体案例集合，调研样本、AI系统可复制性和采购预算需要进一步核实。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 4,
+              "core_relevance": 4,
+              "big_tech_strategy": 3,
+              "capital_signal": 2,
+              "product_signal": 4,
+              "competitive_impact": 3
+            }
+          },
+          "score": {
+            "trend_impact": 4,
+            "core_relevance": 4,
+            "big_tech_strategy": 3,
+            "capital_signal": 2,
+            "product_signal": 4,
+            "competitive_impact": 3,
+            "content_value": 20,
+            "source_weight": 90,
+            "competitor_relevance": 45,
+            "total": 39,
+            "level": "收录备选"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_1c45f7fa57792312aa32",
+          "fingerprint": "1c45f7fa57792312aa32",
+          "primary": {
+            "id": "551540dd1e371675721a9f06",
+            "title": "豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报",
+            "url": "https://www.infoq.cn/article/rs0HJTRdN6Pl88LIFh1a",
+            "source_name": "InfoQ",
+            "source_type": "media",
+            "source_tier": "authoritative",
+            "published_at": "2026-07-06T10:22:58Z",
+            "summary": "点击查看原文>",
+            "category": "industry",
+            "discovered_via": "https://www.infoq.cn/feed",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": null
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "InfoQ AI周报标题称豆包、千问关停智能体功能，并提到腾讯研发token额度、美团限制豆包、阿里禁Claude Code等；摘要缺失，均需进一步核实。",
+            "why_important": "若属实，说明大厂内部对AI Agent、代码工具和模型使用正在加强管控，涉及数据安全、成本控制和供应商依赖；对云枢在企业AI治理、权限、审计、私有化部署上的产品设计有参考意义。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 4,
+              "core_relevance": 3,
+              "big_tech_strategy": 4,
+              "capital_signal": 1,
+              "product_signal": 3,
+              "competitive_impact": 3
+            }
+          },
+          "score": {
+            "trend_impact": 4,
+            "core_relevance": 3,
+            "big_tech_strategy": 4,
+            "capital_signal": 1,
+            "product_signal": 3,
+            "competitive_impact": 3,
+            "content_value": 18,
+            "source_weight": 90,
+            "competitor_relevance": 35,
+            "total": 36,
+            "level": "收录备选"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_7b29fc2d5aa25304ede0",
+          "fingerprint": "7b29fc2d5aa25304ede0",
+          "primary": {
+            "id": "e03f4c855cf0d4a0886aab61",
+            "title": "Karpathy最新Agent观点：大厂并没有掌握智能体核心技术，个人开发者正称霸前沿",
+            "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA%3D%3D&idx=1&mid=2247516084&sn=f9df35bb4cac775eabd8a0eb4f28cd24",
+            "source_name": "公众号：AI寒武纪",
+            "source_type": "media",
+            "source_tier": "ordinary",
+            "published_at": "2026-07-05T08:34:00Z",
+            "summary": "",
+            "category": "industry",
+            "discovered_via": "BestBlogs WeChat2RSS",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": null
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "媒体转述Karpathy关于Agent的观点：大厂并未掌握智能体核心技术，个人开发者正处于前沿；摘要为空，具体论据需要进一步核实。",
+            "why_important": "若观点成立，说明Agent技术路线仍未被大厂垄断，独立开发者和小团队可能带来产品创新。云枢可关注轻量Agent、工作流自动化和开发者生态，但不宜据此作竞争结论。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 3,
+              "core_relevance": 3,
+              "big_tech_strategy": 3,
+              "capital_signal": 1,
+              "product_signal": 4,
+              "competitive_impact": 3
+            }
+          },
+          "score": {
+            "trend_impact": 3,
+            "core_relevance": 3,
+            "big_tech_strategy": 3,
+            "capital_signal": 1,
+            "product_signal": 4,
+            "competitive_impact": 3,
+            "content_value": 17,
+            "source_weight": 45,
+            "competitor_relevance": 35,
+            "total": 26,
+            "level": "收录备选"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_d01c8df5f330606cc617",
+          "fingerprint": "d01c8df5f330606cc617",
+          "primary": {
+            "id": "6eaceee3dfd65b33118d4b99",
+            "title": "速卖通首发618中国品牌出海成交榜；智平方最新融资50亿元、估值破200亿｜36氪出海·要闻回顾",
+            "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw%3D%3D&idx=2&mid=2248894488&sn=f1bafd938844564dc5cbd5001f017c55",
+            "source_name": "公众号：36氪",
+            "source_type": "media",
+            "source_tier": "authoritative",
+            "published_at": "2026-07-05T13:30:00Z",
+            "summary": "本周出海动态速览",
+            "category": "capital",
+            "discovered_via": "BestBlogs WeChat2RSS",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": null
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "36氪出海要闻回顾，标题涉及速卖通发布618中国品牌出海成交榜，以及智平方融资50亿元、估值超200亿元。摘要仅为“本周出海动态速览”，细节需要进一步核实。",
+            "why_important": "对奥哲·云枢的直接相关性有限。若智平方属于AI/机器人/智能体方向，融资规模可能反映资本继续集中投入AI硬科技；速卖通出海榜对企业数字化、跨境业务客户需求有间接参考，但需核实榜单行业结构与企业服务需求。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 2,
+              "core_relevance": 1,
+              "big_tech_strategy": 1,
+              "capital_signal": 3,
+              "product_signal": 1,
+              "competitive_impact": 1
+            }
+          },
+          "score": {
+            "trend_impact": 2,
+            "core_relevance": 1,
+            "big_tech_strategy": 1,
+            "capital_signal": 3,
+            "product_signal": 1,
+            "competitive_impact": 1,
+            "content_value": 9,
+            "source_weight": 90,
+            "competitor_relevance": 10,
+            "total": 25,
+            "level": "收录备选"
+          },
+          "is_material_update": true
+        }
+      ],
+      "industry_trends": [
+        "企业AI正在从“单点工具试用”进入“可治理的流程化落地”阶段：跨境电商卖家中AI工具普及率高，但真正部署AI工作流/智能体的比例仍较低，说明客户需求已从提效工具转向数据闭环、流程编排、经营决策辅助和可复制的业务模板。对云枢而言，机会不在单纯接入大模型，而在把Agent嵌入订单、营销、客服、供应链、审批等端到端流程。",
+        "大厂对智能体与代码工具的收紧信号值得关注：豆包、千问智能体能力调整，以及企业内部限制特定AI工具的传闻，反映客户在AI落地中越来越关注数据安全、成本额度、供应商依赖和审计合规。企业级AI平台竞争将从“谁能力更强”转向“谁能被IT、法务、财务共同接受”。",
+        "AI云与MaaS市场呈现头部集中趋势，阿里云等全栈AI云厂商在算力、模型服务和平台层占据强势位置。低代码/企业应用平台需要避免被底层云厂商完全绑定，产品方向上应强化多模型、多云、私有化/混合部署、统一权限与成本管理能力。",
+        "AI基础设施成本和供给不确定性仍在上升：国产AI芯片先进制程产能、存储涨价、海外超大厂资本开支预期等因素，都可能影响模型调用、私有化部署和推理成本。企业客户会更重视ROI可量化、任务级成本控制和轻量化模型/工作流优化。",
+        "具身智能和机器人底座持续升温，但短期与企业流程平台不是直接竞争关系。其“记忆系统、技能服务、持续学习、场景闭环”的产品思路，对企业Agent有借鉴意义：未来企业智能体也需要长期记忆、任务状态管理、权限边界和跨系统动作执行。更长期看，酒店、制造等场景可能出现“数字流程+物理执行”的集成需求。"
+      ],
+      "capital_moves": [
+        "忆生科技完成数亿元天使轮融资，资本继续押注机器人记忆系统、具身智能底层能力和通用机器人软件栈。该方向说明AI投资正在从纯语言模型外溢到“可执行、可持续学习、可进入真实场景”的系统能力。",
+        "光象科技获得数亿元融资，主攻物理原生基座模型，显示具身智能/物理世界建模仍是AI早期资本热点。短期商业化仍需验证，但资本正在寻找大模型之后的新底座叙事。",
+        "量子计算领域出现资本和IPO升温信号，包括本源量子近30亿元Pre-IPO融资、海外Quantinuum上市及高市值表现等。该方向对企业应用平台短期影响有限，但反映资金正在流向高门槛算力与基础科技资产。",
+        "存储涨价与Meta等超大厂AI资本开支预期上行，虽非单一融资事件，但表明AI基础设施仍是全球资本开支主线。其结果可能推高企业AI部署成本，并加剧云资源、芯片、存储产业链的价格波动。"
+      ]
+    },
+    "2026-07-03": {
+      "date": "2026-07-03",
+      "generated_at": "2026-07-03T10:50:35+08:00",
+      "top6": [
+        {
+          "id": "evt_9884844dbf6505b68a4a",
+          "fingerprint": "9884844dbf6505b68a4a",
+          "primary": {
+            "id": "cmr3a67dj01zusly043ms4axe",
+            "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
+            "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
+            "source_name": "MarkTechPost（RSS）",
+            "source_type": "aihot",
+            "source_tier": "aihot_selected",
+            "published_at": "2026-07-02T08:46:56Z",
+            "summary": "ghealth 是一款封装 Google Health API v4 的开源命令行工具，以单个 Go 二进制文件发布（Apache 2.0 协议）。它提供 40 种已验证的数据类型（包括步数、心率、睡眠、体重、血氧饱和度、心率变异性等）的结构化 JSON 输出。工具采用 Agent 优先设计，具备确定性退出码、--dry-run 和 --raw 标志，并附带两个 SKILL.md 文件供 AI 智能体使用。用户需自行创建 OAuth 凭据，通过 PKCE S256 认证。数据来源覆盖 Fitbit、Pixel Watch 及连接的第三方设备。",
+            "category": "ai-products",
+            "discovered_via": "AI HOT 精选",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": 72
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "ghealth 是一款封装 Google Health API v4 的开源命令行工具，以单个 Go 二进制文件发布（Apache 2.0 协议）。它提供 40 种已验证的数据类型（包括步数、心率、睡眠、体重、血氧饱和度、心率变异性等）的结构化 JSON 输出。工具采用 Agent 优先设计，具备确定性退出码、--dry-run 和 --raw 标志，并附带两个 SKILL.md 文件供 AI 智能体使用。用户需自行创建 OAuth 凭据，通过 PKCE S256 认证。数据来源覆盖 Fitbit、Pixel Watch 及连接的第三方设备。",
+            "why_important": "该事件命中企业 AI 核心方向，但 AI 深度分析暂时不可用，需要结合原文进一步判断。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "OpenAI 连续调用失败；当前为规则降级判断，需要进一步核实。",
+            "content_scores": {
+              "trend_impact": 12,
+              "core_relevance": 15,
+              "big_tech_strategy": 5,
+              "capital_signal": 2,
+              "product_signal": 12,
+              "competitive_impact": 6
+            }
+          },
+          "score": {
+            "trend_impact": 12,
+            "core_relevance": 15,
+            "big_tech_strategy": 5,
+            "capital_signal": 2,
+            "product_signal": 12,
+            "competitive_impact": 6,
+            "content_value": 52,
+            "source_weight": 100,
+            "competitor_relevance": 35,
+            "total": 58,
+            "level": "一般关注"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_fe950477ac119e21ad54",
+          "fingerprint": "fe950477ac119e21ad54",
+          "primary": {
+            "id": "cmr3wzycy008tslnxrw3opnfn",
+            "title": "Microsoft 成立\"Frontier Company\"，斥资 25 亿美元派驻 6000 名 AI 工程师到企业客户现场",
+            "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
+            "source_name": "The Decoder：AI News（RSS）",
+            "source_type": "aihot",
+            "source_tier": "aihot_selected",
+            "published_at": "2026-07-02T19:18:29Z",
+            "summary": "Microsoft 新设业务部门\"Frontier Company\"，拨款 25 亿美元，将 6000 名行业与工程专家派驻企业客户现场，\"共同设计、共同创新、部署并持续改进 AI 系统\"。该部门由 Rodrigo Kede Lima 领导，旨在超越\"前部署工程\"模式，成为\"最大、以结果为导向的工程组织\"。Microsoft 将自己定位为 OpenAI 和 Anthropic 的\"平台中立\"替代方案，后两者也已设立专门部署公司。Microsoft 将借助埃森哲、凯捷、安永等系统集成商扩大覆盖范围。",
+            "category": "industry",
+            "discovered_via": "AI HOT 精选",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": 78
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "Microsoft 新设业务部门\"Frontier Company\"，拨款 25 亿美元，将 6000 名行业与工程专家派驻企业客户现场，\"共同设计、共同创新、部署并持续改进 AI 系统\"。该部门由 Rodrigo Kede Lima 领导，旨在超越\"前部署工程\"模式，成为\"最大、以结果为导向的工程组织\"。Microsoft 将自己定位为 OpenAI 和 Anthropic 的\"平台中立\"替代方案，后两者也已设立专门部署公司。Microsoft 将借助埃森哲、凯捷、安永等系统集成商扩大覆盖范围。",
+            "why_important": "该事件命中企业 AI 核心方向，但 AI 深度分析暂时不可用，需要结合原文进一步判断。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "OpenAI 连续调用失败；当前为规则降级判断，需要进一步核实。",
+            "content_scores": {
+              "trend_impact": 12,
+              "core_relevance": 15,
+              "big_tech_strategy": 5,
+              "capital_signal": 2,
+              "product_signal": 5,
+              "competitive_impact": 6
+            }
+          },
+          "score": {
+            "trend_impact": 12,
+            "core_relevance": 15,
+            "big_tech_strategy": 5,
+            "capital_signal": 2,
+            "product_signal": 5,
+            "competitive_impact": 6,
+            "content_value": 45,
+            "source_weight": 100,
+            "competitor_relevance": 35,
+            "total": 54,
+            "level": "一般关注"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_7dfd20a8cfeb66ffb025",
+          "fingerprint": "7dfd20a8cfeb66ffb025",
+          "primary": {
+            "id": "cmr3yrwnf00e1slw21f16oh2d",
+            "title": "关于Mythos和网络安全的讨论并非炒作",
+            "url": "https://x.com/emollick/status/2072778376494895139",
+            "source_name": "X：Ethan Mollick (@emollick)",
+            "source_type": "aihot",
+            "source_tier": "aihot_selected",
+            "published_at": "2026-07-02T20:24:09Z",
+            "summary": "关于Mythos和网络安全的讨论并非炒作。\n（正如任何使用Fable进行自主工作的人可能已经认识到的那样。）",
+            "category": "paper",
+            "discovered_via": "AI HOT 精选",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": 77
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "关于Mythos和网络安全的讨论并非炒作。\n（正如任何使用Fable进行自主工作的人可能已经认识到的那样。）",
+            "why_important": "该事件命中企业 AI 核心方向，但 AI 深度分析暂时不可用，需要结合原文进一步判断。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "OpenAI 连续调用失败；当前为规则降级判断，需要进一步核实。",
+            "content_scores": {
+              "trend_impact": 12,
+              "core_relevance": 15,
+              "big_tech_strategy": 5,
+              "capital_signal": 2,
+              "product_signal": 5,
+              "competitive_impact": 6
+            }
+          },
+          "score": {
+            "trend_impact": 12,
+            "core_relevance": 15,
+            "big_tech_strategy": 5,
+            "capital_signal": 2,
+            "product_signal": 5,
+            "competitive_impact": 6,
+            "content_value": 45,
+            "source_weight": 100,
+            "competitor_relevance": 0,
+            "total": 47,
+            "level": "收录备选"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_e4950fe8f72c618b32b5",
+          "fingerprint": "e4950fe8f72c618b32b5",
+          "primary": {
+            "id": "cmr3fluhr00i3sllxli2a5uko",
+            "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+            "url": "https://x.com/shao__meng/status/2072644710523691110",
+            "source_name": "X：邵猛 (@shao__meng)",
+            "source_type": "aihot",
+            "source_tier": "aihot_selected",
+            "published_at": "2026-07-02T11:33:01Z",
+            "summary": "browser-use 团队推出面向 Codex、Claude Code 等 AI 编码智能体的开源 Skill「video-use」，让 LLM 通过 ElevenLabs Scribe 将音频转写为约 12KB 文本（含逐词时间戳、说话人分离、事件标记），仅在决策点调用 timeline_view.py 生成 PNG 帧图。技术流水线包括转写、打包、生成 JSON 格式 EDL、ffmpeg 渲染及最多 3 轮自评估。渲染关键细节：分段提取 + `-c copy` 拼接、30ms 音频淡入淡出、PTS 时移、字幕最后叠加、HDR 自动映射、竖屏缩放、两-pass loudnorm。动画支持 HyperFrames、Remotion、Manim 等引擎。项目附带 12 条硬规则确保生产正确性。",
+            "category": "tip",
+            "discovered_via": "AI HOT 精选",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": 79
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "browser-use 团队推出面向 Codex、Claude Code 等 AI 编码智能体的开源 Skill「video-use」，让 LLM 通过 ElevenLabs Scribe 将音频转写为约 12KB 文本（含逐词时间戳、说话人分离、事件标记），仅在决策点调用 timeline_view.py 生成 PNG 帧图。技术流水线包括转写、打包、生成 JSON 格式 EDL、ffmpeg 渲染及最多 3 轮自评估。渲染关键细节：分段提取 + `-c copy` 拼接、30ms 音频淡入淡出、PTS 时移、字幕最后叠加、HDR 自动映射、竖屏缩放、两-pass loudnorm。动画支持 HyperFrames、Remotion、Manim 等引擎。项目附带 12 条硬规则确保生产正确性。",
+            "why_important": "该事件命中企业 AI 核心方向，但 AI 深度分析暂时不可用，需要结合原文进一步判断。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "OpenAI 连续调用失败；当前为规则降级判断，需要进一步核实。",
+            "content_scores": {
+              "trend_impact": 12,
+              "core_relevance": 15,
+              "big_tech_strategy": 5,
+              "capital_signal": 2,
+              "product_signal": 12,
+              "competitive_impact": 6
+            }
+          },
+          "score": {
+            "trend_impact": 12,
+            "core_relevance": 15,
+            "big_tech_strategy": 5,
+            "capital_signal": 2,
+            "product_signal": 12,
+            "competitive_impact": 6,
+            "content_value": 52,
+            "source_weight": 100,
+            "competitor_relevance": 35,
+            "total": 58,
+            "level": "一般关注"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_d79b65be4a0304be6da4",
+          "fingerprint": "d79b65be4a0304be6da4",
+          "primary": {
+            "id": "cmr2x7ii20c2jsl8zygz5iw9n",
+            "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
+            "url": "https://www.ithome.com/0/971/469.htm",
+            "source_name": "IT之家（RSS）",
+            "source_type": "aihot",
+            "source_tier": "aihot_selected",
+            "published_at": "2026-07-02T02:51:10Z",
+            "summary": "支付宝阿宝 AI 助手今日正式开放公测，iOS 和安卓用户可在应用商店或支付宝 App 搜索\"阿宝\"或\"蚂蚁阿宝\"直接体验。开通后右滑进入新版，以对话方式安排办事，例如说出\"查公积金\"，阿宝会自动匹配对应小程序和服务入口，用户点击确认即可完成。支付宝承诺所有资金变动与支付环节均需用户本人确认，扫码、转账等功能已预留入口。",
+            "category": "ai-products",
+            "discovered_via": "AI HOT 精选",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": 80
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "支付宝阿宝 AI 助手今日正式开放公测，iOS 和安卓用户可在应用商店或支付宝 App 搜索\"阿宝\"或\"蚂蚁阿宝\"直接体验。开通后右滑进入新版，以对话方式安排办事，例如说出\"查公积金\"，阿宝会自动匹配对应小程序和服务入口，用户点击确认即可完成。支付宝承诺所有资金变动与支付环节均需用户本人确认，扫码、转账等功能已预留入口。",
+            "why_important": "该事件命中企业 AI 核心方向，但 AI 深度分析暂时不可用，需要结合原文进一步判断。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "OpenAI 连续调用失败；当前为规则降级判断，需要进一步核实。",
+            "content_scores": {
+              "trend_impact": 12,
+              "core_relevance": 15,
+              "big_tech_strategy": 5,
+              "capital_signal": 2,
+              "product_signal": 5,
+              "competitive_impact": 6
+            }
+          },
+          "score": {
+            "trend_impact": 12,
+            "core_relevance": 15,
+            "big_tech_strategy": 5,
+            "capital_signal": 2,
+            "product_signal": 5,
+            "competitive_impact": 6,
+            "content_value": 45,
+            "source_weight": 100,
+            "competitor_relevance": 10,
+            "total": 49,
+            "level": "收录备选"
+          },
+          "is_material_update": true
+        },
+        {
+          "id": "evt_f5032a0566dac2d09ed2",
+          "fingerprint": "f5032a0566dac2d09ed2",
+          "primary": {
+            "id": "7de690db09522a81df3efccc",
+            "title": "亚马逊云科技推出 Lambda MicroVM，提供隔离式智能体与用户代码运行环境",
+            "url": "https://www.infoq.cn/article/QbFT0uMbBd8rcZ0zEfit",
+            "source_name": "InfoQ",
+            "source_type": "media",
+            "source_tier": "authoritative",
+            "published_at": "2026-07-02T17:18:00Z",
+            "summary": "点击查看原文>",
+            "category": "ai-coding",
+            "discovered_via": "https://www.infoq.cn/feed",
+            "competitor_names": [],
+            "verified": true,
+            "raw_score": null
+          },
+          "related_sources": [],
+          "analysis": {
+            "what": "亚马逊云科技推出 Lambda MicroVM，定位为隔离式智能体与用户代码运行环境；摘要缺失，产品能力、发布时间、适用场景和定价需要进一步核实。",
+            "why_important": "如果属实，AWS 正在为 AI Agent 执行用户代码提供更安全的运行沙箱，可能成为企业 Agent 平台的基础设施标准。对奥哲·云枢在企业智能体编排、插件执行、安全隔离方面有产品参考价值。",
+            "company_relation": "",
+            "opportunity": "",
+            "risk": "",
+            "action": "",
+            "uncertainty": "",
+            "content_scores": {
+              "trend_impact": 8,
+              "core_relevance": 7,
+              "big_tech_strategy": 8,
+              "capital_signal": 2,
+              "product_signal": 8,
+              "competitive_impact": 6
+            }
+          },
+          "score": {
+            "trend_impact": 8,
+            "core_relevance": 7,
+            "big_tech_strategy": 8,
+            "capital_signal": 2,
+            "product_signal": 8,
+            "competitive_impact": 6,
+            "content_value": 39,
+            "source_weight": 90,
+            "competitor_relevance": 35,
+            "total": 48,
+            "level": "收录备选"
+          },
+          "is_material_update": true
+        }
+      ],
+      "industry_trends": [
+        "企业级 AI 正从“工具采购”进入“现场共创+持续运营”阶段。Microsoft 派驻大规模工程团队到客户现场，说明头部厂商判断企业 AI 的瓶颈不在模型调用，而在行业流程重构、系统集成、权限治理和效果闭环；这会抬高客户对供应商交付能力、行业 Know-how 和结果负责的预期。",
+        "Agent 产品形态正在从独立聊天窗口转向嵌入既有工作流。支付宝阿宝、Skywork Tags 接入群聊、Page Agent 操控网页 DOM 等信号表明，用户更愿意在原有 App、群聊、表单和业务页面中调用 AI，而不是切换到新入口；企业应用厂商需要把 AI 能力做成流程节点、页面副驾、群组助手和跨系统执行器。",
+        "企业客户对 AI 的关注点明显转向“可控、可审计、可计费”。Claude Enterprise 增加用量与成本分析，花旗、Adobe、Atlassian 等限制旗舰模型使用，说明大模型成本正在成为规模化落地的硬约束；未来企业 AI 平台需要内置模型路由、额度管理、部门成本归因、ROI 仪表盘和高低模型分层策略。",
+        "Agent 规模化落地仍处在从演示到生产的过渡期。Meta 承认智能体开发速度不及预期，行业讨论也集中在落地僵局，意味着“全自动通用 Agent”短期难以成为可靠方案；更可行的产品方向是围绕高频、规则清晰、可审批、可回滚的企业流程做半自动化与人机协同。",
+        "AI 执行环境和安全沙箱将成为企业 Agent 基础设施竞争点。AWS Lambda MicroVM、网页 DOM 操控、AI 编码 Skill、Agent 调用外部工具等事件共同指向一个问题：当 AI 开始执行代码、操作页面、调用插件时，客户会更重视隔离运行、权限边界、审计日志、风险操作确认和后端校验。云枢类平台可将这些能力作为企业级差异化。"
+      ],
+      "capital_moves": [
+        "Microsoft 设立 Frontier Company 并投入 25 亿美元、配置 6000 名行业与工程专家，本质上是将资本从单纯模型和云基础设施扩张，进一步投向企业 AI 交付网络与客户现场运营能力，显示大厂竞争正在从“谁有模型”转向“谁能把 AI 落到业务结果”。",
+        "OpenAI 被报道提议向美国政府提供约 5% 股权、对应约 426 亿美元价值，反映顶级 AI 公司与国家资本、公共利益和监管合法性之间的绑定加深；若推进，将强化 AI 基础设施和模型公司的准公共属性，也可能影响未来大模型行业的治理和融资结构。",
+        "AI 成本失控正在改变企业内部资本开支和采购策略。多家企业限制高端模型使用、转向较低成本模型或开源模型，说明资本流向不会只追逐最强模型，也会流向成本治理、模型路由、私有化部署、开源模型适配和企业级 FinOps 工具。"
+      ]
+    },
+    "2026-06-25": {
+      "date": "2026-06-25",
+      "generated_at": "2026-06-25T10:42:21+08:00",
+      "top6": [],
+      "industry_trends": [
+        "云厂商正在向上进入企业Agent平台。火山、AWS、Google等从模型、云资源延伸到Agent编排、工具调用、连接器、安全治理和企业入口，对应用平台形成平台级竞争。",
+        "Agent交互形态从聊天框走向业务现场。Claude群聊Agent、Notion内嵌编码智能体、盈透证券接入Grok生成交易指令，说明Agent正在嵌入协作、文档、金融交易等具体工作流。",
+        "AI应用从通用助手转向岗位化、流程化、可审计。医疗AI圆桌、企业Agent工程讨论均强调私有化部署、多智能体流程、数据闭环和高合规要求，利好具备流程、权限、集成能力的平台。",
+        "多模型与数据治理成为企业AI基础能力。OpenRouter零数据留存实践显示，客户会越来越关注模型路由、数据留存、API Key权限、请求级审计和合规边界。"
+      ],
+      "capital_moves": [
+        "影眸科技Hyper3D完成数亿元新融资，反映3D生成等垂直AI应用仍能获得资本支持，商业化重点集中在可控编辑、B端API、私有化部署和生产流程嵌入。"
+      ]
+    },
+    "2026-06-23": {
+      "date": "2026-06-23",
+      "generated_at": "2026-06-23T14:46:51+08:00",
+      "top6": [],
+      "industry_trends": [
+        "企业AI产品正在从“聊天助手”转向“业务经营Agent”：阿里悟空面向电商商家经营，值得买科技讨论Agent参与用户决策，说明Agent正在进入营销、经营、客服、投放等具体业务链路。",
+        "Agent平台化趋势增强：多智能体编排、跨语言Agent协作协议、面向Agent的版本管理工具Oak等事件显示，行业开始补齐Agent开发、协作、治理和运维基础设施。",
+        "AI治理重要性上升：‘AI治理清单：LLM架构先行’提示企业在引入大模型和Agent时，需要同步建设架构、权限、审计、数据边界与风险控制，而非只做前端应用。",
+        "空间智能、具身智能继续吸引关注：昆仑行90天融资数十亿元、映界科技押注空间智能，说明资本和创业团队仍在加码物理世界AI能力，但其对云枢短期业务影响弱于企业Agent和流程自动化。"
+      ],
+      "capital_moves": [
+        "具身智能创业公司昆仑行被报道注册约90天即完成数十亿元融资，需核实融资轮次、投资方和估值，但反映具身智能仍是资本高热方向。",
+        "快手系AI芯片公司被报道再融资数亿元，且销量近十万颗、视频压缩性能对标英伟达，显示AI算力与垂直芯片仍具融资吸引力。",
+        "火山引擎总裁表示暂无拆分独立上市相关计划，属于资本预期澄清，不构成明确融资或上市动作。",
+        "Google DeepMind被报道向A24投资7500万美元并合作开发电影AI工具，体现大模型公司通过战略投资进入垂直内容工具链。"
+      ]
+    },
+    "2026-06-22": {
+      "date": "2026-06-22",
+      "generated_at": "2026-06-22T17:35:48+08:00",
+      "top6": [],
+      "industry_trends": [
+        "企业AI平台正在向一体化收敛：模型接入、RAG、Workflow、多智能体、插件/工具调用、权限治理逐渐成为标准配置。",
+        "办公协同平台正在争夺企业Agent执行入口，飞书围绕CLI、沙箱、自托管和安全调用的叙事，指向“AI直接操作消息、日历、文档、表格和业务协同对象”。",
+        "行业Agent模板化加速，保险续保、电力知识库、政务服务、教育题解等场景开始被包装为可体验方案，客户对低门槛试用和快速验证的预期会提高。",
+        "模型底座竞争从单一自研模型转向模型聚合、价格透明、专属部署和企业SLA，TokenHub、百炼、千帆等平台都在强化统一模型服务入口。",
+        "ERP/企业管理软件厂商正在把AI嵌入核心业务系统，金蝶AI苍穹、AI星瀚、AI套件若确认，将在央国企、大中型企业平台预算中与低代码/流程平台产生交叉竞争。"
+      ],
+      "capital_moves": [
+        "过去24小时未发现可核实的重大资本事件"
+      ]
+    }
+  }
+}
