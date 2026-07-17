@@ -17,26 +17,26 @@
   "briefs": {
     "2026-07-17": {
       "date": "2026-07-17",
-      "generated_at": "2026-07-17T11:07:52.480151+08:00",
+      "generated_at": "2026-07-17T11:11:02.682172+08:00",
       "top6": [
         {
           "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
           "url": "https://aihot.virxact.com/items/cmrnc82t9016bbic6qmevgy67",
-          "source": "Google Developers Blog（RSS）",
+          "source": "AI HOT · Google Developers Blog（RSS）",
           "summary": "Google Cloud 与 Parallel Web Systems 合作，将 Parallel 的搜索基础设施作为新的网络接地提供商原生集成到 Gemini Enterprise Agent Platform 中。该集成使开发者能将 AI 智能体锚定在可验证的实时网络结果上，以提升企业工作流的事实准确性。用户还可编程提取、永久缓存并与其他大语言模型一起处",
           "region": "international"
         },
         {
           "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
           "url": "https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z",
-          "source": "VentureBeat：AI（RSS）",
+          "source": "AI HOT · VentureBeat：AI（RSS）",
           "summary": "对157家企业的调查显示，50%的组织在过去一年曾部署通过内部评估但导致客户故障的AI智能体或大语言模型功能，5%的企业完全信任自动化评估，29%认为评估与现实结果对齐不佳是最大局限。尽管信任度低，66%的企业已允许或正计划在12个月内实现低风险智能体的全自动、无人工干预部署。",
           "region": "international"
         },
         {
           "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
           "url": "https://aihot.virxact.com/items/cmrnvme99015abixymkemy6lj",
-          "source": "VentureBeat：AI（RSS）",
+          "source": "AI HOT · VentureBeat：AI（RSS）",
           "summary": "VentureBeat调查107家企业发现，54%已遭遇AI智能体安全事件（18%确认事故，36%险些酿祸）。仅32%为每个智能体分配独立身份凭证，30%将高风险智能体隔离在沙箱中。安全工具主要依赖模型提供商原生方案，专用智能体安全产品渗透率极低。",
           "region": "international"
         },
@@ -55,10 +55,10 @@
           "region": "domestic"
         },
         {
-          "title": "ICML 2026 的 AI4S 现场：工具、合著者，还是创始人？",
-          "url": "https://www.leiphone.com/category/private/8RxEFrIjsXnMFkt9.html",
+          "title": "行业首个！中国一汽大模型入驻阿里云百炼，面向全行业开放",
+          "url": "https://www.leiphone.com/category/industrynews/REYfC0ECzRMeS8hD.html",
           "source": "雷峰网",
-          "summary": "“AI4S在科学社区里是被低估了，但在AI社区，人们有时又高估了它的能力。” 作者丨 周蕾 编辑丨 岑峰 ICML 2026 的最后一天，一个主题为“AI Scientists —— Tools, Co-authors, or Founders?”的 workshop，让在场研究者们讨论起了有关 AI for Science 的焦虑。 其实这个 worksh",
+          "summary": "7月15日，中国第一汽车集团有限公司（以下简称“中国一汽”）与阿里云智能集团联合宣布：由中国一汽基于千问自主研发的行业大模型已正式入驻阿里云百炼平台，面向全行业开放。作为业内首个实现商业化服务的大模型，它将中国一汽沉淀的行业know-how转化为标准化服务，让全行业企业都能低门槛调用专业AI能力。 据介绍，该汽车行业大模型由中国一汽依托研发、生产、制造、供应",
           "region": "domestic"
         }
       ],
