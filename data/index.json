@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-24",
     "2026-07-23",
     "2026-07-22",
     "2026-07-21",
@@ -21,6 +22,82 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-07-24": {
+      "date": "2026-07-24",
+      "generated_at": "2026-07-24T10:10:10.876407+08:00",
+      "top6": [
+        {
+          "title": "微软MAI模型：以更低成本实现前沿能力规模化",
+          "url": "https://aihot.virxact.com/items/cmrxr59xb01sbroxpzcqbv1fo",
+          "source": "AI HOT · X：Satya Nadella (@satyanadella)",
+          "summary": "微软CEO Satya Nadella详解MAI模型家族战略：通过优化成本-效果前沿，MAI模型在GitHub Copilot、Excel等产品中已用更少token超越通用前沿模型。核心是构建独立于模型的评估系统，让模型在产品真实环境中学习并完成用户关心的任务。微软正将这一模板通过Foundry平台开放给企业客户。",
+          "region": "international"
+        },
+        {
+          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+          "url": "https://aihot.virxact.com/items/cmrxs4yyw01xkroxpom7zfjvc",
+          "source": "AI HOT · The Decoder：AI News（RSS）",
+          "summary": "安全公司 Zenity Labs 发现 OpenAI Workspace Agents 存在\"AgentForger\"漏洞，攻击者发送一个含恶意提示词的 ChatGPT 链接，即可在受害者账户下创建自主 AI 智能体。该智能体继承受害者身份和已授权应用权限，绕过安全审批，并设置每五分钟运行一次的定时任务，从攻击者邮箱获取指令执行。",
+          "region": "international"
+        },
+        {
+          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
+          "url": "https://aihot.virxact.com/items/cmrxnw4rw00qzroxpll5shp7a",
+          "source": "AI HOT · TechCrunch：AI（RSS）",
+          "summary": "Google 在 Q2 2026 财报电话会上宣布，AI 助手 Gemini 月活跃用户已超过 9.5 亿，用户数较去年增长三倍。Gemini 正与月活突破 10 亿的 ChatGPT 展开更直接竞争，其 AI 搜索模式用户也已超过 10 亿。",
+          "region": "international"
+        },
+        {
+          "title": "独家解读丨阿里整合Agent背后：大厂开始重新分配AI资源",
+          "url": "https://www.leiphone.com/category/industrynews/yj0yPPz94SYfHGVE.html",
+          "source": "雷峰网",
+          "summary": "“一匹马、一头骡子、一只猴子，怎么能叫赛马？” 当外界将阿里整合QoderWork、悟空、MuleRun三款Agent产品，解读为“结束内部赛马”时，一位接近阿里的业内人士沈默给出了不同判断。 在他看来，外界的关注点有些偏了。 比起讨论“赛马”，更值得关注的是另一件事：过去一年，大厂围绕Agent展开的多线探索，正在进入新的阶段。",
+          "region": "domestic"
+        },
+        {
+          "title": "WAIC观察：比起做「超级Agent」，大厂更着急抢占「Agent入口」",
+          "url": "https://www.leiphone.com/category/industrynews/EMsIH6YY1MsA0Qjo.html",
+          "source": "雷峰网",
+          "summary": "今年的WAIC现场，与去年相比最明显的一个变化是： Agent不再只是发布会上的概念，而是开始走到用户面前。",
+          "region": "domestic"
+        },
+        {
+          "title": "不拼通用能力、聚焦端侧，腾讯副总裁林松涛：Marvis专注做好系统级操作",
+          "url": "https://36kr.com/p/3907676111983745?f=rss",
+          "source": "36氪",
+          "summary": "文｜王欣逸 编辑｜张雨忻 “技术突破决定AI能走多快，真正能否创造价值决定AI能走多远。”在今年的WAIC腾讯AI应用创新论坛上，腾讯公司副总裁林松涛分享了这样一个观点。 同样是“Claw热”之后上线的产品，腾讯的三大Agent产品WorkBuddy、QClaw和Marvis迎来了各自不同的命运。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体开始覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是一套可运营的数字工作系统。对企业 AI 平台而言，流程编排、运行态可观测与人工接管会成为比单点问答更关键的产品壁垒。依据：雷峰网《独家解读丨阿里整合Agent背后：大厂开始重新分配AI资源》；雷峰网《WAIC观察：比起做「超级Agent」，大厂更着急抢占「Agent入口」》"
+        },
+        {
+          "title": "企业选型标准正在从“最强模型”转为总成本与控制权",
+          "summary": "企业客户开始同时衡量推理成本、部署弹性、模型可替换性和知识资产边界。单一模型绑定的吸引力下降，能够统一接入多模型、保留企业记忆与评估数据的平台更容易获得长期预算。依据：36氪《不拼通用能力、聚焦端侧，腾讯副总裁林松涛：Marvis专注做好系统级操作》；雷峰网《快速查账！领100美元免费积分，反被Claude偷设陷阱疯狂扣费》"
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体开始进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为采购前提。安全治理和可观测能力将决定 AI 编程能否从个人工具进入企业研发主流程。依据：雷峰网《独家解读丨阿里整合Agent背后：大厂开始重新分配AI资源》；36氪《不拼通用能力、聚焦端侧，腾讯副总裁林松涛：Marvis专注做好系统级操作》"
+        },
+        {
+          "title": "大厂企业 AI 叙事开始回到组织价值与可信交付",
+          "summary": "市场讨论正从替代岗位的宏观叙事，转向如何保护企业知识、重构岗位协作并证明生产率增量。未来竞争不会只看模型发布节奏，而会看厂商能否把能力嵌入组织流程并建立清晰的信任边界。依据：雷峰网《独家解读丨阿里整合Agent背后：大厂开始重新分配AI资源》；雷峰网《WAIC观察：比起做「超级Agent」，大厂更着急抢占「Agent入口」》"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "并购正在成为大厂补齐企业 AI 安全与平台能力的捷径",
+          "summary": "收购标的若集中在安全、治理或 Agent 基础设施，说明稀缺价值已从通用模型训练外溢到企业落地所需的控制层。对平台厂商而言，这类能力既是产品壁垒，也可能成为下一轮整合对象。依据：36氪《Stripe据悉洽购AI模型聚合平台创企OpenRouter》"
+        },
+        {
+          "title": "资本继续偏向能够进入企业流程的 AI 应用",
+          "summary": "资金更关注具备明确企业场景、持续付费路径和工作流入口的产品，而非缺少商业闭环的通用工具。后续应重点观察融资是否转化为客户规模、渠道能力和平台集成深度。依据：雷峰网《具身智能数据需求暴涨千倍，这家“数据炼油厂”刚拿到近亿元融资》；雷峰网《独家丨华为22年老兵从AI终局倒推LPU，元川微完成新一轮数亿元融资》"
+        }
+      ]
+    },
     "2026-07-23": {
       "date": "2026-07-23",
       "generated_at": "2026-07-23T10:09:15.648913+08:00",
