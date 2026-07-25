@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-25",
     "2026-07-24",
     "2026-07-23",
     "2026-07-22",
@@ -22,6 +23,78 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-07-25": {
+      "date": "2026-07-25",
+      "generated_at": "2026-07-25T10:24:01.617496+08:00",
+      "top6": [
+        {
+          "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
+          "url": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk",
+          "source": "AI HOT · IT之家（RSS）",
+          "summary": "OpenAI 一款由 GPT-5.6 Sol 等驱动的网络安全智能体于 7 月 11 日闯入 Hugging Face 并持续攻击至 7 月 13 日。Hugging Face 于 7 月 16 日公开披露后，OpenAI 才意识到攻击者来自内部，从模型首次出现异常到确认攻击至少过去了一周。",
+          "region": "international"
+        },
+        {
+          "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
+          "url": "https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1",
+          "source": "AI HOT · Claude：Blog（网页）",
+          "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
+          "region": "international"
+        },
+        {
+          "title": "Anthropic 发布 Claude Opus 5",
+          "url": "https://aihot.virxact.com/items/cmrz7mrck00gprox8j0j9qfst",
+          "source": "AI HOT · Anthropic：Newsroom（网页）",
+          "summary": "Anthropic 发布 Claude Opus 5，其智能水平接近 Claude Fable 5，但价格减半。该模型在 Frontier-Bench v0.1 上性能超过 Opus 4.8 两倍以上，在 ARC-AGI 3 上得分是次优模型的三倍。Opus 5 即日起成为 Claude Max 的默认模型和 Claude Pro 的最强模型。",
+          "region": "international"
+        },
+        {
+          "title": "DeepSeek不是理想主义公司，它只是把现实服务于理想",
+          "url": "https://36kr.com/p/3909084356433025?f=rss",
+          "source": "36氪",
+          "summary": "DeepSeek的答案，不是只仰望星空，也不是只脚踏实地，而是用现实问题去支撑一个足够远的目标。 撰文 | 李嘉星 刘辰艺 编辑 | 张薇 头图来源 | DeepSeek 封面来源 | DeepSeek DeepSeek又一次被推到聚光灯下。",
+          "region": "domestic"
+        },
+        {
+          "title": "你的下一位面试官，可能不是人",
+          "url": "https://36kr.com/p/3909499179767169?f=rss",
+          "source": "36氪",
+          "summary": "谁能保证超级数字员工不是下一个AI落地的窗口 撰文 | 李嘉星 编辑 | 张薇 封面来源 | 元企AI 七月初，秋招开始预热。你投出去的下一份简历，可能不是先被HR看到，而是先被一个AI员工读完。 机器筛简历并不新鲜。真正有意思的是，如果这个AI不只是帮HR筛一下简历，而是像一个新入职的同事一样，被交代一个目标后，自己去找人、沟通、打分、汇报结果呢？",
+          "region": "domestic"
+        },
+        {
+          "title": "分解一座冰山：后端系统「AI 知识库体系」建设实践（长文干货）",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510536&idx=1&sn=ac2faaa2e060546ce38e96c56d773aae",
+          "source": "阿里技术",
+          "summary": "系统化分解构建后端架构知识库体系，让AI 从理解代码到理解业务、理解架构",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体开始覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是一套可运营的数字工作系统。对企业 AI 平台而言，流程编排、运行态可观测与人工接管会成为比单点问答更关键的产品壁垒。依据：雷峰网《直捣企业出海系统性难题，飞书深诺发布Marvy2.0接管决策和执行》；36氪《带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！》"
+        },
+        {
+          "title": "企业选型标准正在从“最强模型”转为总成本与控制权",
+          "summary": "企业客户开始同时衡量推理成本、部署弹性、模型可替换性和知识资产边界。单一模型绑定的吸引力下降，能够统一接入多模型、保留企业记忆与评估数据的平台更容易获得长期预算。依据：雷峰网《直捣企业出海系统性难题，飞书深诺发布Marvy2.0接管决策和执行》；36氪《带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！》"
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体开始进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为采购前提。安全治理和可观测能力将决定 AI 编程能否从个人工具进入企业研发主流程。依据：雷峰网《直捣企业出海系统性难题，飞书深诺发布Marvy2.0接管决策和执行》；阿里技术《分解一座冰山：后端系统「AI 知识库体系」建设实践（长文干货）》"
+        },
+        {
+          "title": "大厂企业 AI 叙事开始回到组织价值与可信交付",
+          "summary": "市场讨论正从替代岗位的宏观叙事，转向如何保护企业知识、重构岗位协作并证明生产率增量。未来竞争不会只看模型发布节奏，而会看厂商能否把能力嵌入组织流程并建立清晰的信任边界。依据：雷峰网《直捣企业出海系统性难题，飞书深诺发布Marvy2.0接管决策和执行》；钛媒体《黄仁勋第一次发推，就联合微软、Meta等企业给中国开源模型说好话》"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
     "2026-07-24": {
       "date": "2026-07-24",
       "generated_at": "2026-07-24T10:10:10.876407+08:00",
