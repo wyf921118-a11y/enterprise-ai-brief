@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-28",
     "2026-07-27",
     "2026-07-26",
     "2026-07-25",
@@ -25,6 +26,74 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-07-28": {
+      "date": "2026-07-28",
+      "generated_at": "2026-07-28T10:08:45.890874+08:00",
+      "top6": [
+        {
+          "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查",
+          "url": "https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3",
+          "source": "AI HOT · GitHub Blog",
+          "summary": "GitHub Copilot 推出\"Harness\"工作流，让开发者通过单一 AI 工具完成从原型设计、规划、实现到代码审查的完整软件开发流程，无需追逐多种新 AI 工具。该工作流强调实用性与集成性，旨在减少工具切换带来的效率损耗。",
+          "region": "international"
+        },
+        {
+          "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
+          "url": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
+          "source": "AI HOT · The Decoder：AI News（RSS）",
+          "summary": "OpenAI 分析超 80 万条与工作相关的 ChatGPT 消息后发现，43.5% 的岗位特定查询涉及另一职业，营销和工程任务交叉最多。用户用 AI 处理合同审查、数据分析、网站故障排查等原由专家负责的工作。OpenAI 认为这是岗位职责正在变化的早期信号，该趋势在缺乏专业团队的小公司尤为明显。",
+          "region": "international"
+        },
+        {
+          "title": "NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化",
+          "url": "https://aihot.virxact.com/items/cms3fbu4z00h2rondcoqgyozg",
+          "source": "AI HOT · NVIDIA Blog（RSS）",
+          "summary": "NVIDIA、Microsoft、Hugging Face、IBM 等数十家机构联合成立 Open Secure AI Alliance，旨在通过开源模型、工具和框架构建可审查、可定制的 AI 安全防御体系。",
+          "region": "international"
+        },
+        {
+          "title": "Pinecone 推出 Nexus 引擎：为 AI 智能体整合业务上下文并生成结构化数据",
+          "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289545&idx=4&sn=cbab8d492ec721a22132868fdd9786a8",
+          "source": "InfoQ",
+          "summary": "向 AI 智能体的知识引擎 Pinecone Nexus 正式可用，可把企业数据转为结构化查询层，一次性梳理业务数据后就能跨智能体复用，在提升回答精度的同时降低词元开销。",
+          "region": "domestic"
+        },
+        {
+          "title": "月之暗面Kimi K3正式开源",
+          "url": "https://36kr.com/newsflashes/3914648643277958?f=rss",
+          "source": "36氪",
+          "summary": "36氪获悉，7月27日晚，月之暗面发布Kimi K3的模型权重、技术报告，并开源支撑Kimi K3模型训练的关键Infra技术：MoonEP、FlashKDA和AgentEnv。据介绍，Kimi K3是一个拥有2.8万亿参数的混合专家（MoE）模型，具备原生视觉理解能力，并支持100万token的上下文窗口。",
+          "region": "domestic"
+        },
+        {
+          "title": "上汽集团与飞书达成合作",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4ODI0ODMyOQ==&mid=2247541882&idx=1&sn=b06b5e27170b95cef3e1ede01f0469ea",
+          "source": "飞书",
+          "summary": "中国汽车工业领军企业上汽集团与飞书达成合作，以 AI 提升组织效能，赋能汽车研发提质增效。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体开始覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是一套可运营的数字工作系统。对企业 AI 平台而言，流程编排、运行态可观测与人工接管会成为比单点问答更关键的产品壁垒。依据：36氪《Anthropic：从未主张禁止开放权重模型》；InfoQ《Pinecone 推出 Nexus 引擎：为 AI 智能体整合业务上下文并生成结构化数据》"
+        },
+        {
+          "title": "企业选型标准正在从“最强模型”转为总成本与控制权",
+          "summary": "企业客户开始同时衡量推理成本、部署弹性、模型可替换性和知识资产边界。单一模型绑定的吸引力下降，能够统一接入多模型、保留企业记忆与评估数据的平台更容易获得长期预算。依据：InfoQ《Pinecone 推出 Nexus 引擎：为 AI 智能体整合业务上下文并生成结构化数据》；飞书《上汽集团与飞书达成合作》"
+        },
+        {
+          "title": "大厂企业 AI 叙事开始回到组织价值与可信交付",
+          "summary": "市场讨论正从替代岗位的宏观叙事，转向如何保护企业知识、重构岗位协作并证明生产率增量。未来竞争不会只看模型发布节奏，而会看厂商能否把能力嵌入组织流程并建立清晰的信任边界。依据：飞书《上汽集团与飞书达成合作》；钛媒体《每赚1美元先花1.57，五大科技巨头被AI投资拖入囚徒困境》"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
     "2026-07-27": {
       "date": "2026-07-27",
       "generated_at": "2026-07-27T10:43:41.151045+08:00",
