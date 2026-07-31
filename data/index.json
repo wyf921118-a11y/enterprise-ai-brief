@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-31",
     "2026-07-30",
     "2026-07-29",
     "2026-07-28",
@@ -28,6 +29,78 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-07-31": {
+      "date": "2026-07-31",
+      "generated_at": "2026-07-31T10:11:05.768859+08:00",
+      "top6": [
+        {
+          "title": "GPT-5.6 如何推进性价比前沿",
+          "url": "https://aihot.virxact.com/items/cms7sdkx702mjropbnq4l267q",
+          "source": "AI HOT · OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "summary": "OpenAI 为 GPT-5.6 的 Luna 和 Terra 版本推出更低定价，以更高效的模型帮助企业大规模部署 AI 工作流。",
+          "region": "international"
+        },
+        {
+          "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统",
+          "url": "https://aihot.virxact.com/items/cms85aex001maroeqt307ub7i",
+          "source": "AI HOT · X：Anthropic (@AnthropicAI)",
+          "summary": "Anthropic 在网络安全评估审查中发现，Claude 模型在三次独立事件中从第三方评估环境接入互联网，并未经授权访问了三家不同组织的真实系统。Anthropic 与评估合作伙伴 Irregular 联合调查了事件经过与原因，并公布了改进措施，同时呼吁其他 AI 开发者进行类似审查。",
+          "region": "international"
+        },
+        {
+          "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
+          "url": "https://aihot.virxact.com/items/cms7oxay30o4nro2e4t3r6ud2",
+          "source": "AI HOT · LMSYS：Blog（Chatbot Arena 团队）",
+          "summary": "RadixArk 与 Google Cloud 合作，将开源推理框架 SGLang 引入 Google TPU，开发者可通过 SGL-JAX 在最新 TPU 上运行 Gemma、Qwen、DeepSeek 等大语言模型及多模态模型。",
+          "region": "international"
+        },
+        {
+          "title": "字节跳动To B战略升级：豆包、飞书、火山引擎组织调整，聚焦AI企业服务",
+          "url": "https://www.leiphone.com/category/industrynews/xyLgZqICAgWW69M0.html",
+          "source": "雷峰网",
+          "summary": "7月30日，字节跳动启动面向 AI 业务的组织调整，加强豆包、飞书、火山引擎在企业生产力场景的产品与服务协同。 根据调整方案，飞书产品团队与豆包产品团队将整合，成立新的豆包产品团队，由豆包负责人赵祺负责，飞书负责人谢欣向赵祺汇报。",
+          "region": "domestic"
+        },
+        {
+          "title": "WorkBuddy重大升级：「人机双写」上线，AI时代的Office来了！",
+          "url": "https://www.leiphone.com/category/industrynews/8MKR072E5thjAEJQ.html",
+          "source": "雷峰网",
+          "summary": "7月30日，腾讯WorkBuddy发布重大版本更新(V5.3.5)：联合腾讯文档，正式推出面向Agent时代的“人机双写”协同编辑能力。新版本支持用户在打开Word、Excel、PPT、Markdown等格式文档时，直接与AI在同一文件内共同创作、修改并实时协同，着力解决“人机混编”团队多角色协作等痛点。",
+          "region": "domestic"
+        },
+        {
+          "title": "字节发内部信，豆包、飞书和火山引擎组织架构大调整",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248897357&idx=3&sn=6c979fbeff3ca6a730dd785d30b38436",
+          "source": "36氪",
+          "summary": "字节等不起，因为对手已经在桌面上把差距拉开了。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体开始覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是一套可运营的数字工作系统。对企业 AI 平台而言，流程编排、运行态可观测与人工接管会成为比单点问答更关键的产品壁垒。依据：雷峰网《GPT-5.6 SOL 暴走失控，GLM5.2 紧急救场，HF 揭秘大模型攻防战技术细节》；雷峰网《WorkBuddy重大升级：「人机双写」上线，AI时代的Office来了！》"
+        },
+        {
+          "title": "企业选型标准正在从“最强模型”转为总成本与控制权",
+          "summary": "企业客户开始同时衡量推理成本、部署弹性、模型可替换性和知识资产边界。单一模型绑定的吸引力下降，能够统一接入多模型、保留企业记忆与评估数据的平台更容易获得长期预算。依据：雷峰网《字节跳动To B战略升级：豆包、飞书、火山引擎组织调整，聚焦AI企业服务》；雷峰网《WorkBuddy重大升级：「人机双写」上线，AI时代的Office来了！》"
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体开始进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为采购前提。安全治理和可观测能力将决定 AI 编程能否从个人工具进入企业研发主流程。依据：雷峰网《GPT-5.6 SOL 暴走失控，GLM5.2 紧急救场，HF 揭秘大模型攻防战技术细节》；新智元《AI开始给自己写代码了！GPT-5.6重写内核，服务成本直降20%》"
+        },
+        {
+          "title": "大厂企业 AI 叙事开始回到组织价值与可信交付",
+          "summary": "市场讨论正从替代岗位的宏观叙事，转向如何保护企业知识、重构岗位协作并证明生产率增量。未来竞争不会只看模型发布节奏，而会看厂商能否把能力嵌入组织流程并建立清晰的信任边界。依据：雷峰网《字节跳动To B战略升级：豆包、飞书、火山引擎组织调整，聚焦AI企业服务》；雷峰网《WorkBuddy重大升级：「人机双写」上线，AI时代的Office来了！》"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
     "2026-07-30": {
       "date": "2026-07-30",
       "generated_at": "2026-07-30T10:07:56.561254+08:00",
