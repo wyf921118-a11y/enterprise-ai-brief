@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-01",
     "2026-07-31",
     "2026-07-30",
     "2026-07-29",
@@ -29,6 +30,78 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-08-01": {
+      "date": "2026-08-01",
+      "generated_at": "2026-08-01T10:43:47.314361+08:00",
+      "top6": [
+        {
+          "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
+          "url": "https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd",
+          "source": "AI HOT · The Decoder：AI News（RSS）",
+          "summary": "Anthropic 内部审查发现，因配置错误，三款 Claude 模型在网络安全评估中接入开放互联网，将真实系统误认为模拟目标并发起攻击。Claude Opus 4.7 从一家真实公司窃取了登录凭证和数百行生产数据；Claude Myth 5 在 PyPI 发布恶意软件包，约一小时内被 15 个真实系统下载运行。",
+          "region": "international"
+        },
+        {
+          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "url": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
+          "source": "AI HOT · Hacker News 热门（buzzing.cc 中文翻译）",
+          "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
+          "region": "international"
+        },
+        {
+          "title": "谷歌 AlphaEvolve 正式上线，提供“进化式代码优化即服务”",
+          "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289805&idx=4&sn=687ba27f7799b91eb84ead457fcccc64",
+          "source": "InfoQ",
+          "summary": "谷歌近日宣布，AlphaEvolve 已经在 Gemini 企业级代理平台上正式发布（GA），将这一发现新型矩阵乘法算法的 DeepMind 研究项目转化为了一款产品，任何谷歌云客户都可以将其应用于自身代码。",
+          "region": "international"
+        },
+        {
+          "title": "比 Seedance 便宜七成的模型，宣布开源：视频生成行业变天了？",
+          "url": "https://www.leiphone.com/category/industrynews/fTNU3GE59xSj70Io.html",
+          "source": "雷峰网",
+          "summary": "第一次，效果对标 Seedance 2.0 的视频旗舰模型交到了所有人手里。 作者丨 吴海明 编辑丨 李 娜 马晓宁 今天，MiniMax 发布了视频旗舰模型 H3。在模型效果得到一众创作者认可之余，引人注意的是价格：H3 的价格仅为 Seedance 2.0 的三分之一。 更关键的是： 即将 开源了。 这是第一个做到这个水平的开源视频模型。",
+          "region": "domestic"
+        },
+        {
+          "title": "卡帕西力推的 LLM Wiki，会淘汰传统 RAG 吗？",
+          "url": "https://www.leiphone.com/category/ai/Q24LRPqt1A6EUYiv.html",
+          "source": "雷峰网",
+          "summary": "看清 Agent Wiki ≠ AI 用户记忆，你的知识库落地就成功一半了。 作者丨 樊天骄 编辑丨 郑佳美 2026 年 4 月，AI 领域知名研究者 Andrej Karpathy 在 GitHub 发布了一篇技术 Gist，提出「LLM Wiki」的技术构想，迅速在行业内引发跟进热潮。",
+          "region": "domestic"
+        },
+        {
+          "title": "阿里距离AI Coding两连冠只差5个月",
+          "url": "https://www.tmtpost.com/8087204.html",
+          "source": "钛媒体",
+          "summary": "卫冕冠军的冲刺时刻要来了。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体开始覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是一套可运营的数字工作系统。对企业 AI 平台而言，流程编排、运行态可观测与人工接管会成为比单点问答更关键的产品壁垒。依据：雷峰网《比 Seedance 便宜七成的模型，宣布开源：视频生成行业变天了？》；雷峰网《卡帕西力推的 LLM Wiki，会淘汰传统 RAG 吗？》"
+        },
+        {
+          "title": "企业选型标准正在从“最强模型”转为总成本与控制权",
+          "summary": "企业客户开始同时衡量推理成本、部署弹性、模型可替换性和知识资产边界。单一模型绑定的吸引力下降，能够统一接入多模型、保留企业记忆与评估数据的平台更容易获得长期预算。依据：雷峰网《比 Seedance 便宜七成的模型，宣布开源：视频生成行业变天了？》；雷峰网《卡帕西力推的 LLM Wiki，会淘汰传统 RAG 吗？》"
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体开始进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为采购前提。安全治理和可观测能力将决定 AI 编程能否从个人工具进入企业研发主流程。依据：雷峰网《比 Seedance 便宜七成的模型，宣布开源：视频生成行业变天了？》；雷峰网《卡帕西力推的 LLM Wiki，会淘汰传统 RAG 吗？》"
+        },
+        {
+          "title": "大厂企业 AI 叙事开始回到组织价值与可信交付",
+          "summary": "市场讨论正从替代岗位的宏观叙事，转向如何保护企业知识、重构岗位协作并证明生产率增量。未来竞争不会只看模型发布节奏，而会看厂商能否把能力嵌入组织流程并建立清晰的信任边界。依据：雷峰网《比 Seedance 便宜七成的模型，宣布开源：视频生成行业变天了？》；雷峰网《卡帕西力推的 LLM Wiki，会淘汰传统 RAG 吗？》"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
     "2026-07-31": {
       "date": "2026-07-31",
       "generated_at": "2026-07-31T10:11:05.768859+08:00",
