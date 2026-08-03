@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-03",
     "2026-08-01",
     "2026-07-31",
     "2026-07-30",
@@ -30,6 +31,71 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-08-03": {
+      "date": "2026-08-03",
+      "generated_at": "2026-08-03T10:09:02.080072+08:00",
+      "top6": [
+        {
+          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+          "url": "https://aihot.virxact.com/items/cmscc62eo033broeusw72isi0",
+          "source": "AI HOT · Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+          "region": "international"
+        },
+        {
+          "title": "OpenAI Astra 以约2000美元证明10项数学难题",
+          "url": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h",
+          "source": "AI HOT · X：Greg Brockman (@gdb)",
+          "summary": "OpenAI 用下一代模型 Astra 内部版解决了数学与理论计算机科学领域的10项重大进展，总成本约2000美元（按 Sol API 价格计算）。Astra 证明了非 sofic 群的存在，并推翻 Connes 刚性猜想，成果涵盖 von Neumann 代数、高维球堆积、电路复杂度等。",
+          "region": "international"
+        },
+        {
+          "title": "Grok 支持分析任意视频",
+          "url": "https://aihot.virxact.com/items/cmsbf9by90dq7rohvp1oggqmk",
+          "source": "AI HOT · X：Elon Musk (@elonmusk, xAI)",
+          "summary": "Grok 可以分析任何视频 https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
+          "region": "international"
+        },
+        {
+          "title": "从翻译到桌面Agent，网易有道全线产品完成DeepSeek-V4-Flash正式版升级",
+          "url": "https://www.leiphone.com/category/industrynews/2kEmhUVR27NJL1rC.html",
+          "source": "雷峰网",
+          "summary": "日前，网易有道宣布旗下AI Agent产品矩阵已完成DeepSeek-V4-Flash正式版的全面接入，覆盖全场景办公助手 Agent LobsterAI、有道词典、有道翻译、有道AI同传、Hi Echo、有道AI答疑笔、企业级大模型聚合平台ThinkFlow等系列产品和服务。这是继今年5月有道接入DeepSeek-V4预览版后，产品能力的又一次重要升级。",
+          "region": "domestic"
+        },
+        {
+          "title": "Loop才火了六周，AI Coding为什么又开始谈Graph？",
+          "url": "https://www.tmtpost.com/8088190.html",
+          "source": "钛媒体",
+          "summary": "新概念Graph Engineering为什么又火爆AI Coding圈？其不是Loop的替代品，而是从“单个Agent反复执行”走向“多个节点协同工作”的问题",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体开始覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是一套可运营的数字工作系统。对企业 AI 平台而言，流程编排、运行态可观测与人工接管会成为比单点问答更关键的产品壁垒。依据：雷峰网《从翻译到桌面Agent，网易有道全线产品完成DeepSeek-V4-Flash正式版升级》；钛媒体《Loop才火了六周，AI Coding为什么又开始谈Graph？》"
+        },
+        {
+          "title": "企业选型标准正在从“最强模型”转为总成本与控制权",
+          "summary": "企业客户开始同时衡量推理成本、部署弹性、模型可替换性和知识资产边界。单一模型绑定的吸引力下降，能够统一接入多模型、保留企业记忆与评估数据的平台更容易获得长期预算。依据：雷峰网《从翻译到桌面Agent，网易有道全线产品完成DeepSeek-V4-Flash正式版升级》；钛媒体《Loop才火了六周，AI Coding为什么又开始谈Graph？》"
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体开始进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为采购前提。安全治理和可观测能力将决定 AI 编程能否从个人工具进入企业研发主流程。依据：钛媒体《Loop才火了六周，AI Coding为什么又开始谈Graph？》"
+        },
+        {
+          "title": "大厂企业 AI 叙事开始回到组织价值与可信交付",
+          "summary": "市场讨论正从替代岗位的宏观叙事，转向如何保护企业知识、重构岗位协作并证明生产率增量。未来竞争不会只看模型发布节奏，而会看厂商能否把能力嵌入组织流程并建立清晰的信任边界。依据：雷峰网《从翻译到桌面Agent，网易有道全线产品完成DeepSeek-V4-Flash正式版升级》；钛媒体《Loop才火了六周，AI Coding为什么又开始谈Graph？》"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
     "2026-08-01": {
       "date": "2026-08-01",
       "generated_at": "2026-08-01T10:43:47.314361+08:00",
