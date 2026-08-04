@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-04",
     "2026-08-03",
     "2026-08-01",
     "2026-07-31",
@@ -31,6 +32,280 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-08-04": {
+      "date": "2026-08-04",
+      "generated_at": "2026-08-04T10:07:24.608720+08:00",
+      "top6": [
+        {
+          "title": "Google Agent Skills 幕后：如何构建、测试与规模化",
+          "url": "https://aihot.virxact.com/items/cmsddya2a01t3rotjo94tdap8",
+          "source": "AI HOT · Google AI：DEV 作者专属（RSS）",
+          "summary": "Google Agent Skills 团队详解其开源技能库的构建与治理流程：项目始于 Google Cloud Next 2026 前的\"swarm\"冲刺，发布后 GitHub 星标超 15，000。",
+          "region": "international"
+        },
+        {
+          "title": "微软开源 Orchard 智能体训练框架",
+          "url": "https://aihot.virxact.com/items/cmsdnp8wy035jro0oflgpii8f",
+          "source": "AI HOT · X：Microsoft Research (@MSFTResearch)",
+          "summary": "Orchard 是一个面向研究社区的开源框架，用于跨任务类型训练和评估 AI 智能体。它降低了复杂性，同时通过让研究人员复用同一套基础设施，支持较小模型也能实现强劲性能。https://msft.it/6019a8fqP",
+          "region": "international"
+        },
+        {
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "url": "https://aihot.virxact.com/items/cmsdkgj9m00hnro0ocrleteo0",
+          "source": "AI HOT · The Verge：AI（RSS）",
+          "summary": "欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。",
+          "region": "international"
+        },
+        {
+          "title": "阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定",
+          "url": "https://www.leiphone.com/category/industrynews/M2J5PdYX80CwYSvX.html",
+          "source": "雷峰网",
+          "summary": "8月3日，阿里巴巴正式发布新一代基座大模型Qwen3.8，总参数量2.4万亿，在编程（Coding）和专业办公（Cowork）方面能力大幅提升。今日放榜的权威三方榜单Arena中，阿里Qwen模型仅次于Anthropic的Claude系列，整体性能处于全球大模型第一梯队。",
+          "region": "domestic"
+        },
+        {
+          "title": "生产力场景的入口，不再是飞书们",
+          "url": "https://www.tmtpost.com/8089593.html",
+          "source": "钛媒体",
+          "summary": "字节想要通过这次调整拼装出一条服务于企业用AI的顺畅链路。",
+          "region": "domestic"
+        },
+        {
+          "title": "飞书变革的伏笔，字节早就埋好了",
+          "url": "https://www.tmtpost.com/8089579.html",
+          "source": "钛媒体",
+          "summary": "这是一次早有准备的战略合并。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是可运营的数字工作系统。流程编排、运行态可观测与人工接管正成为关键产品壁垒。依据：InfoQ《DevOps之父：发几个Claude Code账号就叫AI转型？Agent用不好是公司的锅》；InfoQ《自构建智能体：一项 LangChain4j 实验》；Google AI：DEV 作者专属（RSS）《Google Agent Skills 幕后：如何构建、测试与规模化》；X：Microsoft Research (@MSFTResearch)《微软开源 Orchard 智能体训练框架》；Cloudflare Blog《Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境》",
+          "evidence_ids": [
+            "I8",
+            "I10",
+            "I17",
+            "I19",
+            "I26"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I8",
+              "source": "InfoQ",
+              "title": "DevOps之父：发几个Claude Code账号就叫AI转型？Agent用不好是公司的锅",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289986&idx=1&sn=c711114338d69a62613e684d6f7388b7"
+            },
+            {
+              "id": "I10",
+              "source": "InfoQ",
+              "title": "自构建智能体：一项 LangChain4j 实验",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289986&idx=2&sn=9ddd5b4595e46ea7f853e30b1053986d"
+            },
+            {
+              "id": "I17",
+              "source": "Google AI：DEV 作者专属（RSS）",
+              "title": "Google Agent Skills 幕后：如何构建、测试与规模化",
+              "url": "https://aihot.virxact.com/items/cmsddya2a01t3rotjo94tdap8"
+            },
+            {
+              "id": "I19",
+              "source": "X：Microsoft Research (@MSFTResearch)",
+              "title": "微软开源 Orchard 智能体训练框架",
+              "url": "https://aihot.virxact.com/items/cmsdnp8wy035jro0oflgpii8f"
+            },
+            {
+              "id": "I26",
+              "source": "Cloudflare Blog",
+              "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
+              "url": "https://aihot.virxact.com/items/cmsdal06c16pxroeu5xtlavmg"
+            }
+          ],
+          "input_article_count": 26
+        },
+        {
+          "title": "企业选型标准正从“最强模型”转为总成本与控制权",
+          "summary": "企业客户开始同时衡量推理成本、部署弹性、模型可替换性和知识资产边界。能够统一接入多模型、保留企业记忆与评估数据的平台更容易获得长期预算。依据：虎嗅APP《Kimi上去了，Anthropic换锚了？》；新智元《让沉默三千年的甲骨开口：首个模仿人类专家工作流的辅助释读系统》",
+          "evidence_ids": [
+            "I7",
+            "I24"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I7",
+              "source": "虎嗅APP",
+              "title": "Kimi上去了，Anthropic换锚了？",
+              "url": "https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656191325&idx=2&sn=b2bbb92c4eb34685c9a26c3a708f5809"
+            },
+            {
+              "id": "I24",
+              "source": "新智元",
+              "title": "让沉默三千年的甲骨开口：首个模仿人类专家工作流的辅助释读系统",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652716026&idx=3&sn=937b933f55e11683250a5ced1d226101"
+            }
+          ],
+          "input_article_count": 26
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为企业采购前提。依据：X：Thariq (@trq212)《Claude Code 连接器可复用至 Artifacts》",
+          "evidence_ids": [
+            "I22"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I22",
+              "source": "X：Thariq (@trq212)",
+              "title": "Claude Code 连接器可复用至 Artifacts",
+              "url": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu"
+            }
+          ],
+          "input_article_count": 26
+        },
+        {
+          "title": "企业 AI 竞争正回到组织价值、可信交付与场景验证",
+          "summary": "模型发布节奏不再能单独证明产品价值。厂商需要把能力嵌入组织流程、建立信任边界，并用真实客户场景证明生产率与商业增量。依据：雷峰网《阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定》；钛媒体《生产力场景的入口，不再是飞书们》；钛媒体《飞书变革的伏笔，字节早就埋好了》；雷峰网《阿里“千问办公”开启公测》；雷峰网《独家解读丨「余粮」只剩 7 亿，Meta 为何成了最失意的 AI 巨头？》；雷峰网《原生统一多模态进阶！SenseNova U1.5-Lite-Preview开源，生成编辑能力再进化》；晚点LatePost《腾讯、阿里、字节的 AI 办公大战：赛马与变阵内幕》；阿里云开发者《Qwen3.8-Max首发上线阿里千问AI平台，API服务与Token Plan同步开放》；阿里技术《面向生产力的 Qwen3.8、“千问办公”已同步上线》；极客公园《Genspark 发布 GenOffice：AI 时代的 Office，免费、开源，抢占办公人群的第一工作入口》；雷峰网《云大厂「亏钱卖」友商AI，重回21年恶性竞争老路》；钉钉《「千问办公」今日开启公测》；雷峰网《独家对话百度智能云尹英利：AI蓬勃时代，云生态发生了哪些巨变？》；雷峰网《独家丨程传珂接任阿里云公共云分销生态负责人，李鹏卸任》；The Verge：AI（RSS）《欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元》；X：Greg Brockman (@gdb)《GPT-Live实时音频新架构发布》；X：OpenRouter (@OpenRouter)《OpenRouter 推出 Ori Eval 简化评估流程》；MiniMax 稀宇科技《开放通用智能，MiniMax H3 正式开源》",
+          "evidence_ids": [
+            "I1",
+            "I2",
+            "I3",
+            "I4",
+            "I5",
+            "I6",
+            "I9",
+            "I11",
+            "I12",
+            "I13",
+            "I14",
+            "I15",
+            "I16",
+            "I18",
+            "I20",
+            "I21",
+            "I23",
+            "I25"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I1",
+              "source": "雷峰网",
+              "title": "阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定",
+              "url": "https://www.leiphone.com/category/industrynews/M2J5PdYX80CwYSvX.html"
+            },
+            {
+              "id": "I2",
+              "source": "钛媒体",
+              "title": "生产力场景的入口，不再是飞书们",
+              "url": "https://www.tmtpost.com/8089593.html"
+            },
+            {
+              "id": "I3",
+              "source": "钛媒体",
+              "title": "飞书变革的伏笔，字节早就埋好了",
+              "url": "https://www.tmtpost.com/8089579.html"
+            },
+            {
+              "id": "I4",
+              "source": "雷峰网",
+              "title": "阿里“千问办公”开启公测",
+              "url": "https://www.leiphone.com/category/industrynews/keVMfihBTyvo7FGk.html"
+            },
+            {
+              "id": "I5",
+              "source": "雷峰网",
+              "title": "独家解读丨「余粮」只剩 7 亿，Meta 为何成了最失意的 AI 巨头？",
+              "url": "https://www.leiphone.com/category/industrynews/7Diei8PsqC81LWzx.html"
+            },
+            {
+              "id": "I6",
+              "source": "雷峰网",
+              "title": "原生统一多模态进阶！SenseNova U1.5-Lite-Preview开源，生成编辑能力再进化",
+              "url": "https://www.leiphone.com/category/industrynews/qqTUnzcUVPuJaEeA.html"
+            },
+            {
+              "id": "I9",
+              "source": "晚点LatePost",
+              "title": "腾讯、阿里、字节的 AI 办公大战：赛马与变阵内幕",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247537832&idx=1&sn=d9a795ebff15c009b503ee63ae9c8d2f"
+            },
+            {
+              "id": "I11",
+              "source": "阿里云开发者",
+              "title": "Qwen3.8-Max首发上线阿里千问AI平台，API服务与Token Plan同步开放",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561812&idx=1&sn=a864f8ca207e730d072bc1d2beab2c19"
+            },
+            {
+              "id": "I12",
+              "source": "阿里技术",
+              "title": "面向生产力的 Qwen3.8、“千问办公”已同步上线",
+              "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510872&idx=1&sn=147d7bfeca0f79d93bb231fae1f0a74b"
+            },
+            {
+              "id": "I13",
+              "source": "极客公园",
+              "title": "Genspark 发布 GenOffice：AI 时代的 Office，免费、开源，抢占办公人群的第一工作入口",
+              "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111529&idx=1&sn=fed610a0867c177d318ad29f75abbf85"
+            },
+            {
+              "id": "I14",
+              "source": "雷峰网",
+              "title": "云大厂「亏钱卖」友商AI，重回21年恶性竞争老路",
+              "url": "https://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&mid=2651753937&idx=1&sn=fb28b2b29970ff3220ce9798a8106baa"
+            },
+            {
+              "id": "I15",
+              "source": "钉钉",
+              "title": "「千问办公」今日开启公测",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzA5Mzg0NDIxMg==&mid=2247513865&idx=1&sn=17cc4e8ab01b687194db9393f0dd752b"
+            },
+            {
+              "id": "I16",
+              "source": "雷峰网",
+              "title": "独家对话百度智能云尹英利：AI蓬勃时代，云生态发生了哪些巨变？",
+              "url": "https://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&mid=2651753912&idx=2&sn=b00904ea2a43b9888a43552e033bcd3f"
+            },
+            {
+              "id": "I18",
+              "source": "雷峰网",
+              "title": "独家丨程传珂接任阿里云公共云分销生态负责人，李鹏卸任",
+              "url": "https://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&mid=2651753912&idx=3&sn=715f230d308a39bd7e10665408878dce"
+            },
+            {
+              "id": "I20",
+              "source": "The Verge：AI（RSS）",
+              "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+              "url": "https://aihot.virxact.com/items/cmsdkgj9m00hnro0ocrleteo0"
+            },
+            {
+              "id": "I21",
+              "source": "X：Greg Brockman (@gdb)",
+              "title": "GPT-Live实时音频新架构发布",
+              "url": "https://aihot.virxact.com/items/cmsdt5gom0130rojfwd72clkl"
+            },
+            {
+              "id": "I23",
+              "source": "X：OpenRouter (@OpenRouter)",
+              "title": "OpenRouter 推出 Ori Eval 简化评估流程",
+              "url": "https://aihot.virxact.com/items/cmsdexxu702xbrotjockerya6"
+            },
+            {
+              "id": "I25",
+              "source": "MiniMax 稀宇科技",
+              "title": "开放通用智能，MiniMax H3 正式开源",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ==&mid=2247488931&idx=1&sn=0506e1d52edd5166becf35f5ebd83a07"
+            }
+          ],
+          "input_article_count": 26
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
     "2026-08-03": {
       "date": "2026-08-03",
       "generated_at": "2026-08-03T10:09:02.080072+08:00",
