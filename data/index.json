@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-05",
     "2026-08-04",
     "2026-08-03",
     "2026-08-01",
@@ -32,6 +33,278 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-08-05": {
+      "date": "2026-08-05",
+      "generated_at": "2026-08-05T10:07:00.335686+08:00",
+      "top6": [
+        {
+          "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志",
+          "url": "https://aihot.virxact.com/items/cmsfdkkcs1ocxro2ed4z3s131",
+          "source": "AI HOT · Simon Willison 博客",
+          "summary": "Simon Willison 发布 LLM 0.32，这是该项目自启动以来最重要的新版本。新版本支持显示推理轨迹、服务端工具、OpenAI Responses API，并默认使用 GPT-5.6 Luna 模型。",
+          "region": "international"
+        },
+        {
+          "title": "Cloudflare 如何用软件工厂将 Astro 的 GitHub issue 数降至零",
+          "url": "https://aihot.virxact.com/items/cmseq167s12m3ro2eas0pbc9y",
+          "source": "AI HOT · Cloudflare Blog",
+          "summary": "Cloudflare 在 Astro 仓库上运行自动化 triage 流水线，通过隔离的 AI 子代理复现、诊断并修复 bug，将开放 issue 从 200 多个降至约 30 个，预计下月归零。该流水线由 issue 标签驱动，修复后自动发布预览版本供用户验证。其底层引擎已发展为 Flue，一个开源的平台无关框架，用于构建持久化智能体与工作流。",
+          "region": "international"
+        },
+        {
+          "title": "Google Cloud 推出 Database Operations Agents，实现自主数据库管理",
+          "url": "https://aihot.virxact.com/items/cmsevo5m118dmro2e9d1ven6v",
+          "source": "AI HOT · Google Cloud：Databases（RSS）",
+          "summary": "Google Cloud 在 Agentic Data Cloud 发布中推出两款 AI 数据库智能体：Database Onboarding Agent 负责 Day 0 的配置与部署，Database Observability Agent 负责 Day 1/2 的监控、故障排查与维护。",
+          "region": "international"
+        },
+        {
+          "title": "Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差",
+          "url": "https://36kr.com/p/3924826666301831?f=rss",
+          "source": "36氪",
+          "summary": "文 | 李炤锋 编辑 | 张雨忻 “长链任务如果只通过代码层面的反馈，误差可能会不断累积，最终效果会非常差。”谈及原生多模态的意义，一位多模态研究员表示，“视觉是一种更准确的反馈，也更贴近用户意图。” 过去一年，Coding与Agent能力不断改写大模型的排名，也成为AI最快兑现商业价值的场景之一。",
+          "region": "domestic"
+        },
+        {
+          "title": "发布当日，海外主流AI平台纷纷接入阿里Qwen3.8",
+          "url": "https://www.leiphone.com/category/industrynews/Ufuyq9sSvBlkp2Ix.html",
+          "source": "雷峰网",
+          "summary": "8月3日，阿里巴巴正式发布新一代基座大模型Qwen3.8，编程与Agent能力大幅提升，整体性能位居全球大模型第一梯队。",
+          "region": "domestic"
+        },
+        {
+          "title": "大厂抢滩AI办公",
+          "url": "https://www.tmtpost.com/8091801.html",
+          "source": "钛媒体",
+          "summary": "方向相同，牌面各不相同。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是可运营的数字工作系统。流程编排、运行态可观测与人工接管正成为关键产品壁垒。依据：InfoQ《别让 Agent 每次都重新开始》；Cloudflare Blog《Cloudflare 推出 Agents 平台，率先上线智能体追踪功能》；晚点LatePost《让企业客户愿意掏钱的 AI 到底长什么样？》；Cloudflare Blog《Cloudflare 推出 Agent Development Lifecycle，让智能体接管更多软件开发生命周期》；Cloudflare Blog《Cloudflare 如何用软件工厂将 Astro 的 GitHub issue 数降至零》；公众号：面壁智能（MiniCPM）《面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入》；Google Cloud：Databases（RSS）《Google Cloud 推出 Database Operations Agents，实现自主数据库管理》；GitHub Blog《GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码》；Cloudflare Blog《Cloudflare 让智能体通过本地追踪调试 Workers》",
+          "evidence_ids": [
+            "I6",
+            "I7",
+            "I8",
+            "I13",
+            "I15",
+            "I16",
+            "I17",
+            "I21",
+            "I24"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I6",
+              "source": "InfoQ",
+              "title": "别让 Agent 每次都重新开始",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290027&idx=3&sn=23dc8e519d8f04702a3159a531482d4d"
+            },
+            {
+              "id": "I7",
+              "source": "Cloudflare Blog",
+              "title": "Cloudflare 推出 Agents 平台，率先上线智能体追踪功能",
+              "url": "https://aihot.virxact.com/items/cmseq167r12m1ro2eqjsdn6wd"
+            },
+            {
+              "id": "I8",
+              "source": "晚点LatePost",
+              "title": "让企业客户愿意掏钱的 AI 到底长什么样？",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247537858&idx=1&sn=a0c3250ad684443801079f43b3bc7b50"
+            },
+            {
+              "id": "I13",
+              "source": "Cloudflare Blog",
+              "title": "Cloudflare 推出 Agent Development Lifecycle，让智能体接管更多软件开发生命周期",
+              "url": "https://aihot.virxact.com/items/cmseq167r12lxro2erzimnhk2"
+            },
+            {
+              "id": "I15",
+              "source": "Cloudflare Blog",
+              "title": "Cloudflare 如何用软件工厂将 Astro 的 GitHub issue 数降至零",
+              "url": "https://aihot.virxact.com/items/cmseq167s12m3ro2eas0pbc9y"
+            },
+            {
+              "id": "I16",
+              "source": "公众号：面壁智能（MiniCPM）",
+              "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+              "url": "https://aihot.virxact.com/items/cmse5tvia0ej6ro2er0ptp9v8"
+            },
+            {
+              "id": "I17",
+              "source": "Google Cloud：Databases（RSS）",
+              "title": "Google Cloud 推出 Database Operations Agents，实现自主数据库管理",
+              "url": "https://aihot.virxact.com/items/cmsevo5m118dmro2e9d1ven6v"
+            },
+            {
+              "id": "I21",
+              "source": "GitHub Blog",
+              "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
+              "url": "https://aihot.virxact.com/items/cmsewck8518x6ro2e32q4bksr"
+            },
+            {
+              "id": "I24",
+              "source": "Cloudflare Blog",
+              "title": "Cloudflare 让智能体通过本地追踪调试 Workers",
+              "url": "https://aihot.virxact.com/items/cmseq167s12m2ro2efhh7h5ia"
+            }
+          ],
+          "input_article_count": 27
+        },
+        {
+          "title": "企业选型标准正从“最强模型”转为总成本与控制权",
+          "summary": "企业客户开始同时衡量推理成本、部署弹性、模型可替换性和知识资产边界。能够统一接入多模型、保留企业记忆与评估数据的平台更容易获得长期预算。依据：InfoQ《知识库越建越大，为什么团队还在重复踩坑？》",
+          "evidence_ids": [
+            "I26"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I26",
+              "source": "InfoQ",
+              "title": "知识库越建越大，为什么团队还在重复踩坑？",
+              "url": "https://www.infoq.cn/video/Jlec9Wj1vAJWyac908Rx?utm_source=rss&utm_medium=article"
+            }
+          ],
+          "input_article_count": 27
+        },
+        {
+          "title": "企业 AI 竞争正回到组织价值、可信交付与场景验证",
+          "summary": "模型发布节奏不再能单独证明产品价值。厂商需要把能力嵌入组织流程、建立信任边界，并用真实客户场景证明生产率与商业增量。依据：36氪《Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差》；雷峰网《发布当日，海外主流AI平台纷纷接入阿里Qwen3.8》；钛媒体《大厂抢滩AI办公》；36氪《口碑持续逆转，DeepSeek成全球AI斩杀线》；智东西《All in AI全面冲刺，夯实智能体时代AI基建底座，安谋科技三大业务线集体交卷》；极客公园《办公 Agent 爆火，模型大战进入下一阶段》；钉钉《「千问办公」接入前沿模型Qwen3.8》；雷峰网《谷歌诺奖团队解散，大厂AI研究体系为何集体进入大洗牌？》；雷峰网《超400万人在灵光App“手搓”AI应用，加速AI原生创作者生态形成》；Simon Willison 博客《LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志》；Google Developers Blog（RSS）《Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT》；公众号：数字生命卡兹克《开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能》；LMSYS：Blog（Chatbot Arena 团队）《SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型》；X：商汤 SenseTime (@SenseTime_AI)《商汤 SenseNova U1 开源：统一推理与图像生成》；公众号：腾讯混元《腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别》；InfoQ《以 AI 为辅助的安全研究人员发现，攻击者可以利用经过特殊构造的视频获取用户电脑的访问权限》；X：Tibo (@thsottiaux)《GPT-5.6 Luna降价80%永久生效》",
+          "evidence_ids": [
+            "I1",
+            "I2",
+            "I3",
+            "I4",
+            "I5",
+            "I9",
+            "I10",
+            "I11",
+            "I12",
+            "I14",
+            "I18",
+            "I19",
+            "I20",
+            "I22",
+            "I23",
+            "I25",
+            "I27"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I1",
+              "source": "36氪",
+              "title": "Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差",
+              "url": "https://36kr.com/p/3924826666301831?f=rss"
+            },
+            {
+              "id": "I2",
+              "source": "雷峰网",
+              "title": "发布当日，海外主流AI平台纷纷接入阿里Qwen3.8",
+              "url": "https://www.leiphone.com/category/industrynews/Ufuyq9sSvBlkp2Ix.html"
+            },
+            {
+              "id": "I3",
+              "source": "钛媒体",
+              "title": "大厂抢滩AI办公",
+              "url": "https://www.tmtpost.com/8091801.html"
+            },
+            {
+              "id": "I4",
+              "source": "36氪",
+              "title": "口碑持续逆转，DeepSeek成全球AI斩杀线",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248897993&idx=4&sn=49837e1a5b274a336ac8744962d01438"
+            },
+            {
+              "id": "I5",
+              "source": "智东西",
+              "title": "All in AI全面冲刺，夯实智能体时代AI基建底座，安谋科技三大业务线集体交卷",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652808209&idx=1&sn=df45f6fad3a41cd3eee6f0b6ab1928bf"
+            },
+            {
+              "id": "I9",
+              "source": "极客公园",
+              "title": "办公 Agent 爆火，模型大战进入下一阶段",
+              "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111573&idx=1&sn=2cf402499dc59a3859c632f2256a20fb"
+            },
+            {
+              "id": "I10",
+              "source": "钉钉",
+              "title": "「千问办公」接入前沿模型Qwen3.8",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzA5Mzg0NDIxMg==&mid=2247513867&idx=1&sn=acb23fb0d5b191ef4d4b058f0e14f047"
+            },
+            {
+              "id": "I11",
+              "source": "雷峰网",
+              "title": "谷歌诺奖团队解散，大厂AI研究体系为何集体进入大洗牌？",
+              "url": "https://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&mid=2651754024&idx=2&sn=cae1aee2dd7a769dd4cbe6ec444d4606"
+            },
+            {
+              "id": "I12",
+              "source": "雷峰网",
+              "title": "超400万人在灵光App“手搓”AI应用，加速AI原生创作者生态形成",
+              "url": "https://www.leiphone.com/category/industrynews/dyX3xfFAHdLseQIF.html"
+            },
+            {
+              "id": "I14",
+              "source": "Simon Willison 博客",
+              "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志",
+              "url": "https://aihot.virxact.com/items/cmsfdkkcs1ocxro2ed4z3s131"
+            },
+            {
+              "id": "I18",
+              "source": "Google Developers Blog（RSS）",
+              "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+              "url": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8"
+            },
+            {
+              "id": "I19",
+              "source": "公众号：数字生命卡兹克",
+              "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
+              "url": "https://aihot.virxact.com/items/cmsff72yv1q6nro2etf4cmbuj"
+            },
+            {
+              "id": "I20",
+              "source": "LMSYS：Blog（Chatbot Arena 团队）",
+              "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
+              "url": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6"
+            },
+            {
+              "id": "I22",
+              "source": "X：商汤 SenseTime (@SenseTime_AI)",
+              "title": "商汤 SenseNova U1 开源：统一推理与图像生成",
+              "url": "https://aihot.virxact.com/items/cmseuq5vh17o9ro2eomueivmi"
+            },
+            {
+              "id": "I23",
+              "source": "公众号：腾讯混元",
+              "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+              "url": "https://aihot.virxact.com/items/cmsee1mhf0nn6ro2em6rt7tr4"
+            },
+            {
+              "id": "I25",
+              "source": "InfoQ",
+              "title": "以 AI 为辅助的安全研究人员发现，攻击者可以利用经过特殊构造的视频获取用户电脑的访问权限",
+              "url": "https://www.infoq.cn/article/Mar3v7yyH4PjYFKLUZUh?utm_source=rss&utm_medium=article"
+            },
+            {
+              "id": "I27",
+              "source": "X：Tibo (@thsottiaux)",
+              "title": "GPT-5.6 Luna降价80%永久生效",
+              "url": "https://aihot.virxact.com/items/cmse7yrut0gupro2ejfet4a10"
+            }
+          ],
+          "input_article_count": 27
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
     "2026-08-04": {
       "date": "2026-08-04",
       "generated_at": "2026-08-04T10:07:24.608720+08:00",
