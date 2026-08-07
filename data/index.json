@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-07",
     "2026-08-06",
     "2026-08-05",
     "2026-08-04",
@@ -34,6 +35,243 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-08-07": {
+      "date": "2026-08-07",
+      "generated_at": "2026-08-07T10:05:39.520859+08:00",
+      "top6": [
+        {
+          "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
+          "url": "https://aihot.virxact.com/items/cmshra4es0oycronk0wcvjv03",
+          "source": "AI HOT · Google Developers Blog（RSS）",
+          "summary": "Agent Plugins 1.0.0 是一项由谷歌、亚马逊、微软等支持的中立目录规范，将 Agent Skills 和 MCP 服务器打包为单一可移植单元。通过标准化 plugin.json 清单和固定目录布局，开发者无需为不同 AI 编码智能体和 IDE 维护单独封装。",
+          "region": "international"
+        },
+        {
+          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+          "url": "https://aihot.virxact.com/items/cmsi5sy2s1192ronkt3lk2z88",
+          "source": "AI HOT · Hacker News 热门（buzzing.cc 中文翻译）",
+          "summary": "OpenAI 更新 ChatGPT：Plus 和 Pro 用户的 GPT-5.6 Sol 在事实准确性和回答聚焦度上有所提升，新增滑块可控制模型思考投入。免费用户默认模型升级为 GPT-5.6 Luna，并开放无限文本聊天，新增 Think 按钮以处理更复杂问题。",
+          "region": "international"
+        },
+        {
+          "title": "微软首次披露OpenAI贡献七成AI收入",
+          "url": "https://aihot.virxact.com/items/cmshmizyd0k71ronkfu9jy9lr",
+          "source": "AI HOT · X：Rohan Paul (@rohanpaul_ai)",
+          "summary": "微软刚刚首次披露，OpenAI 贡献了微软约 70% 的 AI 收入，依据最新文件。 这一数据基于预期增长及此前与 OpenAI 相关收入的披露。 241 亿美元中的大部分是 OpenAI 在微软数据中心训练和运行 ChatGPT 的云账单，再加上模型开发成本和 OpenAI 自身销售的分成，全部由微软合并计入收入。",
+          "region": "international"
+        },
+        {
+          "title": "AI原生组织：谁思考、谁执行、谁负责、谁进化",
+          "url": "https://www.tmtpost.com/8094183.html",
+          "source": "钛媒体",
+          "summary": "这是这个时代背景下企业管理者必须回答的问题，也是一场每个人都无法回避的时代大考。",
+          "region": "domestic"
+        },
+        {
+          "title": "华为 IJCAI 2026 论文盘点：从「规模密度」转向「设计密度」",
+          "url": "https://www.leiphone.com/category/academic/DZgTbdNa1dTMDgie.html",
+          "source": "雷峰网",
+          "summary": "AI 走向现实场景，系统化工程能力，是瓶颈，也是突破口。 作者丨 幸丽娟 编辑丨 齐铖湧 IJCAI-ECAI 2026 将于 2026 年 8 月 15 日至 21 日在德国不来梅举行。 作为 AI 领域的综 合性顶级会议，IJCAI 一直是检验各大厂过去一年前沿研究成果的关键考场：谁在哪个方向上有真进展，哪 些技术路 线正在形成共识，论文是最直接的答案。",
+          "region": "domestic"
+        },
+        {
+          "title": "“千问办公”上架鸿蒙电脑应用市场，全面支持三大主流操作系统",
+          "url": "https://www.leiphone.com/category/industrynews/azZ6sWNeflKLM9SD.html",
+          "source": "雷峰网",
+          "summary": "8月6日，阿里巴巴旗下企业级Agent产品“千问办公”推出鸿蒙电脑版，用户可在华为应用市场下载体验。目前，“千问办公”已全面支持Windows、macOS和HarmonyOS三大主流操作系统。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是可运营的数字工作系统。流程编排、运行态可观测与人工接管正成为关键产品壁垒。依据：Google Developers Blog（RSS）《Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范》；IT之家（RSS）《谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence》",
+          "evidence_ids": [
+            "I13",
+            "I18"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I13",
+              "source": "Google Developers Blog（RSS）",
+              "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
+              "url": "https://aihot.virxact.com/items/cmshra4es0oycronk0wcvjv03"
+            },
+            {
+              "id": "I18",
+              "source": "IT之家（RSS）",
+              "title": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
+              "url": "https://aihot.virxact.com/items/cmshjall30g5vronk3jwsdnyr"
+            }
+          ],
+          "input_article_count": 22
+        },
+        {
+          "title": "企业选型标准正从“最强模型”转为总成本与控制权",
+          "summary": "企业客户开始同时衡量推理成本、部署弹性、模型可替换性和知识资产边界。能够统一接入多模型、保留企业记忆与评估数据的平台更容易获得长期预算。依据：X：Rohan Paul (@rohanpaul_ai)《微软首次披露OpenAI贡献七成AI收入》",
+          "evidence_ids": [
+            "I16"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I16",
+              "source": "X：Rohan Paul (@rohanpaul_ai)",
+              "title": "微软首次披露OpenAI贡献七成AI收入",
+              "url": "https://aihot.virxact.com/items/cmshmizyd0k71ronkfu9jy9lr"
+            }
+          ],
+          "input_article_count": 22
+        },
+        {
+          "title": "企业 AI 竞争正回到组织价值、可信交付与场景验证",
+          "summary": "模型发布节奏不再能单独证明产品价值。厂商需要把能力嵌入组织流程、建立信任边界，并用真实客户场景证明生产率与商业增量。依据：雷峰网《GPT-Live 底层拆解：OpenAI 如何让 95% 的音频帧不再延迟》；雷峰网《Jeff Dean 创业路演 PPT，惊现 34 位创始人，谷歌系人才占领半壁江山》；钛媒体《AI原生组织：谁思考、谁执行、谁负责、谁进化》；雷峰网《华为 IJCAI 2026 论文盘点：从「规模密度」转向「设计密度」》；雷峰网《“千问办公”上架鸿蒙电脑应用市场，全面支持三大主流操作系统》；雷峰网《国内首个，千问办公通过中国信通院办公智能体能力评估》；虎嗅APP《字节AI战略，变了》；36氪《百度、阿里、腾讯重逢AI办公，胜负手在数据》；虎嗅APP《为什么说AI办公的终局远未到来？》；钛媒体《BAT，又一次在AI办公战场重逢》；雷峰网《苏神复盘 Kimi K3：896 个专家背后，藏着哪些关键技术取舍？》；雷峰网《蚂蚁集团 IJCAI 2026 论文盘点：让 AI 学会「随机应变」》；钛媒体《字节年内二开全员会：承认语言模型落后，转向To B，重仓年轻人》；Hacker News 热门（buzzing.cc 中文翻译）《OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限》；The Verge：AI（RSS）《Google 大规模 AI 组织调整背后的混乱政治》；TechCrunch：AI（RSS）《OpenAI 称苹果自身安全实践削弱其商业机密诉讼》；OpenAI：官网动态（RSS · 排除企业/客户案例）《ChatGPT 推出改进版 GPT-5.6 Sol，并扩大免费用户访问权限》；Hacker News 热门（buzzing.cc 中文翻译）《阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）》；The Verge：AI（RSS）《左右两派罕见达成一致：反对数据中心》",
+          "evidence_ids": [
+            "I1",
+            "I2",
+            "I3",
+            "I4",
+            "I5",
+            "I6",
+            "I7",
+            "I8",
+            "I9",
+            "I10",
+            "I11",
+            "I12",
+            "I14",
+            "I15",
+            "I17",
+            "I19",
+            "I20",
+            "I21",
+            "I22"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I1",
+              "source": "雷峰网",
+              "title": "GPT-Live 底层拆解：OpenAI 如何让 95% 的音频帧不再延迟",
+              "url": "https://www.leiphone.com/category/ai/zYdlF2GT2z5SbNLT.html"
+            },
+            {
+              "id": "I2",
+              "source": "雷峰网",
+              "title": "Jeff Dean 创业路演 PPT，惊现 34 位创始人，谷歌系人才占领半壁江山",
+              "url": "https://www.leiphone.com/category/ai/woyyD9TFUP2pnDOC.html"
+            },
+            {
+              "id": "I3",
+              "source": "钛媒体",
+              "title": "AI原生组织：谁思考、谁执行、谁负责、谁进化",
+              "url": "https://www.tmtpost.com/8094183.html"
+            },
+            {
+              "id": "I4",
+              "source": "雷峰网",
+              "title": "华为 IJCAI 2026 论文盘点：从「规模密度」转向「设计密度」",
+              "url": "https://www.leiphone.com/category/academic/DZgTbdNa1dTMDgie.html"
+            },
+            {
+              "id": "I5",
+              "source": "雷峰网",
+              "title": "“千问办公”上架鸿蒙电脑应用市场，全面支持三大主流操作系统",
+              "url": "https://www.leiphone.com/category/industrynews/azZ6sWNeflKLM9SD.html"
+            },
+            {
+              "id": "I6",
+              "source": "雷峰网",
+              "title": "国内首个，千问办公通过中国信通院办公智能体能力评估",
+              "url": "https://www.leiphone.com/category/industrynews/w1PvSaIjvOmbN6ak.html"
+            },
+            {
+              "id": "I7",
+              "source": "虎嗅APP",
+              "title": "字节AI战略，变了",
+              "url": "https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656192076&idx=2&sn=82322810644fd962af732e51a3073c79"
+            },
+            {
+              "id": "I8",
+              "source": "36氪",
+              "title": "百度、阿里、腾讯重逢AI办公，胜负手在数据",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248898237&idx=4&sn=8938292dea5cd515fdb81b73574adf15"
+            },
+            {
+              "id": "I9",
+              "source": "虎嗅APP",
+              "title": "为什么说AI办公的终局远未到来？",
+              "url": "https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656191980&idx=3&sn=5b0401366a704d3e5f2ca5d2827b7573"
+            },
+            {
+              "id": "I10",
+              "source": "钛媒体",
+              "title": "BAT，又一次在AI办公战场重逢",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA==&mid=2661076781&idx=3&sn=35f867c08f507406bf90008edb49d780"
+            },
+            {
+              "id": "I11",
+              "source": "雷峰网",
+              "title": "苏神复盘 Kimi K3：896 个专家背后，藏着哪些关键技术取舍？",
+              "url": "https://www.leiphone.com/category/ai/1krGNVOmEZUQgc9w.html"
+            },
+            {
+              "id": "I12",
+              "source": "雷峰网",
+              "title": "蚂蚁集团 IJCAI 2026 论文盘点：让 AI 学会「随机应变」",
+              "url": "https://www.leiphone.com/category/academic/E6Goi7fB66O6a4gN.html"
+            },
+            {
+              "id": "I14",
+              "source": "钛媒体",
+              "title": "字节年内二开全员会：承认语言模型落后，转向To B，重仓年轻人",
+              "url": "https://www.tmtpost.com/8094419.html"
+            },
+            {
+              "id": "I15",
+              "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+              "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+              "url": "https://aihot.virxact.com/items/cmsi5sy2s1192ronkt3lk2z88"
+            },
+            {
+              "id": "I17",
+              "source": "The Verge：AI（RSS）",
+              "title": "Google 大规模 AI 组织调整背后的混乱政治",
+              "url": "https://aihot.virxact.com/items/cmshkd62s0hgfronku3c71unr"
+            },
+            {
+              "id": "I19",
+              "source": "TechCrunch：AI（RSS）",
+              "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼",
+              "url": "https://aihot.virxact.com/items/cmshnkwhc0l8xronk6qyoqqyv"
+            },
+            {
+              "id": "I20",
+              "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+              "title": "ChatGPT 推出改进版 GPT-5.6 Sol，并扩大免费用户访问权限",
+              "url": "https://aihot.virxact.com/items/cmshrwaqs0pmuronkuj6r8o4m"
+            },
+            {
+              "id": "I21",
+              "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+              "title": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）",
+              "url": "https://aihot.virxact.com/items/cmsh6fjal001mronkgffxycgg"
+            },
+            {
+              "id": "I22",
+              "source": "The Verge：AI（RSS）",
+              "title": "左右两派罕见达成一致：反对数据中心",
+              "url": "https://aihot.virxact.com/items/cmshmiaz00k2zronkzukabc5z"
+            }
+          ],
+          "input_article_count": 22
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
     "2026-08-06": {
       "date": "2026-08-06",
       "generated_at": "2026-08-06T10:05:29.677842+08:00",
