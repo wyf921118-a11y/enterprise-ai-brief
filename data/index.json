@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-08",
     "2026-08-07",
     "2026-08-06",
     "2026-08-05",
@@ -35,6 +36,238 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-08-08": {
+      "date": "2026-08-08",
+      "generated_at": "2026-08-08T10:07:18.603445+08:00",
+      "top6": [
+        {
+          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "url": "https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6",
+          "source": "AI HOT · IT之家（RSS）",
+          "summary": "OpenAI 因内部与专家评估显示 Astra 在智能体编程和网络安全领域取得重大突破，依据《准备框架》将其列为旗下首个网络安全风险达\"关键\"级别的模型，决定延缓发布。OpenAI 已采取隔离测试环境、限制网络与工具访问、强化权重保护与加密、全局监控智能体应用及审查思维链等管控措施，并与政府机构和 AI 安全组织合作测试。",
+          "region": "international"
+        },
+        {
+          "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+          "url": "https://aihot.virxact.com/items/cmsilvone1jf1ronk6fs8o4d4",
+          "source": "AI HOT · IT之家（RSS）",
+          "summary": "谷歌 DeepMind 联合多家机构推出 WeatherNext Cyclones 气旋预测模型，在路径、强度和风场结构预测精度上达到业界领先。该模型将有效预报时长从 2 天延长至 3 天，平均提前 24 小时，预测量级约相当于 10 年气象进展。",
+          "region": "international"
+        },
+        {
+          "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低",
+          "url": "https://aihot.virxact.com/items/cmsic9k6j18ghronkd6hbia5j",
+          "source": "AI HOT · Anthropic：Newsroom（网页）",
+          "summary": "Anthropic 更新了 Claude Fable 5 的生物安全防护机制，将生物相关查询的\"回退\"次数减少约 85%，用户在日常健康与教育问题上将更少遇到系统切换至较弱模型的情况。此次更新扩大了模型可协助的生物任务范围，但涉及双重用途的病毒学、毒理学和分子设计请求仍会回退至 Opus 5。",
+          "region": "international"
+        },
+        {
+          "title": "赌注十万亿：字节拒绝走蒸馏捷径背后，张一鸣的长期主义有多狠？",
+          "url": "https://www.leiphone.com/category/yanxishe/JR3ppBP5VOxND55d.html",
+          "source": "雷峰网",
+          "summary": "张一鸣要的是，下一轮竞争中，Seed模型能力跻身世界第一梯队 作者丨高允毅 编辑丨岑 峰 近日，The Information爆出，在两周前的 Seed 全员会上，张一鸣罕见发声，明确拒绝以蒸馏手段追赶前沿大语言模型。他的态度很坚决：“字节跳动应该愿意为了长远目标牺牲一些短期利益。",
+          "region": "domestic"
+        },
+        {
+          "title": "82 篇论文撑起的判断：IJCAI 凭什么是推理、规划、知识的「第一主场」",
+          "url": "https://www.leiphone.com/category/private/iME7Xg5tMwxIyZqU.html",
+          "source": "雷峰网",
+          "summary": "50篇推理加32篇规划，IJCAI里最硬的8%。 作者丨 陆毅 陈淑瑜 编辑丨岑峰 “IJCAI/AAAI在推理、规划、知识方面是最顶级的，这几个方向也是AI当下急需的。” 2019年，南京大学俞扬教授在一场关于 AI 顶会评级的讨论中写下了这句话。 彼时大语言模型尚未爆发，“推理”一词在AI社区远不如今天这般炙手可热。",
+          "region": "domestic"
+        },
+        {
+          "title": "梁文锋，告别“价格屠夫”",
+          "url": "https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656192256&idx=3&sn=bf5865df2f82844482f97c7012d78643",
+          "source": "虎嗅APP",
+          "summary": "DeepSeek涨价后，用户还能买账吗？",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是可运营的数字工作系统。流程编排、运行态可观测与人工接管正成为关键产品壁垒。依据：InfoQ《当 human in the loop 变成“闭着眼睛点确认”，企业Agent 安全还能靠谁？》；InfoQ《Anthropic 详解 Claude 的安全隔离架构：如何在 Web、开发和桌面环境中约束 Agent 行为》；Hacker News 热门（buzzing.cc 中文翻译）《Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器》",
+          "evidence_ids": [
+            "I6",
+            "I9",
+            "I19"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I6",
+              "source": "InfoQ",
+              "title": "当 human in the loop 变成“闭着眼睛点确认”，企业Agent 安全还能靠谁？",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290271&idx=2&sn=e0d7b6d1d23355cf3f2c1f48d20209d6"
+            },
+            {
+              "id": "I9",
+              "source": "InfoQ",
+              "title": "Anthropic 详解 Claude 的安全隔离架构：如何在 Web、开发和桌面环境中约束 Agent 行为",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290271&idx=4&sn=5d08cbc76b4923af4da1db1e490ed1a1"
+            },
+            {
+              "id": "I19",
+              "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+              "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+              "url": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws"
+            }
+          ],
+          "input_article_count": 20
+        },
+        {
+          "title": "企业选型标准正从“最强模型”转为总成本与控制权",
+          "summary": "企业客户开始同时衡量推理成本、部署弹性、模型可替换性和知识资产边界。能够统一接入多模型、保留企业记忆与评估数据的平台更容易获得长期预算。依据：雷峰网《82 篇论文撑起的判断：IJCAI 凭什么是推理、规划、知识的「第一主场」》；腾讯技术工程《从胡言乱语到精准改代码：我是如何让 AI 读懂老项目的》",
+          "evidence_ids": [
+            "I2",
+            "I18"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I2",
+              "source": "雷峰网",
+              "title": "82 篇论文撑起的判断：IJCAI 凭什么是推理、规划、知识的「第一主场」",
+              "url": "https://www.leiphone.com/category/private/iME7Xg5tMwxIyZqU.html"
+            },
+            {
+              "id": "I18",
+              "source": "腾讯技术工程",
+              "title": "从胡言乱语到精准改代码：我是如何让 AI 读懂老项目的",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803058&idx=1&sn=f3ed1b512d61666ebc7d4852a33911b5"
+            }
+          ],
+          "input_article_count": 20
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为企业采购前提。依据：X：Claude Devs (@ClaudeDevs)《Claude Code 会话间可互发消息》",
+          "evidence_ids": [
+            "I15"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I15",
+              "source": "X：Claude Devs (@ClaudeDevs)",
+              "title": "Claude Code 会话间可互发消息",
+              "url": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl"
+            }
+          ],
+          "input_article_count": 20
+        },
+        {
+          "title": "企业 AI 竞争正回到组织价值、可信交付与场景验证",
+          "summary": "模型发布节奏不再能单独证明产品价值。厂商需要把能力嵌入组织流程、建立信任边界，并用真实客户场景证明生产率与商业增量。依据：雷峰网《赌注十万亿：字节拒绝走蒸馏捷径背后，张一鸣的长期主义有多狠？》；雷峰网《Jeff Dean 创业路演 PPT，惊现 34 位创始人，谷歌系人才占领半壁江山》；雷峰网《阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频》；虎嗅APP《梁文锋，告别“价格屠夫”》；IT之家（RSS）《OpenAI：因网络安全风险，延缓 Astra 模型发布》；钛媒体《谷歌的告别：大模型正在进入“车库时代”》；IT之家（RSS）《谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时》；Anthropic：Newsroom（网页）《Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低》；钛媒体《聊聊DeepSeek涨价：低价是手段，不是目的》；IT之家（RSS）《OpenAI 披露 ChatGPT 全球 10 亿用户画像：35 岁及以上用户用量上升》；X：OpenAI (@OpenAI)《OpenAI 将 Astra 列为首个\"关键\"网络安全模型》；InfoQ《涨价30倍仍是最便宜的模型，DeepSeek可能有这个底气》；公众号：蚂蚁百灵（Ling）《蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署》；LMSYS：Blog（Chatbot Arena 团队）《HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子》",
+          "evidence_ids": [
+            "I1",
+            "I3",
+            "I4",
+            "I5",
+            "I7",
+            "I8",
+            "I10",
+            "I11",
+            "I12",
+            "I13",
+            "I14",
+            "I16",
+            "I17",
+            "I20"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I1",
+              "source": "雷峰网",
+              "title": "赌注十万亿：字节拒绝走蒸馏捷径背后，张一鸣的长期主义有多狠？",
+              "url": "https://www.leiphone.com/category/yanxishe/JR3ppBP5VOxND55d.html"
+            },
+            {
+              "id": "I3",
+              "source": "雷峰网",
+              "title": "Jeff Dean 创业路演 PPT，惊现 34 位创始人，谷歌系人才占领半壁江山",
+              "url": "https://www.leiphone.com/category/yanxishe/Ga2vGDMkzS2dp4Ew.html"
+            },
+            {
+              "id": "I4",
+              "source": "雷峰网",
+              "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+              "url": "https://www.leiphone.com/category/industrynews/Wp4SCQ5wu1Lbhtr1.html"
+            },
+            {
+              "id": "I5",
+              "source": "虎嗅APP",
+              "title": "梁文锋，告别“价格屠夫”",
+              "url": "https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656192256&idx=3&sn=bf5865df2f82844482f97c7012d78643"
+            },
+            {
+              "id": "I7",
+              "source": "IT之家（RSS）",
+              "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+              "url": "https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6"
+            },
+            {
+              "id": "I8",
+              "source": "钛媒体",
+              "title": "谷歌的告别：大模型正在进入“车库时代”",
+              "url": "https://www.tmtpost.com/8095060.html"
+            },
+            {
+              "id": "I10",
+              "source": "IT之家（RSS）",
+              "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+              "url": "https://aihot.virxact.com/items/cmsilvone1jf1ronk6fs8o4d4"
+            },
+            {
+              "id": "I11",
+              "source": "Anthropic：Newsroom（网页）",
+              "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低",
+              "url": "https://aihot.virxact.com/items/cmsic9k6j18ghronkd6hbia5j"
+            },
+            {
+              "id": "I12",
+              "source": "钛媒体",
+              "title": "聊聊DeepSeek涨价：低价是手段，不是目的",
+              "url": "https://www.tmtpost.com/8095791.html"
+            },
+            {
+              "id": "I13",
+              "source": "IT之家（RSS）",
+              "title": "OpenAI 披露 ChatGPT 全球 10 亿用户画像：35 岁及以上用户用量上升",
+              "url": "https://aihot.virxact.com/items/cmsilvone1jezronk60ahdbgi"
+            },
+            {
+              "id": "I14",
+              "source": "X：OpenAI (@OpenAI)",
+              "title": "OpenAI 将 Astra 列为首个\"关键\"网络安全模型",
+              "url": "https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si"
+            },
+            {
+              "id": "I16",
+              "source": "InfoQ",
+              "title": "涨价30倍仍是最便宜的模型，DeepSeek可能有这个底气",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290271&idx=1&sn=80a2446b13604f28a100be94bd75e306"
+            },
+            {
+              "id": "I17",
+              "source": "公众号：蚂蚁百灵（Ling）",
+              "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+              "url": "https://aihot.virxact.com/items/cmsixbbry1x0qronkhbbjukhr"
+            },
+            {
+              "id": "I20",
+              "source": "LMSYS：Blog（Chatbot Arena 团队）",
+              "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
+              "url": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq"
+            }
+          ],
+          "input_article_count": 20
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
     "2026-08-07": {
       "date": "2026-08-07",
       "generated_at": "2026-08-07T10:05:39.520859+08:00",
