@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-09",
     "2026-08-08",
     "2026-08-07",
     "2026-08-06",
@@ -36,6 +37,110 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-08-09": {
+      "date": "2026-08-09",
+      "generated_at": "2026-08-09T10:54:09.638251+08:00",
+      "top6": [
+        {
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "url": "https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8",
+          "source": "AI HOT · Hacker News 热门（buzzing.cc 中文翻译）",
+          "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
+          "region": "international"
+        },
+        {
+          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "url": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
+          "source": "AI HOT · IT之家（RSS）",
+          "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+          "region": "international"
+        },
+        {
+          "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
+          "url": "https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7",
+          "source": "AI HOT · Ars Technica：AI（RSS）",
+          "summary": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。",
+          "region": "international"
+        },
+        {
+          "title": "大厂抢滩AI办公",
+          "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA==&mid=2661076800&idx=1&sn=64f678f4c3976829ced182d04263e5da",
+          "source": "钛媒体",
+          "summary": "钛度要点：方向相同，牌面各不相同。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是可运营的数字工作系统。流程编排、运行态可观测与人工接管正成为关键产品壁垒。依据：Hacker News 热门（buzzing.cc 中文翻译）《OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉》",
+          "evidence_ids": [
+            "I2"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I2",
+              "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+              "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+              "url": "https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8"
+            }
+          ],
+          "input_article_count": 5
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为企业采购前提。依据：IT之家（RSS）《OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务》",
+          "evidence_ids": [
+            "I3"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I3",
+              "source": "IT之家（RSS）",
+              "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+              "url": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j"
+            }
+          ],
+          "input_article_count": 5
+        },
+        {
+          "title": "企业 AI 竞争正回到组织价值、可信交付与场景验证",
+          "summary": "模型发布节奏不再能单独证明产品价值。厂商需要把能力嵌入组织流程、建立信任边界，并用真实客户场景证明生产率与商业增量。依据：钛媒体《大厂抢滩AI办公》；Ars Technica：AI（RSS）《DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间》；X：Elon Musk (@elonmusk, xAI)《Grok Imagine 图像编辑迎来重大升级》",
+          "evidence_ids": [
+            "I1",
+            "I4",
+            "I5"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I1",
+              "source": "钛媒体",
+              "title": "大厂抢滩AI办公",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA==&mid=2661076800&idx=1&sn=64f678f4c3976829ced182d04263e5da"
+            },
+            {
+              "id": "I4",
+              "source": "Ars Technica：AI（RSS）",
+              "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
+              "url": "https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7"
+            },
+            {
+              "id": "I5",
+              "source": "X：Elon Musk (@elonmusk, xAI)",
+              "title": "Grok Imagine 图像编辑迎来重大升级",
+              "url": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1"
+            }
+          ],
+          "input_article_count": 5
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
     "2026-08-08": {
       "date": "2026-08-08",
       "generated_at": "2026-08-08T10:07:18.603445+08:00",
