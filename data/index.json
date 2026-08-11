@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-11",
     "2026-08-10",
     "2026-08-09",
     "2026-08-08",
@@ -38,6 +39,182 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-08-11": {
+      "date": "2026-08-11",
+      "generated_at": "2026-08-11T10:06:08.954508+08:00",
+      "top6": [
+        {
+          "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
+          "url": "https://aihot.virxact.com/items/cmsn68brx03q2ron5vwp3pwta",
+          "source": "AI HOT · LMSYS：Blog（Chatbot Arena 团队）",
+          "summary": "SGLang 与 Meta Superintelligence Labs 合作，为 30B 参数多模态模型 Muse Glimmer 提供 Day-0 支持，该模型拥有 128k+ token 上下文窗口。",
+          "region": "international"
+        },
+        {
+          "title": "Meta 发布开源模型 Muse Glimmer",
+          "url": "https://aihot.virxact.com/items/cmsn2u3mt067ero8opidmwvz7",
+          "source": "AI HOT · X：AI at Meta (@AIatMeta)",
+          "summary": "推出 Muse Glimmer，一款开放权重、300 亿参数的模型，专为本地、常驻运行的智能体工作流优化。 与同尺寸领先模型相比，Muse Glimmer 在关键智能体用例和基准测试中表现出色，并设计为完全在消费级硬件（如 Mac 或配备高性能 GPU 的 PC）上运行。",
+          "region": "international"
+        },
+        {
+          "title": "OpenAI 推出 GPT-5.6-Cyber，面向授权漏洞研究的网络安全专用模型",
+          "url": "https://aihot.virxact.com/items/cmsnkpjin0c2nrohfczauf2t2",
+          "source": "AI HOT · OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "summary": "OpenAI 发布网络安全专用模型 GPT-5.6-Cyber，可通过 Daybreak Red 获取，用于授权的漏洞研究、漏洞验证和安全测试。该模型旨在应对网络防御窗口不断收窄的挑战，为安全研究人员提供专门工具。",
+          "region": "international"
+        },
+        {
+          "title": "DeepSeek刚宣布涨价，小扎立马“拼命”：Meta新模型打出更低骨折价，但要一点“数据税”",
+          "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290582&idx=2&sn=b2cba27df4df9d555e9dbf1801e0933b",
+          "source": "InfoQ",
+          "summary": "刚刚，Meta 推出其首款编程智能体 Muse Code，同时发布了针对编程优化的前沿模型 Muse Spark 1.2。",
+          "region": "domestic"
+        },
+        {
+          "title": "可观测性厂商 AI 大战开始：Grafana、Datadog、Splunk 全部入场",
+          "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290582&idx=4&sn=8e15bb2ae226a9a957f2ddc32f76f36e",
+          "source": "InfoQ",
+          "summary": "Grafana Assistant 扩展至 30 多个数据源。",
+          "region": "domestic"
+        },
+        {
+          "title": "小度为什么越来越懂你？一套 Agent 研发闭环的诞生",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MjU0NTI5OQ==&mid=2247607435&idx=1&sn=f3d5edccff2fbb03206fcb232246959c",
+          "source": "百度Geek说",
+          "summary": "小度闭环智能研发范式，核心是解决 AI 写代码虽提升单个环节的效率，但整体组织效率未翻倍的困局。已在多条业务线落地，吞吐量提升 6 倍。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是可运营的数字工作系统。流程编排、运行态可观测与人工接管正成为关键产品壁垒。依据：InfoQ《DeepSeek刚宣布涨价，小扎立马“拼命”：Meta新模型打出更低骨折价，但要一点“数据税”》；InfoQ《可观测性厂商 AI 大战开始：Grafana、Datadog、Splunk 全部入场》；百度Geek说《小度为什么越来越懂你？一套 Agent 研发闭环的诞生》；Databricks：Blog（RSS）《Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行》；X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)《Scale AI 开源 Muse 系列模型》",
+          "evidence_ids": [
+            "I1",
+            "I2",
+            "I3",
+            "I7",
+            "I10"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I1",
+              "source": "InfoQ",
+              "title": "DeepSeek刚宣布涨价，小扎立马“拼命”：Meta新模型打出更低骨折价，但要一点“数据税”",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290582&idx=2&sn=b2cba27df4df9d555e9dbf1801e0933b"
+            },
+            {
+              "id": "I2",
+              "source": "InfoQ",
+              "title": "可观测性厂商 AI 大战开始：Grafana、Datadog、Splunk 全部入场",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290582&idx=4&sn=8e15bb2ae226a9a957f2ddc32f76f36e"
+            },
+            {
+              "id": "I3",
+              "source": "百度Geek说",
+              "title": "小度为什么越来越懂你？一套 Agent 研发闭环的诞生",
+              "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MjU0NTI5OQ==&mid=2247607435&idx=1&sn=f3d5edccff2fbb03206fcb232246959c"
+            },
+            {
+              "id": "I7",
+              "source": "Databricks：Blog（RSS）",
+              "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
+              "url": "https://aihot.virxact.com/items/cmsnxf57501y5rofw32tota54"
+            },
+            {
+              "id": "I10",
+              "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+              "title": "Scale AI 开源 Muse 系列模型",
+              "url": "https://aihot.virxact.com/items/cmsn3w3ln012wror1xk5nrmcw"
+            }
+          ],
+          "input_article_count": 12
+        },
+        {
+          "title": "企业选型标准正从“最强模型”转为总成本与控制权",
+          "summary": "企业客户开始同时衡量推理成本、部署弹性、模型可替换性和知识资产边界。能够统一接入多模型、保留企业记忆与评估数据的平台更容易获得长期预算。依据：字节跳动技术团队《火山引擎 SenseFlow 重磅发布：突破存储边界，洞见数据价值》；腾讯技术工程《10万+Skill 背后：腾讯SkillHub如何帮用户找到真正好用的那20%》",
+          "evidence_ids": [
+            "I4",
+            "I11"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I4",
+              "source": "字节跳动技术团队",
+              "title": "火山引擎 SenseFlow 重磅发布：突破存储边界，洞见数据价值",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521212&idx=1&sn=819993bfc75955779785e4aaad7dcd89"
+            },
+            {
+              "id": "I11",
+              "source": "腾讯技术工程",
+              "title": "10万+Skill 背后：腾讯SkillHub如何帮用户找到真正好用的那20%",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803078&idx=1&sn=13cad02f15d9addef06e2a31fb3a3f93"
+            }
+          ],
+          "input_article_count": 12
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为企业采购前提。依据：X：Claude Devs (@ClaudeDevs)《Claude Code 自动模式默认开启原理》",
+          "evidence_ids": [
+            "I9"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I9",
+              "source": "X：Claude Devs (@ClaudeDevs)",
+              "title": "Claude Code 自动模式默认开启原理",
+              "url": "https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar"
+            }
+          ],
+          "input_article_count": 12
+        },
+        {
+          "title": "企业 AI 竞争正回到组织价值、可信交付与场景验证",
+          "summary": "模型发布节奏不再能单独证明产品价值。厂商需要把能力嵌入组织流程、建立信任边界，并用真实客户场景证明生产率与商业增量。依据：LMSYS：Blog（Chatbot Arena 团队）《SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理》；X：AI at Meta (@AIatMeta)《Meta 发布开源模型 Muse Glimmer》；OpenAI：官网动态（RSS · 排除企业/客户案例）《OpenAI 推出 GPT-5.6-Cyber，面向授权漏洞研究的网络安全专用模型》；Hacker News 热门（buzzing.cc 中文翻译）《tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话》",
+          "evidence_ids": [
+            "I5",
+            "I6",
+            "I8",
+            "I12"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I5",
+              "source": "LMSYS：Blog（Chatbot Arena 团队）",
+              "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
+              "url": "https://aihot.virxact.com/items/cmsn68brx03q2ron5vwp3pwta"
+            },
+            {
+              "id": "I6",
+              "source": "X：AI at Meta (@AIatMeta)",
+              "title": "Meta 发布开源模型 Muse Glimmer",
+              "url": "https://aihot.virxact.com/items/cmsn2u3mt067ero8opidmwvz7"
+            },
+            {
+              "id": "I8",
+              "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+              "title": "OpenAI 推出 GPT-5.6-Cyber，面向授权漏洞研究的网络安全专用模型",
+              "url": "https://aihot.virxact.com/items/cmsnkpjin0c2nrohfczauf2t2"
+            },
+            {
+              "id": "I12",
+              "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+              "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+              "url": "https://aihot.virxact.com/items/cmsnbc14r0aezron58wsytu43"
+            }
+          ],
+          "input_article_count": 12
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
     "2026-08-10": {
       "date": "2026-08-10",
       "generated_at": "2026-08-10T10:13:39.550029+08:00",
