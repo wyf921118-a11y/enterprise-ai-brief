@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-12",
     "2026-08-11",
     "2026-08-10",
     "2026-08-09",
@@ -39,6 +40,152 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-08-12": {
+      "date": "2026-08-12",
+      "generated_at": "2026-08-12T10:06:08.381322+08:00",
+      "top6": [
+        {
+          "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
+          "url": "https://aihot.virxact.com/items/cmsopyoum028urohdhqzve6ba",
+          "source": "AI HOT · LMSYS：Blog（Chatbot Arena 团队）",
+          "summary": "SGLang 宣布对 NVIDIA Nemotron 3.5 Lightning 提供 Day-0 支持，该开源模型为 30B 总参数、3B 激活参数的混合专家架构，支持最长 1M token 上下文，可从 Hugging Face 下载 BF16 和 NVFP4 权重。",
+          "region": "international"
+        },
+        {
+          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+          "url": "https://aihot.virxact.com/items/cmsow47ob08oarohd6vhpqrwt",
+          "source": "AI HOT · Google Cloud：Databases（RSS）",
+          "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
+          "region": "international"
+        },
+        {
+          "title": "Gemini月活破10亿，成谷歌增长最快产品",
+          "url": "https://aihot.virxact.com/items/cmsoxh6oa0a3drohdskp7cb9u",
+          "source": "AI HOT · X：Sundar Pichai (@sundarpichai)",
+          "summary": "每月已有超过 10 亿人使用 @Geminiapp 激发新想法、完成工作。这是我们有史以来增长最快的产品，也是第 14 个达到 10 亿用户里程碑的产品。 感谢 @JoshWoodward 和整个 Gemini 团队，也感谢每一位与我们同行的伙伴--未来还有更多精彩！",
+          "region": "international"
+        },
+        {
+          "title": "「说 Harness 会被淘汰的，肯定没做过工程」，Kimi 前 CLI 负责人戳破了 AI 圈最大的误解",
+          "url": "https://www.leiphone.com/category/yanxishe/iIRqNx8RhKLrA9Ol.html",
+          "source": "雷峰网",
+          "summary": "只有那些真正在一线写过CLI、调过 Agent Swarm 的人才会知道：模型不能解决一切。 作者丨 高允毅 编辑丨 岑 峰 最近 AI 编程圈挺有意思的，正在两极分化。",
+          "region": "domestic"
+        },
+        {
+          "title": "连续五天登上 GitHub Trending 首页的思考",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511052&idx=1&sn=ec738e92d8018fb50fac9fa16e9d54fc",
+          "source": "阿里技术",
+          "summary": "本文希望沉淀一些可迁移的方法论给想做开源的开发者，同时分享极致 AI Coding 的思路",
+          "region": "domestic"
+        },
+        {
+          "title": "继Seed、Flow后，字节又成立一个AI一级部门，直指「数据」丨36氪独家",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248898677&idx=1&sn=326af8c03cef71affd3ba910c78a0559",
+          "source": "36氪",
+          "summary": "坚决不蒸馏，字节成立“AI数据与安全”部门攻坚大模型数据。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是可运营的数字工作系统。流程编排、运行态可观测与人工接管正成为关键产品壁垒。依据：LMSYS：Blog（Chatbot Arena 团队）《SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning》；X：OpenAI Developers (@OpenAIDevs)《ChatGPT 桌面端支持导入其他智能体工作数据》",
+          "evidence_ids": [
+            "I3",
+            "I8"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I3",
+              "source": "LMSYS：Blog（Chatbot Arena 团队）",
+              "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
+              "url": "https://aihot.virxact.com/items/cmsopyoum028urohdhqzve6ba"
+            },
+            {
+              "id": "I8",
+              "source": "X：OpenAI Developers (@OpenAIDevs)",
+              "title": "ChatGPT 桌面端支持导入其他智能体工作数据",
+              "url": "https://aihot.virxact.com/items/cmsp0j1ph027prortm21absbh"
+            }
+          ],
+          "input_article_count": 9
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为企业采购前提。依据：阿里技术《连续五天登上 GitHub Trending 首页的思考》；公众号：智谱（GLM）《ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线》",
+          "evidence_ids": [
+            "I2",
+            "I9"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I2",
+              "source": "阿里技术",
+              "title": "连续五天登上 GitHub Trending 首页的思考",
+              "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511052&idx=1&sn=ec738e92d8018fb50fac9fa16e9d54fc"
+            },
+            {
+              "id": "I9",
+              "source": "公众号：智谱（GLM）",
+              "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+              "url": "https://aihot.virxact.com/items/cmso95agg0ig3rofwaqvy9crw"
+            }
+          ],
+          "input_article_count": 9
+        },
+        {
+          "title": "企业 AI 竞争正回到组织价值、可信交付与场景验证",
+          "summary": "模型发布节奏不再能单独证明产品价值。厂商需要把能力嵌入组织流程、建立信任边界，并用真实客户场景证明生产率与商业增量。依据：雷峰网《「说 Harness 会被淘汰的，肯定没做过工程」，Kimi 前 CLI 负责人戳破了 AI 圈最大的误解》；36氪《继Seed、Flow后，字节又成立一个AI一级部门，直指「数据」丨36氪独家》；Google Cloud：Databases（RSS）《Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移》；X：Sundar Pichai (@sundarpichai)《Gemini月活破10亿，成谷歌增长最快产品》；Hacker News 热门（buzzing.cc 中文翻译）《将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么》",
+          "evidence_ids": [
+            "I1",
+            "I4",
+            "I5",
+            "I6",
+            "I7"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I1",
+              "source": "雷峰网",
+              "title": "「说 Harness 会被淘汰的，肯定没做过工程」，Kimi 前 CLI 负责人戳破了 AI 圈最大的误解",
+              "url": "https://www.leiphone.com/category/yanxishe/iIRqNx8RhKLrA9Ol.html"
+            },
+            {
+              "id": "I4",
+              "source": "36氪",
+              "title": "继Seed、Flow后，字节又成立一个AI一级部门，直指「数据」丨36氪独家",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248898677&idx=1&sn=326af8c03cef71affd3ba910c78a0559"
+            },
+            {
+              "id": "I5",
+              "source": "Google Cloud：Databases（RSS）",
+              "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+              "url": "https://aihot.virxact.com/items/cmsow47ob08oarohd6vhpqrwt"
+            },
+            {
+              "id": "I6",
+              "source": "X：Sundar Pichai (@sundarpichai)",
+              "title": "Gemini月活破10亿，成谷歌增长最快产品",
+              "url": "https://aihot.virxact.com/items/cmsoxh6oa0a3drohdskp7cb9u"
+            },
+            {
+              "id": "I7",
+              "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+              "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+              "url": "https://aihot.virxact.com/items/cmsp0g9v20242rort4zh7mzx0"
+            }
+          ],
+          "input_article_count": 9
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
     "2026-08-11": {
       "date": "2026-08-11",
       "generated_at": "2026-08-11T10:06:08.954508+08:00",
