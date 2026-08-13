@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-13",
     "2026-08-12",
     "2026-08-11",
     "2026-08-10",
@@ -40,6 +41,194 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-08-13": {
+      "date": "2026-08-13",
+      "generated_at": "2026-08-13T10:06:30.399019+08:00",
+      "top6": [
+        {
+          "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+          "url": "https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi",
+          "source": "AI HOT · GitHub Blog",
+          "summary": "AutoGPT 维护者发现，AI 智能体不会主动阅读文档，因此将指令放在 AGENTS.md 和技能文件中，并置于代码目录旁。他们通过强制 PR 模板、测试计划、CI 覆盖率门槛和 CLA 签名等门控机制，将智能体提交的 PR 从\"不可用\"转变为\"可用但不符合路线图\"。其中 CLA 签名因需浏览器和 OAuth 流程，被用作区分人类与智能体的\"人类探测器\"。",
+          "region": "international"
+        },
+        {
+          "title": "微软首发自研推理模型MAI-Thinking-1",
+          "url": "https://aihot.virxact.com/items/cmsqbnb8j01nrroosmwa5r6mj",
+          "source": "AI HOT · X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+          "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
+          "region": "international"
+        },
+        {
+          "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
+          "url": "https://aihot.virxact.com/items/cmsq5saxh051mro2e90h10exo",
+          "source": "AI HOT · Nathan Lambert：Interconnects（RSS）",
+          "summary": "作者在完成一本 RLHF 教科书后反思，LLM 在长文非虚构写作上进展停滞，GPT 4.5 和 Kimi K2 等写作强模型已显老旧，而编码、数学等任务已接近超人水平。模型能改错字、做编辑，但组织整章内容时仍混乱且易出错，作者认为这阻碍了模型自主解决开放科学问题。",
+          "region": "international"
+        },
+        {
+          "title": "独家｜华为云加码AI办公：OfficeClaw升级为OfficeAce，瞄准企业Agent入口",
+          "url": "https://www.tmtpost.com/8100764.html",
+          "source": "钛媒体",
+          "summary": "AI办公市场正在经历一轮重新布局。",
+          "region": "domestic"
+        },
+        {
+          "title": "Vibe Coding 正在重写软件开发，也正在重构数据库",
+          "url": "https://www.leiphone.com/category/industrynews/q5wbWPcOp6rU17dU.html",
+          "source": "雷峰网",
+          "summary": "2025 年 2 月，Andrej Karpathy 在 X 上随手写下了\"vibe coding\"。 不到一年，它就成了柯林斯词典年度词汇。 同时，瑞典公司 Lovable 的 ARR 在2026年6月冲到5亿美元。平台上每周新增约100万个项目，累计超过5000万个，其中八成用户没有技术背景。",
+          "region": "domestic"
+        },
+        {
+          "title": "华为云与滴普科技联合发布数据智能解决方案，加速制造与零售行业AI落地",
+          "url": "https://www.leiphone.com/category/industrynews/5GTSi9GlaCRoYgMJ.html",
+          "source": "雷峰网",
+          "summary": "[中国，北京，2026年8月 1 2日] 华为云与滴普科技在北京联合发布数据智能联合解决方案。双方将共同打造面向智能制造、零售等行业的数据智能 联合解决方案 ，帮助企业打通数据孤岛，加速从数据治理到智能体应用的一站式落地。 ▲ 数据智能 联合解决方案发布 智能体时代，企业有约80%的精力耗费在数据准备上，而数据质量将直接决定模型和智能体能力的上限。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是可运营的数字工作系统。流程编排、运行态可观测与人工接管正成为关键产品壁垒。依据：雷峰网《华为云与滴普科技联合发布数据智能解决方案，加速制造与零售行业AI落地》；蚂蚁技术AntTech《论文秀 Live#44 | KDD 2026：多智能体如何自动验证 Rust 代码？用户表征如何降存 30 倍？》；InfoQ《微软正式发布 Agent Framework Harness 和 Hosted Agents》；GitHub Blog《AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求》；Anthropic：Research（发表成果 · 网页）《新兴多智能体系统的模式与问题》",
+          "evidence_ids": [
+            "I3",
+            "I5",
+            "I6",
+            "I7",
+            "I12"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I3",
+              "source": "雷峰网",
+              "title": "华为云与滴普科技联合发布数据智能解决方案，加速制造与零售行业AI落地",
+              "url": "https://www.leiphone.com/category/industrynews/5GTSi9GlaCRoYgMJ.html"
+            },
+            {
+              "id": "I5",
+              "source": "蚂蚁技术AntTech",
+              "title": "论文秀 Live#44 | KDD 2026：多智能体如何自动验证 Rust 代码？用户表征如何降存 30 倍？",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537736&idx=1&sn=9cc9fc67338dfcd64aea1cac6e4f0353"
+            },
+            {
+              "id": "I6",
+              "source": "InfoQ",
+              "title": "微软正式发布 Agent Framework Harness 和 Hosted Agents",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290672&idx=4&sn=92d775c3ba8d9e107e392003de675b35"
+            },
+            {
+              "id": "I7",
+              "source": "GitHub Blog",
+              "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+              "url": "https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi"
+            },
+            {
+              "id": "I12",
+              "source": "Anthropic：Research（发表成果 · 网页）",
+              "title": "新兴多智能体系统的模式与问题",
+              "url": "https://aihot.virxact.com/items/cmsqu0nr604oeroz2rh6b6mqt"
+            }
+          ],
+          "input_article_count": 15
+        },
+        {
+          "title": "企业选型标准正从“最强模型”转为总成本与控制权",
+          "summary": "企业客户开始同时衡量推理成本、部署弹性、模型可替换性和知识资产边界。能够统一接入多模型、保留企业记忆与评估数据的平台更容易获得长期预算。依据：Google Research：Blog（网页）《空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈》",
+          "evidence_ids": [
+            "I11"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I11",
+              "source": "Google Research：Blog（网页）",
+              "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
+              "url": "https://aihot.virxact.com/items/cmsqe6mat01bsroli3hw71nz7"
+            }
+          ],
+          "input_article_count": 15
+        },
+        {
+          "title": "企业 AI 竞争正回到组织价值、可信交付与场景验证",
+          "summary": "模型发布节奏不再能单独证明产品价值。厂商需要把能力嵌入组织流程、建立信任边界，并用真实客户场景证明生产率与商业增量。依据：钛媒体《独家｜华为云加码AI办公：OfficeClaw升级为OfficeAce，瞄准企业Agent入口》；雷峰网《Vibe Coding 正在重写软件开发，也正在重构数据库》；极客公园《实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新》；X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)《微软首发自研推理模型MAI-Thinking-1》；Nathan Lambert：Interconnects（RSS）《我写了一本 AI 教科书--AI 还要多久才能写得更好？》；X：OpenRouter (@OpenRouter)《Meta 开源 Muse Glimmer 登陆 OpenRouter》；Claude：Blog（网页）《Claude in Chrome 侧边栏升级为 Claude Cowork 会话》；公众号：数字生命卡兹克《DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验》；Hacker News 热门（buzzing.cc 中文翻译）《Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动》",
+          "evidence_ids": [
+            "I1",
+            "I2",
+            "I4",
+            "I8",
+            "I9",
+            "I10",
+            "I13",
+            "I14",
+            "I15"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I1",
+              "source": "钛媒体",
+              "title": "独家｜华为云加码AI办公：OfficeClaw升级为OfficeAce，瞄准企业Agent入口",
+              "url": "https://www.tmtpost.com/8100764.html"
+            },
+            {
+              "id": "I2",
+              "source": "雷峰网",
+              "title": "Vibe Coding 正在重写软件开发，也正在重构数据库",
+              "url": "https://www.leiphone.com/category/industrynews/q5wbWPcOp6rU17dU.html"
+            },
+            {
+              "id": "I4",
+              "source": "极客公园",
+              "title": "实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新",
+              "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653111835&idx=1&sn=885ee011b921c64fbefe96c8ae3e5cae"
+            },
+            {
+              "id": "I8",
+              "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+              "title": "微软首发自研推理模型MAI-Thinking-1",
+              "url": "https://aihot.virxact.com/items/cmsqbnb8j01nrroosmwa5r6mj"
+            },
+            {
+              "id": "I9",
+              "source": "Nathan Lambert：Interconnects（RSS）",
+              "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
+              "url": "https://aihot.virxact.com/items/cmsq5saxh051mro2e90h10exo"
+            },
+            {
+              "id": "I10",
+              "source": "X：OpenRouter (@OpenRouter)",
+              "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
+              "url": "https://aihot.virxact.com/items/cmsq1hwsb02norobuzbw8cdcc"
+            },
+            {
+              "id": "I13",
+              "source": "Claude：Blog（网页）",
+              "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+              "url": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r"
+            },
+            {
+              "id": "I14",
+              "source": "公众号：数字生命卡兹克",
+              "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+              "url": "https://aihot.virxact.com/items/cmsqq3bc001snro7vo8picfbp"
+            },
+            {
+              "id": "I15",
+              "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+              "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+              "url": "https://aihot.virxact.com/items/cmspo193n05q2rojeue8j2k5a"
+            }
+          ],
+          "input_article_count": 15
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
     "2026-08-12": {
       "date": "2026-08-12",
       "generated_at": "2026-08-12T10:06:08.381322+08:00",
