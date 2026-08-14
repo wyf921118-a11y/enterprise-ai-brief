@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-14",
     "2026-08-13",
     "2026-08-12",
     "2026-08-11",
@@ -41,6 +42,189 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-08-14": {
+      "date": "2026-08-14",
+      "generated_at": "2026-08-14T10:06:52.049361+08:00",
+      "top6": [
+        {
+          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
+          "url": "https://aihot.virxact.com/items/cmsrscwfn03f7ro0n7qijclds",
+          "source": "AI HOT · Google DeepMind：Blog（RSS）",
+          "summary": "Google DeepMind 发布 Gemini 3.7 Flash，距 3.6 Flash 仅三周，主打编程与智能体任务，输入/输出价格分别为每百万 token $0.75 和 $3.75，为原 3.6 Flash 的一半。",
+          "region": "international"
+        },
+        {
+          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+          "url": "https://aihot.virxact.com/items/cmsrtfqyv04btro0nle3m5b20",
+          "source": "AI HOT · Google Blog：AI（RSS）",
+          "summary": "Google Sheets 发布新功能 Sheets canvas，基于 Gemini 构建，用户只需用自然语言提示词即可将表格数据转化为交互式仪表盘、学习追踪器、座位表等\"迷你应用\"。",
+          "region": "international"
+        },
+        {
+          "title": "Claude 接管应用日常维护：388 个 PR 的实践",
+          "url": "https://aihot.virxact.com/items/cmss20h5g02uxroh6q6r1nqu9",
+          "source": "AI HOT · X：Boris Cherny (@bcherny)",
+          "summary": "Boris Cherny 尝试让 Claude 接管其应用的日常维护，通过 Slack 频道运行崩溃模糊测试、重复代码统一、死代码移除等日常任务。数周内自动开出 388 个 PR，其中 180 个经 Claude Code Review 和人工审核后合并。Claude 通常一次就能改对，出错时可通过调整例程次日改进。",
+          "region": "international"
+        },
+        {
+          "title": "DeepSeek Harness 入选项目疑似曝光，不选万星「花瓶」，死磕 Agent 基建",
+          "url": "https://www.leiphone.com/category/yanxishe/RZ78QNjvboOQZhCS.html",
+          "source": "雷峰网",
+          "summary": "当下刚需的基建方向，全被 DeepSeek Harness 锁定 作者丨 高允毅 编辑丨 岑 峰 昨晚，DeepSeek V4 Pro 正式发布，性能全面逼近 Fable 5 ，价格却只有1/57 ，再次坐实了 “智价比之王” 的美誉。",
+          "region": "domestic"
+        },
+        {
+          "title": "灵犀专业版首批接入DeepSeek-V4-Pro正式版，交付能力再升级",
+          "url": "https://www.leiphone.com/category/industrynews/a6tI2iy4DnB3jOir.html",
+          "source": "雷峰网",
+          "summary": "雷峰网8月13日消息，金山办公旗下AI办公智能体灵犀专业版宣布，已首批接入DeepSeek-V4-Pro正式版。用户在灵犀专业版内切换至该模型即可直接使用，无需额外配置。",
+          "region": "domestic"
+        },
+        {
+          "title": "巨头争抢 AI 办公，不再只拼模型",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247538098&idx=1&sn=d1acf9b2d262b48979e85ca9c6c5be2a",
+          "source": "晚点LatePost",
+          "summary": "Agent 正在重新定义，一家公司究竟应该怎样工作。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是可运营的数字工作系统。流程编排、运行态可观测与人工接管正成为关键产品壁垒。依据：雷峰网《DeepSeek Harness 入选项目疑似曝光，不选万星「花瓶」，死磕 Agent 基建》；InfoQ《Vercel 发布新语言 Zero：代码不是写给人看的，而是写给 AI 的》；Google DeepMind：Blog（RSS）《Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型》；DeepSeek《DeepSeek-V4-Pro 正式版上线》；X：DeepSeek (@deepseek_ai)《DeepSeek Harness v0.1 开发者预览版发布》；DeepSeek：API 更新日志《DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强》；Cursor Blog《Cursor 推出 builds：云智能体启动速度提升至 3 倍》",
+          "evidence_ids": [
+            "I1",
+            "I5",
+            "I6",
+            "I9",
+            "I11",
+            "I12",
+            "I13"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I1",
+              "source": "雷峰网",
+              "title": "DeepSeek Harness 入选项目疑似曝光，不选万星「花瓶」，死磕 Agent 基建",
+              "url": "https://www.leiphone.com/category/yanxishe/RZ78QNjvboOQZhCS.html"
+            },
+            {
+              "id": "I5",
+              "source": "InfoQ",
+              "title": "Vercel 发布新语言 Zero：代码不是写给人看的，而是写给 AI 的",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290726&idx=3&sn=df7c14b2f40c74cfbb2eaba58bdb5b37"
+            },
+            {
+              "id": "I6",
+              "source": "Google DeepMind：Blog（RSS）",
+              "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
+              "url": "https://aihot.virxact.com/items/cmsrscwfn03f7ro0n7qijclds"
+            },
+            {
+              "id": "I9",
+              "source": "DeepSeek",
+              "title": "DeepSeek-V4-Pro 正式版上线",
+              "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485770&idx=1&sn=dab0be341cb46a410ec40a062a5cb895"
+            },
+            {
+              "id": "I11",
+              "source": "X：DeepSeek (@deepseek_ai)",
+              "title": "DeepSeek Harness v0.1 开发者预览版发布",
+              "url": "https://aihot.virxact.com/items/cmsrjqqfg02z0ro469zple5jl"
+            },
+            {
+              "id": "I12",
+              "source": "DeepSeek：API 更新日志",
+              "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+              "url": "https://aihot.virxact.com/items/cmsrfaw5c0xo2roz2s8b4p2sv"
+            },
+            {
+              "id": "I13",
+              "source": "Cursor Blog",
+              "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
+              "url": "https://aihot.virxact.com/items/cmsruj6ik02dfrozeclkuve05"
+            }
+          ],
+          "input_article_count": 13
+        },
+        {
+          "title": "企业选型标准正从“最强模型”转为总成本与控制权",
+          "summary": "企业客户开始同时衡量推理成本、部署弹性、模型可替换性和知识资产边界。能够统一接入多模型、保留企业记忆与评估数据的平台更容易获得长期预算。依据：OpenAI：官网动态（RSS · 排除企业/客户案例）《GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能》",
+          "evidence_ids": [
+            "I10"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I10",
+              "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+              "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+              "url": "https://aihot.virxact.com/items/cmsruetoy027hrozeecu4ixrc"
+            }
+          ],
+          "input_article_count": 13
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为企业采购前提。依据：X：Boris Cherny (@bcherny)《Claude 接管应用日常维护：388 个 PR 的实践》",
+          "evidence_ids": [
+            "I8"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I8",
+              "source": "X：Boris Cherny (@bcherny)",
+              "title": "Claude 接管应用日常维护：388 个 PR 的实践",
+              "url": "https://aihot.virxact.com/items/cmss20h5g02uxroh6q6r1nqu9"
+            }
+          ],
+          "input_article_count": 13
+        },
+        {
+          "title": "企业 AI 竞争正回到组织价值、可信交付与场景验证",
+          "summary": "模型发布节奏不再能单独证明产品价值。厂商需要把能力嵌入组织流程、建立信任边界，并用真实客户场景证明生产率与商业增量。依据：雷峰网《灵犀专业版首批接入DeepSeek-V4-Pro正式版，交付能力再升级》；晚点LatePost《巨头争抢 AI 办公，不再只拼模型》；晚点LatePost《对谈华为前大模型负责人王云鹤：如果模型吞噬一切，那什么会留下？》；Google Blog：AI（RSS）《Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用》",
+          "evidence_ids": [
+            "I2",
+            "I3",
+            "I4",
+            "I7"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I2",
+              "source": "雷峰网",
+              "title": "灵犀专业版首批接入DeepSeek-V4-Pro正式版，交付能力再升级",
+              "url": "https://www.leiphone.com/category/industrynews/a6tI2iy4DnB3jOir.html"
+            },
+            {
+              "id": "I3",
+              "source": "晚点LatePost",
+              "title": "巨头争抢 AI 办公，不再只拼模型",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247538098&idx=1&sn=d1acf9b2d262b48979e85ca9c6c5be2a"
+            },
+            {
+              "id": "I4",
+              "source": "晚点LatePost",
+              "title": "对谈华为前大模型负责人王云鹤：如果模型吞噬一切，那什么会留下？",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247538098&idx=2&sn=cbdd433114ebd17b684e04e84ed06026"
+            },
+            {
+              "id": "I7",
+              "source": "Google Blog：AI（RSS）",
+              "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+              "url": "https://aihot.virxact.com/items/cmsrtfqyv04btro0nle3m5b20"
+            }
+          ],
+          "input_article_count": 13
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
     "2026-08-13": {
       "date": "2026-08-13",
       "generated_at": "2026-08-13T10:06:30.399019+08:00",
