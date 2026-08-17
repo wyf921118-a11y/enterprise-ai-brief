@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-17",
     "2026-08-14",
     "2026-08-13",
     "2026-08-12",
@@ -42,6 +43,101 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-08-17": {
+      "date": "2026-08-17",
+      "generated_at": "2026-08-17T10:12:41.856608+08:00",
+      "top6": [
+        {
+          "title": "新兴多智能体系统的模式与问题",
+          "url": "https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l",
+          "source": "AI HOT · Hacker News 热门（buzzing.cc 中文翻译）",
+          "summary": "随着AI智能体在共享代码库、市场等社会系统中承担更多任务，智能体间的真实交互将激增，其交互量可能超过人机交互。Anthropic实验显示，协调式智能体群在2700万token运行中发现266个漏洞，远超独立并行方法的21个，但两者互补性明显。智能体虽擅长工具使用，但在长期协作与协调方面仍面临挑战。",
+          "region": "international"
+        },
+        {
+          "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "url": "https://aihot.virxact.com/items/cmst2gs6d02lmro06sb7as7av",
+          "source": "AI HOT · Ars Technica：AI（RSS）",
+          "summary": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "region": "international"
+        },
+        {
+          "title": "Anthropic不走高端路线，Sonnet 5永久降价！开发者算帐后锐评：性价比太低，到底谁会用啊？",
+          "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290850&idx=2&sn=469d2172bf4f84c7f907d01f9bc3c969",
+          "source": "InfoQ",
+          "summary": "Anthropic 宣布，Claude Sonnet 5 的初始定价将永久保留。",
+          "region": "international"
+        },
+        {
+          "title": "梁神变牢梁的原因找到了！疑似 DeepSeek 发错模型，HF配置和API后台紧急切换",
+          "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290850&idx=1&sn=64f7c1d21a212cfc439e90f744bb4343",
+          "source": "InfoQ",
+          "summary": "DeepSeek-v4-pro-0813 正式上线，两极分化的口碑却让人摸不着头脑。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是可运营的数字工作系统。流程编排、运行态可观测与人工接管正成为关键产品壁垒。依据：Hacker News 热门（buzzing.cc 中文翻译）《新兴多智能体系统的模式与问题》",
+          "evidence_ids": [
+            "I4"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I4",
+              "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+              "title": "新兴多智能体系统的模式与问题",
+              "url": "https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l"
+            }
+          ],
+          "input_article_count": 5
+        },
+        {
+          "title": "企业 AI 竞争正回到组织价值、可信交付与场景验证",
+          "summary": "模型发布节奏不再能单独证明产品价值。厂商需要把能力嵌入组织流程、建立信任边界，并用真实客户场景证明生产率与商业增量。依据：InfoQ《Anthropic不走高端路线，Sonnet 5永久降价！开发者算帐后锐评：性价比太低，到底谁会用啊？》；InfoQ《梁神变牢梁的原因找到了！疑似 DeepSeek 发错模型，HF配置和API后台紧急切换》；InfoQ《AI 智能体开始参与交付，谁来证明它没有“动手脚”？IBM 与 Red Hat 给出一套新方案》；Ars Technica：AI（RSS）《OpenAI and Anthropic in price war as Chinese AI rivals gain ground》",
+          "evidence_ids": [
+            "I1",
+            "I2",
+            "I3",
+            "I5"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I1",
+              "source": "InfoQ",
+              "title": "Anthropic不走高端路线，Sonnet 5永久降价！开发者算帐后锐评：性价比太低，到底谁会用啊？",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290850&idx=2&sn=469d2172bf4f84c7f907d01f9bc3c969"
+            },
+            {
+              "id": "I2",
+              "source": "InfoQ",
+              "title": "梁神变牢梁的原因找到了！疑似 DeepSeek 发错模型，HF配置和API后台紧急切换",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290850&idx=1&sn=64f7c1d21a212cfc439e90f744bb4343"
+            },
+            {
+              "id": "I3",
+              "source": "InfoQ",
+              "title": "AI 智能体开始参与交付，谁来证明它没有“动手脚”？IBM 与 Red Hat 给出一套新方案",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290850&idx=4&sn=7c534aaecad97dbf6027641bf9eefbb0"
+            },
+            {
+              "id": "I5",
+              "source": "Ars Technica：AI（RSS）",
+              "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+              "url": "https://aihot.virxact.com/items/cmst2gs6d02lmro06sb7as7av"
+            }
+          ],
+          "input_article_count": 5
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
     "2026-08-14": {
       "date": "2026-08-14",
       "generated_at": "2026-08-14T10:06:52.049361+08:00",
