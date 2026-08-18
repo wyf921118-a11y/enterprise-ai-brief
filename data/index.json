@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-18",
     "2026-08-17",
     "2026-08-14",
     "2026-08-13",
@@ -43,6 +44,201 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-08-18": {
+      "date": "2026-08-18",
+      "generated_at": "2026-08-18T10:04:51.765988+08:00",
+      "top6": [
+        {
+          "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
+          "url": "https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j",
+          "source": "AI HOT · Google Developers Blog（RSS）",
+          "summary": "Google 开源了基于 ADK 和 Gemini 的零信任客服与退货智能体示例，演示如何防御提示注入等攻击。该架构在 LLM 上下文之外通过三层硬性安全机制保障：硬件支持的加密签名确保数据库写入不可抵赖、gVisor 沙箱隔离动态代码执行、确定性语义网关校验业务逻辑。系统提示词只是软约束，无法作为安全边界。",
+          "region": "international"
+        },
+        {
+          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
+          "url": "https://aihot.virxact.com/items/cmsx9696t05u7rommdoa60l4p",
+          "source": "AI HOT · OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "summary": "OpenAI 在 OpenAI-Hugging Face 事件后反思低估了模型真实网络攻击能力，正通过四大支柱强化自身安全：用 Codex 验证代码漏洞、用智能体优先分流安全告警、持续枚举攻击路径，并仅向可信防御者开放网络能力。文中演示 ChatGPT Work（基于 GPT-5.6 Sol）15 分钟发现个人网站 13 个问题并在一小时内完成修复。",
+          "region": "international"
+        },
+        {
+          "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
+          "url": "https://aihot.virxact.com/items/cmsxld6es03o8roz0jblf3ii9",
+          "source": "AI HOT · Hacker News 热门（buzzing.cc 中文翻译）",
+          "summary": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
+          "region": "international"
+        },
+        {
+          "title": "HTML正在成为 AI 办公的新载体？WorkBuddy 升级了一个关键能力",
+          "url": "https://www.leiphone.com/category/yanxishe/oKb8M5M7ub7JmG47.html",
+          "source": "雷峰网",
+          "summary": "HTML也能人机协同编辑了。（雷峰网） 作者丨李娜 编辑丨岑峰 仅仅十几秒，我就用WorkBuddy最新的功能做出了一个网页，并直接发布成了可以分享的公网链接，任何人都能访问。 这次WorkBuddy升级“资料库”之后，普通用户不需要写代码，也不用自己处理复杂部署，就能用自然语言生成、编辑和发布HTML页面。网页做出来这件事，已经变得非常简单。",
+          "region": "domestic"
+        },
+        {
+          "title": "YC 开源自家 Harness，3 天斩获 3.9k Star，QM 如何划清 Agent 的权限边界",
+          "url": "https://www.leiphone.com/category/ai/5fYkbR7Q1K3l0ImP.html",
+          "source": "雷峰网",
+          "summary": "从拼模型能力，到搭管控骨架。 作者丨 樊天骄 编辑丨 郑佳美 过去两年，AI Agent 的竞争逻辑一直围绕一个核心问题展开：如何让一个 Agent 助手变得更加聪明及能干。 从 Claude Code、Codex，到 OpenClaw、Manus，现在的 Agent 可以写代码、分析数据、调用工具，甚至独立完成过去需要数小时、数天才能完成的复杂任务。",
+          "region": "domestic"
+        },
+        {
+          "title": "商业客户端Harness资产管理与应用实践",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MjU0NTI5OQ==&mid=2247607453&idx=1&sn=0d0dc5f97c286cb80c48a42a7bbf654f",
+          "source": "百度Geek说",
+          "summary": "商业客户端Harness资产管理面临多Agent、多产品线配置漂移等挑战，部署方案从单文件同步演进到ACX仓库插件化，实现统一治理。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是可运营的数字工作系统。流程编排、运行态可观测与人工接管正成为关键产品壁垒。依据：雷峰网《HTML正在成为 AI 办公的新载体？WorkBuddy 升级了一个关键能力》；雷峰网《YC 开源自家 Harness，3 天斩获 3.9k Star，QM 如何划清 Agent 的权限边界》；雷峰网《关于 Hugging Face 入侵事件，OpenAI 终于放出了时间线》；Google Developers Blog（RSS）《用 Google 的 Agent Development Kit 构建零信任 AI 智能体》；雷峰网《深度拆解 DeepSeek Harness 架构：AGI 的自进化，终于有了「后悔药」》；Hacker News 热门（buzzing.cc 中文翻译）《Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案》",
+          "evidence_ids": [
+            "I1",
+            "I2",
+            "I4",
+            "I7",
+            "I11",
+            "I16"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I1",
+              "source": "雷峰网",
+              "title": "HTML正在成为 AI 办公的新载体？WorkBuddy 升级了一个关键能力",
+              "url": "https://www.leiphone.com/category/yanxishe/oKb8M5M7ub7JmG47.html"
+            },
+            {
+              "id": "I2",
+              "source": "雷峰网",
+              "title": "YC 开源自家 Harness，3 天斩获 3.9k Star，QM 如何划清 Agent 的权限边界",
+              "url": "https://www.leiphone.com/category/ai/5fYkbR7Q1K3l0ImP.html"
+            },
+            {
+              "id": "I4",
+              "source": "雷峰网",
+              "title": "关于 Hugging Face 入侵事件，OpenAI 终于放出了时间线",
+              "url": "https://www.leiphone.com/category/ai/JyuBFwcuu4VhHQjM.html"
+            },
+            {
+              "id": "I7",
+              "source": "Google Developers Blog（RSS）",
+              "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
+              "url": "https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j"
+            },
+            {
+              "id": "I11",
+              "source": "雷峰网",
+              "title": "深度拆解 DeepSeek Harness 架构：AGI 的自进化，终于有了「后悔药」",
+              "url": "https://www.leiphone.com/category/ai/u43j44fx6Rly10nI.html"
+            },
+            {
+              "id": "I16",
+              "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+              "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+              "url": "https://aihot.virxact.com/items/cmsxsvb5s0a4troz0z2q2nu3h"
+            }
+          ],
+          "input_article_count": 16
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为企业采购前提。依据：OpenAI：官网动态（RSS · 排除企业/客户案例）《OpenAI 如何用前沿智能加固自身防御：The Defender's Window》",
+          "evidence_ids": [
+            "I13"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I13",
+              "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+              "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
+              "url": "https://aihot.virxact.com/items/cmsx9696t05u7rommdoa60l4p"
+            }
+          ],
+          "input_article_count": 16
+        },
+        {
+          "title": "企业 AI 竞争正回到组织价值、可信交付与场景验证",
+          "summary": "模型发布节奏不再能单独证明产品价值。厂商需要把能力嵌入组织流程、建立信任边界，并用真实客户场景证明生产率与商业增量。依据：雷峰网《拆解 Mistral AI 新项目Shieldstral，看 3B 小模型如何重构 AI 安全审核范式》；雷峰网《为了「自我锤炼」，OpenAI 造了一个攻击力极强的「AI 黑客」》；雷峰网《周鸿祎发布全员信：360启动AI时代组织变革，用领导力驱动AI原生转型》；百度Geek说《商业客户端Harness资产管理与应用实践》；阿里云开发者《Qwen-Audio-3.0系列语音模型正式上线千问AI平台》；虎嗅APP《从超级个体到组织收益，AI卡在哪？》；雷峰网《别再乱调图像塔了！浙大 IJCAI 论文揭露 VLM 非对称性真相，给 CLIP 微调「踩刹车」》；雷峰网《原生全模态路线进阶，智象未来发布交互式世界模型HiDream-O1-World》；Hacker News 热门（buzzing.cc 中文翻译）《404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁》",
+          "evidence_ids": [
+            "I3",
+            "I5",
+            "I6",
+            "I8",
+            "I9",
+            "I10",
+            "I12",
+            "I14",
+            "I15"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I3",
+              "source": "雷峰网",
+              "title": "拆解 Mistral AI 新项目Shieldstral，看 3B 小模型如何重构 AI 安全审核范式",
+              "url": "https://www.leiphone.com/category/ai/mx99nwAcQHgHCbka.html"
+            },
+            {
+              "id": "I5",
+              "source": "雷峰网",
+              "title": "为了「自我锤炼」，OpenAI 造了一个攻击力极强的「AI 黑客」",
+              "url": "https://www.leiphone.com/category/ai/2b8vHYIEycW0DmQE.html"
+            },
+            {
+              "id": "I6",
+              "source": "雷峰网",
+              "title": "周鸿祎发布全员信：360启动AI时代组织变革，用领导力驱动AI原生转型",
+              "url": "https://www.leiphone.com/category/industrynews/WjQLacGTcoSW4yTA.html"
+            },
+            {
+              "id": "I8",
+              "source": "百度Geek说",
+              "title": "商业客户端Harness资产管理与应用实践",
+              "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MjU0NTI5OQ==&mid=2247607453&idx=1&sn=0d0dc5f97c286cb80c48a42a7bbf654f"
+            },
+            {
+              "id": "I9",
+              "source": "阿里云开发者",
+              "title": "Qwen-Audio-3.0系列语音模型正式上线千问AI平台",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561890&idx=1&sn=9ef07932c013aa647d11056b74bf52a6"
+            },
+            {
+              "id": "I10",
+              "source": "虎嗅APP",
+              "title": "从超级个体到组织收益，AI卡在哪？",
+              "url": "https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656194414&idx=3&sn=5bcd1728aae3089749e1d4ba470edac7"
+            },
+            {
+              "id": "I12",
+              "source": "雷峰网",
+              "title": "别再乱调图像塔了！浙大 IJCAI 论文揭露 VLM 非对称性真相，给 CLIP 微调「踩刹车」",
+              "url": "https://www.leiphone.com/category/private/xQX0laen8XifhvXD.html"
+            },
+            {
+              "id": "I14",
+              "source": "雷峰网",
+              "title": "原生全模态路线进阶，智象未来发布交互式世界模型HiDream-O1-World",
+              "url": "https://www.leiphone.com/category/ai/ZBZ8uxaPm2OTe7nN.html"
+            },
+            {
+              "id": "I15",
+              "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+              "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
+              "url": "https://aihot.virxact.com/items/cmsxld6es03o8roz0jblf3ii9"
+            }
+          ],
+          "input_article_count": 16
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
     "2026-08-17": {
       "date": "2026-08-17",
       "generated_at": "2026-08-17T10:12:41.856608+08:00",
