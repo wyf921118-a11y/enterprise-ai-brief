@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-19",
     "2026-08-18",
     "2026-08-17",
     "2026-08-14",
@@ -44,6 +45,175 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-08-19": {
+      "date": "2026-08-19",
+      "generated_at": "2026-08-19T10:10:52.009084+08:00",
+      "top6": [
+        {
+          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+          "url": "https://aihot.virxact.com/items/cmsz0hbsg05l0ro204080cotv",
+          "source": "AI HOT · OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "summary": "OpenAI 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到《预备框架》下的\"关键网络安全能力\"阈值，暂时放缓了模型扩展速度，包括暂停最新部署模型的强化学习训练两周，并搁置最大规模前沿 RL 运行。公司已加强研究环境安全，要求对 Astra 及网络相关负载实施最严格防护，并扩展思维链监控，采用多阶段激活分类器检测机制。",
+          "region": "international"
+        },
+        {
+          "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+          "url": "https://aihot.virxact.com/items/cmsz1zjiy013pro3f1e0aafra",
+          "source": "AI HOT · Claude：Blog（网页）",
+          "summary": "Anthropic 的 CI 工程师用 Claude Tag 构建了值班智能体，作为 CI/CD 故障的一线响应者。Claude 在事故发生后中位 14 分钟发布首份基于证据的分析，最快案例中 3 分钟内验证修复并确认错误率恢复基线。",
+          "region": "international"
+        },
+        {
+          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+          "url": "https://aihot.virxact.com/items/cmsykcnkt0yh1roz0a9h404r5",
+          "source": "AI HOT · OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "summary": "OpenAI 发布 ChatGPT for Teens，为 13-17 岁用户自动启用，内置更强安全保护与家长控制。新增 Study Mode、负责任作业提醒、测验与学习可视化，以及可设定默认开启时段的 Study Hours，引导青少年分步解题而非直接给答案。OpenAI 同时宣布与 CodeAI 合作，帮助青少年理解、质疑并创造性地使用 AI。",
+          "region": "international"
+        },
+        {
+          "title": "大厂押注AI办公，文库网盘正在从“通用”走向“专业",
+          "url": "https://www.leiphone.com/category/industrynews/xhw82Iff25BriMoX.html",
+          "source": "雷峰网",
+          "summary": "从十年前起，互联网大厂就一直想帮打工人提升效率。 在线文档、企业微信、打卡审批——工具不断变换，看似办公室里的工作方式跟着变了，但好像真正被释放的时间并没有减少。 直到十年后，大模型和agent 让事情有了好转，AI能够自己搜集资料、调用工具、拆解任务，办公软件开始真正替人干活。",
+          "region": "domestic"
+        },
+        {
+          "title": "今日起，阿里“千问办公”接入企业微信",
+          "url": "https://www.leiphone.com/category/industrynews/UfFcOesIqU4Ku5OR.html",
+          "source": "雷峰网",
+          "summary": "8月18日，阿里旗下Agent产品“千问办公”正式接入企业微信。此前，该产品已接入钉钉和飞书。至此，“千问办公”实现国内三大主流协同办公平台的全面支持。",
+          "region": "domestic"
+        },
+        {
+          "title": "让 Coding Agent 开始「记住过去」：MemoraX Code 的长期记忆系统",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651050939&idx=1&sn=048d1d6f8e05e0ae4bd944928e5d2171",
+          "source": "机器之心",
+          "summary": "Agent 越来越会写代码了，却还是常常像第一次来到这个项目。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是可运营的数字工作系统。流程编排、运行态可观测与人工接管正成为关键产品壁垒。依据：雷峰网《OPPO唐凯：模型能力已经超过产业链的组织能力》",
+          "evidence_ids": [
+            "I3"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I3",
+              "source": "雷峰网",
+              "title": "OPPO唐凯：模型能力已经超过产业链的组织能力",
+              "url": "https://www.leiphone.com/category/industrynews/Fw53BFd8oELxtNMl.html"
+            }
+          ],
+          "input_article_count": 11
+        },
+        {
+          "title": "企业选型标准正从“最强模型”转为总成本与控制权",
+          "summary": "企业客户开始同时衡量推理成本、部署弹性、模型可替换性和知识资产边界。能够统一接入多模型、保留企业记忆与评估数据的平台更容易获得长期预算。依据：雷峰网《DeepSeek 为什么把缓存涨了 11 倍？长上下文需求暴涨，得交点「存储税」了》",
+          "evidence_ids": [
+            "I4"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I4",
+              "source": "雷峰网",
+              "title": "DeepSeek 为什么把缓存涨了 11 倍？长上下文需求暴涨，得交点「存储税」了",
+              "url": "https://www.leiphone.com/category/yanxishe/NfnH0gxun9dwHGGX.html"
+            }
+          ],
+          "input_article_count": 11
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为企业采购前提。依据：Claude：Blog（网页）《Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者》；机器之心《让 Coding Agent 开始「记住过去」：MemoraX Code 的长期记忆系统》",
+          "evidence_ids": [
+            "I7",
+            "I10"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I7",
+              "source": "Claude：Blog（网页）",
+              "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+              "url": "https://aihot.virxact.com/items/cmsz1zjiy013pro3f1e0aafra"
+            },
+            {
+              "id": "I10",
+              "source": "机器之心",
+              "title": "让 Coding Agent 开始「记住过去」：MemoraX Code 的长期记忆系统",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651050939&idx=1&sn=048d1d6f8e05e0ae4bd944928e5d2171"
+            }
+          ],
+          "input_article_count": 11
+        },
+        {
+          "title": "企业 AI 竞争正回到组织价值、可信交付与场景验证",
+          "summary": "模型发布节奏不再能单独证明产品价值。厂商需要把能力嵌入组织流程、建立信任边界，并用真实客户场景证明生产率与商业增量。依据：雷峰网《大厂押注AI办公，文库网盘正在从“通用”走向“专业》；雷峰网《今日起，阿里“千问办公”接入企业微信》；雷峰网《豆包工作任务再升级，支持虚拟桌面操作Windows电脑》；OpenAI：官网动态（RSS · 排除企业/客户案例）《OpenAI 在\"关键网络能力\"时代放缓模型开发节奏》；OpenAI：官网动态（RSS · 排除企业/客户案例）《OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护》；X：Claude (@claudeai)《Claude 现已支持 Gmail 邮件与 Google Drive 文件管理》；InfoQ《InfoQ 2026 年趋势报告：AI 重写工程师角色，但一切仍然关乎人》",
+          "evidence_ids": [
+            "I1",
+            "I2",
+            "I5",
+            "I6",
+            "I8",
+            "I9",
+            "I11"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I1",
+              "source": "雷峰网",
+              "title": "大厂押注AI办公，文库网盘正在从“通用”走向“专业",
+              "url": "https://www.leiphone.com/category/industrynews/xhw82Iff25BriMoX.html"
+            },
+            {
+              "id": "I2",
+              "source": "雷峰网",
+              "title": "今日起，阿里“千问办公”接入企业微信",
+              "url": "https://www.leiphone.com/category/industrynews/UfFcOesIqU4Ku5OR.html"
+            },
+            {
+              "id": "I5",
+              "source": "雷峰网",
+              "title": "豆包工作任务再升级，支持虚拟桌面操作Windows电脑",
+              "url": "https://www.leiphone.com/category/industrynews/dALyYua0P0hERfto.html"
+            },
+            {
+              "id": "I6",
+              "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+              "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+              "url": "https://aihot.virxact.com/items/cmsz0hbsg05l0ro204080cotv"
+            },
+            {
+              "id": "I8",
+              "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+              "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+              "url": "https://aihot.virxact.com/items/cmsykcnkt0yh1roz0a9h404r5"
+            },
+            {
+              "id": "I9",
+              "source": "X：Claude (@claudeai)",
+              "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+              "url": "https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x"
+            },
+            {
+              "id": "I11",
+              "source": "InfoQ",
+              "title": "InfoQ 2026 年趋势报告：AI 重写工程师角色，但一切仍然关乎人",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290972&idx=2&sn=6884c3899ec1800d82d53db282b47c0e"
+            }
+          ],
+          "input_article_count": 11
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "资本继续偏向能够进入企业流程的 AI 应用",
+          "summary": "资金更关注具备明确企业场景、持续付费路径和工作流入口的产品，而非缺少商业闭环的通用工具。后续应重点观察融资是否转化为客户规模、渠道能力和平台集成深度。依据：36氪《471亿，全球最大的大模型中介，卖身了》"
+        }
+      ]
+    },
     "2026-08-18": {
       "date": "2026-08-18",
       "generated_at": "2026-08-18T10:04:51.765988+08:00",
