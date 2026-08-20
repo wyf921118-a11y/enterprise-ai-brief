@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-20",
     "2026-08-19",
     "2026-08-18",
     "2026-08-17",
@@ -45,6 +46,159 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-08-20": {
+      "date": "2026-08-20",
+      "generated_at": "2026-08-20T10:14:25.380793+08:00",
+      "top6": [
+        {
+          "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+          "url": "https://aihot.virxact.com/items/cmt0mqceo08lzro2o6xi3rlk4",
+          "source": "AI HOT · Hacker News 热门（buzzing.cc 中文翻译）",
+          "summary": "Anthropic 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到\"关键网络安全能力阈值\"，暂时放缓模型扩展速度，包括暂停最新模型两周的强化学习（RL）训练。公司已加强研究环境安全要求，包括工作负载隔离、网络隔离和持续安全测试，并扩大思维链监控范围。",
+          "region": "international"
+        },
+        {
+          "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+          "url": "https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x",
+          "source": "AI HOT · X：Claude (@claudeai)",
+          "summary": "Claude 现在可以在 Gmail 中发送邮件，并管理 Google Drive 中的文件。 让 Claude 回复某个邮件线程，它会起草并发送回复。你可以控制何时需要你的批准。 从连接器菜单中选择连接 Gmail 或 Google Drive 即可试用。所有付费套餐均可用。",
+          "region": "international"
+        },
+        {
+          "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+          "url": "https://aihot.virxact.com/items/cmsxsvb5s0a4troz0z2q2nu3h",
+          "source": "AI HOT · Hacker News 热门（buzzing.cc 中文翻译）",
+          "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
+          "region": "international"
+        },
+        {
+          "title": "支付宝“晓政”赋能民政服务数字化升级，七夕婚姻登记智能服务正式上线",
+          "url": "https://www.leiphone.com/category/industrynews/pneNGy8qZOpKWkEH.html",
+          "source": "雷峰网",
+          "summary": "七夕婚姻登记高峰将至，支付宝政务 AI 助手 “晓政”联合民政部民政通推出婚姻登记专项便民服务，依托 MCP 能力连接十省官方服务通道，为用户提供结婚登记预约、政策咨询、婚姻登记网点查询等服务。用户无需在多个页面反复查找，只需说出“预约结婚登记”等需求，即可快速获取对应服务及办事指引，让婚姻登记从“找服务”进一步走向“对话办”。",
+          "region": "domestic"
+        },
+        {
+          "title": "中小企业拥抱 AI 的最佳方式，是照抄大厂的作业",
+          "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112280&idx=1&sn=018485d37aae72b4256de573a6bf2691",
+          "source": "极客公园",
+          "summary": "AI 日新月异，如何更快更低成本落地，才是真问题。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是可运营的数字工作系统。流程编排、运行态可观测与人工接管正成为关键产品壁垒。依据：雷峰网《支付宝“晓政”赋能民政服务数字化升级，七夕婚姻登记智能服务正式上线》；Google Developers Blog（RSS）《用 Google 的 Agent Development Kit 构建零信任 AI 智能体》；Hacker News 热门（buzzing.cc 中文翻译）《Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案》",
+          "evidence_ids": [
+            "I1",
+            "I2",
+            "I11"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I1",
+              "source": "雷峰网",
+              "title": "支付宝“晓政”赋能民政服务数字化升级，七夕婚姻登记智能服务正式上线",
+              "url": "https://www.leiphone.com/category/industrynews/pneNGy8qZOpKWkEH.html"
+            },
+            {
+              "id": "I2",
+              "source": "Google Developers Blog（RSS）",
+              "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
+              "url": "https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j"
+            },
+            {
+              "id": "I11",
+              "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+              "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+              "url": "https://aihot.virxact.com/items/cmsxsvb5s0a4troz0z2q2nu3h"
+            }
+          ],
+          "input_article_count": 11
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为企业采购前提。依据：OpenAI：官网动态（RSS · 排除企业/客户案例）《OpenAI 如何用前沿智能加固自身防御：The Defender's Window》；Claude：Blog（网页）《Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者》",
+          "evidence_ids": [
+            "I5",
+            "I8"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I5",
+              "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+              "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
+              "url": "https://aihot.virxact.com/items/cmsx9696t05u7rommdoa60l4p"
+            },
+            {
+              "id": "I8",
+              "source": "Claude：Blog（网页）",
+              "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+              "url": "https://aihot.virxact.com/items/cmsz1zjiy013pro3f1e0aafra"
+            }
+          ],
+          "input_article_count": 11
+        },
+        {
+          "title": "企业 AI 竞争正回到组织价值、可信交付与场景验证",
+          "summary": "模型发布节奏不再能单独证明产品价值。厂商需要把能力嵌入组织流程、建立信任边界，并用真实客户场景证明生产率与商业增量。依据：极客公园《中小企业拥抱 AI 的最佳方式，是照抄大厂的作业》；钛媒体《OpenAI 首次披露企业版后台数据：真正卷 AI 的不是高管，是职场新人》；OpenAI：官网动态（RSS · 排除企业/客户案例）《OpenAI 在\"关键网络能力\"时代放缓模型开发节奏》；Hacker News 热门（buzzing.cc 中文翻译）《Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护》；X：Claude (@claudeai)《Claude 现已支持 Gmail 邮件与 Google Drive 文件管理》；Hacker News 热门（buzzing.cc 中文翻译）《404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁》",
+          "evidence_ids": [
+            "I3",
+            "I4",
+            "I6",
+            "I7",
+            "I9",
+            "I10"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I3",
+              "source": "极客公园",
+              "title": "中小企业拥抱 AI 的最佳方式，是照抄大厂的作业",
+              "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112280&idx=1&sn=018485d37aae72b4256de573a6bf2691"
+            },
+            {
+              "id": "I4",
+              "source": "钛媒体",
+              "title": "OpenAI 首次披露企业版后台数据：真正卷 AI 的不是高管，是职场新人",
+              "url": "https://www.tmtpost.com/8109152.html"
+            },
+            {
+              "id": "I6",
+              "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+              "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+              "url": "https://aihot.virxact.com/items/cmsz0hbsg05l0ro204080cotv"
+            },
+            {
+              "id": "I7",
+              "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+              "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+              "url": "https://aihot.virxact.com/items/cmt0mqceo08lzro2o6xi3rlk4"
+            },
+            {
+              "id": "I9",
+              "source": "X：Claude (@claudeai)",
+              "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+              "url": "https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x"
+            },
+            {
+              "id": "I10",
+              "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+              "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
+              "url": "https://aihot.virxact.com/items/cmsxld6es03o8roz0jblf3ii9"
+            }
+          ],
+          "input_article_count": 11
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
     "2026-08-19": {
       "date": "2026-08-19",
       "generated_at": "2026-08-19T10:10:52.009084+08:00",
