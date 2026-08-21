@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-21",
     "2026-08-20",
     "2026-08-19",
     "2026-08-18",
@@ -46,6 +47,173 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-08-21": {
+      "date": "2026-08-21",
+      "generated_at": "2026-08-21T10:06:09.260111+08:00",
+      "top6": [
+        {
+          "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
+          "url": "https://aihot.virxact.com/items/cmt1z1q5n0c93roovlvh40tew",
+          "source": "AI HOT · Claude：Blog（网页）",
+          "summary": "Anthropic 宣布 Computer Use、Skills API 与 Files API 在 Claude Platform 全面可用，并新增浏览器操作工具，让智能体可操作软件、调用团队技能并返回成品文件。",
+          "region": "international"
+        },
+        {
+          "title": "Anthropic 如何开展 AI 教学",
+          "url": "https://aihot.virxact.com/items/cmt1tonwa07i9roovrze0ll65",
+          "source": "AI HOT · Claude：Blog（网页）",
+          "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
+          "region": "international"
+        },
+        {
+          "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
+          "url": "https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7",
+          "source": "AI HOT · Mistral AI：News（网页）",
+          "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
+          "region": "international"
+        },
+        {
+          "title": "Harness 神器 J-Space 造假案背后，思维链作者暴论，小模型 + 工具干不掉顶级大模型",
+          "url": "https://www.leiphone.com/category/yanxishe/EwXFwuIZiBRqbgCs.html",
+          "source": "雷峰网",
+          "summary": "外挂补不了模型智商，《苦涩的教训》再次上演。 作者丨 高允毅 编辑丨 岑 峰 这两天在 X 上，一款蹭 DeepSeek 热度的 Harness 工具被打假了。",
+          "region": "domestic"
+        },
+        {
+          "title": "腾讯云发布 AI 数据底座 TDSQL Nexa，多项 AI 数据库能力进入生产环境",
+          "url": "https://www.leiphone.com/category/industrynews/MNvS1YuzAPFPFN7n.html",
+          "source": "雷峰网",
+          "summary": "数据库这款有着 60 多年历史的基础软件，正在加速面向 Agent 重构。 8 月 20 日，在 2026 DTCC 中国数据库技术大会上，腾讯云正式发布面向 AI 时代的数据底座 TDSQL Nexa，通过统一入口连接企业分散的多源数据，并为 Agent 提供业务语义理解和权限治理能力。",
+          "region": "domestic"
+        },
+        {
+          "title": "AI 办公混战，腾讯百度抢先",
+          "url": "https://www.tmtpost.com/8109247.html",
+          "source": "钛媒体",
+          "summary": "AI办公，谁与争锋？",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是可运营的数字工作系统。流程编排、运行态可观测与人工接管正成为关键产品壁垒。依据：雷峰网《腾讯云发布 AI 数据底座 TDSQL Nexa，多项 AI 数据库能力进入生产环境》；雷峰网《中国信通院联合淘宝闪购发布首份即时零售智能体可信规范》；机器之心《WorkSwarm让Agent组队干活，JiuwenBox安全沙箱守护每一步执行》；Claude：Blog（网页）《Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具》；Mistral AI：News（网页）《Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率》",
+          "evidence_ids": [
+            "I2",
+            "I3",
+            "I5",
+            "I8",
+            "I10"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I2",
+              "source": "雷峰网",
+              "title": "腾讯云发布 AI 数据底座 TDSQL Nexa，多项 AI 数据库能力进入生产环境",
+              "url": "https://www.leiphone.com/category/industrynews/MNvS1YuzAPFPFN7n.html"
+            },
+            {
+              "id": "I3",
+              "source": "雷峰网",
+              "title": "中国信通院联合淘宝闪购发布首份即时零售智能体可信规范",
+              "url": "https://www.leiphone.com/category/industrynews/xVJthZockA9RDYB6.html"
+            },
+            {
+              "id": "I5",
+              "source": "机器之心",
+              "title": "WorkSwarm让Agent组队干活，JiuwenBox安全沙箱守护每一步执行",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051423&idx=2&sn=16e8c6178a4da711642607cf5323766b"
+            },
+            {
+              "id": "I8",
+              "source": "Claude：Blog（网页）",
+              "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
+              "url": "https://aihot.virxact.com/items/cmt1z1q5n0c93roovlvh40tew"
+            },
+            {
+              "id": "I10",
+              "source": "Mistral AI：News（网页）",
+              "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
+              "url": "https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7"
+            }
+          ],
+          "input_article_count": 12
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为企业采购前提。依据：Claude：Blog（网页）《Claude Code 初创公司指南：五大规则与创始人洞见》",
+          "evidence_ids": [
+            "I11"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I11",
+              "source": "Claude：Blog（网页）",
+              "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
+              "url": "https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv"
+            }
+          ],
+          "input_article_count": 12
+        },
+        {
+          "title": "企业 AI 竞争正回到组织价值、可信交付与场景验证",
+          "summary": "模型发布节奏不再能单独证明产品价值。厂商需要把能力嵌入组织流程、建立信任边界，并用真实客户场景证明生产率与商业增量。依据：雷峰网《Harness 神器 J-Space 造假案背后，思维链作者暴论，小模型 + 工具干不掉顶级大模型》；钛媒体《AI 办公混战，腾讯百度抢先》；钛媒体《2026，AI落地要先闯过的三个关口》；字节跳动技术团队《豆包视频通话升级，火山引擎多模态传输系统提供技术支撑》；Claude：Blog（网页）《Anthropic 如何开展 AI 教学》；Google Cloud：Databases（RSS）《AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量》",
+          "evidence_ids": [
+            "I1",
+            "I4",
+            "I6",
+            "I7",
+            "I9",
+            "I12"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I1",
+              "source": "雷峰网",
+              "title": "Harness 神器 J-Space 造假案背后，思维链作者暴论，小模型 + 工具干不掉顶级大模型",
+              "url": "https://www.leiphone.com/category/yanxishe/EwXFwuIZiBRqbgCs.html"
+            },
+            {
+              "id": "I4",
+              "source": "钛媒体",
+              "title": "AI 办公混战，腾讯百度抢先",
+              "url": "https://www.tmtpost.com/8109247.html"
+            },
+            {
+              "id": "I6",
+              "source": "钛媒体",
+              "title": "2026，AI落地要先闯过的三个关口",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA==&mid=2661077090&idx=1&sn=d59580b789c5654c1f6d61cc2da06e9d"
+            },
+            {
+              "id": "I7",
+              "source": "字节跳动技术团队",
+              "title": "豆包视频通话升级，火山引擎多模态传输系统提供技术支撑",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521377&idx=1&sn=3d2f9e30616aa074c8d574c568903ba8"
+            },
+            {
+              "id": "I9",
+              "source": "Claude：Blog（网页）",
+              "title": "Anthropic 如何开展 AI 教学",
+              "url": "https://aihot.virxact.com/items/cmt1tonwa07i9roovrze0ll65"
+            },
+            {
+              "id": "I12",
+              "source": "Google Cloud：Databases（RSS）",
+              "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
+              "url": "https://aihot.virxact.com/items/cmt1r7jjh05lgroovc4zwypj6"
+            }
+          ],
+          "input_article_count": 12
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
     "2026-08-20": {
       "date": "2026-08-20",
       "generated_at": "2026-08-20T10:14:25.380793+08:00",
