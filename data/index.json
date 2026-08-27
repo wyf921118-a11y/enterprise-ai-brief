@@ -1,5 +1,7 @@
 {
   "dates": [
+    "2026-08-27",
+    "2026-08-26",
     "2026-08-25",
     "2026-08-24",
     "2026-08-23",
@@ -51,6 +53,377 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-08-27": {
+      "date": "2026-08-27",
+      "generated_at": "2026-08-27T10:07:47.604816+08:00",
+      "top6": [
+        {
+          "title": "Claude in Chrome 正式全面上线",
+          "url": "https://aihot.virxact.com/items/cmtaej1vz0czhroj2aybdbq26",
+          "source": "AI HOT · Claude：Blog（网页）",
+          "summary": "Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。",
+          "region": "international"
+        },
+        {
+          "title": "Warp 如何在 Claude 上构建自我改进的智能体",
+          "url": "https://aihot.virxact.com/items/cmtacdvh50a4aroj2zlw9jnj9",
+          "source": "AI HOT · Claude：Blog（网页）",
+          "summary": "Warp 在 Claude 平台上构建了基于 Agent Skills 的自我改进循环，通过基础技能与改进技能两个文件型技能，将人类反馈转化为对智能体的持续优化。该模式已应用于其整个开源仓库，覆盖数百名贡献者与数千次代码审查。团队建议以原则而非规则编写技能，并强调低摩擦反馈与改进技能的可复用性。",
+          "region": "international"
+        },
+        {
+          "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
+          "url": "https://aihot.virxact.com/items/cmtacq8vz0aedroj24bcix9go",
+          "source": "AI HOT · Google DeepMind：Blog（RSS）",
+          "summary": "Google DeepMind 推出 Gemini 3.5 Transcribe 语音转文本模型，支持流式与非流式两种 API。据 Artificial Analysis 评测，其流式与非流式平均词错率分别为 4.0% 和 2.6%，支持超 85 种语言、自定义词汇及最多三人说话人识别。",
+          "region": "international"
+        },
+        {
+          "title": "大厂AI To B大战，这回战场为什么是办公？",
+          "url": "https://www.leiphone.com/category/industrynews/Yb1V9SGtTUdBUamr.html",
+          "source": "雷峰网",
+          "summary": "大厂AI To B商业化的战火，已经烧到AI办公。 内部赛马、业务整合、资源重配，过去一个多月，腾讯、阿里、字节三家大厂几乎同时将AI资源砸向办公场景。 “AI作为生产力工具，最终还是得企业来买单。” 一场围绕AI办公的To B大战，正在升温。",
+          "region": "domestic"
+        },
+        {
+          "title": "全新架构，极致性价比！阿里千问Qwen3.8-Flash发布并开源",
+          "url": "https://www.leiphone.com/category/industrynews/VOpEHzb65rOMv793.html",
+          "source": "雷峰网",
+          "summary": "8月26日晚，阿里发布并同步开源千问最新模型 Qwen3.8-Flash。该模型采用全新下一代架构，千亿总参数仅激活60亿（6B）即可获得超越Claude Opus4.6的前沿性能，创下模型效率的全球新基准。",
+          "region": "domestic"
+        },
+        {
+          "title": "轮到豆包工作了",
+          "url": "https://www.tmtpost.com/8117958.html",
+          "source": "钛媒体",
+          "summary": "AI办公系统进入系统化对决",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是可运营的数字工作系统。流程编排、运行态可观测与人工接管正成为关键产品壁垒。依据：字节跳动技术团队《字节实践 | Agent 提示词注入攻击：一场需要长期应对的安全挑战》；Claude：Blog（网页）《Warp 如何在 Claude 上构建自我改进的智能体》；InfoQ《Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异》",
+          "evidence_ids": [
+            "I5",
+            "I11",
+            "I14"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I5",
+              "source": "字节跳动技术团队",
+              "title": "字节实践 | Agent 提示词注入攻击：一场需要长期应对的安全挑战",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521453&idx=1&sn=a43b95ca00458d532f29d70e80f0d118"
+            },
+            {
+              "id": "I11",
+              "source": "Claude：Blog（网页）",
+              "title": "Warp 如何在 Claude 上构建自我改进的智能体",
+              "url": "https://aihot.virxact.com/items/cmtacdvh50a4aroj2zlw9jnj9"
+            },
+            {
+              "id": "I14",
+              "source": "InfoQ",
+              "title": "Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291564&idx=3&sn=b366b8ada062592314367e5f603096a3"
+            }
+          ],
+          "input_article_count": 15
+        },
+        {
+          "title": "企业选型标准正从“最强模型”转为总成本与控制权",
+          "summary": "企业客户开始同时衡量推理成本、部署弹性、模型可替换性和知识资产边界。能够统一接入多模型、保留企业记忆与评估数据的平台更容易获得长期预算。依据：蚂蚁技术AntTech《论文秀 Live#45 | VLDB 2026 Best Paper！蚂蚁OmniTable：一张宽表驯服35 PB LLM数据的工程密码》；InfoQ《向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索》",
+          "evidence_ids": [
+            "I6",
+            "I8"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I6",
+              "source": "蚂蚁技术AntTech",
+              "title": "论文秀 Live#45 | VLDB 2026 Best Paper！蚂蚁OmniTable：一张宽表驯服35 PB LLM数据的工程密码",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537822&idx=1&sn=e4b8ac740ba8fd0cd56848391132ed00"
+            },
+            {
+              "id": "I8",
+              "source": "InfoQ",
+              "title": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291564&idx=4&sn=f424466e66e8a39602eb76b00f312f88"
+            }
+          ],
+          "input_article_count": 15
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为企业采购前提。依据：Anthropic：Research（发表成果 · 网页）《Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果》",
+          "evidence_ids": [
+            "I12"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I12",
+              "source": "Anthropic：Research（发表成果 · 网页）",
+              "title": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果",
+              "url": "https://aihot.virxact.com/items/cmtaddncd0aq0roj2xmay0scj"
+            }
+          ],
+          "input_article_count": 15
+        },
+        {
+          "title": "企业 AI 竞争正回到组织价值、可信交付与场景验证",
+          "summary": "模型发布节奏不再能单独证明产品价值。厂商需要把能力嵌入组织流程、建立信任边界，并用真实客户场景证明生产率与商业增量。依据：雷峰网《大厂AI To B大战，这回战场为什么是办公？》；雷峰网《全新架构，极致性价比！阿里千问Qwen3.8-Flash发布并开源》；钛媒体《轮到豆包工作了》；钛媒体《大厂竞逐AI办公助手，蒙牛先跑出一个落地样本》；百度Geek说《Workspace 实践：从个人提效到组织提效》；Claude：Blog（网页）《Claude in Chrome 正式全面上线》；Google DeepMind：Blog（RSS）《Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型》；公众号：智谱（GLM）《GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40》；X：通义千问 / Qwen (@Alibaba_Qwen)《Qwen3.8-Flash 开源，Qwen4 架构预览》",
+          "evidence_ids": [
+            "I1",
+            "I2",
+            "I3",
+            "I4",
+            "I7",
+            "I9",
+            "I10",
+            "I13",
+            "I15"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I1",
+              "source": "雷峰网",
+              "title": "大厂AI To B大战，这回战场为什么是办公？",
+              "url": "https://www.leiphone.com/category/industrynews/Yb1V9SGtTUdBUamr.html"
+            },
+            {
+              "id": "I2",
+              "source": "雷峰网",
+              "title": "全新架构，极致性价比！阿里千问Qwen3.8-Flash发布并开源",
+              "url": "https://www.leiphone.com/category/industrynews/VOpEHzb65rOMv793.html"
+            },
+            {
+              "id": "I3",
+              "source": "钛媒体",
+              "title": "轮到豆包工作了",
+              "url": "https://www.tmtpost.com/8117958.html"
+            },
+            {
+              "id": "I4",
+              "source": "钛媒体",
+              "title": "大厂竞逐AI办公助手，蒙牛先跑出一个落地样本",
+              "url": "https://www.tmtpost.com/8118009.html"
+            },
+            {
+              "id": "I7",
+              "source": "百度Geek说",
+              "title": "Workspace 实践：从个人提效到组织提效",
+              "url": "https://mp.weixin.qq.com/s?__biz=Mzg5MjU0NTI5OQ==&mid=2247607508&idx=1&sn=f604f409314f249297faae6d83bd3382"
+            },
+            {
+              "id": "I9",
+              "source": "Claude：Blog（网页）",
+              "title": "Claude in Chrome 正式全面上线",
+              "url": "https://aihot.virxact.com/items/cmtaej1vz0czhroj2aybdbq26"
+            },
+            {
+              "id": "I10",
+              "source": "Google DeepMind：Blog（RSS）",
+              "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
+              "url": "https://aihot.virxact.com/items/cmtacq8vz0aedroj24bcix9go"
+            },
+            {
+              "id": "I13",
+              "source": "公众号：智谱（GLM）",
+              "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+              "url": "https://aihot.virxact.com/items/cmta7bh1k04u6roj2e4pt7bob"
+            },
+            {
+              "id": "I15",
+              "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+              "title": "Qwen3.8-Flash 开源，Qwen4 架构预览",
+              "url": "https://aihot.virxact.com/items/cmta9ciqt07c1roj219h5liie"
+            }
+          ],
+          "input_article_count": 15
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "资本继续偏向能够进入企业流程的 AI 应用",
+          "summary": "资金更关注具备明确企业场景、持续付费路径和工作流入口的产品，而非缺少商业闭环的通用工具。后续应重点观察融资是否转化为客户规模、渠道能力和平台集成深度。依据：极客公园《离开剪映后创业，她想把一支设计团队装进 AI 工作台》"
+        }
+      ]
+    },
+    "2026-08-26": {
+      "date": "2026-08-26",
+      "generated_at": "2026-08-26T10:10:15.367725+08:00",
+      "top6": [
+        {
+          "title": "OpenWorker 新版发布，内置网络安全智能体",
+          "url": "https://aihot.virxact.com/items/cmt90wf1p06j9roly5e34fmu3",
+          "source": "AI HOT · X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
+          "summary": "Andrew Ng 旗下开源智能体 OpenWorker 发布新版，强化安全工作流。其 harness 完全开源，安全团队可审计无后门。新版内置代码漏洞扫描、依赖供应链注入检测和云安全配置检查三类网络安全智能体，并支持本地运行开源权重模型以保护敏感代码。",
+          "region": "international"
+        },
+        {
+          "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力",
+          "url": "https://aihot.virxact.com/items/cmt8vaqtw3r29ro73d67v03bc",
+          "source": "AI HOT · Dwarkesh Patel：Podcast & Blog（RSS）",
+          "summary": "在最新一期播客中，SemiAnalysis 创始人 Dylan Patel 与 Dwarkesh Patel 讨论实验室经济学，预计 Anthropic 和 OpenAI 到 2028 年将控制全球大部分可用 FLOPs，因其能更好变现算力并出价高于其他方。",
+          "region": "international"
+        },
+        {
+          "title": "WeatherNext 预测气旋：提前五天预警五级飓风",
+          "url": "https://aihot.virxact.com/items/cmt8uphwp3qmhro73czv8pbpv",
+          "source": "AI HOT · X：Google AI (@GoogleAI)",
+          "summary": "Google AI 发布 WeatherNext 气旋预测模型，可同时预测风暴路径、强度和规模，比现有系统多提供一整天的预警时间。该模型在 2025 飓风季实战测试中，提前五天预测飓风 Melissa 在牙买加的五级登陆，系美国国家飓风中心首次实时使用 AI 模型。模型单场风暴可生成多达 1000 次模拟，代码与权重已开源。",
+          "region": "international"
+        },
+        {
+          "title": "豆包工作正式发布：让 AI 从生成内容到完成工作",
+          "url": "https://www.leiphone.com/category/industrynews/bzevr2er8UPJfMtm.html",
+          "source": "雷峰网",
+          "summary": "8月25日，豆包工作正式发布。作为豆包面向生产力场景推出的全新 Agent 产品与品牌，豆包工作能围绕用户目标自主拆解任务、调用工具、持续推进复杂工作流程。豆包工作还与飞书深度打通，让 Agent 基于企业上下文更准确地完成工作。 目前，豆包工作电脑版已可通过官网下载，用户也可在最新豆包电脑版中直接使用。即日起下载登录或升级，便可免费领取 30 天订阅权益。",
+          "region": "domestic"
+        },
+        {
+          "title": "基于阿里千问，路透社推出首个自研大模型",
+          "url": "https://www.leiphone.com/category/industrynews/6mR50kUHcFgw5xST.html",
+          "source": "雷峰网",
+          "summary": "8月25日，据外媒报道，国际知名新闻机构汤森路透（路透社母公司）近日推出了其自研大模型Thomson-1。该模型基于阿里Qwen大模型开发，旨在降低对Claude等闭源模型的依赖并减少长期使用成本。 此前，汤森路透曾推出自己的AI助手，接入的是海外大模型厂商Anthropic的Claude大模型。",
+          "region": "domestic"
+        },
+        {
+          "title": "下一代生产力，就在豆包工作+飞书里",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248900231&idx=1&sn=5734562195135791a11e5effcc70b380",
+          "source": "36氪",
+          "summary": "Agent的下半场，比的是谁能真正提升组织生产力。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是可运营的数字工作系统。流程编排、运行态可观测与人工接管正成为关键产品壁垒。依据：雷峰网《豆包工作正式发布：让 AI 从生成内容到完成工作》；X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)《OpenWorker 新版发布，内置网络安全智能体》；36氪《下一代生产力，就在豆包工作+飞书里》；字节跳动技术团队《行业首发｜智能体安全能力图谱发布：企业可落地的建设路径》；InfoQ《1周半写64个PR、完成30%项目重构：一家成熟SaaS公司把Agent塞进研发全流程后》；极客公园《从「告警找人」到「Agent 先接手」，「古茗」如何用 AI Agent 重构万店运维？》",
+          "evidence_ids": [
+            "I1",
+            "I4",
+            "I5",
+            "I6",
+            "I8",
+            "I9"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I1",
+              "source": "雷峰网",
+              "title": "豆包工作正式发布：让 AI 从生成内容到完成工作",
+              "url": "https://www.leiphone.com/category/industrynews/bzevr2er8UPJfMtm.html"
+            },
+            {
+              "id": "I4",
+              "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
+              "title": "OpenWorker 新版发布，内置网络安全智能体",
+              "url": "https://aihot.virxact.com/items/cmt90wf1p06j9roly5e34fmu3"
+            },
+            {
+              "id": "I5",
+              "source": "36氪",
+              "title": "下一代生产力，就在豆包工作+飞书里",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248900231&idx=1&sn=5734562195135791a11e5effcc70b380"
+            },
+            {
+              "id": "I6",
+              "source": "字节跳动技术团队",
+              "title": "行业首发｜智能体安全能力图谱发布：企业可落地的建设路径",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521412&idx=2&sn=13f3b66275413073d26d50f789829d7e"
+            },
+            {
+              "id": "I8",
+              "source": "InfoQ",
+              "title": "1周半写64个PR、完成30%项目重构：一家成熟SaaS公司把Agent塞进研发全流程后",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291458&idx=3&sn=44db6f5ba75396eea44ad2bfda204cf0"
+            },
+            {
+              "id": "I9",
+              "source": "极客公园",
+              "title": "从「告警找人」到「Agent 先接手」，「古茗」如何用 AI Agent 重构万店运维？",
+              "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112641&idx=2&sn=49fb67b54fb6bc8376dde3b71fc5e7ae"
+            }
+          ],
+          "input_article_count": 13
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为企业采购前提。依据：InfoQ《AI Coding 之后，如何让 Agent 进入企业研发全链路？得物推荐的 Harness 实践》",
+          "evidence_ids": [
+            "I7"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I7",
+              "source": "InfoQ",
+              "title": "AI Coding 之后，如何让 Agent 进入企业研发全链路？得物推荐的 Harness 实践",
+              "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291458&idx=2&sn=424967b09d4f8a0a472ed36593323f21"
+            }
+          ],
+          "input_article_count": 13
+        },
+        {
+          "title": "企业 AI 竞争正回到组织价值、可信交付与场景验证",
+          "summary": "模型发布节奏不再能单独证明产品价值。厂商需要把能力嵌入组织流程、建立信任边界，并用真实客户场景证明生产率与商业增量。依据：雷峰网《基于阿里千问，路透社推出首个自研大模型》；雷峰网《Meoo打通AI做App全链路，“一句话”就能做出安卓与iOS应用》；Dwarkesh Patel：Podcast & Blog（RSS）《Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力》；X：Google AI (@GoogleAI)《WeatherNext 预测气旋：提前五天预警五级飓风》；Claude：Blog（网页）《Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑》；LangChain：Blog（RSS）《LangChain 与 Airbyte 集成：让数据摄取达到生产级就绪》",
+          "evidence_ids": [
+            "I2",
+            "I3",
+            "I10",
+            "I11",
+            "I12",
+            "I13"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I2",
+              "source": "雷峰网",
+              "title": "基于阿里千问，路透社推出首个自研大模型",
+              "url": "https://www.leiphone.com/category/industrynews/6mR50kUHcFgw5xST.html"
+            },
+            {
+              "id": "I3",
+              "source": "雷峰网",
+              "title": "Meoo打通AI做App全链路，“一句话”就能做出安卓与iOS应用",
+              "url": "https://www.leiphone.com/category/industrynews/lMrMgzHoUVOGceOK.html"
+            },
+            {
+              "id": "I10",
+              "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+              "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力",
+              "url": "https://aihot.virxact.com/items/cmt8vaqtw3r29ro73d67v03bc"
+            },
+            {
+              "id": "I11",
+              "source": "X：Google AI (@GoogleAI)",
+              "title": "WeatherNext 预测气旋：提前五天预警五级飓风",
+              "url": "https://aihot.virxact.com/items/cmt8uphwp3qmhro73czv8pbpv"
+            },
+            {
+              "id": "I12",
+              "source": "Claude：Blog（网页）",
+              "title": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑",
+              "url": "https://aihot.virxact.com/items/cmt8z2eko055crolytaitdxv8"
+            },
+            {
+              "id": "I13",
+              "source": "LangChain：Blog（RSS）",
+              "title": "LangChain 与 Airbyte 集成：让数据摄取达到生产级就绪",
+              "url": "https://aihot.virxact.com/items/cmt96t9tm0augrolyx2c3vi84"
+            }
+          ],
+          "input_article_count": 13
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
     "2026-08-25": {
       "date": "2026-08-25",
       "generated_at": "2026-08-25T10:36:39.788109+08:00",
