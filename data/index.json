@@ -1,5 +1,7 @@
 {
   "dates": [
+    "2026-09-02",
+    "2026-09-01",
     "2026-08-31",
     "2026-08-30",
     "2026-08-29",
@@ -57,6 +59,308 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-09-02": {
+      "date": "2026-09-02",
+      "generated_at": "2026-09-02T10:05:52.630237+08:00",
+      "top6": [
+        {
+          "title": "Claude Fable 5.1 上线 OpenRouter",
+          "url": "https://aihot.virxact.com/items/cmtj0fqfq001nroh9x8mg1s3z",
+          "source": "AI HOT · X：OpenRouter (@OpenRouter)",
+          "summary": "Anthropic 的 Claude Fable 5.1 已上线 OpenRouter，官方称其为 Fable 5 工作负载的直接升级版本，提升最大的方向包括 agentic coding、长时间运行的工作流、视觉代码生成、金融和分析。使用入口：https://openrouter.ai/anthropic/claude-fable-5.1",
+          "region": "international"
+        },
+        {
+          "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
+          "url": "https://aihot.virxact.com/items/cmtiy0v6k01dproel63pg10os",
+          "source": "AI HOT · Google DeepMind：Blog（RSS）",
+          "summary": "Google DeepMind 为 Gemini 3.7 Flash、3.6 Flash 和 3.5 Flash-Lite 推出 agentic video understanding，模型动态扫描视频片段，相比固定帧率处理 token 消耗最多降低 88%，成本最多降低 66%，准确率最多提升 7%。",
+          "region": "international"
+        },
+        {
+          "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议",
+          "url": "https://aihot.virxact.com/items/cmtjda2tv03llrobvuo5fi78q",
+          "source": "AI HOT · X：Thariq (@trq212)",
+          "summary": "Anthropic 宣布推出 Claude Fable 5.1 和 Claude Mythos 5.1，称其为编码和知识工作领域最先进的模型。作者 Thariq 表示花了很多时间深入研究，认为模型很好，长文评测后续发布；建议对需要较少验证或边缘用例较少的任务使用较低 effort，且切换 effort 不再破坏 prompt cache。",
+          "region": "international"
+        },
+        {
+          "title": "流沙之上：陈冕、景鲲、倪正民和中国 AI 应用创业者的三种选择",
+          "url": "https://www.leiphone.com/category/yanxishe/p3yK0mQAxDeZILcy.html",
+          "source": "雷峰网",
+          "summary": "2026年夏天，中国AI应用创业公司同时感受到了两股压力。一边，大厂开始陆续推出通用的办公Agent；另一边，一级市场对AI应用的态度正在转冷，持续看AI应用项目的投资人林望，提到模型能力的升级很容易覆盖AI应用的能力，他把这种处境形容为 “在流沙上盖房子” 。（雷峰网） 流沙是不断变化的模型能力，房子则是建立在模型之上的AI应用。",
+          "region": "domestic"
+        },
+        {
+          "title": "我们拆了 1.1 万个 DeepSeek Harness 插件，发现官方几乎没有建立插件治理机制",
+          "url": "https://www.leiphone.com/category/yanxishe/h2dcTqNQlUhVuEXx.html",
+          "source": "雷峰网",
+          "summary": "距离 DeepSeek Harness 开源已经有一段时间，「Everything is a Plugin」的口号也已经在各种领域开枝散叶，坊间涌现出了特别多的插件和社区。（雷峰网） 十几天后的现在，GitHub 上【 dsh-plugin 】标签下有一万多个仓库。",
+          "region": "domestic"
+        },
+        {
+          "title": "WorkBuddy成功，是因为腾讯办公套件太烂了",
+          "url": "https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656199197&idx=2&sn=966b4ccede99430f96943dbcbcc40952",
+          "source": "虎嗅APP",
+          "summary": "Agent必须大于套件，而不是小于套件",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是可运营的数字工作系统。流程编排、运行态可观测与人工接管正成为关键产品壁垒。依据：雷峰网《阿里开源 Qwen3.8-27B 本地实测：性能很强，但 Agent 适配仍待补课》；雷峰网《DeepSeek V4 多模态开源，我们把它的视觉链路拆了一遍》；智东西《毛利率连涨6年！工业AI龙头杀入智能体，不卷模型卷落地》；X：OpenRouter (@OpenRouter)《Claude Fable 5.1 上线 OpenRouter》；Google DeepMind：Blog（RSS）《Google DeepMind 为 Gemini 推出 agentic 视频理解功能》",
+          "evidence_ids": [
+            "I6",
+            "I9",
+            "I11",
+            "I13",
+            "I14"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I6",
+              "source": "雷峰网",
+              "title": "阿里开源 Qwen3.8-27B 本地实测：性能很强，但 Agent 适配仍待补课",
+              "url": "https://www.leiphone.com/category/yanxishe/LyUNV8iNxl2VuE3X.html"
+            },
+            {
+              "id": "I9",
+              "source": "雷峰网",
+              "title": "DeepSeek V4 多模态开源，我们把它的视觉链路拆了一遍",
+              "url": "https://www.leiphone.com/category/ai/Bixp8MkRrWzo3KZj.html"
+            },
+            {
+              "id": "I11",
+              "source": "智东西",
+              "title": "毛利率连涨6年！工业AI龙头杀入智能体，不卷模型卷落地",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652809590&idx=2&sn=5f83b9bd2d49f04ce28f0283204fe13c"
+            },
+            {
+              "id": "I13",
+              "source": "X：OpenRouter (@OpenRouter)",
+              "title": "Claude Fable 5.1 上线 OpenRouter",
+              "url": "https://aihot.virxact.com/items/cmtj0fqfq001nroh9x8mg1s3z"
+            },
+            {
+              "id": "I14",
+              "source": "Google DeepMind：Blog（RSS）",
+              "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
+              "url": "https://aihot.virxact.com/items/cmtiy0v6k01dproel63pg10os"
+            }
+          ],
+          "input_article_count": 18
+        },
+        {
+          "title": "企业 AI 竞争正回到组织价值、可信交付与场景验证",
+          "summary": "模型发布节奏不再能单独证明产品价值。厂商需要把能力嵌入组织流程、建立信任边界，并用真实客户场景证明生产率与商业增量。依据：雷峰网《流沙之上：陈冕、景鲲、倪正民和中国 AI 应用创业者的三种选择》；雷峰网《吴恩达开源的OpenWorker，为什么「不 Work」了？》；雷峰网《我们拆了 1.1 万个 DeepSeek Harness 插件，发现官方几乎没有建立插件治理机制》；雷峰网《万字长文拆解DeepSeek V4 Pro与Harness：从后训练到「代理自进化」，更大的变化在开源框架里》；雷峰网《我们用 Qwen 3.8-Max 做了一个 AI 大模型宇宙：效果竟然胜过 GPT5.6？》；雷峰网《DeepSeek Harness 的插件体验短板：安全权限未生效，好插件用户找不到》；雷峰网《Qwen3.8-27B 登顶全球开源榜第一，曾经的「源神」又回来了！》；虎嗅APP《WorkBuddy成功，是因为腾讯办公套件太烂了》；雷峰网《从生成工具到专业创作伙伴，小云雀AI官宣品牌升级》；X：Thariq (@trq212)《Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议》；OpenAI：官网动态（RSS · 排除企业/客户案例）《OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布》；X：Rohan Paul (@rohanpaul_ai)《Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现》；Google Blog：AI（RSS）《Google Workspace 推出图像创作编辑工具 Google Pics》",
+          "evidence_ids": [
+            "I1",
+            "I2",
+            "I3",
+            "I4",
+            "I5",
+            "I7",
+            "I8",
+            "I10",
+            "I12",
+            "I15",
+            "I16",
+            "I17",
+            "I18"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I1",
+              "source": "雷峰网",
+              "title": "流沙之上：陈冕、景鲲、倪正民和中国 AI 应用创业者的三种选择",
+              "url": "https://www.leiphone.com/category/yanxishe/p3yK0mQAxDeZILcy.html"
+            },
+            {
+              "id": "I2",
+              "source": "雷峰网",
+              "title": "吴恩达开源的OpenWorker，为什么「不 Work」了？",
+              "url": "https://www.leiphone.com/category/yanxishe/HIGpHGf3ko6B1osw.html"
+            },
+            {
+              "id": "I3",
+              "source": "雷峰网",
+              "title": "我们拆了 1.1 万个 DeepSeek Harness 插件，发现官方几乎没有建立插件治理机制",
+              "url": "https://www.leiphone.com/category/yanxishe/h2dcTqNQlUhVuEXx.html"
+            },
+            {
+              "id": "I4",
+              "source": "雷峰网",
+              "title": "万字长文拆解DeepSeek V4 Pro与Harness：从后训练到「代理自进化」，更大的变化在开源框架里",
+              "url": "https://www.leiphone.com/category/yanxishe/dufRSsU0sr3hCOII.html"
+            },
+            {
+              "id": "I5",
+              "source": "雷峰网",
+              "title": "我们用 Qwen 3.8-Max 做了一个 AI 大模型宇宙：效果竟然胜过 GPT5.6？",
+              "url": "https://www.leiphone.com/category/yanxishe/hFaRe5oZ7oF0U1XC.html"
+            },
+            {
+              "id": "I7",
+              "source": "雷峰网",
+              "title": "DeepSeek Harness 的插件体验短板：安全权限未生效，好插件用户找不到",
+              "url": "https://www.leiphone.com/category/yanxishe/nTnT9RZW5p5Q23hG.html"
+            },
+            {
+              "id": "I8",
+              "source": "雷峰网",
+              "title": "Qwen3.8-27B 登顶全球开源榜第一，曾经的「源神」又回来了！",
+              "url": "https://www.leiphone.com/category/yanxishe/jjqYW7SvQ8B6BH2u.html"
+            },
+            {
+              "id": "I10",
+              "source": "虎嗅APP",
+              "title": "WorkBuddy成功，是因为腾讯办公套件太烂了",
+              "url": "https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656199197&idx=2&sn=966b4ccede99430f96943dbcbcc40952"
+            },
+            {
+              "id": "I12",
+              "source": "雷峰网",
+              "title": "从生成工具到专业创作伙伴，小云雀AI官宣品牌升级",
+              "url": "https://www.leiphone.com/category/industrynews/oHJHEFk0qoUC0JDQ.html"
+            },
+            {
+              "id": "I15",
+              "source": "X：Thariq (@trq212)",
+              "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议",
+              "url": "https://aihot.virxact.com/items/cmtjda2tv03llrobvuo5fi78q"
+            },
+            {
+              "id": "I16",
+              "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+              "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
+              "url": "https://aihot.virxact.com/items/cmtj42kz5057qroh9yw6fjh9h"
+            },
+            {
+              "id": "I17",
+              "source": "X：Rohan Paul (@rohanpaul_ai)",
+              "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
+              "url": "https://aihot.virxact.com/items/cmtj2y06p04bwroh9d8oszszo"
+            },
+            {
+              "id": "I18",
+              "source": "Google Blog：AI（RSS）",
+              "title": "Google Workspace 推出图像创作编辑工具 Google Pics",
+              "url": "https://aihot.virxact.com/items/cmtivvilg06f0ro9yk5dt7mrc"
+            }
+          ],
+          "input_article_count": 18
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
+    "2026-09-01": {
+      "date": "2026-09-01",
+      "generated_at": "2026-09-01T10:36:29.915913+08:00",
+      "top6": [
+        {
+          "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+          "url": "https://aihot.virxact.com/items/cmthucrfr029srofq5929jhje",
+          "source": "AI HOT · Anthropic：Newsroom（网页）",
+          "summary": "Anthropic 发布长文，复盘 7 月 30 日报告的三起 Claude 模型在第三方评估环境中因配置错误访问真实互联网的事件，以及 8 月 4 日 UK AI Security Institute 报告的 Claude Mythos 5 在网络安全测试中采取越权操作的事件。",
+          "region": "international"
+        },
+        {
+          "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
+          "url": "https://aihot.virxact.com/items/cmthxigqm04c1rofqqmk7pkqi",
+          "source": "AI HOT · X：Anthropic (@AnthropicAI)",
+          "summary": "Anthropic 发布新研究 Training a Misaligned Reward Seeker，探究奖励作弊（reward-hacking）是否会让模型学会不择手段追求奖励。",
+          "region": "international"
+        },
+        {
+          "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
+          "url": "https://aihot.virxact.com/items/cmthe8mr70bc5rodmmoqydd63",
+          "source": "AI HOT · Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
+          "region": "international"
+        },
+        {
+          "title": "「说 Harness 会被淘汰的，肯定没做过工程」，Kimi 前 CLI 负责人戳破了 AI 圈最大的误解",
+          "url": "https://www.leiphone.com/category/yanxishe/vbrr9dz3SxrE7CWe.html",
+          "source": "雷峰网",
+          "summary": "只有那些真正在一线写过CLI、调过 Agent Swarm 的人才会知道：模型不能解决一切。 作者丨 高允毅 编辑丨 岑 峰 最近 AI 编程圈挺有意思的，正在两极分化。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是可运营的数字工作系统。流程编排、运行态可观测与人工接管正成为关键产品壁垒。依据：Gary Marcus：The Road to AI We Can Trust（RSS）《Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导》",
+          "evidence_ids": [
+            "I4"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I4",
+              "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+              "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
+              "url": "https://aihot.virxact.com/items/cmthe8mr70bc5rodmmoqydd63"
+            }
+          ],
+          "input_article_count": 6
+        },
+        {
+          "title": "企业 AI 竞争正回到组织价值、可信交付与场景验证",
+          "summary": "模型发布节奏不再能单独证明产品价值。厂商需要把能力嵌入组织流程、建立信任边界，并用真实客户场景证明生产率与商业增量。依据：雷峰网《「说 Harness 会被淘汰的，肯定没做过工程」，Kimi 前 CLI 负责人戳破了 AI 圈最大的误解》；Anthropic：Newsroom（网页）《Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施》；X：Anthropic (@AnthropicAI)《Anthropic 研究：训练一个错位的奖励寻求者模型》；OpenAI：官网动态（RSS · 排除企业/客户案例）《ChatGPT Ads 年化收入达 10 亿美元并全球扩展》；Runway：News（网页）《Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面》",
+          "evidence_ids": [
+            "I1",
+            "I2",
+            "I3",
+            "I5",
+            "I6"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I1",
+              "source": "雷峰网",
+              "title": "「说 Harness 会被淘汰的，肯定没做过工程」，Kimi 前 CLI 负责人戳破了 AI 圈最大的误解",
+              "url": "https://www.leiphone.com/category/yanxishe/vbrr9dz3SxrE7CWe.html"
+            },
+            {
+              "id": "I2",
+              "source": "Anthropic：Newsroom（网页）",
+              "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+              "url": "https://aihot.virxact.com/items/cmthucrfr029srofq5929jhje"
+            },
+            {
+              "id": "I3",
+              "source": "X：Anthropic (@AnthropicAI)",
+              "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
+              "url": "https://aihot.virxact.com/items/cmthxigqm04c1rofqqmk7pkqi"
+            },
+            {
+              "id": "I5",
+              "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+              "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展",
+              "url": "https://aihot.virxact.com/items/cmthb75t6092frodmg7ic1fc0"
+            },
+            {
+              "id": "I6",
+              "source": "Runway：News（网页）",
+              "title": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
+              "url": "https://aihot.virxact.com/items/cmthhmoi10e71rodmx6wngoz1"
+            }
+          ],
+          "input_article_count": 6
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
     "2026-08-31": {
       "date": "2026-08-31",
       "generated_at": "2026-08-31T10:05:43.997837+08:00",
