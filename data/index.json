@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-03",
     "2026-09-02",
     "2026-09-01",
     "2026-08-31",
@@ -59,6 +60,245 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-09-03": {
+      "date": "2026-09-03",
+      "generated_at": "2026-09-03T10:05:13.986301+08:00",
+      "top6": [
+        {
+          "title": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现",
+          "url": "https://aihot.virxact.com/items/cmtkcffah018zrog0zokk6s30",
+          "source": "AI HOT · Claude：Blog（网页）",
+          "summary": "Anthropic 发布电商 Agent 构建指南，基于与零售、旅游、电信等团队的落地经验，核心架构是单个 Claude 在标准 Agent 循环中配合技能与工具，而非按领域拆分子智能体，并开源了 anthropics/commerce-agents 参考实现，含购物与商家 Agent。",
+          "region": "international"
+        },
+        {
+          "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
+          "url": "https://aihot.virxact.com/items/cmtkbdbti01n8roz5k5kt1g98",
+          "source": "AI HOT · Google DeepMind：Blog（RSS）",
+          "summary": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber。",
+          "region": "international"
+        },
+        {
+          "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
+          "url": "https://aihot.virxact.com/items/cmtksft9f0450roali4sl0z86",
+          "source": "AI HOT · IT之家（RSS）",
+          "summary": "美国司法部 9 月 1 日向曼哈顿联邦法院提交利益声明，介入《纽约时报》诉 OpenAI 版权案，支持 OpenAI 主张大语言模型训练属合理使用。DOJ 以国家安全和 AI 产业竞争力为主要论据，称训练使用具有转换性；《纽约时报》发言人批评政府站在 AI 公司一边牺牲创作者权益。",
+          "region": "international"
+        },
+        {
+          "title": "独家解读丨字节 Seed 大调整，分支背后谁在操盘？",
+          "url": "https://www.leiphone.com/category/industrynews/75DZ3yfWSLnIppDb.html",
+          "source": "雷峰网",
+          "summary": "大模型竞争开始拼组织，这一次轮到字节。 8 月 19 日，据晚点 Late Post 报道，Seed 基础模型团队新设 Pretrain Data（预训练数据）、Horizon RL（强化学习）、Product Posttrain-Work（面向办公场景的产品后训练）和 Product Posttrain-Chat（面向对话场景的产品后训练）四个一级部门，分",
+          "region": "domestic"
+        },
+        {
+          "title": "我所知道的李博杰",
+          "url": "https://www.leiphone.com/category/industrynews/ayqK30EcYC4YCPr0.html",
+          "source": "雷峰网",
+          "summary": "李博杰很不喜欢“天才少年”这个标签。 “还少年呢，我都中年了，而且它指的是一个人才项目”。他调侃道。 距离轰动全网的DeepSeek面试风波已过去30天左右。趁着这段时间，李博杰在 GitHub 上开源了自己写的《深入理解 AI Agent》一书，两周便拿到了 2.8 万颗星。",
+          "region": "domestic"
+        },
+        {
+          "title": "三问AI办公：当智能成为标配，新的稀缺在哪里？",
+          "url": "https://www.tmtpost.com/8126197.html",
+          "source": "钛媒体",
+          "summary": "AI办公大战看起来很像下一场超级入口战争，但最后可能根本不会产生一个新的超级入口。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是可运营的数字工作系统。流程编排、运行态可观测与人工接管正成为关键产品壁垒。依据：雷峰网《阿里云企业级Agent协作平台万有无界开启公测》；雷峰网《建立AI时代“度量衡”：OPPO联合OpenKG推出首个端侧AI记忆评测基准MobileMem》；钛媒体《Gemini 3.8 Flash上线：性能接近Opus 5，价格不变但任务更贵》；Claude：Blog（网页）《Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现》；Google Developers Blog（RSS）《Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式》；Cursor Blog《Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行》",
+          "evidence_ids": [
+            "I5",
+            "I8",
+            "I9",
+            "I12",
+            "I15",
+            "I20"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I5",
+              "source": "雷峰网",
+              "title": "阿里云企业级Agent协作平台万有无界开启公测",
+              "url": "https://www.leiphone.com/category/industrynews/zMhNkoPgV5CMzeVi.html"
+            },
+            {
+              "id": "I8",
+              "source": "雷峰网",
+              "title": "建立AI时代“度量衡”：OPPO联合OpenKG推出首个端侧AI记忆评测基准MobileMem",
+              "url": "https://www.leiphone.com/category/industrynews/PXii3It1SuG1KANO.html"
+            },
+            {
+              "id": "I9",
+              "source": "钛媒体",
+              "title": "Gemini 3.8 Flash上线：性能接近Opus 5，价格不变但任务更贵",
+              "url": "https://www.tmtpost.com/8126452.html"
+            },
+            {
+              "id": "I12",
+              "source": "Claude：Blog（网页）",
+              "title": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现",
+              "url": "https://aihot.virxact.com/items/cmtkcffah018zrog0zokk6s30"
+            },
+            {
+              "id": "I15",
+              "source": "Google Developers Blog（RSS）",
+              "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式",
+              "url": "https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec"
+            },
+            {
+              "id": "I20",
+              "source": "Cursor Blog",
+              "title": "Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行",
+              "url": "https://aihot.virxact.com/items/cmtkffuf503cbrobqkwhimxmp"
+            }
+          ],
+          "input_article_count": 21
+        },
+        {
+          "title": "企业选型标准正从“最强模型”转为总成本与控制权",
+          "summary": "企业客户开始同时衡量推理成本、部署弹性、模型可替换性和知识资产边界。能够统一接入多模型、保留企业记忆与评估数据的平台更容易获得长期预算。依据：GitHub Blog《GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本》",
+          "evidence_ids": [
+            "I17"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I17",
+              "source": "GitHub Blog",
+              "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本",
+              "url": "https://aihot.virxact.com/items/cmtkfkfvl03garobqyr0vwpth"
+            }
+          ],
+          "input_article_count": 21
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为企业采购前提。依据：X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)《Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升》；X：Claude (@claudeai)《Claude 在 Cowork 和 Claude Code 中支持后台操作电脑》",
+          "evidence_ids": [
+            "I16",
+            "I19"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I16",
+              "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+              "title": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升",
+              "url": "https://aihot.virxact.com/items/cmtkkcguj04aurollf1lq9a9s"
+            },
+            {
+              "id": "I19",
+              "source": "X：Claude (@claudeai)",
+              "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+              "url": "https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx"
+            }
+          ],
+          "input_article_count": 21
+        },
+        {
+          "title": "企业 AI 竞争正回到组织价值、可信交付与场景验证",
+          "summary": "模型发布节奏不再能单独证明产品价值。厂商需要把能力嵌入组织流程、建立信任边界，并用真实客户场景证明生产率与商业增量。依据：雷峰网《独家解读丨字节 Seed 大调整，分支背后谁在操盘？》；雷峰网《我所知道的李博杰》；雷峰网《阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一》；钛媒体《三问AI办公：当智能成为标配，新的稀缺在哪里？》；36氪《AI Agent要落地，懂算力的人得和懂螺丝钉的人坐到一起》；魔搭ModelScope社区《Spark-X2.5开源：4B&1.7B 智能体模型，探索端侧大模型的智能体能力上限》；虎嗅APP《Fable 5.1来了，Anthropic再秀肌肉》；新智元《OpenAI Astra发布在即，全自动网络攻防能力已突破天际！》；Google DeepMind：Blog（RSS）《Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型》；IT之家（RSS）《美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用》；The Verge：AI（RSS）《OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆》；X：通义千问 / Qwen (@Alibaba_Qwen)《Qwen3.8-Max-0902 登顶 Code Arena 并以 $5/MToken 领跑 Pareto 前沿》",
+          "evidence_ids": [
+            "I1",
+            "I2",
+            "I3",
+            "I4",
+            "I6",
+            "I7",
+            "I10",
+            "I11",
+            "I13",
+            "I14",
+            "I18",
+            "I21"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I1",
+              "source": "雷峰网",
+              "title": "独家解读丨字节 Seed 大调整，分支背后谁在操盘？",
+              "url": "https://www.leiphone.com/category/industrynews/75DZ3yfWSLnIppDb.html"
+            },
+            {
+              "id": "I2",
+              "source": "雷峰网",
+              "title": "我所知道的李博杰",
+              "url": "https://www.leiphone.com/category/industrynews/ayqK30EcYC4YCPr0.html"
+            },
+            {
+              "id": "I3",
+              "source": "雷峰网",
+              "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
+              "url": "https://www.leiphone.com/category/industrynews/Yubz8Ft9lJUQ46S1.html"
+            },
+            {
+              "id": "I4",
+              "source": "钛媒体",
+              "title": "三问AI办公：当智能成为标配，新的稀缺在哪里？",
+              "url": "https://www.tmtpost.com/8126197.html"
+            },
+            {
+              "id": "I6",
+              "source": "36氪",
+              "title": "AI Agent要落地，懂算力的人得和懂螺丝钉的人坐到一起",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248901108&idx=1&sn=771124bdc46c47e2304553bf4e89e433"
+            },
+            {
+              "id": "I7",
+              "source": "魔搭ModelScope社区",
+              "title": "Spark-X2.5开源：4B&1.7B 智能体模型，探索端侧大模型的智能体能力上限",
+              "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512657&idx=1&sn=dea54475773ec5d650c854b4bfd52d1a"
+            },
+            {
+              "id": "I10",
+              "source": "虎嗅APP",
+              "title": "Fable 5.1来了，Anthropic再秀肌肉",
+              "url": "https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656199608&idx=4&sn=a83e1eea92c559fc598a7bf9119d849a"
+            },
+            {
+              "id": "I11",
+              "source": "新智元",
+              "title": "OpenAI Astra发布在即，全自动网络攻防能力已突破天际！",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652722301&idx=2&sn=2d59d8e46c78ad74c1853fb987d6e2d8"
+            },
+            {
+              "id": "I13",
+              "source": "Google DeepMind：Blog（RSS）",
+              "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
+              "url": "https://aihot.virxact.com/items/cmtkbdbti01n8roz5k5kt1g98"
+            },
+            {
+              "id": "I14",
+              "source": "IT之家（RSS）",
+              "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
+              "url": "https://aihot.virxact.com/items/cmtksft9f0450roali4sl0z86"
+            },
+            {
+              "id": "I18",
+              "source": "The Verge：AI（RSS）",
+              "title": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆",
+              "url": "https://aihot.virxact.com/items/cmtkaa7gs01v5romp7lhz3mwj"
+            },
+            {
+              "id": "I21",
+              "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+              "title": "Qwen3.8-Max-0902 登顶 Code Arena 并以 $5/MToken 领跑 Pareto 前沿",
+              "url": "https://aihot.virxact.com/items/cmtjimzgx083zrobvekm2zmje"
+            }
+          ],
+          "input_article_count": 21
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "资本继续偏向能够进入企业流程的 AI 应用",
+          "summary": "资金更关注具备明确企业场景、持续付费路径和工作流入口的产品，而非缺少商业闭环的通用工具。后续应重点观察融资是否转化为客户规模、渠道能力和平台集成深度。依据：投资界《AI员工来了，Violoop完成亿元融资》"
+        }
+      ]
+    },
     "2026-09-02": {
       "date": "2026-09-02",
       "generated_at": "2026-09-02T10:05:52.630237+08:00",
