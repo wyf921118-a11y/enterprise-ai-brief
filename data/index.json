@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-04",
     "2026-09-03",
     "2026-09-02",
     "2026-09-01",
@@ -60,6 +61,315 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-09-04": {
+      "date": "2026-09-04",
+      "generated_at": "2026-09-04T10:05:11.940108+08:00",
+      "top6": [
+        {
+          "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议",
+          "url": "https://aihot.virxact.com/items/cmtlu0vyd0nelrow5qppvereu",
+          "source": "AI HOT · TechCrunch：AI（RSS）",
+          "summary": "OpenAI 发布最新模型 Astra，称其为迄今最强大模型，主打计算机和浏览器操作，先面向 Daybreak 网络安全计划客户开放，随后一周内覆盖 Pro、Plus、Enterprise、Business 付费账户及 API。",
+          "region": "international"
+        },
+        {
+          "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
+          "url": "https://aihot.virxact.com/items/cmtma05f8017zro9fao7eonjg",
+          "source": "AI HOT · X：小北 (@frxiaobei)",
+          "summary": "OpenAI 于 9 月 3 日发布 GPT-6 Astra，API 模型名 gpt-6-astra，每百万输入 Token 10 美元、输出 50 美元，未来几天推送到 ChatGPT 各档订阅、API 和 AWS Bedrock。",
+          "region": "international"
+        },
+        {
+          "title": "Perplexity 宣布将接入 OpenAI GPT-6 Astra，称其在 WANDR 评测中居首",
+          "url": "https://aihot.virxact.com/items/cmtm1xhpk0unkrow52qftlbda",
+          "source": "AI HOT · X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "summary": "Perplexity CEO Aravind Srinivas 祝贺 OpenAI 发布 GPT-6 Astra，称其在宽度和深度研究任务上远超其他模型且更具成本效益，将很快向 Perplexity Computer 的 Pro 和 Max 用户开放。",
+          "region": "international"
+        },
+        {
+          "title": "WorkBuddy金融版正式发布，让Agent真正进入金融业务现场",
+          "url": "https://www.leiphone.com/category/industrynews/zr0zxn8R9MVT4y7n.html",
+          "source": "雷峰网",
+          "summary": "9月 3 日，腾讯WorkBuddy金融版正式上线 。 WorkBuddy金融版 是 专门 面向金融机构打造的AI智能工作台， 可为券商、银行、保险等 行业 提供开箱即用的专家与技能矩阵，丰富的金融数据源及全链路安全可信底座，覆盖投研、合规、客户经营、信贷尽调、财富资配等核心业务场景，助力金融机构安全、高效地落地智能体应用。",
+          "region": "domestic"
+        },
+        {
+          "title": "打破黑盒猜想：大模型通往真正「空间智能」的破局之路",
+          "url": "https://www.leiphone.com/category/private/f8Yfubtfrorhpr9b.html",
+          "source": "雷峰网",
+          "summary": "给模型做一次脑部“CT”，低成本重塑真实空间智能。 作者丨 张 璐 编辑丨 幸丽娟 先来看一道简单的多模态大模型视觉考题： 观察给出的几张室内多视角照片，请回答： 从图 1 的视角来看，蓝色椅面的办公椅右边是什么？",
+          "region": "domestic"
+        },
+        {
+          "title": "让Agent读懂业务，WPS要帮打工人手搓办公应用",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248901286&idx=2&sn=29afef394b40a342b22b8a23d19c97c2",
+          "source": "36氪",
+          "summary": "WPS多维表格发布灵感应用。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 的竞争焦点正从“回答质量”转向“任务闭环”",
+          "summary": "当智能体覆盖部署、执行、观测和纠错链路，企业购买的不再只是模型调用，而是可运营的数字工作系统。流程编排、运行态可观测与人工接管正成为关键产品壁垒。依据：雷峰网《WorkBuddy金融版正式发布，让Agent真正进入金融业务现场》；新智元《Claude后台接管电脑，真·赛博替身！人机并行时代来了》；Hacker News 热门（buzzing.cc 中文翻译）《METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告》；InfoQ《GuanceDB 3.1：从 Bloom 过滤走向全字段倒排，重塑千亿级可观测性数据秒级查询体验》",
+          "evidence_ids": [
+            "I5",
+            "I11",
+            "I23",
+            "I31"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I5",
+              "source": "雷峰网",
+              "title": "WorkBuddy金融版正式发布，让Agent真正进入金融业务现场",
+              "url": "https://www.leiphone.com/category/industrynews/zr0zxn8R9MVT4y7n.html"
+            },
+            {
+              "id": "I11",
+              "source": "新智元",
+              "title": "Claude后台接管电脑，真·赛博替身！人机并行时代来了",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652722566&idx=2&sn=ea9bb5ef7c82a042576f033e350066e9"
+            },
+            {
+              "id": "I23",
+              "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+              "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+              "url": "https://aihot.virxact.com/items/cmtl25m9c0e89roalh6qci0r5"
+            },
+            {
+              "id": "I31",
+              "source": "InfoQ",
+              "title": "GuanceDB 3.1：从 Bloom 过滤走向全字段倒排，重塑千亿级可观测性数据秒级查询体验",
+              "url": "https://www.infoq.cn/article/yghIuWdN8M9vQyYeGuHl?utm_source=rss&utm_medium=article"
+            }
+          ],
+          "input_article_count": 31
+        },
+        {
+          "title": "企业选型标准正从“最强模型”转为总成本与控制权",
+          "summary": "企业客户开始同时衡量推理成本、部署弹性、模型可替换性和知识资产边界。能够统一接入多模型、保留企业记忆与评估数据的平台更容易获得长期预算。依据：X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)《Perplexity 宣布将接入 OpenAI GPT-6 Astra，称其在 WANDR 评测中居首》",
+          "evidence_ids": [
+            "I15"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I15",
+              "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+              "title": "Perplexity 宣布将接入 OpenAI GPT-6 Astra，称其在 WANDR 评测中居首",
+              "url": "https://aihot.virxact.com/items/cmtm1xhpk0unkrow52qftlbda"
+            }
+          ],
+          "input_article_count": 31
+        },
+        {
+          "title": "AI Coding 正进入平台治理阶段，而非继续堆叠生成能力",
+          "summary": "编码智能体进入持续集成、代码库理解和自主循环后，权限、密钥、数据外传、过程回放与结果校验成为企业采购前提。依据：X：Artificial Analysis (@ArtificialAnlys)《Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍》",
+          "evidence_ids": [
+            "I29"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I29",
+              "source": "X：Artificial Analysis (@ArtificialAnlys)",
+              "title": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍",
+              "url": "https://aihot.virxact.com/items/cmtly53c50r9srow5ux7p8arw"
+            }
+          ],
+          "input_article_count": 31
+        },
+        {
+          "title": "企业 AI 竞争正回到组织价值、可信交付与场景验证",
+          "summary": "模型发布节奏不再能单独证明产品价值。厂商需要把能力嵌入组织流程、建立信任边界，并用真实客户场景证明生产率与商业增量。依据：钛媒体《模型发布当天就过时：OpenAI们两天三场发布，最快反超只用五小时》；雷峰网《GPT-6 砍掉思考 Token，俄罗斯人砍掉通信 Token，Token 经济开始崩了？》；雷峰网《拆解 Claude 5.1：38 小时不睡觉的背后，Anthropic 正在终结「模型论」》；钛媒体《三大AI巨头同日宕机，GPT-6发布日的“最黑暗一天”》；雷峰网《打破黑盒猜想：大模型通往真正「空间智能」的破局之路》；雷峰网《连尚集团入选上海市首批算力生态合作伙伴名单》；36氪《让Agent读懂业务，WPS要帮打工人手搓办公应用》；甲子光年《腾讯把WorkBuddy这张王牌，开放给100多家公司｜甲子光年》；TechCrunch：AI（RSS）《OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议》；雷峰网《独家丨小红书「问一问」下线，平台 AI 搜索全面升级为「点点」》；机器之心《OpenAI Astra被曝引入「循环深度」能力飙升！安全专家坐不住了》；X：小北 (@frxiaobei)《OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线》；X：Rohan Paul (@rohanpaul_ai)《OpenAI 发布 GPT-6 Astra，先向受限网络安全客户开放》；Google DeepMind：Blog（RSS）《Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍》；X：Mark Chen（OpenAI 首席研究官，@markchen90）《OpenAI 发布 GPT-6 Astra，主打 Computer Use 与 Agent 对齐进展》；IT之家（RSS）《OpenAI 发布 GPT-6 Astra，首个达到关键级网络安全能力门槛的模型》；MarkTechPost（RSS）《OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问》；X：Sam Altman (@sama)《OpenAI 发布 GPT-6 Astra》；The Decoder：AI News（RSS）《OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型》；Gary Marcus：The Road to AI We Can Trust（RSS）《Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑》；The Verge：AI（RSS）《OpenAI 发布 GPT-6 Astra，称已进入 AGI 时代》；X：Rohan Paul (@rohanpaul_ai)《Rohan Paul 解读 OpenAI GPT-6 Astra 117 页系统卡中的安全发现》；X：Testing Catalog (@testingcatalog)《OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放》；X：Tibo (@thsottiaux)《OpenAI 开始发布 GPT-6 Astra，面向全部 Plus 用户开放》；Hacker News 热门（buzzing.cc 中文翻译）《IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期》",
+          "evidence_ids": [
+            "I1",
+            "I2",
+            "I3",
+            "I4",
+            "I6",
+            "I7",
+            "I8",
+            "I9",
+            "I10",
+            "I12",
+            "I13",
+            "I14",
+            "I16",
+            "I17",
+            "I18",
+            "I19",
+            "I20",
+            "I21",
+            "I22",
+            "I24",
+            "I25",
+            "I26",
+            "I27",
+            "I28",
+            "I30"
+          ],
+          "evidence_articles": [
+            {
+              "id": "I1",
+              "source": "钛媒体",
+              "title": "模型发布当天就过时：OpenAI们两天三场发布，最快反超只用五小时",
+              "url": "https://www.tmtpost.com/8128187.html"
+            },
+            {
+              "id": "I2",
+              "source": "雷峰网",
+              "title": "GPT-6 砍掉思考 Token，俄罗斯人砍掉通信 Token，Token 经济开始崩了？",
+              "url": "https://www.leiphone.com/category/yanxishe/XcJ2N9YalKyDRJd8.html"
+            },
+            {
+              "id": "I3",
+              "source": "雷峰网",
+              "title": "拆解 Claude 5.1：38 小时不睡觉的背后，Anthropic 正在终结「模型论」",
+              "url": "https://www.leiphone.com/category/ai/3jco87mQoA9LK9jx.html"
+            },
+            {
+              "id": "I4",
+              "source": "钛媒体",
+              "title": "三大AI巨头同日宕机，GPT-6发布日的“最黑暗一天”",
+              "url": "https://www.tmtpost.com/8128284.html"
+            },
+            {
+              "id": "I6",
+              "source": "雷峰网",
+              "title": "打破黑盒猜想：大模型通往真正「空间智能」的破局之路",
+              "url": "https://www.leiphone.com/category/private/f8Yfubtfrorhpr9b.html"
+            },
+            {
+              "id": "I7",
+              "source": "雷峰网",
+              "title": "连尚集团入选上海市首批算力生态合作伙伴名单",
+              "url": "https://www.leiphone.com/category/ai/L2kvpqr4fseLUbUN.html"
+            },
+            {
+              "id": "I8",
+              "source": "36氪",
+              "title": "让Agent读懂业务，WPS要帮打工人手搓办公应用",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248901286&idx=2&sn=29afef394b40a342b22b8a23d19c97c2"
+            },
+            {
+              "id": "I9",
+              "source": "甲子光年",
+              "title": "腾讯把WorkBuddy这张王牌，开放给100多家公司｜甲子光年",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg==&mid=2247557511&idx=1&sn=11c4d4301dd63b0d8e952f35fb3e28b4"
+            },
+            {
+              "id": "I10",
+              "source": "TechCrunch：AI（RSS）",
+              "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议",
+              "url": "https://aihot.virxact.com/items/cmtlu0vyd0nelrow5qppvereu"
+            },
+            {
+              "id": "I12",
+              "source": "雷峰网",
+              "title": "独家丨小红书「问一问」下线，平台 AI 搜索全面升级为「点点」",
+              "url": "https://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&mid=2651755969&idx=2&sn=cac4e7dd0daf993fb4f674020a0daaa4"
+            },
+            {
+              "id": "I13",
+              "source": "机器之心",
+              "title": "OpenAI Astra被曝引入「循环深度」能力飙升！安全专家坐不住了",
+              "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651054414&idx=2&sn=e29b7c12fc5056bc5c62410551d98e82"
+            },
+            {
+              "id": "I14",
+              "source": "X：小北 (@frxiaobei)",
+              "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
+              "url": "https://aihot.virxact.com/items/cmtma05f8017zro9fao7eonjg"
+            },
+            {
+              "id": "I16",
+              "source": "X：Rohan Paul (@rohanpaul_ai)",
+              "title": "OpenAI 发布 GPT-6 Astra，先向受限网络安全客户开放",
+              "url": "https://aihot.virxact.com/items/cmtlwgyh00pnqrow5t4ajo0y7"
+            },
+            {
+              "id": "I17",
+              "source": "Google DeepMind：Blog（RSS）",
+              "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
+              "url": "https://aihot.virxact.com/items/cmtlnmh4o0fmsrow5i7pdq8b0"
+            },
+            {
+              "id": "I18",
+              "source": "X：Mark Chen（OpenAI 首席研究官，@markchen90）",
+              "title": "OpenAI 发布 GPT-6 Astra，主打 Computer Use 与 Agent 对齐进展",
+              "url": "https://aihot.virxact.com/items/cmtlxtppp0qqprow5v4bb80ng"
+            },
+            {
+              "id": "I19",
+              "source": "IT之家（RSS）",
+              "title": "OpenAI 发布 GPT-6 Astra，首个达到关键级网络安全能力门槛的模型",
+              "url": "https://aihot.virxact.com/items/cmtm3lnrg022wrooelnc62oo9"
+            },
+            {
+              "id": "I20",
+              "source": "MarkTechPost（RSS）",
+              "title": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问",
+              "url": "https://aihot.virxact.com/items/cmtm1j0qe0uchrow5ozapge42"
+            },
+            {
+              "id": "I21",
+              "source": "X：Sam Altman (@sama)",
+              "title": "OpenAI 发布 GPT-6 Astra",
+              "url": "https://aihot.virxact.com/items/cmtlyijva0rlqrow5dkrujvge"
+            },
+            {
+              "id": "I22",
+              "source": "The Decoder：AI News（RSS）",
+              "title": "OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型",
+              "url": "https://aihot.virxact.com/items/cmtlx9epa0qcxrow5bt068c9u"
+            },
+            {
+              "id": "I24",
+              "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+              "title": "Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑",
+              "url": "https://aihot.virxact.com/items/cmtm5q99n018rrow0z6je2l9y"
+            },
+            {
+              "id": "I25",
+              "source": "The Verge：AI（RSS）",
+              "title": "OpenAI 发布 GPT-6 Astra，称已进入 AGI 时代",
+              "url": "https://aihot.virxact.com/items/cmtlw62vl0pf9row5nljoks6p"
+            },
+            {
+              "id": "I26",
+              "source": "X：Rohan Paul (@rohanpaul_ai)",
+              "title": "Rohan Paul 解读 OpenAI GPT-6 Astra 117 页系统卡中的安全发现",
+              "url": "https://aihot.virxact.com/items/cmtm0r9z00tmkrow5gtxa5j36"
+            },
+            {
+              "id": "I27",
+              "source": "X：Testing Catalog (@testingcatalog)",
+              "title": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放",
+              "url": "https://aihot.virxact.com/items/cmtlv00350o36row5602bsjzv"
+            },
+            {
+              "id": "I28",
+              "source": "X：Tibo (@thsottiaux)",
+              "title": "OpenAI 开始发布 GPT-6 Astra，面向全部 Plus 用户开放",
+              "url": "https://aihot.virxact.com/items/cmtlyijvl0rlsrow5dwqv22k7"
+            },
+            {
+              "id": "I30",
+              "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+              "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+              "url": "https://aihot.virxact.com/items/cmtlu0yka0neurow5as9e6jtu"
+            }
+          ],
+          "input_article_count": 31
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药和泛科技融资后，有效信息池未形成足以判断资本方向的企业 AI 融资或并购信号。这里不使用无关融资填充版面。"
+        }
+      ]
+    },
     "2026-09-03": {
       "date": "2026-09-03",
       "generated_at": "2026-09-03T10:05:13.986301+08:00",
