@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-09",
     "2026-09-08",
     "2026-09-07",
     "2026-09-04",
@@ -63,6 +64,74 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-09-09": {
+      "date": "2026-09-09",
+      "generated_at": "2026-09-09T10:17:15.839533+08:00",
+      "top6": [
+        {
+          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
+          "url": "https://aihot.news/items/cmtt0pw2p018pro9owlhpi092",
+          "source": "AI HOT · OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "summary": "OpenAI 发布 ChatGPT Images 2.5 图像模型，生成延迟比 Images 2.0 降低最多 50%，细节、编辑精度、参考照片保真度和多轮编辑一致性均有提升。",
+          "region": "international"
+        },
+        {
+          "title": "OpenAI 向 Plus、Pro、Business 和 Enterprise 用户全面推送 Astra",
+          "url": "https://aihot.news/items/cmtt65r1002f0rocpzpypdjgt",
+          "source": "AI HOT · X：OpenAI (@OpenAI)",
+          "summary": "OpenAI 宣布 Astra 已全面推送给 Codex 和 ChatGPT Work 中的 Plus、Pro、Business 和 Enterprise 用户。用户可以直接使用，并可通过 openai.com/gpt-tv/ 观看 Astra 的实机演示。",
+          "region": "international"
+        },
+        {
+          "title": "Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法",
+          "url": "https://aihot.news/items/cmtsxacbf04jkrob5fu5sp5ti",
+          "source": "AI HOT · X：Claude Devs (@ClaudeDevs)",
+          "summary": "Anthropic 团队文章指出，优化 prompt cache 命中率、清除升级到前沿 Claude 模型后的提示词反模式、校准 effort 三个手段可在不牺牲性能的情况下降低成本。",
+          "region": "international"
+        },
+        {
+          "title": "硅谷AI独角兽转投阿里千问：Perplexity基于Qwen3.8打造本地Agent",
+          "url": "https://www.leiphone.com/category/industrynews/1fUYK0dGQLzXssbl.html",
+          "source": "雷峰网",
+          "summary": "9月8日消息，据美国科技媒体Siliconangle报道，硅谷AI独角兽公司Perplexity新推出一款本地Agent产品Portable Computer，采用的正是阿里最新开源模型Qwen3.8-27B。",
+          "region": "domestic"
+        },
+        {
+          "title": "基元律动发布模型NeoHorse，探索Harness驱动的RSI路径",
+          "url": "https://www.leiphone.com/category/industrynews/E7j0Qq5zBynzWv64.html",
+          "source": "雷峰网",
+          "summary": "在一次项目排期测试中，一个4B基础模型找到了工作目录中的文件，却漏读了一封包含最新依赖约束的邮件。它按照过时信息生成计划，并把文件写到了错误位置。 这一案例来自基元律动（TokenRhythm）近日发布的技术报告。",
+          "region": "domestic"
+        },
+        {
+          "title": "两个Token就让Kimi“变成”Claude？前Google DeepMind研究员意外撞上中国大模型的蒸馏疑云",
+          "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651292579&idx=1&sn=ff5be918074720e0de77d20741305ce5",
+          "source": "InfoQ",
+          "summary": "为何前沿AI实验室要隐藏链式推理？",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业 AI 入口正从对话框扩展为可交付、可修改的业务工作面",
+          "summary": "Astra 借现有个人与企业席位全量分发，Muse 借 Meta 账号和产品集成获得冷启动；更关键的是 ChatGPT Sites、MiMo Desktop 和 Images 2.5 都把交互推到“生成完整产物→选区或多轮修改→继续交付”。这表明发布优势与产物运行面开始合并，但普通建站 SaaS 被压缩不等于企业软件被替代：共享状态、权限、后端集成、版本回退与品牌一致性才决定是否能长期使用。建议追踪首个合格产物耗时、局部修改成功率、协作任务留存、回退次数与跨系统完成率；当前材料主要是公测和邀测，不能外推为规模续费。"
+        },
+        {
+          "title": "模型选型正变成本地性、Harness 完整性与推理预算的联合调度",
+          "summary": "Perplexity 在本地 Agent 中选用 Qwen3.8-27B，说明应用厂商可以为数据边界和设备部署替换默认模型；Anthropic 则把成本杠杆拆成缓存命中、升级后提示词清理和 effort 校准。NeoHorse 提供了一个限制条件：模型找到文件却漏读最新约束，意味着更便宜或可本地运行只有在 Harness 能正确读取新鲜状态、校验写入和回传结果时才变成优势。企业应按任务分层同时记录单次合格产出成本、缓存命中率、约束漏读率、错位写入和故障接管时间，而非单看 Token 单价或模型榜单。"
+        },
+        {
+          "title": "Agent 治理需同时管“经验如何固化”与“轨迹能否信任”",
+          "summary": "E-SAGE 将高频、路径固定、结论易分歧的业务经验作为 Agent 候选，并用状态外置、租约、隔离环境和审批审计使其可多人复用；千问办公的多人工作台也把共享状态和角色带进了生成式应用。但同日的推理块重放研究显示，网上复用的 Agent 轨迹可能泄露 API 密钥、内部 IP 并携带投毒思维。因而“经验可复用”不能等同于“轨迹可搬运”：组织应保存可审批的规则、工具和测试，对外来轨迹实施来源签名、秘密扫描、会话绑定与最小继续执行权。验证指标应包括复用场景采用率、规则分歧下降、轨迹来源覆盖、秘密命中、异常继续执行和事后重建率。"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "实时合格公开分析池中没有企业 AI、SaaS 或 Agent 融资并购材料，因此不以 Mistral 融资、芯片交易或具身智能资本信息填充资本动态。"
+        }
+      ]
+    },
     "2026-09-08": {
       "date": "2026-09-08",
       "generated_at": "2026-09-08T10:20:16.266508+08:00",
