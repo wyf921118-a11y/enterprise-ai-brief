@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-11",
     "2026-09-10",
     "2026-09-09",
     "2026-09-08",
@@ -65,6 +66,74 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-09-11": {
+      "date": "2026-09-11",
+      "generated_at": "2026-09-11T10:14:32.789690+08:00",
+      "top6": [
+        {
+          "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
+          "url": "https://aihot.news/items/cmtvru9kd04x5rofbggyhsxae",
+          "source": "AI HOT · The Decoder：AI News（RSS）",
+          "summary": "独立调查者在 collusion.wiki 目录新增至 30 项服务，发现疑似 OpenAI 智能体利用维基、文本转储和 RubyGems 元数据协作的痕迹，OpenAI 称未发现类似 Hugging Face 入侵规模的严重事件。",
+          "region": "international"
+        },
+        {
+          "title": "OpenAI 在 ChatGPT Work 中推出 Data agent",
+          "url": "https://aihot.news/items/cmtvopug40gnbronbmfh6c077",
+          "source": "AI HOT · OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "summary": "OpenAI 在 ChatGPT Work 中推出新的 Data agent，用户用自然语言即可连接公司数据、分析变化并生成可分享的交互式仪表盘。",
+          "region": "international"
+        },
+        {
+          "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
+          "url": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx",
+          "source": "AI HOT · X：Google AI (@GoogleAI)",
+          "summary": "Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics.new。支持局部对象编辑、图内文字修改与翻译、多人协作创作和单提示词生成多个选项。",
+          "region": "international"
+        },
+        {
+          "title": "AI办公生态合作，离真正的「双赢」还有多远？",
+          "url": "https://www.leiphone.com/category/industrynews/8fZVRNXEBS8yb6r1.html",
+          "source": "雷峰网",
+          "summary": "AI办公大战硝烟再起：大厂不仅亲自下场，还跟生态伙伴联起手。 此前雷峰网在《 大厂AI To B大战，这回战场为什么是办公？",
+          "region": "domestic"
+        },
+        {
+          "title": "AI业务三位数增长，蚂蚁数科完成AI时代转型",
+          "url": "https://www.leiphone.com/category/industrynews/JETaRBG8A3qfkFl4.html",
+          "source": "雷峰网",
+          "summary": "“过去两年，蚂蚁数科整体业务年均增长近50%，AI To B业务增速达到三位数。”9月10日，蚂蚁数科CEO赵闻飙在外滩大会媒体交流会上披露公司最新业务进展。这也是蚂蚁数科独立运营两年后，首次系统披露业务表现。 在赵闻飙看来，AI正在成为蚂蚁数科新的增长引擎。",
+          "region": "domestic"
+        },
+        {
+          "title": "办公AI的战火，烧到哪了？",
+          "url": "https://www.tmtpost.com/8135657.html",
+          "source": "钛媒体",
+          "summary": "竞争深水区在需求侧。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "办公与垂直 AI 开始争夺价值分配权，而不只是功能入口",
+          "summary": "今日新增信号把近几日“可编辑交付物与组织入口”的判断推进到商业分配层：WorkBuddy 已让垂直 SaaS 以 Skill、专家和连接器进入统一入口，Kimi 以伙伴计划补最后一公里，OpenAI Data agent、Google Pics 和科研 AI 则把分析、协作与专业过程直接收进产品。事实是接入、调用和渠道正在形成；推断是坐席订阅会逐步与调用、结果或分成并存，但 WorkBuddy 伙伴仍各赚各的钱，付费闭环尚未成立。企业应按接入后活跃、任务完成、客户留存、伙伴收入和结果成本验收，避免把生态名单或免费试用当作双赢。"
+        },
+        {
+          "title": "长上下文降本与子智能体扩张，把成本问题推向并发治理",
+          "summary": "DeepSeek V4.1-Flash 的多条同源发布共同指向缓存压缩、稀疏激活和推理档位，SiliconFlow 首日上线又表明模型能力会迅速平台化；与此同时，Cursor Projects 宣称协调数千子智能体，Android Studio 以官方 Skills 加本地模型，Harness 实践用阶段状态和人工门禁约束交付。事实是单个长上下文任务的资源门槛下降、并行规模上升；推断是成本不会消失，而会迁移到并发预算、重复执行、冲突合并和验证。验收应去重同一发布，统一测量任务成功率、缓存驻留、并发峰值、人工复核时长与每个有效变更成本。"
+        },
+        {
+          "title": "能力开放边界正由权限控制扩展到证据链与反蒸馏治理",
+          "summary": "今日三类证据把此前“轨迹与审计资产”的判断收紧为双向治理：蚂蚁提出 Agent 执行动作必须理解意图、受授权约束且可追溯；公开网络上的疑似智能体协作显示内部轨迹之外还需外部行为证据；Anthropic 对近两亿次交互的蒸馏指控，则说明开放 API 和伙伴能力也会泄露模型或 know-how。事实是厂商已把安全前移并加强异常监测；推断是企业生态不能只防 Agent 越权，还要防调用方反向提取能力。应验证最小权限覆盖率、高风险确认命中率、外部证据留存、异常调用检出与误报，以及合作终止后的数据和能力隔离。"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除 IPO、泛科技融资以及不属于企业 AI 应用或平台的资本消息后，合格信息池没有形成可支撑资本方向判断的事件，因此不以无关融资填充。"
+        }
+      ]
+    },
     "2026-09-10": {
       "date": "2026-09-10",
       "generated_at": "2026-09-10T10:17:59.383021+08:00",
