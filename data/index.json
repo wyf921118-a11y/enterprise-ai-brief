@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-12",
     "2026-09-11",
     "2026-09-10",
     "2026-09-09",
@@ -66,6 +67,74 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-09-12": {
+      "date": "2026-09-12",
+      "generated_at": "2026-09-12T10:18:14.394834+08:00",
+      "top6": [
+        {
+          "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
+          "url": "https://aihot.news/items/cmtx7f9mi09psroed4b1w3nsv",
+          "source": "AI HOT · OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "summary": "OpenAI 发文（系列上篇）讲述其在线存储平台 Habitat 的演进：现每秒处理超 7000 万请求、服务每周超 10 亿用户、管理超 500PB 数据，覆盖近 40 个地区。",
+          "region": "international"
+        },
+        {
+          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+          "url": "https://aihot.news/items/cmtxnd7fw06wcroi31psxg2c6",
+          "source": "AI HOT · Hacker News 热门（buzzing.cc 中文翻译）",
+          "summary": "作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGems，5 月 11 至 12 日智能体提交超过 2，000 个包，RubyGems 关闭新用户注册四天并移除 500 多个恶意包，安全公司称之为 GemStuffer campaign。",
+          "region": "international"
+        },
+        {
+          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
+          "url": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr",
+          "source": "AI HOT · GitHub Blog",
+          "summary": "GitHub 日韩地区营销负责人 Tomoko Tanaka 分享如何不写代码，把活动运营交给 GitHub Copilot 自动化。",
+          "region": "international"
+        },
+        {
+          "title": "金融领域首个智能体安全标准发布",
+          "url": "https://www.leiphone.com/category/industrynews/tyenZtjsxcp3OzDb.html",
+          "source": "雷峰网",
+          "summary": "金融领域首个智能体安全标准发布 明确未经金融机构授权，不得自动化操作金融App 近日（8月27日），北京金融科技产业联盟发布《智能体技术金融应用安全要求》团体标准，为国内首个聚焦金融领域智能体应用安全的团体标准。",
+          "region": "domestic"
+        },
+        {
+          "title": "让智能体自主探索而不越界，蚂蚁密算开源可信原生智能体HOP 3.0",
+          "url": "https://www.leiphone.com/category/industrynews/3lj2fGLhrOPKY8OJ.html",
+          "source": "雷峰网",
+          "summary": "在2026 Inclusion·外滩大会上，蚂蚁密算董事长韦韬宣布可信原生智能体HOP 3.0正式开源，向开发者、企业和行业专家开放“智能体原生语言”相关技术能力，推动产业智能体从依赖模型自觉，走向边界明确、过程可控、结果可核验的可信执行。",
+          "region": "domestic"
+        },
+        {
+          "title": "openJiuwen首发双维度RSI框架，AI自修改，落地办公智能体，算力亲和助力又快又省",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651056535&idx=2&sn=7a573bbe843cc0de6ae15d11528d7417",
+          "source": "机器之心",
+          "summary": "让自我迭代真正跑起来的工程闭环。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "Agent 控制正从事后审计前移到执行语义与双重授权",
+          "summary": "今日三类信号把近日的隔离、轨迹与调查制度进一步前移：金融团标要求用户和机构双重授权，HOP 3.0 将探索、核验与不可逆提交分开；反面上，RubyGems 恶意包及 Anthropic 滥用案例显示，大规模、多账号与人机交接会绕过单次输出审查。事实是标准和工程控制已落到授权与 commit 节点；推断是高风险 Agent 将更多通过应用方可审计接口扩张。应验证双重授权覆盖率、不可逆动作核验率、异常发现时间和撤回成功率；归因未定的案例不能当作已证实攻击。"
+        },
+        {
+          "title": "办公 Agent 正从一次性生成转向可录制、可重测、可接力的工作系统",
+          "summary": "GitHub 的非技术营销自动化、豆包的本地 Office 编辑与浏览器录制、openJiuwen 的版本化 RSI 形成一条新链路：人的示范可变成 Skill，任务可跨本地和云端接力，失败又可经独立评测、重测与归档沉淀为新版本。这些是产品和框架已公布的能力；由此推断，护城河会从生成速度转向组织工作方法的安全复用。企业应追踪示范转 Skill 后的成功率、跨环境恢复时间、版本改进的样本外收益与人工复核量；目前均为厂商或单一案例，尚不能证明规模续费。"
+        },
+        {
+          "title": "AI 单位经济正扩展为模型、工具、本地运行与平台存储的联合账本",
+          "summary": "DeepSeek 用稀疏激活和 KV Cache 压缩降低长上下文成本，StartLux 以隐私与成本主张本地模型，阿里云又把搜索、解析、代码、记忆和沙箱纳入组合套餐；OpenAI Habitat 则提醒底层存储与跨区域运维也是成本和可用性的一部分。事实是单个 Token 价格下降、套餐边界扩大；推断是锁定点会转移到工具用量、记忆、托管与运维数据。选型应记录单个合格任务的模型调用、缓存驻留、工具超额、本地运维和存储恢复成本，不应用发布参数替代生产验证。"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除 IPO、泛科技融资、个人历史投资及硬件事件后，合格信息池没有形成可支撑资本方向判断的事件，因此不以无关交易填充。"
+        }
+      ]
+    },
     "2026-09-11": {
       "date": "2026-09-11",
       "generated_at": "2026-09-11T10:14:32.789690+08:00",
