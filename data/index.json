@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-16",
     "2026-09-15",
     "2026-09-14",
     "2026-09-12",
@@ -69,6 +70,74 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-09-16": {
+      "date": "2026-09-16",
+      "generated_at": "2026-09-16T10:15:50.835556+08:00",
+      "top6": [
+        {
+          "title": "Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking",
+          "url": "https://aihot.news/items/cmu2xqfxz02zhroc1hxuzi6jm",
+          "source": "AI HOT · Google DeepMind：Blog（RSS）",
+          "summary": "Google DeepMind 发布 Gemini 3.8 Live 与 Gemini 3.8 Live Extended Thinking 两个近实时语音对话模型，主打语音智能体和复杂任务执行。",
+          "region": "international"
+        },
+        {
+          "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
+          "url": "https://aihot.news/items/cmu2vlgqe03sxrowkkyx8bc1s",
+          "source": "AI HOT · Google Blog：AI（RSS）",
+          "summary": "Google 宣布其语言技术已支持超过 300 种语言、覆盖全球 86% 人口，并发布 TranslateGemma 轻量开源翻译模型（基于 Gemini 训练、支持 55 种语言、可离线运行）。",
+          "region": "international"
+        },
+        {
+          "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
+          "url": "https://aihot.news/items/cmu2utske02sjrowk2zs2agim",
+          "source": "AI HOT · Pragmatic Engineer（RSS）",
+          "summary": "Gergely Orosz 实地探访 OpenAI 总部并访谈七位工程师与工程负责人，发现自约一月起 Codex 和 ChatGPT Work 已成为公司几乎所有工作的基础。",
+          "region": "international"
+        },
+        {
+          "title": "字节跳动CEO梁汝波：豆包、飞书与火山引擎整合后 将加大企业市场投入",
+          "url": "https://www.leiphone.com/category/industrynews/hqrTSByQ6EWsZTDA.html",
+          "source": "雷峰网",
+          "summary": "9月15日，2026飞书未来无限大会在京举办，字节跳动CEO梁汝波在会上进行了分享。他表示，在Agent进入可用阶段后，Agent、模型、协作环境三者必须紧密融合，才能真正发挥价值。正是基于这一判断，字节跳动将豆包、飞书、火山引擎的力量整合到一起，聚焦打造优质的工作与生产力产品；公司会投入更多的资源和力量，让智能更快地在企业组织里产生价值。",
+          "region": "domestic"
+        },
+        {
+          "title": "当Agent进入组织 飞书重新设计了一遍协同办公",
+          "url": "https://www.tmtpost.com/8141020.html",
+          "source": "钛媒体",
+          "summary": "飞书披露，2026年上半年，其年度经常性收入增速达到去年同期的2.5倍，超过九成新增客户同步采购飞书AI产品。",
+          "region": "domestic"
+        },
+        {
+          "title": "美团发布“手艺人Agent”，发型师可“吩咐”AI小帮手打理线上作品",
+          "url": "https://www.leiphone.com/category/industrynews/Yuupw4bTHf0c0QsZ.html",
+          "source": "雷峰网",
+          "summary": "9月15日，美团在2026百大发型师生态大会上正式发布首个“手艺人Agent”，基于平台AI技术和对行业真实经营经验的积累，为发型师等手艺人提供专属AI小帮手。 据了解，“手艺人Agent”可提供线上运营知识问答、经营数据分析、关键事项提醒、作品管理和发布等多项支持。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "组织上下文正从数据资产变成 Agent 的身份与执行控制面",
+          "summary": "今日四篇同源飞书材料不能当作四份独立验证，但它们共同给出了可检验的产品变化：模型、协作平台和云工具被组合，Agent 开始拥有独立身份、权限、记忆，并进入群聊、会议和审批流程；飞书还自披 CLI 调用成功率从78%提升到95%、超九成新客户同步采购 AI 产品。美团又将相同逻辑下沉到发型师经营。事实是 Agent 正从对话入口进入组织执行环境；推断是办公和平台软件的锁定点将更多来自身份、上下文和工具权限。应验证真实任务成功率、越权率、人工接管时间、外部 Agent 接入率和迁移成本；当前发布与自披数据不足以证明规模续费。"
+        },
+        {
+          "title": "Agent 单位经济正扩展到销售、验证与自建基础设施的联合账本",
+          "summary": "今日三类材料把 Agent 经济性从单次调用拉到组织与基础设施。OpenAI 内部探访显示 Codex 已成为高密度工程工作的基础，Perplexity 则称两名工程师与数百个 Agent 在两月内建成 CobbleDB，但同时把长期容灾、值班和数据一致性责任收回内部；国内 MaaS 报道又提醒 Token 收入冲刺可能伴随折扣、定制交付和销售压力。事实是产出速度、用量与自建信号同时上升；推断是低模型成本会把成本转移到验证、销售服务和基础设施运维。应追踪单个合格任务的人工复核、CI、定制交付、值班、容灾和反向迁移成本，以及项目毛利与客户留存；三类材料都缺少跨企业独立验证。"
+        },
+        {
+          "title": "AI 能力入口向实时、离线与真实对话数据扩张，治理边界随之重画",
+          "summary": "Gemini 3.8 Live 将实时语音与延长推理拆成不同产品，TranslateGemma 则以55种语言和离线运行扩大触达；另一面，Project Lily 被报道让人工审核员查看匿名化真实聊天以调整产品行为，Anthropic/OpenAI 的协调限速讨论又引出反垄断质疑和事故披露需求。事实是能力在向更即时、更多语种与更真实用户数据扩展；推断是隐私、数据用途、延迟与市场准入必须一起设计。企业应验证实时任务中断恢复、少数语种准确性、匿名化重识别风险、人工访问范围、退出机制与独立审计可用性；当前多为官方发布或媒体曝光。"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "OpenAI 万亿美元级融资讨论把增长与现金消耗同时推向公开市场验证",
+          "summary": "钛媒体报道 OpenAI 正商谈约1.2万亿美元估值的新融资，并可能将 IPO 推迟至2027年；同文称其年化收入运行率接近250亿美元，但亏损仍为数百亿美元量级。这是对未来收入、算力投入和公开市场定价的高度敏感押注；在正式融资文件与招股材料出现前，融资规模、估值、亏损和上市时间表均应视为待核实信号。"
+        }
+      ]
+    },
     "2026-09-15": {
       "date": "2026-09-15",
       "generated_at": "2026-09-15T10:14:50.228225+08:00",
