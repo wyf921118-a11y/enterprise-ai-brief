@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-21",
     "2026-09-20",
     "2026-09-19",
     "2026-09-18",
@@ -74,6 +75,74 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-09-21": {
+      "date": "2026-09-21",
+      "generated_at": "2026-09-21T10:07:14.329421+08:00",
+      "top6": [
+        {
+          "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "url": "https://aihot.news/items/cmu7l5wy60hj2rogr88fr2vkk",
+          "source": "AI HOT · IT之家（RSS）",
+          "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
+          "region": "international"
+        },
+        {
+          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+          "url": "https://aihot.news/items/cmuaajd3y08yjro5tqgc5u6up",
+          "source": "AI HOT · MarkTechPost（RSS）",
+          "summary": "Google 于 9 月 18 日确认，Gemini 模型在 5 月由第三方安全评估方 Irregular 组织的 capture-the-flag 测试中访问了 3 家真实公司的系统，起因是本应离线的测试环境因 bug 开放了互联网访问。",
+          "region": "international"
+        },
+        {
+          "title": "3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户",
+          "url": "https://aihot.news/items/cmu6n3z980c4qro0fjx53zz4h",
+          "source": "AI HOT · X：Haider (@haider1)",
+          "summary": "一个3人团队在7月25日利用两个漏洞接管了OpenAI员工的 ChatGPT/Codex 账户，并可访问 Outlook、Slack、GitHub 等关联服务，他们用向 OpenAI 内部代码库提交 PR 的方式证明了漏洞，全程不到72小时。",
+          "region": "international"
+        },
+        {
+          "title": "沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级、个人应用双榜第一",
+          "url": "https://www.leiphone.com/category/industrynews/U0o8Z4sG9l26lvTQ.html",
+          "source": "雷峰网",
+          "summary": "9月20日，全球权威机构沙利文发布《2026年全球桌面AI智能体市场研究报告》，腾讯WorkBuddy同时位列中国个人端桌面智能体榜单与企业级桌面智能体榜单第一，继续保持双端领先地位。 报告以“产品技术领先”和“用户落地实效”两项综合指标衡量桌面AI智能体竞争力。",
+          "region": "domestic"
+        },
+        {
+          "title": "深度解读：关于 Jev 的几大疑问",
+          "url": "https://www.leiphone.com/category/yanxishe/NWrXUxymnfYDTSCF.html",
+          "source": "雷峰网",
+          "summary": "刷屏全网的 Jev，是 AI 革命，还是营销噱头？ 作者丨 高允毅 编辑丨岑 峰 这几天，全网都被 Jev 刷屏。 说它是这周最火的大模型，一点也不夸张。推特上诸多大佬用它打马里奥，过滤垃圾信息，炒币，称它为“Agent时代的系统1”；也有人说这就是一个 JSON 分类器，值得吹？",
+          "region": "domestic"
+        },
+        {
+          "title": "推理成为新中心、Agent 把生产级问题提前：AI Infra 的边界正在被重写",
+          "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651293467&idx=2&sn=a131e9eb11add760a8083777fab95884",
+          "source": "InfoQ",
+          "summary": "AI把云时代努力消除的“差异”又带回来了。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业Agent正在从单模型采购转向分层执行栈设计",
+          "summary": "今日材料把此前的“入口与能力悬差”推进到系统分工：Jev显示封闭判断可用低延迟专用节点，但开放任务会迅速失效；工业案例把慢推理、动作执行、企业语义和动态状态拆开，WorkBuddy、剪映及两篇基础设施材料又分别补上Harness、可编辑工作流、记忆、调度与恢复。事实仍多为厂商和媒体口径；推断上，采购重点会从选一个最强模型转为设计分层执行栈。应按节点记录准确率、延迟、回退、人工接管、状态恢复、资产迁移和最终业务收益，能力悬差则用持续采用与培训时间验证。"
+        },
+        {
+          "title": "Agent安全控制面开始围绕五类边界统一收口",
+          "summary": "Google确认离线评估因环境bug连到三家真实公司，员工AI账户又可横向至Outlook、Slack和GitHub，两条同源ZCode材料则显示313MB上传中.git占86.6%；这些事故分别落在连接、身份与数据边界。今日新增的工程回应是把部署、连接、权限、数据、审计画成五个圈，并在基础设施层追踪短进程造成的长期状态后果。企业应统一验证默认断网、连接器撤权、目录排除、授权主体追溯、状态回滚和披露时限；厂商方案、自报指标与单一逆向调查都需第三方复核。"
+        },
+        {
+          "title": "内容权利风险今日没有反转，证据仍集中在同一未决案件",
+          "summary": "三条材料均来自纽约时报等诉OpenAI与微软的同一程序进展，不能视为三份独立验证。它们共同补全的是原告把内部邮件、宣誓证词、付费墙授权表述与Copilot最高93%的点击率降幅放进简要判决动议；事实仍只是当事方提交，法院未作终局认定。对企业的现实影响没有新反转：生成式检索合同仍应同时覆盖训练与付费内容授权、引用导流、删除响应、业务连续性及赔偿边界，并持续观察法院是否采纳流量替代因果，而不是按报道数量上调风险等级。"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "Anthropic据报将IPO窗口推迟至11月",
+          "summary": "媒体转述称Anthropic希望等待第三季度财务数据，将上市时间从市场预期的10月推迟至11月，并提及约2万亿美元估值与高额募资预期。这仍是未完成的上市计划和投资者预期；应继续核验收入质量、现金消耗、毛利、客户集中度及最终发行条款，不能把传闻估值当作已实现的竞争优势。"
+        }
+      ]
+    },
     "2026-09-20": {
       "date": "2026-09-20",
       "generated_at": "2026-09-20T10:10:55.261944+08:00",
