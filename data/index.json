@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-22",
     "2026-09-21",
     "2026-09-20",
     "2026-09-19",
@@ -75,6 +76,70 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-09-22": {
+      "date": "2026-09-22",
+      "generated_at": "2026-09-22T10:09:33.042949+08:00",
+      "top6": [
+        {
+          "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
+          "url": "https://aihot.news/items/cmublfs5a03bcro0lebbtf8fb",
+          "source": "AI HOT · Linear：Now（RSS）",
+          "summary": "Linear 工程师分享如何解决 AI Agent 加速写代码后 CI 成为瓶颈的问题，PR 等待时间从 6 分钟以上降至 5 分钟出头，单测 runner 时间约减半。",
+          "region": "international"
+        },
+        {
+          "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "url": "https://aihot.news/items/cmub7xf1o0pu2roln165i6mhu",
+          "source": "AI HOT · IT之家（RSS）",
+          "summary": "亚马逊阻断了 Meta 个人 AI 智能体 Muse 代用户在其网站购物的访问权限，称从未许可该访问，并指 Muse 不表明身份、会采集保存用户账号凭证，带来隐私和安全隐患。",
+          "region": "international"
+        },
+        {
+          "title": "OpenRouter 解读 NVIDIA Nemotron 3.5 Lightning 如何承担 Agent 高频执行调用",
+          "url": "https://aihot.news/items/cmubyl2o004y7ro9i986nyhfy",
+          "source": "AI HOT · OpenRouter：Announcements（RSS）",
+          "summary": "OpenRouter 发文解读 NVIDIA 的 Nemotron 3.5 Lightning，这是一款 30B 总参数、约 3B 激活参数的混合专家开源权重模型，定位于工具调用、编码等高频、边界清晰的 Agent 执行步骤，与负责复杂推理的 Nemotron 3 Ultra（550B 总参数、55B 激活）形成分工。",
+          "region": "international"
+        },
+        {
+          "title": "华为云码道上线鸿蒙编码大模型 面向鸿蒙开发者全面升级",
+          "url": "https://www.leiphone.com/category/industrynews/B5ahgA6nibk33DRO.html",
+          "source": "雷峰网",
+          "summary": "2026年9月21日，华为云码道CodeArts代码智能体面向鸿蒙开发者进行全面升级，上线“鸿蒙编码大模型+码道鸿蒙智能体+鸿蒙开发者实践中心”三大核心能力，打造全球首个且唯一专为鸿蒙生态打造的AI编码智能体。 华为公有云总裁胡玉海表示：“华为云码道CodeArts代码智能体凝练华为多年研发经验，更懂研发工程实践，为开发者带来了新的开发体验。",
+          "region": "domestic"
+        },
+        {
+          "title": "Kimi Code Desktop 正式与你见面",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzcwMjM3ODEzOA==&mid=2247487615&idx=1&sn=1969ad8d7fe3d87d538e983fb6c1963f",
+          "source": "月之暗面 Kimi",
+          "summary": "macOS 和 Windows 版同步上线",
+          "region": "domestic"
+        },
+        {
+          "title": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型",
+          "url": "https://aihot.news/items/cmubqsb9l03vbrociqf22sr07",
+          "source": "AI HOT · X：小米 MiMo (@XiaomiMiMo)",
+          "summary": "小米 MiMo 发布 MiMo-V2.6 Pro 与 Flash 两个全模态模型，通过规模化强化学习训练。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "代码Agent竞争进入专域执行栈，验证瓶颈随之显形",
+          "summary": "今日新增的具体信号是：Meta将专家反馈编译成版本化知识和回归测试，华为把鸿蒙代码库、API、编译与模拟器组成专域开发闭环，Kimi则把本地计划、终端、Git和PR审阅放进桌面入口；Linear的内部案例提醒，代码生成提速后CI等待仍需单独优化。Nemotron的小型执行模型、小米全模态开源模型以及中国开源模型下载增长扩大了可选供给，但基准和下载量不能替代任务链验证。机制上，模型路由、领域知识、可审阅执行和验证容量要一起设计；对企业的影响是采购单位应从单次回答改为可合并变更和可恢复任务。应比较首次合格率、修复轮次、CI漏测与等待、每项合格任务成本、资产可迁移性。华为两篇是同一发布，厂商指标及下载量均非独立生产证据。"
+        },
+        {
+          "title": "跨平台Agent安全从内部权限扩展到外部授权与披露时钟",
+          "summary": "亚马逊封禁Meta购物Agent是今日与前10日不同的边界信号：平台称代理未经许可访问、未标识身份且保留用户凭证，显示用户授权不自动等于目标平台授权。钛媒体对Gemini误入真实企业的复盘仍是此前已出现的同一Irregular评估事故，不能当作新入侵；其补充的评估方集中度和披露间隔仍待原始复盘核实。OpenAI六起事故及分级披露轨道的媒体梳理，则把隔离失败后的通报时钟放进治理流程。由此推断，企业Agent上线条件需同时覆盖连接器许可、机器身份声明、短时凭证、隔离出站和第三方通知；验证指标包括撤权成功率、真实域名拦截率、发现至披露时间及授权凭证完整率。亚马逊指控和媒体时间线尚缺独立核验。"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "今日资本动态",
+          "summary": "本次合格企业AI材料中未见可核实的企业AI应用或平台资本交易；不以芯片、硬件或具身智能融资填充。"
+        }
+      ]
+    },
     "2026-09-21": {
       "date": "2026-09-21",
       "generated_at": "2026-09-21T10:07:14.329421+08:00",
