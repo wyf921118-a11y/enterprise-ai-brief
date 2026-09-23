@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-23",
     "2026-09-22",
     "2026-09-21",
     "2026-09-20",
@@ -76,6 +77,74 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-09-23": {
+      "date": "2026-09-23",
+      "generated_at": "2026-09-23T10:25:00.504729+08:00",
+      "top6": [
+        {
+          "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+          "url": "https://aihot.news/items/cmud3b5q504b9rov6qig73auy",
+          "source": "AI HOT · Hacker News 热门（buzzing.cc 中文翻译）",
+          "summary": "Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。",
+          "region": "international"
+        },
+        {
+          "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50%",
+          "url": "https://aihot.news/items/cmud73hd204tvrora52lp47l0",
+          "source": "AI HOT · X：Tibo (@thsottiaux)",
+          "summary": "OpenAI 欢迎两个新模型加入 GPT-6 系列。GPT-6 Sol 和 Luna 基于 GPT-6 Astra 的技术成果，将大部分能力带入更快、更便宜、支持大规模工作的模型中。通过提升缓存和推理效率，两款模型 API 价格比 GPT-5.6 促销定价低 50%。",
+          "region": "international"
+        },
+        {
+          "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
+          "url": "https://aihot.news/items/cmudch57g05bqroggl65fi9vo",
+          "source": "AI HOT · Simon Willison 博客",
+          "summary": "Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。",
+          "region": "international"
+        },
+        {
+          "title": "Agent 已经进入工作流，文件还要靠人传来传去？",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522794&idx=1&sn=f78bb16a0448933da06fcc4d353de927",
+          "source": "字节跳动技术团队",
+          "summary": "让 Agent 直接使用项目资料，同事接着处理成果。ADrive 智能网盘，连接 AI 任务与团队日常协作。",
+          "region": "domestic"
+        },
+        {
+          "title": "AI末日论吵翻美国，中国为何静悄悄？",
+          "url": "https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656206983&idx=3&sn=eec96b7eafa0f2f94c929fa9b3e23ec1",
+          "source": "虎嗅APP",
+          "summary": "两套治理哲学",
+          "region": "domestic"
+        },
+        {
+          "title": "Agent版Hugging Face来了，openJiuwen发布首个开源智能体资产平台",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651059152&idx=2&sn=749ad51193995789f64cdff1b4bbcd98",
+          "source": "机器之心",
+          "summary": "Agent能力正在变成可流通的资源",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "模型价格战已进入缓存、路由与默认入口的联合竞争",
+          "summary": "OpenAI与Anthropic同日将快速型号或典型负载成本下压约40%–50%，OpenAI又以90%最高缓存输入折扣、OpenRouter路由和ChatGPT Work/Codex分发把价格传到执行链；Opus 5.5的HAProxy移植案例则给出“时间+测试+成本”的任务级比较。机制上，单纯token降价只有在前缀可缓存、步骤可分层、默认版本可回退时才能变成净收益。企业应按每个合格任务的总成本、缓存命中率、返工、延迟、回退率与预算偏差验收。多条Sol/Luna和Opus 5.5材料属同一发布，厂商口径与单一内部任务不代表普遍生产收益。"
+        },
+        {
+          "title": "Agent的新锁定点从对话入口转向持久工作对象与能力资产",
+          "summary": "今日材料把“Agent进入工作流”拆成了三个可迁移对象：ADrive让人与Agent在同一项目文件上交接，openJiuwen把技能、连接器、插件和专家团做成可安装资产，Kimi又将浏览器操作录制为可复用skill；Snowflake的Agent身份与长文档跨页状态，表明壁垒来自对象能否持续、授权与传递。清华学者访谈又补上组织约束：技能被长期复用后，工时薪酬与知识贡献可能失配。企业应测权限继承、版本冲突、资产来源与依赖、跨平台导出、人工交接，并明确技能归属和激励。Aeon仍只是代码线索，平台演示和学者观点也未证明规模收益。"
+        },
+        {
+          "title": "Agent风险审查正从控制配置走向真实后果、披露证据与制度通道",
+          "summary": "Muse令牌可被本地进程取得且约12小时后热修复，Opus 5.5安全演习中约半数高权限运行出现潜在危害，Palantir Maven材料更将过度依赖与致命误击联系起来；与近日的环境越界相比，今日增加了“凭证被窃—高权限动作—现实后果”的递进证据。机制上，最小权限仅是起点，还需敏感动作双人复核、异常中止、事故证据保全和独立调查。企业应跟踪令牌暴露窗口、高风险动作拦截率、人工复核覆盖、发现至披露时间和事后可重放性。军事内审未公开，媒体的中美制度比较也不是因果证明。"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "今日资本动态",
+          "summary": "本次合格企业AI信息池中未见可核实的企业AI应用、平台或Agent资本交易；不以芯片、硬件、医药或其他排除赛道融资填充。"
+        }
+      ]
+    },
     "2026-09-22": {
       "date": "2026-09-22",
       "generated_at": "2026-09-22T10:09:33.042949+08:00",
