@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-30",
     "2026-09-29",
     "2026-09-28",
     "2026-09-24",
@@ -80,6 +81,74 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-09-30": {
+      "date": "2026-09-30",
+      "generated_at": "2026-09-30T12:17:51.862527+08:00",
+      "top6": [
+        {
+          "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
+          "url": "https://aihot.news/items/jicijbyw83wnt5qj2uuxkbw1k",
+          "source": "AI HOT · X：OpenAI Developers (@OpenAIDevs)",
+          "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。",
+          "region": "international"
+        },
+        {
+          "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
+          "url": "https://aihot.news/items/fp91y0m21xsgu43nl7g81uecp",
+          "source": "AI HOT · 公众号：数字生命卡兹克",
+          "summary": "作者总结OpenAI DevDay 2026的发布：个人Agent产品Dots向ChatGPT Pro、Business Premium和Enterprise用户推出，支持4000多个应用协作；新模型GPT-6.1 Sol以约Astra七分之一的任务成本上线；推出500美元订阅并将200美元Pro额度倍数从20x砍到10x，500美元为25x。",
+          "region": "international"
+        },
+        {
+          "title": "OpenAI 推出新版 Codex Cloud，Agents API 开放预览并支持 computer use",
+          "url": "https://aihot.news/items/l7k2qzyclr52j4zegcqo6mys3",
+          "source": "AI HOT · X：Tibo (@thsottiaux)",
+          "summary": "OpenAI 推出大幅升级的新版 Codex Cloud，主打可配置云环境，作者称配置后很难回到本地开发。同时 Agents API（驱动 dots 等云智能体的同一技术）开启预览，支持 computer use，可用于构建同类产品。",
+          "region": "international"
+        },
+        {
+          "title": "从 App 到服务，腾讯 Marvis 为什么认准「管家」",
+          "url": "https://www.leiphone.com/category/industrynews/D0f2E1vxteSIbZVF.html",
+          "source": "雷峰网",
+          "summary": "在海外社交媒体上有创业博主用“Agent Sprawl（智能体蔓延）”来描述一个现象： Agent 越多，其权限、数据和调用关系也越分散，企业组织也会遇到新问题：这些 AI，应该由谁来管理？ 类似的问题，在 C 端场景里已经出现。 AI 时代，用户电脑里的文件、应用、浏览器页面和数据，正在变成个人的一种数字资产。",
+          "region": "domestic"
+        },
+        {
+          "title": "推演大厂AI办公之战",
+          "url": "https://www.tmtpost.com/8156682.html",
+          "source": "钛媒体",
+          "summary": "争的就是上下文。",
+          "region": "domestic"
+        },
+        {
+          "title": "Agent进入企业核心业务，模型之外还有多少难题？",
+          "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA==&mid=2661078944&idx=1&sn=5627dcacb8e4bb96a4868c282b3a409e",
+          "source": "钛媒体",
+          "summary": "钛度要点：企业在把任务交给 Agent的那一刻，也交出了一部分决策权。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "办公与终端 Agent 的护城河正在转向“可治理的上下文”",
+          "summary": "Marvis 把应用降为可调用服务，国内办公厂商则围绕企业上下文、组织数据和协作入口布局；核心业务 Agent 的讨论同时指出，动态执行会把权限、停止、恢复和长期运行成本带进同一采购决策。相较近十天偏重任务闭环的判断，今日新增的是上下文资产与运行后环境管理这一层：企业应验证跨系统授权、历史数据迁移、异常接管和真实留存，而不能把入口或演示当作壁垒。"
+        },
+        {
+          "title": "OpenAI 的竞争单位从模型调用扩展到常驻运行、连接器与统一结算",
+          "summary": "Sol 的低缓存价格、Codex 的可复用云环境、Dots 的常驻计算机，以及插件、Space、Agents API 和订阅跨合作方使用，组成了从开发、后台执行到分发和结算的连续层。今日新增信号不是又一次模型升级，而是长任务所需的环境预置、应用连接和身份/用量归集被同时产品化；企业应分别测量任务成功率、工具等待成本、连接器权限和退出可移植性，避免只以 token 单价判断经济性。"
+        },
+        {
+          "title": "自主性扩张正在把安全从“模型能力附录”变成发布与采购闸门",
+          "summary": "关于安全预警的报道、AISI 的最坏情境评测、OpenAI 取消发布计划、九款服务的数据暴露研究，以及 Google 的责任承诺共同表明：企业面对的不只是输出失误，而是持续运行、跨工具调用和第三方数据链中的不可逆风险。与近十天的泛治理讨论相比，今日新增了供应商实际暂停发布和外部评测这两个约束信号；应要求安全回归、工具权限、数据流审计和事故恢复的可验证材料，同时避免把单一报道或模拟结果当作普遍发生率。"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "OpenAI 的超大融资传闻强化了平台扩张的资本约束",
+          "summary": "TechCrunch 转述的融资与估值谈判仍属报道阶段；它提示市场会继续关注企业分发增长能否覆盖长期算力、产品生态和安全投入，而非将其作为今日必看的产品事实。"
+        }
+      ]
+    },
     "2026-09-29": {
       "date": "2026-09-29",
       "generated_at": "2026-09-29T10:11:48.422068+08:00",
