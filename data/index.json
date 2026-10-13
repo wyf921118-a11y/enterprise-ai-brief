@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-08",
     "2026-09-30",
     "2026-09-29",
     "2026-09-28",
@@ -81,6 +82,74 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-10-08": {
+      "date": "2026-10-08",
+      "generated_at": "2026-10-08T08:57:43.974133+08:00",
+      "top6": [
+        {
+          "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
+          "url": "https://aihot.news/items/t9wypjd9cbb42ttuq7vrpp07l",
+          "source": "AI HOT · Microsoft Research 博客（RSS）",
+          "summary": "Microsoft Research Asia 提出 Harnessed Agentic RL 训练范式并开源重建的 Agent Lightning v1.0，让部署时使用的同一 agent harness 直接参与强化学习，无需在训练框架内重写 agent。",
+          "region": "international"
+        },
+        {
+          "title": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
+          "url": "https://aihot.news/items/vd2lvzvjz4tujiqupl30ifq3k",
+          "source": "AI HOT · Claude Code：GitHub Releases（RSS）",
+          "summary": "Claude Code 发布 v2.1.293，新增 Claude Haiku 5.5（claude-haiku-5-5）作为 Anthropic API 默认 Haiku 模型，支持 1M 上下文，价格为 $0.10/$0.50 每百万 token（超 100K 提示为 $0.50/$2.50）。",
+          "region": "international"
+        },
+        {
+          "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
+          "url": "https://aihot.news/items/ponkn6n046yorr5pg1yv3yjm5",
+          "source": "AI HOT · X：Claude Devs (@ClaudeDevs)",
+          "summary": "Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。",
+          "region": "international"
+        },
+        {
+          "title": "好产品也会丢单，Palantir 旧访谈翻红：企业级 AI 订单，拼的不只是模型",
+          "url": "https://www.tmtpost.com/8160164.html",
+          "source": "钛媒体",
+          "summary": "人们对一件事的认知，有时比客观情况更能左右决策。",
+          "region": "domestic"
+        },
+        {
+          "title": "海外开源模型重新提速：Mistral、“美版DeepSeek”同时亮牌",
+          "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651294491&idx=1&sn=cc3dad30b2b4e7292e8c461c763e0094",
+          "source": "InfoQ",
+          "summary": "西方开放模型阵营开始提速。",
+          "region": "domestic"
+        },
+        {
+          "title": "LangChain 重构 Deep Agents 的 Skills 支持，新增工具绑定、固定技能与线程内重载",
+          "url": "https://aihot.news/items/m3vyz2bex4i58vffqfx586u3h",
+          "source": "AI HOT · LangChain：Blog（RSS）",
+          "summary": "LangChain 重构 Deep Agents 的 Skills 支持，针对企业技能库增至数千个技能的场景推出三项更新：工具可绑定到技能、仅在该技能被读取时加载，用户可通过 /meeting-prep 之类的显式请求固定技能以在首次模型调用前加载，长线程可通过将 skills_metadata 设为 None 重载新增或变更的技能。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "智能体成本竞争正从单价下探转向路由、缓存与预算边界的协同设计",
+          "summary": "今日的定价和产品信号不只是更便宜的模型：GPT-6 Decisions 把模型、工具和动作选择做成低延迟服务，Claude/Cursor 同时提供小模型、缓存降价和评测入口，订阅计划又开始向可共享 API 额度延伸。机制上，这让企业能按任务风险分层，但也把成本控制从采购价转移到路由规则、缓存命中与团队预算分配。新增观察是成本优化已与使用治理绑定；应按成功任务成本、回退率、缓存命中率和额度归属审计，而不能接受厂商的单项降价或外部榜单作为结论。"
+        },
+        {
+          "title": "企业Agent的扩容难点从“接更多工具”转为运行时知识、训练与界面的可控耦合",
+          "summary": "LangChain 的按需技能加载和线程重载、Agent Lightning 让生产 harness 参与训练、OpenAI 的可交互界面，分别触及知识加载、学习闭环和用户执行面。共同机制是：Agent 一旦进入长线程和复杂任务，工具数量本身不再是能力指标，版本漂移、技能选择、界面触发的动作和运行时反馈才会决定是否能稳定交付。今日新增的约束是训练与运行时耦合虽然减少接口差异，却也要求更严格的变更回放和权限测试；企业应观察技能命中准确率、重载后的行为差异、界面动作审批率及人工接管比例。"
+        },
+        {
+          "title": "开放底座扩大选择权，但可信检索、来源验证和现场交付决定其商业价值",
+          "summary": "Perplexity 的多模态嵌入、开放模型更新与 SynthID 检测共同显示，企业可以在本地检索、模型替换和生成内容核验之间重新组合技术栈；但平台Token榜单、竞赛成绩和产品方健康活动反例也提示，展示指标并不等同于业务结果。Palantir 的现场交付叙事进一步说明，客户信任要靠数据整合和结果责任落地。新增观察不是“开放必然更优”，而是开放选择权使企业更有必要自建评测与证据链：验证私有文档召回、内容溯源覆盖、部署后行为变化和续约，而非以下载量或参与规模决策。"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "合格材料中未发现可独立核实、且适合企业AI资本判断的融资、投资或并购事件；不以模型发布或渠道评论填充资本栏目。"
+        }
+      ]
+    },
     "2026-09-30": {
       "date": "2026-09-30",
       "generated_at": "2026-09-30T12:17:51.862527+08:00",
