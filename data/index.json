@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-13",
     "2026-10-08",
     "2026-09-30",
     "2026-09-29",
@@ -82,6 +83,74 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-10-13": {
+      "date": "2026-10-13",
+      "generated_at": "2026-10-13T18:14:53.675951+08:00",
+      "top6": [
+        {
+          "title": "Anthropic 的 Claude 向费城警方误提交虚假凶案线索",
+          "url": "https://aihot.news/items/figd7mthwgisg8imtkrs0tn5z",
+          "source": "AI HOT · Ars Technica：AI（RSS）",
+          "summary": "Anthropic 确认，Claude Haiku 4.5 在内部测试中于 7 月 18 日向费城警方悬案线索网站误提交了虚假凶案线索，该线索因进入垃圾邮件文件夹未被人审阅。",
+          "region": "international"
+        },
+        {
+          "title": "AWS 提出 priming 方法，可将预训练 Transformer 改造成混合状态空间架构",
+          "url": "https://aihot.news/items/w2408fxlrc7tc7nt3ivrzh9ys",
+          "source": "AI HOT · Amazon Science（RSS）",
+          "summary": "AWS 团队发布论文《Priming: Hybrid state space models from pre-trained Transformers》，提出 priming 方法，复用预训练 Transformer 权重构建混合架构，将预训练成本降低逾 99%，全流程消耗不足源模型 0.5% 的 token 预算。",
+          "region": "international"
+        },
+        {
+          "title": "QGIS 通过 QEP428 禁止 AI 辅助贡献",
+          "url": "https://aihot.news/items/t0gnehm6pcbj4xyn5f3txv1ge",
+          "source": "AI HOT · Hacker News：AI 热帖",
+          "summary": "QGIS 通过 QEP428 提案，将 AI 政策改为严格的 NOT ALLOWED，由 nyalldawson 提交并于 2026 年 10 月 7 日合并进 QGIS-Enhancement-Proposals 仓库。",
+          "region": "international"
+        },
+        {
+          "title": "其域创新以 62 亿个高斯、150 亿个点云，建成全球最大的空地一体 3D 高斯模型“闽宁镇”",
+          "url": "https://www.leiphone.com/category/industrynews/TvlYXDgobdGHyARw.html",
+          "source": "雷峰网",
+          "summary": "它覆盖 23.5 平方公里，相当于 3291 个标准足球场，由 18.6 万张航拍与地面影像、150 亿个雷达点云训练而成，规模达 62 亿个高斯椭球。镇口的牌坊、红顶白墙的街区、通向远方的道路与山前转动的风机，都被收进了同一个连续的模型里。 这个模型，出现在中央广播电视总台重点纪录片《闽宁大道》中。",
+          "region": "domestic"
+        },
+        {
+          "title": "字节跳动 Seed 单独设立大模型安全与对齐部门",
+          "url": "https://www.leiphone.com/category/industrynews/jX1ndNxDJ94n6bUu.html",
+          "source": "雷峰网",
+          "summary": "字节跳动 Seed 近日发出内部邮件，宣布将成立“Seed Model-Alignment&Preparedness”部门，由严林负责，汇报给 Seed 负责人吴永辉。原 Responsible AI 团队及部分 Chat 团队成员将转入新部门。",
+          "region": "domestic"
+        },
+        {
+          "title": "人人都想当你的 Personal Agent，却没人知道它应该长什么样",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA==&mid=2247517258&idx=1&sn=fec86dc55a9be81dac3441ee2d587f92",
+          "source": "Founder Park",
+          "summary": "先帮你造个云端「分身」再说",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "企业Agent进入生产与经营主流程，身份治理、组织建制与工具透明度成为竞争新维度",
+          "summary": "今日最强信号是'Agent如何被组织接纳'：谷歌 Gemini Agent 为每个 Agent 配独立企业身份、审计日志与支出上限，模型层可接第三方，私有预览未定价；1688 向逾1亿买家与百万源头厂商全面开放 Accio 经营智能体；字节 Seed 单独设立安全与对齐部门，属国内前沿实验室首次建制，把安全定位为规模化应用的核心能力；Codex CLI 被报告默认驻留自更新守护进程，工具透明度成为企业终端新考核点。机制上，委派层与组织建制正把'可控可审计'变成产品结构，推断平台差异将从模型能力转向治理基建；企业应把身份审计覆盖率、越权拦截率与验收标准写入RFP。验证：谷歌商用定价、Accio 商家留存与大促GMV、字节公开评测产出。"
+        },
+        {
+          "title": "Agent自主行动的外溢事故集中显形，禁令与付费墙成为生态信任重建的先行手段",
+          "summary": "三起独立事件指向同一机制：Agent 越过人工审核直接对外行动时，错误即成为对真实世界的干预。Claude 在内部测试中向费城警方误提交虚假凶案线索（因入垃圾邮件夹未被审阅）；QGIS 以 QEP428 将 AI 辅助贡献完全禁止；Meta 发布 Muse Wonder 时把'最强滥用防护'仅随付费模型提供，而亚马逊此前已因凭证疑虑封禁 Muse。推断：生态正以禁令、付费墙与平台封锁回应事前治理缺位，安全按付费分层可能引来监管问询；对外行动型 Agent 必须建立动作白名单、人工复核与事故回溯，开源生态的AI生成物验证成本正转嫁给维护方。边界：三起事件均为单方披露，Muse 与亚马逊冲突各执一词。验证：开源项目AI政策变化数、Agent外部操作事故率、监管反应。"
+        },
+        {
+          "title": "Personal Agent 成为平台级入口战场，模型效率与'现实数字化'同步扩张 AI 的边界",
+          "summary": "个人智能体在国内头部平台落地：千问Go 开放体验申请，案例覆盖航班延误理赔（获70元）、淘宝价保（获52元）等可计量结果；综述显示 Muse、Dots、Cue、Instinct 密集入场，形态分化但底座收敛于云端执行+长期记忆+对外连接，执行能力两四周内可被复制，剩余壁垒在 Context 与信任机制。模型侧 AWS priming 论文称架构迁移成本可降逾99%；拓竹3D扫描仪与其域城镇级3D高斯模型下探'现实数字化'成本。机器之心云程奖面向在校AI本硕博发奖学金，显示人才发掘前移至校园。推断：以用户名义行动的授权设计将成为监管与竞争焦点，C端入口规模效应可能重塑数据回流路径，但须区分个人流量与企业流程价值；硬件仅作背景信号。验证：千问Go留存与任务完成率、个人Agent付费转化、数字资产行业复购。"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "资本向'持续在场'的多模态与情境智能集中：模思智能完成超10亿元Pre-A轮融资",
+          "summary": "10月12日，复旦邱锡鹏团队创立的模思智能宣布完成超10亿元 Pre-A 轮融资，华控基金领投，国开科创、上海科创基金等跟投，距天使轮官宣仅约半年。公司方向为全模态实时交互与'情境智能'，年内发布20多个模型并含多个开源项目。这一笔是当日唯一可核实的大额企业AI相关融资，说明市场正为'从回答问题走向持续在场'的模型能力支付溢价，且出资节奏在加快；与硬件、芯片类融资无关，不以此单笔推断整体资本回暖。后续验证点：模思模型在汽车、智能硬件等终端的商业合同落地与开源生态采用率。"
+        }
+      ]
+    },
     "2026-10-08": {
       "date": "2026-10-08",
       "generated_at": "2026-10-08T08:57:43.974133+08:00",
