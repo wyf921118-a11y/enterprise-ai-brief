@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-16",
     "2026-10-15",
     "2026-10-14",
     "2026-10-13",
@@ -85,6 +86,74 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-10-16": {
+      "date": "2026-10-16",
+      "generated_at": "2026-10-16T10:26:59.367805+08:00",
+      "top6": [
+        {
+          "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
+          "url": "https://aihot.news/items/s80tw5g2v22j1se4bmqejyaq4",
+          "source": "AI HOT · PyTorch：Blog（RSS）",
+          "summary": "Meta 发布开源权重模型 Muse Spark Open，已在 Hugging Face 以 Muse Model License 提供。模型总参数 816B、激活 42B，上下文窗口 1M token，面向编码与智能体工作流，原生多模态（图像、音频、文档），并相比 8 月发布的 Muse Spark 增加了安全后训练。",
+          "region": "international"
+        },
+        {
+          "title": "Claude Opus 5.5 fast mode 结束研究预览并移除等待名单",
+          "url": "https://aihot.news/items/e2ssy0a7scpnel6ppyl3r9f2t",
+          "source": "AI HOT · X：Claude Devs (@ClaudeDevs)",
+          "summary": "Anthropic 宣布 Claude 平台上的 Opus 5.5 fast mode 不再处于研究预览阶段，并已移除等待名单。该模式速度最高提升 2.5 倍，定价为 $8 / $40 per million tokens；现已登陆 Microsoft Foundry（Azure 托管），Google Cloud 即将支持。",
+          "region": "international"
+        },
+        {
+          "title": "Perplexity 开源驱动 Perplexity Computer 的沙箱平台 SPACE",
+          "url": "https://aihot.news/items/fgtsm4cnci4asmyhhflxzfsga",
+          "source": "AI HOT · X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "summary": "Perplexity CEO Aravind Srinivas 宣布开源沙箱平台 SPACE，该平台为 Perplexity Computer 的全部沙箱能力提供支撑，仓库地址为 https://github.com/perplexityai/space。",
+          "region": "international"
+        },
+        {
+          "title": "StepFun 展示 Step 5 Preview 在 NVIDIA GB300 上的推理性能",
+          "url": "https://aihot.news/items/l3g1uzem751ki1oxckrxa1b3e",
+          "source": "AI HOT · X：阶跃星辰 StepFun (@StepFun_ai)",
+          "summary": "StepFun 表示 Step 5 Preview 在 NVIDIA GB300 上推理表现出色，并期待看到开发者用它构建的应用。",
+          "region": "domestic"
+        },
+        {
+          "title": "大模型「土木系」终翻身：AI Infra 年薪冲到 800 万？",
+          "url": "https://www.leiphone.com/category/industrynews/azREeBbKSJ84PQTK.html",
+          "source": "雷峰网",
+          "summary": "“以前 AI 业内把做 Infra、做工程的叫‘ 计算机里的土木系 ’ ，干着最脏最累的活，拿垫底的钱 。谁能想到他们现在这么值钱？”某大模型独角兽高管刘立向雷峰网感慨道。 他抛出一组薪资行情对比：AI Infra 工程岗以前在大厂，年包基本到不了 300 万；现在，好的 Infra 人有能开到七八百万的。",
+          "region": "domestic"
+        },
+        {
+          "title": "上海AI实验室“书生-S2”大模型进入前沿数学研究流程：助力三维Ghys猜想证明并通过形式化验证",
+          "url": "https://www.leiphone.com/category/academic/ChIK9FvwSwlHmfFc.html",
+          "source": "雷峰网",
+          "summary": "上海人工智能实验室（上海AI实验室）访问学者、大湾区大学教授许地生团队依托书生科学多模态大模型S2（书生-S2），基于“通专融合”技术路径，通过人机协同完成了三维Ghys猜想证明。北京大学董彬教授、刘若川院士团队利用其开发的SHEAF框架对本次证明完成形式化验证，验证了这一工作的正确性。有业内人士认为，这标志着中国科学家首次用中国大模型攻克世界级数学难题。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "前沿智能体模型进入'开放权重+档位定价+端云适配'的全面商品化阶段，价格战从 API 单价延伸到激活参数与长时程吞吐",
+          "summary": "当日 Meta Muse Spark Open（816B/激活 42B、1M 上下文、1.25/4.25 美元）、阶跃 Step 5 Preview（600B/激活 27B、任务成本约为 Opus 5.5 的 1/6）、NVIDIA Nemotron 3.5 与 Bolt 端侧模型（2-bit 原生量化）、Gemini 4 Argon 限时 2/10 美元加 95% 缓存折扣在同窗落地（事实）。机制上，竞争变量从总参数转向'激活参数+量化精度+长时程稳定吞吐'（GB300 上近 8K tokens/sec/GPU）与档位化速度定价（Opus fast mode 2.5 倍速单独收费），开放权重与闭源旗舰的差价被压缩到个位数倍数（事实）；推断：企业主力模型选型将固化为多档位路由与混合部署问题，自托管隐性工程成本成为真正的决策变量而非 token 单价。业务影响：采购与 FinOps 需建立按任务风险分层的使用路由；验证指标：开放权重模型在企业私有负载上的任务成功率与总拥有成本对比、档位定价的采用率、端侧模型实际交付量。"
+        },
+        {
+          "title": "AI 生成代码的验收标准从'能否生成'迁移到规范留痕与生产指标，头部厂商自证数据与开源工作台共同把'过程合规'变成采购条件",
+          "summary": "当日证据链：Meta 披露 Forum 应用以 human-on-the-loop 方式八周对齐成熟产品核心功能、内存占用与缺页约减半；Anthropic 公布 Claude Code 代码审查流程——机器承担大部分阅读，6-9 月合并 PR 翻倍以上、回退率降超 40%、monorepo 日变更量从约 2,500 升至超 30,000；InfoQ 指出竞争焦点后移到 AI 代码能否进工程体系，Kiro 以规范驱动开发应对长会话上下文衰减，专家提出测试工作量 80%-90% 揉进出码过程；面壁等开源办公 agent 工作台 PilotDeck 2.0（事实）。机制：生成能力同质化后，规格说明、决策留痕、测试前置与回退率成为组织接纳 AI 代码的制度性接口（事实）；推断：企业会把'过程工件可审计'写入 AI 编程工具采购与验收标准，回退率、变更吞吐替代代码量成为核心 KPI。验证指标：引入 AI 审查后的回退率与变更吞吐变化、规范工件覆盖率、第三方对厂商自证数据的复现。"
+        },
+        {
+          "title": "Agent 的人机接口与上下文供给同时制度化：浏览器执行面、协作网络身份与上下文数据库构成企业落地的三大接入层",
+          "summary": "当日 OpenAI 把 computer use 引入 Chrome（读取/汇总/控制标签页、填表单发消息下载文件），Google 与腾讯企微分别以独立企业账号（Coworker Agent）和 WorkBuddy 打通协作网络账号体系，字节开源上下文数据库 OpenViking 经 Connector 接入飞书文档/项目/代码仓库并定时同步，Perplexity 开源生产级沙箱 SPACE（事实）。机制：agent 进入企业的路径收敛为三层——执行面（浏览器即 API）、身份面（协作套件账号权限）、知识面（上下文基础设施），三层都涉及组织权限边界而非模型能力（事实）；推断：2027 年前后企业 agent 采购的真正差异化在权限治理、连接器生态与沙箱安全，模型本身成为可替换件。业务影响：IT 治理、IAM 与数据集成预算将向 agent 接入层集中；验证指标：Chrome 控制能力的权限颗粒度与安全事件率、协作网络 agent 的实际调用频次、企业上下文层的连接器覆盖率。"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "投资者下调 Anthropic IPO 估值预期：约 2 万亿美元降至约 1.5 万亿美元",
+          "summary": "路透社援引知情人士：Anthropic 公布最新财务数据后，部分投资者考虑下调其 11 月 IPO 估值预期，投资者日活动讨论约 1.5 万亿美元，此前预期约 2 万亿美元。属未定案的传闻级信号（单方信源、IPO 尚未定价），但若属实，头部实验室估值锚的松动可能沿融资链传导至企业 AI 采购与生态议价。"
+        }
+      ]
+    },
     "2026-10-15": {
       "date": "2026-10-15",
       "generated_at": "2026-10-15T10:41:52.906216+08:00",
