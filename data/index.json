@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-20",
     "2026-10-19",
     "2026-10-16",
     "2026-10-15",
@@ -87,6 +88,74 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-10-20": {
+      "date": "2026-10-20",
+      "generated_at": "2026-10-20T10:11:52.409561+08:00",
+      "top6": [
+        {
+          "title": "Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性",
+          "url": "https://aihot.news/items/qh6pvehounuylklti7i0zl124",
+          "source": "AI HOT · Meta Engineering Blog（RSS）",
+          "summary": "Meta 工程团队介绍其数据管道智能体采用的瘦编排器（thin orchestrator）模式：一个约 1300 行的编排器只负责路由和可靠性检查，将 20+ 工作流分派给 14 个上下文隔离的专项子智能体，自身不做任何领域推理。",
+          "region": "international"
+        },
+        {
+          "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
+          "url": "https://aihot.news/items/tdcasw4dwhyzne3hxo3dmizmz",
+          "source": "AI HOT · The Verge：AI（RSS）",
+          "summary": "AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。",
+          "region": "international"
+        },
+        {
+          "title": "OpenAI 发布 GPT-6 系列模型，提升 COBOL 等低资源编程语言编码能力",
+          "url": "https://aihot.news/items/tzuiybo7a45sm87wj4rec2mvo",
+          "source": "AI HOT · OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "summary": "OpenAI 宣布最新模型在 COBOL、Fortran、Visual Basic 等低资源编程语言上能力显著提升，并推出两项自建评测。",
+          "region": "international"
+        },
+        {
+          "title": "Git 被换掉，LLM 被替代：AI 编码开始反噬传统工具链？",
+          "url": "https://www.leiphone.com/category/ai/wHcf2tZUiQkXGM0i.html",
+          "source": "雷峰网",
+          "summary": "Anthropic 代码量暴涨，GitHub 密钥扫描又慢又贵，两家被迫改造系统。 作者丨 郑佳美 编辑丨岑 峰 Git 已经支撑软件开发二十多年，Anthropic 却决定把它换掉。 为了让 Claude 持续生成的代码顺利进入开发流程，7 名工程师花了 5 个月，开发出版本控制系统 Scion，并将核心代码仓库迁移过去。",
+          "region": "domestic"
+        },
+        {
+          "title": "Muse Wonder 建模大翻车，亚历山大·王辩护遭马斯克无情补刀",
+          "url": "https://www.leiphone.com/category/ai/jKVjygWUe9Aj0QEd.html",
+          "source": "雷峰网",
+          "summary": "官方承认 3D 短板，跨模型测试 Harness 不同。 作者丨 郑佳美 编辑丨岑 峰 Meta 刚发布的 Muse Wonder，没想到因为一盏熔岩灯，在开发者社区引发了一场关于 AI 模型跑分的争论。",
+          "region": "domestic"
+        },
+        {
+          "title": "当Coding Agent开始动态并行，软件开发变得更好了吗？",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652735857&idx=3&sn=a925b721541c36e911ad286af24c2919",
+          "source": "新智元",
+          "summary": "新智元 2026-10-19 10:36 北京 新智元报道 Coding Agent正在进入新的发展阶段。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "AI 编码规模化倒逼工程底座重构：从换掉 Git 到把 Harness 当资产运营",
+          "summary": "当日多条独立证据指向同一机制：Agent 吞吐超过按人类节奏设计的基础设施承载上限后，工程重心从模型层转向执行底座（事实）。Anthropic 因日均合并变更从约 2500 涨至超 3 万、CI 日检出约 2500 万次而弃用 Git 自研 Scion，基础设施资源需求缩小约 200 倍；GitHub 以微调 ModernBERT 替换通用 LLM 做密钥扫描；南大与 UIUC 对三种前沿编码智能体 2124 次执行的配对实验证明动态并发收益不稳定并归纳 28 种失败模式；Meta 以约 1300 行瘦编排器加 14 个子智能体换可靠性；谷歌开源 Harness² 证明不改权重、递归优化外部组件即可提分；腾讯混元用 27B 基座加 RSI 后训练出超越原框架的终端能力；OpenAI 把 GPT-6 差异化押在 COBOL 等存量语言上。推断：Harness、版本控制、评测与并发治理正成为可积累、可审计的企业资产，采购重心从模型分数转向这些工程接口；贾萧松访谈与 CoReFuse-Med 从具身与多模态两侧印证瓶颈不在模型架构而在数据与系统层。验证指标：企业内 Agent 工具链替换案例数、Harness 类资产的任务复用率、并发失败模式在生产仓库的复现率。边界：多数量化数据为厂商自述，Harness² 属研究项目。"
+        },
+        {
+          "title": "推理经济性竞争换挡：速度型扩散架构进入 API 分发，开放权重向多模态与本地端延伸",
+          "summary": "当日信号显示成本竞争正从 token 单价转向架构路线、分发渠道与部署形态的组合（事实）：Inception 扩散模型 Mercury 3 以 1068 tokens/秒、1M 上下文、五折 $0.10/M 输入的低价上线 OpenRouter，并在自选基准对标 GPT-6 Luna 与 Haiku 5.5；AWS 以 Apache 2.0 开源 Trainium 原生 PyTorch 后端 TorchNeuron，把芯片竞争落到框架层；蚂蚁以 MIT 协议开源 Ming-3.0-tts 语音模型；NVIDIA DGX Spark 专场把 128GB 统一内存桌面设备推向数据不出域的本地 Agent 部署；谷歌以 Gemini at Work 课堂与魔搭社区日分别加码办公场景教育与行业落地运营。推断：企业推理选型将固化为速度型模型承接高吞吐轻任务、旗舰模型承接复杂任务、敏感数据走本地的三层路由；开源协议从文本扩展到语音模态会加速可私有化组合；射频计算等学术探索提示算力约束将多元化。验证指标：Mercury 3 第三方复测与五折后留存定价、TorchNeuron 生产采用量、128GB 级设备企业采购量、开源多模态模型私有部署调用占比。边界：各基准均为厂商口径，DGX Spark 环节含渠道推广属性。"
+        },
+        {
+          "title": "AI 信任边界进入攻防两端：智能体化攻击、供应链禁令与评测治理同时显形",
+          "summary": "当日证据把安全问题从模型厂商被监管推进到每个使用 AI 的组织的攻防工程（事实）：黑客用开源平台 Cairn 编排智能体入侵 John Deere 等超 100 家网站，攻击门槛被 Agent 平台拉低；美国国土安全部 2026-01 号命令要求联邦机构移除 DeepSeek 及基于其开发的第三方产品，模型血统进入供应链合规；Numan 把评测标准当稀缺资产、以安全回归自动阻断发布；Muse Wonder 熔岩灯翻车与 PhAI 的假设启发率口径共同暴露 Benchmark 分数与真实能力的缺口；Apate.ai 用 35 万 AI 拖住骗子、所在银行公开报告诈骗损失降 76%，显示对抗性防御可计量；Vogels 把安全 Job Zero 与抗量子加密列为创业第一原则。推断：企业需把 Agent 攻击面管理、模型出身审查与评测资产建设列入安全预算，采购合同将出现模型血统与沙箱条款；反诈类对抗应用可能成为金融行业新采购品类。验证指标：智能体化攻击事件量、供应链禁令向其他法域的扩散数、企业安全回归阻断率、独立评测对厂商分数的复现差。边界：入侵细节依赖单一安全公司转述，损失降幅与 AI 部署的因果关系未独立验证。"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "当日未出现可核实的重大企业 AI 资本事件",
+          "summary": "剔除硬件、芯片、医药与泛科技融资后，当日合格信息池内没有形成足以判断资本方向的企业 AI 融资、并购或上市信号。池内唯一融资信息为行业报道中的背景事实（反诈公司 Apate.ai 今年 8 月获 815 万美元种子轮，属防御类 AI 应用，非当日资本动态），此处不以无关融资填充版面，后续继续观察头部实验室 IPO 定价与 Agent 应用层融资节奏。"
+        }
+      ]
+    },
     "2026-10-19": {
       "date": "2026-10-19",
       "generated_at": "2026-10-19T10:25:05.090126+08:00",
