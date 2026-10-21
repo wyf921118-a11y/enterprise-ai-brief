@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-21",
     "2026-10-20",
     "2026-10-19",
     "2026-10-16",
@@ -88,6 +89,78 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-10-21": {
+      "date": "2026-10-21",
+      "generated_at": "2026-10-21T11:18:54.879406+08:00",
+      "top6": [
+        {
+          "title": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理",
+          "url": "https://aihot.news/items/zs3zvf51jl6pa35kn4npmoy7j",
+          "source": "AI HOT · X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "summary": "Perplexity CEO Aravind Srinivas 宣布，Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理，也不用 WiFi。模型和智能体都在本机运行，可操作 Mac 原生应用和本地文件，敏感数据不必发送到云端，现已在 Perplexity Mac 应用中可用。",
+          "region": "international"
+        },
+        {
+          "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
+          "url": "https://aihot.news/items/cbzvuf1atk51l7i5c2dpgboao",
+          "source": "AI HOT · TechCrunch：AI（RSS）",
+          "summary": "据泄露给华尔街日报的 S-1 文件，Anthropic 难以从 AWS、Google 和 Microsoft 获得足够云算力，这些厂商日益将其视为竞争者而非客户。",
+          "region": "international"
+        },
+        {
+          "title": "Google 与 Meta 发布 TorchTPU：PyTorch 原生 TPU 后端",
+          "url": "https://aihot.news/items/lh8vm7yp332xoffhqoscusss4",
+          "source": "AI HOT · PyTorch：Blog（RSS）",
+          "summary": "Google 与 Meta 发布开源项目 TorchTPU，为 Google TPU 提供原生 PyTorch 后端，模型迁移只需把 .to(\"cuda\") 改为 .to(\"tpu\")。",
+          "region": "international"
+        },
+        {
+          "title": "停止加薪！大众计划冻结全球大量员工薪酬至2030年；突发！美国发布DeepSeek禁令；马斯克：明年向全美儿童赠送SpaceX股票",
+          "url": "https://www.leiphone.com/category/zaobao/Y7039p8HsmmeQClm.html",
+          "source": "雷峰网",
+          "summary": "要闻提示 1.停止加薪！大众计划冻结员工薪酬至2030年，涉及全球大量员工 2.突发！美国发布DeepSeek禁令 3.花钱之前先问网友意见！",
+          "region": "domestic"
+        },
+        {
+          "title": "亚太唯一！阿里云连续4年获评 Gartner 容器管理领导者象限",
+          "url": "https://www.leiphone.com/category/industrynews/z75kiSSlXYqfCza6.html",
+          "source": "雷峰网",
+          "summary": "近日，国际权威咨询公司Gartner正式发布2026年度《容器管理魔力象限》报告，阿里云连续4年入选该报告，稳居“领导者”象限，是亚太地区唯一获此殊荣的科技公司。 Gartner在报告中将“丰富的AI集成”、“全面的功能覆盖”和“在严苛生产环境中的广泛使用”列为阿里云的核心优势。",
+          "region": "domestic"
+        },
+        {
+          "title": "燃烧吧Token，Agentic Cloud时代云厂商的资本效率大考",
+          "url": "https://www.tmtpost.com/8175272.html",
+          "source": "钛媒体",
+          "summary": "算力是AI时代最硬核的入场券，手握现金流的科技巨头，似乎天然拥有持续加码资本开支的底气。 从训练大模型到支撑万级Agent规模化落地，云厂商正开启一场算力军备竞赛，试图用海量基建抢占Agentic Cloud的时代高地。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "推理经济学从 token 单价转向『缓存策略+推理框架+调度底座』的系统工程，开源推理栈成为竞争新前沿",
+          "summary": "当日多条独立证据指向同一机制：模型权重能力趋同后，决定服务成本的是推理中间层（事实）。OpenAI 把 prompt 缓存产品化为可选 12 小时长效服务，Codex/Work 用户缓存永久保留，缓存命中从工程技巧变为正式定价杠杆；DeepSeek 将内部推理框架 DeepInfer 与生产级编解码组件 deepseek-recipe 全面开源，兼容英伟达与昇腾双平台并已支撑 V4.1 Flash 大规模服务；IBM/Red Hat/Google 的 llm-d 1.0 宣告 Kubernetes 原生分布式推理生产就绪；Google 与 Meta 开源 TorchTPU 让 PyTorch 原生支持 TPU；阿里云凭 AI Serving Stack（自述省 50% 计算、推理吞吐 +200%、Qwen3 235B 切换 13 分钟→3 秒）连续四年进入 Gartner 容器管理领导者象限；MiniMax M3.1 Flash 以激进稀疏注意力实现 200+ TPS、成本降 70%；云侧同步承压——钛媒体分析显示阿里/腾讯/百度单季资本开支合计 1318.52 亿元（同比+114%）、三家自由现金流合计净流出 664 亿元，Gartner 预测 2026 年 AI 优化型 IaaS 支出 55% 用于推理，Agentic Cloud 全栈重写把资本效率推上新考核线。推断：竞争对象正从模型权重下沉到服务栈，私有化部署评估重心应转向吞吐/延迟/能耗指标与双平台兼容性，缓存策略将进入 API 计费谈判。验证指标：DeepInfer 与 llm-d 生产采用量、各厂商缓存折扣跟进、私有部署 TCO 对比。边界：性能数据均为厂商自述，未第三方复现。"
+        },
+        {
+          "title": "模型分发入口三线并进：本地端侧运行、电商订阅货架与办公套件组织入口同时被打通",
+          "summary": "当日证据显示模型厂商的获客路径正沿三条独立方向同时展开（事实）。本地端：Perplexity Computer 在 Mac 上完全本地运行、无需云端推理，可操作原生应用与本地文件，把数据主权做成 C 端卖点；电商渠道：智谱 9 月、MiniMax 10 月相继入驻天猫开设官方旗舰店售卖订阅套餐，大模型订阅首次进入主流电商货架（平台称超百款 AI 新品销售额破百万）；办公套件：钛媒体分析称国内 AI 办公桌面端月活约 3000 万、WorkBuddy 1115 万居首，但 Kimi K3 以 100 万 token 上下文被 WorkBuddy 与 Cursor 接入，证明基础模型仍是后场防线、行业场景是前场；语音接口：蚂蚁开源 Ming-3.0 语音五模型把识别/理解/合成接入工作流；华为平板则以鸿蒙 AI 与小艺慧记把办公 AI 塞进终端硬件（营销口径）。推断：单点营销优势难以锁定胜局，2027 年前模型厂商收入结构将更依赖订阅渠道与组织绑定而非 API 单价；语音将成为 Agent 交互标配接口。验证指标：Perplexity 本地模式使用量、天猫订阅套餐销量与续费、WorkBuddy/百度搭子月活留存与付费转化、Ming-3.0 企业采用量。边界：多为厂商自述或软文，实际转化未披露。"
+        },
+        {
+          "title": "算力地缘与 Agent 自主性的安全边界同步收紧：云厂商竞争关系、供应链血统禁令与军用自主网络武器三重信号",
+          "summary": "当日三条独立证据把治理压力推进到供给与自主性两端（事实）。供给侧：泄露的 S-1 文件显示 Anthropic 难以从 AWS、Google、微软获得足够云算力，三大云厂商日益将其视为竞争者而非客户，算力获取首次成为与上市定价直接挂钩的战略约束；合规侧：美国国土安全部在《联邦公报》正式发布规定，禁止联邦民事系统使用 DeepSeek 产品并要求移除含其开发成果的第三方衍生产品，从采购源头封禁，模型血统进入供应链合规；自主性侧：The Intercept 获取文件显示美国陆军网络司令部 ECHOTRIBBLE 项目拟让 AI 智能体自主在网络间移动、识别清除目标后自毁，且须在极少人工监督下运行。推断：企业选型需把『供应商与云厂商竞争关系带来的算力连续性风险』和『模型血统合规』写入采购条款；自主行动型 Agent 的动作白名单与人工复核在涉网场景不可妥协，禁令可能向盟友法域扩散并波及使用开源权重的下游产品。验证指标：Anthropic 上市文件算力合同披露、禁令扩散的法域数量、ECHOTRIBBLE 预算与治理审查进展。边界：三起均为单方披露或泄露文件，S-1 与军事项目细节未经证实。"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "路透：OpenAI 拟在 Anthropic 上市前加速融资约 300 亿美元，估值超 1.4 万亿美元",
+          "summary": "据 Reuters 报道，OpenAI 正赶在竞争对手 Anthropic 预计 11 月中旬上市前洽谈约 300 亿美元融资，目标估值超 1.4 万亿美元，较 3 月 8520 亿美元至少高 64%；软银、阿布扎比 MGX 及现有投资者在洽谈参与。OpenAI 向投资者表示 GPT-6 Astra 发布后年化营收已达 500 亿美元、预计年底升至 700 亿美元，并希望在 Anthropic 披露更多财务信息引发比较之前锁定承诺。头部实验室资金竞赛与上市窗口直接联动，资本加速向双寡头集中（媒体转述，条款未最终确定）。"
+        },
+        {
+          "title": "DeepSeek 连续加码具身智能投资（背景观察）",
+          "summary": "国内媒体汇总显示，DeepSeek 参投前腾讯 AI Lab 负责人俞涛的 LLM+具身创业公司（第二轮估值 2 亿美金），并拟领投计算机视觉科学家胡瀚创办的 Winverse AI（投后估值约 4 亿美元，美团龙珠等可能参与），此前 8 月已 1.408 亿元参与宇树科技 IPO 战配。属以具身智能为主体的投资布局，仅作资本背景记录，不计入当日企业 AI 资本主线；同日信息池中无其他合格企业 AI 资本事件。"
+        }
+      ]
+    },
     "2026-10-20": {
       "date": "2026-10-20",
       "generated_at": "2026-10-20T10:11:52.409561+08:00",
