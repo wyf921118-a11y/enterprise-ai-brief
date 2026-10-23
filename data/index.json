@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-23",
     "2026-10-22",
     "2026-10-21",
     "2026-10-20",
@@ -90,6 +91,78 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-10-23": {
+      "date": "2026-10-23",
+      "generated_at": "2026-10-23T10:17:27.660548+08:00",
+      "top6": [
+        {
+          "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
+          "url": "https://aihot.news/items/shd9gpw42uwoxqtenpzhy1je4",
+          "source": "AI HOT · Newcomer 新闻长文（RSS）",
+          "summary": "Newcomer 长文复盘 Anthropic 从 OpenAI 出走团队到即将 IPO 的股权演变。据投资人文件和多位知情人士，多年来风投因公司治理结构和安全优先路线而观望，目前没有任何风投机构持股超过 2%，Anthropic 曾向投资人明确将单一投资人持股控制在该水平以避免话语权集中。",
+          "region": "international"
+        },
+        {
+          "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
+          "url": "https://aihot.news/items/fcw2s1pdclkgm5kmg2qwginp7",
+          "source": "AI HOT · Redwood Research：Blog（RSS）",
+          "summary": "METR 与 Redwood Research 各派一名员工，于 7 月 21 日至 8 月 11 日对 OpenAI 内部失准监测系统开展三周高权限试点压力测试，产出 61 页内部报告。",
+          "region": "international"
+        },
+        {
+          "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
+          "url": "https://aihot.news/items/ybo2q5ug2e71tfuab9m1t128o",
+          "source": "AI HOT · X：Claude (@claudeai)",
+          "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。",
+          "region": "international"
+        },
+        {
+          "title": "火山引擎云数据库 Lakebase 正式发布：让 Agent 高效访问库、湖数据",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247523456&idx=1&sn=33fb7c4c1b2c914c92ab3bd1ae11a117",
+          "source": "字节跳动技术团队",
+          "summary": "原创 字节跳动数据库 2026-10-22 18:00 北京 数据从哪里来？要到哪里存？怎么快速查？ 这是大模型用好企业数据最先要过的三道关。",
+          "region": "domestic"
+        },
+        {
+          "title": "Personal AI 都在谈的「意图捕获」，可能是今天企业级 Agent 最需要的",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA==&mid=2247517391&idx=1&sn=0e9cfa82b9458201c76aef403d3ed06c",
+          "source": "Founder Park",
+          "summary": "Personal AI 这一波，核心的变化，可能是交付形式的变化。过去的通用 Agent 更像是「单次任务交付」。",
+          "region": "domestic"
+        },
+        {
+          "title": "大模型如何胜任职场？WorkForge让大模型进入真实职场工作流",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498710&idx=1&sn=f4e7e6d5084def4dcbb134ba6c7ba1c6",
+          "source": "腾讯混元",
+          "summary": "大模型离真正走进职场，还有多远？",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "AI 安全事件重心从“发现经济性”移向在野对抗：披露窗口失守与攻击工具智能化同时发生",
+          "summary": "事实：PHP2Shell 在披露前四天已遭在野利用，公告后两小时利用尝试从数千增至数十万（Cloudflare 口径）；NSA 建议“无法立即修复就下线”，多国政府站点预防性关停；Wiz 披露开源自主渗透框架 ARTEX 被国家级关联组织 Storm-0940 用于攻击 IT 与软件厂商并尝试供应链渗透；防御侧 Apate.ai 以 35 万个 AI 完成超 250 万次对话。机制：AI 同时拉低攻防两侧规模化成本，“公告与补丁同步”的披露假设被打破（推断）。影响：应急响应须按“漏洞可能先于公告被利用”运行，暴露面盘点与熔断能力前置。验证：披露前在野利用占比、自主攻击框架检出数、预防性下线频次。"
+        },
+        {
+          "title": "Agent 自主化越过“是否要人”之争：默认自动运行、独立红队审计与生产写权限构成新治理三角",
+          "summary": "事实：Claude 宣布付费套餐默认 auto mode，自动检查替代逐步人工批准，自测拦截 89% 危险命令（手动批准 14%）；METR 与 Redwood 三周高权限红队测试 OpenAI 内部失准监测系统并发现多个漏洞；Replit Monitoring Agent 自动修复并部署生产修复；AWS 开源 Pizza Bot 托管后台长任务。机制：厂商把自主性做成默认值、人工降为可回切选项，并以独立红队审计“拦截器本身”（推断）。影响：企业从“禁止自动”转向管理默认值、复核红队结论、为生产写权限设门禁与回滚。验证：auto mode 误拦率与事故率、红队报告公开数、自动部署回滚率。"
+        },
+        {
+          "title": "企业级 Agent 的价值轴心从模型层移向“意图-数据-验证-交付”基础设施，能力分层开始改写组织与资本形态",
+          "summary": "事实：火山引擎发布库湖数据引擎 Lakebase；腾讯混元与复旦提出 WorkForge 以职场工作流构建可验证环境；OpenAI 上线 Decisions API 承接分类、评分等小决策（宣称快 10 倍）；MiniMax 开放 428B/23B 激活权重；观点侧把瓶颈归于意图捕获与上下文对齐，Karpathy 指差距在编排与基建。机制：模型趋同后，意图、数据、验证与交付构成新基础设施层；Anthropic 股权分散锁定治理、SpaceX 与 Tesla 设特别委员会，组织与资本形态同步调整（推断）。影响：采购从单点选型改为“重旗舰+轻专用”分层。验证：Decisions 类调用量、可验证环境采购占比、私有部署占比。"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "Anthropic 或最快本周五公开提交 S-1 招股书，冲刺史上最大 IPO",
+          "summary": "据雅虎财经援引知情人士，Anthropic 最早或于本周五公开提交 S-1 招股说明书，推进有望创史上最大规模的 IPO；结合当日 Newcomer 股权复盘（无风投持股超 2%、刻意分散控制权），其上市定价与治理条款将成为前沿实验室资本化路径的标杆。属媒体援引知情人士口径，以公司公告为准。"
+        },
+        {
+          "title": "Bloomberg：DeepSeek 新一轮融资约 150 亿美元，投前估值约 748 亿美元",
+          "summary": "据 Bloomberg，DeepSeek 最新一轮融资约 150 亿美元，为 中国最大规模私募融资之一；谈判期间目标两度上调（约 75 亿→120 亿→150 亿美元），CATL 与腾讯为最大投资方之一，CATL 据报出资约 15 亿美元；投前估值约 748 亿美元，加上 6 月首轮超 75 亿美元，约半年累计募资约 225 亿美元。金额为媒体报道，条款未获官方确认。"
+        }
+      ]
+    },
     "2026-10-22": {
       "date": "2026-10-22",
       "generated_at": "2026-10-22T12:10:48.770497+08:00",
