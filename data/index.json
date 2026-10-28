@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-28",
     "2026-10-23",
     "2026-10-22",
     "2026-10-21",
@@ -91,6 +92,78 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-10-28": {
+      "date": "2026-10-28",
+      "generated_at": "2026-10-28T11:21:24.108038+08:00",
+      "top6": [
+        {
+          "title": "Google DeepMind 发布实时交互世界模型 Genie 4",
+          "url": "https://aihot.news/items/l74eacnb38ytvm5hm8om7h7cs",
+          "source": "AI HOT · Google DeepMind：Blog（RSS）",
+          "summary": "Google DeepMind 发布世界模型 Genie 4，主打实时交互模拟、更强照片级真实感，并首次在实时世界模型中原生生成音频，包括环境声和可实时交互的人物对话。",
+          "region": "international"
+        },
+        {
+          "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT",
+          "url": "https://aihot.news/items/zbp5qzehshqnvgimabeu27cb1",
+          "source": "AI HOT · OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "summary": "OpenAI 宣布扩大与 Oracle 的合作，将 Oracle 应用和数据接入 ChatGPT，并用 OpenAI 模型驱动 Oracle 新产品。",
+          "region": "international"
+        },
+        {
+          "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
+          "url": "https://aihot.news/items/t13kjmoalf8m0luymjchvrysk",
+          "source": "AI HOT · X：Gemini (@GeminiApp)",
+          "summary": "Google Gemini 宣布集成 SynthID 检测功能，用户只需在 Gemini 中询问“Is this AI generated?”，即可检查图片、视频或音频文件是否由 Google AI 生成。官方称此举帮助用户更有信心地浏览网络内容。",
+          "region": "international"
+        },
+        {
+          "title": "千问办公接入乐奇AI眼镜，一句话发起任务",
+          "url": "https://www.leiphone.com/category/industrynews/NDbYUsVKbYZZxXil.html",
+          "source": "雷峰网",
+          "summary": "10月27日，在乐奇AI眼镜新品发布会上，乐奇Rokid和千问办公宣布达成合作，千问办公正式接入乐奇AI眼镜。用户在“Rokid AI”App里的智能体商店添加“千问办公”，绑定千问办公账号后，就可以戴上眼镜用语音唤起千问办公、下发任务，并在眼镜端查看结果。 比如，用户直接说：“千问办公，帮我调研一下AI眼镜的行业现状。",
+          "region": "domestic"
+        },
+        {
+          "title": "OCR 3.0 时代来了！文心 Unlimited OCR 2 开源发布，超长文档解析迎来“页数自由”",
+          "url": "https://www.leiphone.com/category/industrynews/2U4kLHAVeff62mJx.html",
+          "source": "雷峰网",
+          "summary": "10月27日，百度发布并开源文心 Unlimited OCR 2，全球首次实现任意页数文档解析，将 OCR 的处理上限从数十页推向“无限”，并达到最先进水平（SOTA）。实测显示，该模型能够一次性解析《哈利·波特》全系列 7 部作品，累计超过 3600 页，在文档长度大幅增加的情况下，依然保持较高的精度和处理效率，推动文档解析技术迈向OCR 3.0时代。",
+          "region": "domestic"
+        },
+        {
+          "title": "当即梦把剧本、导演和剪辑放进同一个工作室，我们看到了视频生成的下一步",
+          "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653115527&idx=1&sn=6fb22622bee540d2c6e3ef8ca83f4903",
+          "source": "极客公园",
+          "summary": "重构 AI 短剧制作流程。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "可验证、可追责成为AI产出的交付新标准：第三方核查、机器形式化验证、来源检测与生命权诉讼同日并至",
+          "summary": "事实：OpenAI请外部专家任shepherds核查AI产出的数学、计算机科学与物理学证明并将部分翻译成Lean逐步验证；Axiom智能体集群24天将约15000页有限单群分类定理转为超3800万行机器验证代码，并发现已发表记录34处严重出入；Google把SynthID检测集成进Gemini，用户一句话即可鉴别图片、视频、音频是否Google AI生成；家长起诉OpenAI指控GPT-4o劝导停用抗癫痫药致死；分子之心以94.7%项目成功率、六大GPCR靶点全命中给出AI设计的系统性验证口径（均为当日公开材料，诉讼为单方指控）。机制：AI产出进入数学、医药等高风险领域后，采信方式正从厂商自述转为独立验证，且验证对象扩展到人类既有文献本身（推断）。业务影响：企业采购高风险AI结论时应要求第三方核查或形式化验证附件，内容平台需内建来源鉴别，对话式AI必须配置专业分流与人工兜底。验证指标：Lean形式化覆盖率、检测误报率、同类诉讼的司法认定、AI设计项目成功率的独立复现。"
+        },
+        {
+          "title": "生成式媒体换挡到实时交互与全流程工作台：世界模型规格化、内容产线一体化、单位成本两个数量级下探同时发生",
+          "summary": "事实：Google DeepMind官方发布世界模型Genie 4，支持WASD与双摇杆实时控制、运行中自然语言修改天气与加入物体，并首次在实时世界模型中原生生成环境音与人物对话；即梦把剧本、导演和剪辑整合进同一工作室重构AI短剧流程；LangChain开源其设计agent Content Studio的harness，累计产出超3000件资产，单次请求成本从约8美元降至约50美分；百度开源文心Unlimited OCR 2实现任意页数文档解析，实测一次解析超3600页；智谱GLM-Omni论文披露统一视觉理解与图像生成底座，但文字问答仅14.57%。机制：单点生成模型趋同后，竞争轴心转向可控性（实时交互）、流程整合度（剧本到成片）与单位经济性（成本数量级下降），OCR与多模态底座构成产线输入端（事实+推断）。业务影响：营销与内部素材产能可按资产件数乘边际成本核算，机器人训练可获得可交互仿真环境；但文字问答短板提示全流程产线仍需多模型分工。验证指标：Genie 4开放形式与延迟、Content Studio类产线的资产边际成本、无限页OCR的第三方复测与幻觉率、统一底座的文字任务表现。"
+        },
+        {
+          "title": "企业智能体的入口与组织同步重构：模型反向绑定存量数据、数据平台收入实证、可穿戴终端分发与27%规模自愿离职并现",
+          "summary": "事实：OpenAI与Oracle互相开放，Oracle应用与数据接入ChatGPT、OpenAI模型驱动Oracle新产品；a16z披露Databricks收入运行率达70亿美元、同比增长80%，称其为智能体时代的公司基础设施；千问办公接入乐奇AI眼镜，语音下发任务并在眼镜端查看结果；家居家电方向国家人工智能应用中试基地在青岛启动，海尔智家承建；微软向约6万名员工（占全球员工约27%）发出自愿离职邀请、补偿至少N+2，加码AI精简人力。机制：模型层趋同后，差异化转向上下文供给、分发终端与行业级验证主体，同时AI效率压力把组织收缩从个案裁员推向全员级自愿通道（事实+推断）。业务影响：企业应把与既有ERP、数据库的打通深度纳入智能体选型，关注供应商人员重组期的服务连续性，并评估自身人力与预算结构。验证指标：ChatGPT内Oracle数据调用量、Databricks增速持续性、眼镜端任务完成率、微软自愿离职接受率与交付质量变化、中试基地沉淀能力数。"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "Anthropic IPO财务格局浮出：VC持股均不足5%，Amazon或成最大财务受益方",
+          "summary": "TechCrunch根据Anthropic的S-1分析：各风投持股均不足5%，而Amazon可能是IPO最大财务受益方——持有62亿美元本金可转债、自估持仓价值979亿美元，另投100亿美元无投票权优先股，累计投资约180亿美元；Anthropic同时承诺未来10年在AWS至少消费1100亿美元（媒体报道口径，估值数据为文件推算）。"
+        },
+        {
+          "title": "Anthropic拟以长期受益信托与Founder LLC双重结构抵御IPO后的安全稀释压力",
+          "summary": "The Verge报道：Anthropic计划通过长期受益信托（五名投票受托人可经Class T股票任命七名董事中的四席）与创始人以Founder LLC掌握50.1%投票权的结构上市，防止公开市场股东迫使公司削弱安全投入；法学专家认为法律层面可隔绝逐利压力，但市场竞争、融资需求与创始人变动都可能侵蚀这些保障（媒体报道，非公司确认）。"
+        }
+      ]
+    },
     "2026-10-23": {
       "date": "2026-10-23",
       "generated_at": "2026-10-23T10:17:27.660548+08:00",
