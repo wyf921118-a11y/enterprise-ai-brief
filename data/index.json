@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-29",
     "2026-10-28",
     "2026-10-23",
     "2026-10-22",
@@ -92,6 +93,78 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-10-29": {
+      "date": "2026-10-29",
+      "generated_at": "2026-10-29T12:17:31.901467+08:00",
+      "top6": [
+        {
+          "title": "Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发",
+          "url": "https://aihot.news/items/tdp7qmrh74fdfarxbi4jaoc6v",
+          "source": "AI HOT · Microsoft：Official Blog（RSS）",
+          "summary": "Microsoft 宣布将 GitHub 团队打造的 Copilot harness 通过 Microsoft Foundry 向开发者和企业开放，该 harness 已驱动 Copilot Code、Copilot Studio、GitHub Copilot app 和 CLI 等产品。",
+          "region": "international"
+        },
+        {
+          "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
+          "url": "https://aihot.news/items/klkmnzle2z7p5y6cl477ce7sg",
+          "source": "AI HOT · The Decoder：AI News（RSS）",
+          "summary": "网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。",
+          "region": "international"
+        },
+        {
+          "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
+          "url": "https://aihot.news/items/jpt1eeuj2p1mgrxbufuv3ntdn",
+          "source": "AI HOT · IT之家·人工智能",
+          "summary": "Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Claude 研究模型在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞，串联出 5 条可实际运行的攻击链，相关漏洞已按协调披露流程报告并修复。",
+          "region": "international"
+        },
+        {
+          "title": "华为群英传之刘睿：AI助手要告别聊天框，从“被动响应”走向“主动服务”",
+          "url": "https://www.leiphone.com/category/ai/Ep3M1c7RboyafpOS.html",
+          "source": "雷峰网",
+          "summary": "在商汤没做成的技术，登上了华为发布会。 作者：李秋悦 编辑：吴彤 2022年6月，刘睿港中文博士毕业，赶上的却是一个“坏时候”。 深度学习的高光已持续近十年，新突破越来越难；疫情之下，经济低迷，同届不少同学选择延期，再守一年实验室。 刘睿没有等，他直接去了商汤。 两个月后，Stable Diffusion发布；又过了三个月，ChatGPT引爆全球。",
+          "region": "domestic"
+        },
+        {
+          "title": "豆包工作能力升级：操作电脑可录制成技能，锁屏后也能继续任务",
+          "url": "https://www.leiphone.com/category/industrynews/MYDTBZqQkhfVtkte.html",
+          "source": "雷峰网",
+          "summary": "近期，豆包工作电脑操作能力升级，屏幕点击精度、速度提升，更准、更快。直接在对话中提出操作电脑的相关需求，经用户授权后，豆包工作就可以自动查看电脑屏幕，模拟人工鼠标和键盘操作相关应用。",
+          "region": "domestic"
+        },
+        {
+          "title": "10 月，我们推荐这 20 位独立开发者，和他们的 100 款产品",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA==&mid=2247517471&idx=1&sn=840c881ced5755ba94e263473c4277c8",
+          "source": "Founder Park",
+          "summary": "AI 时代的独立开发者，都在做什么产品？",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "AI攻防进入\"智能体对智能体\"实战：头部厂商自身被渗透、研究模型武器化与数据授权舆情治理同日发生",
+          "summary": "事实：Anthropic报告内部Claude研究模型在Chrome、Safari、Android、Windows、Linux中发现漏洞并串联5条可运行攻击链，已按协调披露修复；安全初创Cathedral借第三方业务软件用AI智能体在不到12小时内触及Anthropic会议记录、薪资与Slack数据，双方对事件范围各执一词；国内字节就\"横店群演数据喂大模型\"传言辟谣，声明数据归横店、个人肖像声音需授权、不用于训练自家模型。机制：当模型既可武器化串联攻击链、智能体又能沿SaaS供应链横向移动，AI厂商自身成为攻防最前沿，而公众对数据来源的敏感使授权边界成为品牌与合规资产（推断）。业务影响：企业应把\"经第三方SaaS渗透\"纳入威胁模型，要求AI供应商明确安全事件口径与赏金通道；数据合作项目在合同层固化权属、授权、用途隔离三条款。验证指标：智能体渗透AI厂商的事件数、赏金披露与厂商认定的差异率、授权条款在数据合作合同中的出现率。边界：攻击细节与辟谣均为单方口径，未经独立验证。"
+        },
+        {
+          "title": "编码与办公智能体跨过\"平台化+默认化\"门槛：harness开放成产品、生态占比近半、公共部门量化与无人值守运行并至",
+          "summary": "事实：微软把Copilot harness经Foundry向企业和开发者开放；GitHub Universe发布面向智能体交付的Copilot app与Copilot Fusion；Octoverse称12个月推送179亿次、超40%的PR由智能体起草；Claude Code以mods开放会话内编程接口；犹他州10个部门34名开发者试点中80%半小时搭好环境、71%节省20小时以上；OpenAI员工提出AI进入组织的三种结构；豆包工作支持电脑操作录制成技能并在Mac锁屏后继续执行，任务可由手机远程下达；华为小艺实验室主张助手从被动响应转向主动服务；独立开发者一人完成全链路产品成为可见群体；电商双11大促运营亦把\"善用智能工具提效\"写入品牌增长路径（营销战报口径）。机制：运行时（harness、mods、技能沉淀）成为可积累资产后，智能体从工具升级为交付系统与组织默认件，无人值守加技能复用把重复任务边际成本压向零（推断）。业务影响：选型从模型分数转向运行时开放度、扩展生态与权限治理；DevOps与办公流程需按\"近半产出由智能体起草\"重设容量与门禁；组织设计需在三种嵌入形态中明确预算与考核归属。验证指标：Foundry harness第三方采用量、企业内智能体起草PR占比、锁屏任务完成率与技能复用率。边界：多数数字为厂商自述或平台口径，效果未经独立复测。"
+        },
+        {
+          "title": "AI产业竞争轴心落到\"可量化的经济性\"：下一代架构线索泄露、底座面向AI负载重构、世界模型造验证环境与厂商财务首次公开同框",
+          "summary": "事实：英特尔XPU推理仓库已合并PR暴露\"qwen4-27b\"字样，社区逆向出延续Dense架构、四路残差与稀疏注意力等下一代线索；Kubernetes 1.37把Metrics API转GA、GPU缩容至零转Beta默认启用、Rootless Kubelet转Beta；Genie 4实现约2分钟连贯世界、约24帧交互并原生生成声音与对话；天津大学团队研究给多模态融合加可信度量；华为发布面向端云协同训推的新一代通信网设备；果链代工巨头以服务器、液冷与高速互连切入AI制造（工业富联AI服务器收入同比增逾3倍）；Anthropic S-1口径显示增量毛利90%、收入同比增1368%而算力费用仅增300%，同日Ed Zitron质疑其仅披露Q2、省略Q3现金细节。机制：模型能力趋同后，竞争沿\"架构效率—运行成本—验证成本—制造与网络供给—财务可信度\"整条链路展开，每个环节都开始出现可审计数字（推断）。业务影响：企业应把推理架构路线、K8s成本特性、仿真验证环境与供应商财务披露完整性一并纳入采购评估，对单方口径数据保留折扣。验证指标：Qwen4官方发布与泄露线索的吻合度、缩容至零带来的GPU成本降幅、Genie 4内测延迟与开放形式、S-1后续季报对增量毛利口径的延续性。边界：架构细节为社区逆向、经济性数字为招股书与转述口径，均未经独立验证。"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "Anthropic IPO文件披露现金及短期投资达1317亿美元，超过Amazon与Microsoft",
+          "summary": "据AI HOT转引的公开消息，Anthropic的IPO文件显示其现金及短期投资达131.7B美元，超过Amazon和Microsoft，在美国非银行公司中仅次于Berkshire Hathaway与Alphabet（IPO文件披露口径，媒体转引，未经审计核实）。"
+        },
+        {
+          "title": "S-1经济性口径与披露完整性争议并存：90%增量毛利对上\"选择性披露\"质疑",
+          "summary": "SemiAnalysis播客解读称招股书口径为增量毛利90%、推理毛利85%、连续两个季度盈利、Q1净收入留存500%、收入同比增1368%而算力费用仅增300%；同日Ed Zitron发文质疑S-1仅披露Q2盈利、省略Q3现金状况与付款明细，指其把散户当作退出流动性（第三方解读与评论口径，非审计结论）。"
+        }
+      ]
+    },
     "2026-10-28": {
       "date": "2026-10-28",
       "generated_at": "2026-10-28T11:21:24.108038+08:00",
