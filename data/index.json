@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-11-12",
     "2026-11-04",
     "2026-10-30",
     "2026-10-29",
@@ -95,6 +96,78 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-11-12": {
+      "date": "2026-11-12",
+      "generated_at": "2026-11-12T10:18:04.599136+08:00",
+      "top6": [
+        {
+          "title": "Google 发布 Gemini Decisions API 与 Gemini Decision 1 模型，专注快速多模态封闭式决策",
+          "url": "https://aihot.news/items/r8hsm3m3munjwk1n3u885zszw",
+          "source": "AI HOT · Google Blog：AI（RSS）",
+          "summary": "Google 推出 Gemini Decisions API，由新模型 Gemini Decision 1 驱动，可在 150-250ms 端到端延迟内对文本、图像、音频、视频和 PDF（最多 256K tokens）一次性评估最多 1000 个是/否、多选和评分题。",
+          "region": "international"
+        },
+        {
+          "title": "Grok 被指生成儿童色情图像，xAI 面临多起集体诉讼",
+          "url": "https://aihot.news/items/iz168hjk4ew8jpiokzjqcwbgi",
+          "source": "AI HOT · IT之家·人工智能",
+          "summary": "据彭博社报道，多名未成年受害者就 Grok 被用于把普通照片篡改成儿童性虐待材料（CSAM）对马斯克旗下 xAI 提起多起集体诉讼，律师估计符合索赔条件的受害者可能多达数千人。",
+          "region": "international"
+        },
+        {
+          "title": "安全公司 Claroc：94.7% 的 Grok 构建应用可被任意访问，含患者数据和 SpaceXSI 内部文件",
+          "url": "https://aihot.news/items/wlmgb3vb5ycgom7wq44felnin",
+          "source": "AI HOT · The Decoder：AI News（RSS）",
+          "summary": "安全公司 Claroc 报告称，在检查的 37,571 个仍在线的 Grok 构建应用中，35,578 个（94.7%）无需登录即可访问，原因是发布对话框默认预选\"Anyone with the link\"，且每个应用的独立子域名会进入可检索的 passive DNS 数据库。",
+          "region": "international"
+        },
+        {
+          "title": "灵光2.0上线两周，累计托管事务量突破300万",
+          "url": "https://www.leiphone.com/category/industrynews/588lnnPVveccwufm.html",
+          "source": "雷峰网",
+          "summary": "11月11日，蚂蚁集团旗下个人AI助理灵光公布最新数据：自10月27日灵光2.0上线以来，累计托管事务量突破300万项，累计执行任务超过1100万次。 这是灵光2.0上线以来又一次披露事务托管数据。11月5日，灵光曾公布，上线一周已托管超过116万项事务，累计执行任务超过360万次，用户规模突破2000万。",
+          "region": "domestic"
+        },
+        {
+          "title": "千问办公换上Qwen4，WorkBuddy慌不慌？",
+          "url": "https://www.tmtpost.com/8201592.html",
+          "source": "钛媒体",
+          "summary": "千问办公升级了，干活还没WorkBuddy省心。",
+          "region": "domestic"
+        },
+        {
+          "title": "为什么越接近核心制造，越不能把AI当外挂？",
+          "url": "https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656218992&idx=3&sn=0da5d8a725c50dd8feb51513ad521924",
+          "source": "虎嗅APP",
+          "summary": "从航天排产、光伏工艺到电梯出图，六家企业复盘AI进入核心流程后的复制与ROI难题。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "智能体竞争的度量从'对话量'转向'事务托管量'：个人助理持续履约、办公Agent团队化与数字员工上岗机制同日并现",
+          "summary": "事实：蚂蚁灵光2.0上线两周累计托管事务量突破300万项、执行任务超1100万次（一周口径116万项），接入40余项连接器，评价维度从用户规模转向'AI替用户管好多少事'；千问办公2.0以协作空间、自动任务、人机共创切入团队协作（企业标准版每席每月198元），钛媒体实测换用Qwen4后计时任务11分钟完成（旧模型近2小时、WorkBuddy 13分钟）但质量与省心度仍落后，Qwen4-Max预览版同日首发主打编程与Agentic；InfoQ整理的实践显示数字员工分水岭在授权与考核机制——智慧停车企业把收费'生命线'交给AI、电商数据服务商研发被打断降超70%、门店店效平均提升超20%；双11侧消费者用AI比价核规则、商家把素材与出价交给AI，购物起点从搜索框向AI对话界面迁移；百度世界2026议程聚焦'智能组织'。机制：当模型能力差距收敛，竞争轴转向持续履约度量、席位定价与组织信任制度（推断）。业务影响：办公与个人Agent采购应按'事务完成质量+席位成本'核算，把权限授予、责任界定与产出考核作为部署前置项。验证指标：灵光事务托管留存与完成质量、千问办公企业版席位续费、数字员工权限开放范围与店效提升的第三方复核。边界：多为厂商与媒体自述口径。"
+        },
+        {
+          "title": "前沿能力向'任务形态专用化'分化：深度推理旗舰分层、亚秒级决策API、开放动作模型与可进化harness组成新能力谱系",
+          "summary": "事实：Google正式推出Gemini 4 Carbon，定位长周期智能体工作流，在CursorBench 4.0、WANDR、AutomationBench均第一、单任务成本比次优模型低2倍以上，首发价与Argon相同（每百万输入2美元/输出10美元），并推出Gemini Decisions API（Gemini Decision 1，150-250ms内对最多256K token多模态输入一次性评估1000题）；Runway以Apache 2.0开源27B世界动作模型Praxis-1（NVIDIA RoboLab-120成功率46.2%居首）；GEAR开源框架在不改模型权重下进化harness，把营销任务通过率从27%提至40%、代码从52.8%至62.9%；火山引擎把80项媒体能力封装为AI MediaKit Skill，本地FFmpeg与云端异步任务双模供Agent调用。机制：能力供给从'单一通用旗舰'转向'按任务延迟/深度/形态分层的专用谱系'，Agent工具链成为能力分发层（推断）。业务影响：企业应按任务档位组合模型与技能包核算总成本，把'决策API'这类新采购单元纳入选型；开放动作模型压低仿真与训练门槛。验证指标：Decisions API真实负载延迟与定价、Carbon企业采用与单任务成本曲线、Praxis-1第三方复测、harness进化在工业环境的稳定性。边界：基准与吞吐数据多为发布方口径。"
+        },
+        {
+          "title": "智能体规模化的风险面从'制度设计'落到'诉讼与默认配置'：Grok滥用集体诉讼、94.7%应用公开可访问与制造业ROI归因三道墙同日显性化",
+          "summary": "事实：据彭博社报道，多名未成年受害者就Grok被用于把普通照片篡改成CSAM对xAI提起多起集体诉讼，律师估计潜在受害者多达数千人；安全公司Claroc发现37,571个在线Grok构建应用中94.7%无需登录即可访问（发布默认'Anyone with the link'且子域名进入passive DNS），涉及患者数据与SpaceX内部文件；制造侧虎嗅智库复盘显示AI单点提效后卡在核心流程、跨产线复制与ROI归因——通威数千个应用后按席位测算年投入最高亿元级、被迫模型分级并把高性能模型留给高价值岗位，卡奥斯胶州工厂柔性排产年省约400班次。机制：产品化与铺开速度超过安全默认值与价值核算能力的成熟速度，风险与成本以法律诉讼和具体泄露事件显性化（推断）。业务影响：低代码Agent平台的发布权限默认值与子域名可检索性应纳入采购安全评估，生成式图像供应商的责任分担条款需前置；制造业应先建立价值评估口径再扩量。验证指标：xAI诉讼进展与防护整改、Grok应用公开率的第三方复扫、制造业AI投入产出核算机制的落地样本。边界：诉讼未经裁定、扫描与企业数据均为单方自述口径。"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "Anthropic IPO 获数倍超额认购，寻求最高904亿美元融资、或超SpaceX纪录成史上最大上市",
+          "summary": "Bloomberg 报道 Anthropic IPO 已获数倍于发行份额的订单，主要来自大型机构投资者的锚定级意向；公司通过 IPO 加私募配售寻求最高 90.4B 美元，将超过 SpaceX 的 85.7B 纪录成为史上最大上市，完全稀释估值目标约 1.4T 美元；Goldman Sachs 与 Morgan Stanley 牵头共 22 家银行，股票将以 ANT 代码在纳斯达克全球精选市场交易。"
+        },
+        {
+          "title": "Anthropic 七位创始人 IPO 各套现约 2.5 亿美元并保留控制权",
+          "summary": "WSJ 报道，Anthropic 7 位创始人将在 IPO 中各出售约 2.5 亿美元股票、每人保留约 180 亿美元持仓；据公司文件每人出售近 3.4M 股，发行价区间预计 70 至 78 美元，上市预计下周进行，估值接近 1.3 万亿美元、募资 800 亿美元以上，部分通过包括 Google 在内的私募配售完成。"
+        }
+      ]
+    },
     "2026-11-04": {
       "date": "2026-11-04",
       "generated_at": "2026-11-04T12:10:06.051644+08:00",
