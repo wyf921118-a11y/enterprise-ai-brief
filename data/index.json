@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-11-19",
     "2026-11-12",
     "2026-11-04",
     "2026-10-30",
@@ -96,6 +97,74 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-11-19": {
+      "date": "2026-11-19",
+      "generated_at": "2026-11-19T10:12:43.233864+08:00",
+      "top6": [
+        {
+          "title": "Google DeepMind 的 Gemini 4 Neon 上线 OpenRouter",
+          "url": "https://aihot.news/items/k821p6smjnprmolffcr66q1mz",
+          "source": "AI HOT · X：OpenRouter (@OpenRouter)",
+          "summary": "OpenRouter 宣布 Google DeepMind 的 Gemini 4 Neon 正式上线其平台，可通过 Google Cloud 使用。该模型面向复杂软件工程、知识工作和科学场景，定位介于 Carbon 与 Hydrogen 之间。",
+          "region": "international"
+        },
+        {
+          "title": "OpenAI 详解前沿 AI 风险管理：从训练到部署的四层防护",
+          "url": "https://aihot.news/items/na2nxuqq5bxz0us1vjup0l259",
+          "source": "AI HOT · OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "summary": "OpenAI 发布长文，介绍其在模型全生命周期中管理前沿 AI 风险的防御纵深体系，涵盖模型对齐、安全与沙箱、拦截防护、监控响应四层保护，并按研究、内部部署、外部部署三阶段说明各层的作用。",
+          "region": "international"
+        },
+        {
+          "title": "Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放",
+          "url": "https://aihot.news/items/dpmse0g0euqubtr0704x8bqvw",
+          "source": "AI HOT · X：Gemini (@GeminiApp)",
+          "summary": "Google 宣布即日起 Gemini 4 Neon 向 Google AI Pro 和 Ultra 订阅用户开放，覆盖移动端、桌面端和网页端。官方称该模型擅长需要前沿级推理和快速响应的工作。",
+          "region": "international"
+        },
+        {
+          "title": "Agent多人共用为何会失控？来自Ankole的Business Agent架构设计分享",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075119&idx=1&sn=87c3aecd0cd20bbd7c0957c8e131d71c",
+          "source": "机器之心",
+          "summary": "它面向整个组织运行，支持多角色成员与多个专职 Agent 在同一套数据、权限与责任边界上协同工作",
+          "region": "domestic"
+        },
+        {
+          "title": "千问办公电商版推出“品牌知识库”，让Agent先懂品牌，再干活",
+          "url": "https://www.leiphone.com/category/industrynews/DEwlGyHOnFTL6jRy.html",
+          "source": "雷峰网",
+          "summary": "11月18日，千问办公电商版推出全新“品牌知识库”功能。商家在千问办公网页端切换至“电商经营”模式，上传网店链接、过往图片和设计规范等品牌资料后，千问办公就能理解品牌风格，在生成图片、视频和文案时统一品牌调性，用得越多越懂品牌。此前，千问办公电商版面向部分商家邀测，目前已向所有电商商家开放。 目前，不少商家已经习惯用Agent生成商品图、短视频和各类文案。",
+          "region": "domestic"
+        },
+        {
+          "title": "淘宝闪购本体平台：让人与 AI Agent 共用一份实时可信的业务知识",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247512538&idx=1&sn=e647beb5607a2116473bddad4cb04719",
+          "source": "阿里技术",
+          "summary": "这是2026年的第 83 篇文章（ 本文阅读时间：约 25 分钟 ）摘要数据团队做周报，最头疼的是对齐口径。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "前沿模型竞争进入'谱系密度×单位成本'双轴：Google补位Neon、微软MAI七连发、混元Hy4 flash开放权重同日对位",
+          "summary": "当日信号（事实）：Google把Gemini 4 Neon以介于Carbon与Hydrogen之间的档位上线OpenRouter，并同步开放AI Pro/Ultra订阅，官方称其每任务成本比Carbon低32%；微软Ignite一次发布五款新模型与两款进展，MAI Code 2编程综合成绩达GPT-6.1 Sol约98%而测试成本约40%，MAI Cyber 2 Flash单项计算成本不到GPT-6 Astra的2%，Decision-1.1成本约为其1/79；腾讯混元Hy4 flash以224B参数（激活12B）、1M上下文开放权重并预告旗舰Hy4。机制（推断）：旗舰能力趋同后，厂商以任务档位细分与成本曲线拉开差距，'每任务成本'正取代单一榜单分数成为采购语言；分发上中立聚合与消费者订阅并进，首发不再只面向API。业务影响：企业可按任务复杂度在多档模型间路由以压缩总成本，数据不出域的自托管阵营获得FP8量化新选项。验证指标：第三方基准上Neon与MAI系列的真实任务成本、Hy4 flash许可证商用条款、企业多档路由的实际节省比例。"
+        },
+        {
+          "title": "企业智能体从'个人助手'走向'组织运行时'：口径治理平台、品牌级记忆与多人权限设计同日给出三种工程答案",
+          "summary": "当日信号（事实）：微软Ignite披露Agent 365累计登记智能体超5000万个、Microsoft IQ提供超350个第三方连接器并推出Business Plugins封装企业规则；阿里披露淘宝闪购本体平台，以'经确认与审批的可版本化口径'让人与Agent共用同一事实源（累计处理1477张确认单、平均3个自然日闭环）；千问办公电商版'品牌知识库'（档案/参考集/记忆三层）从邀测转向全量开放；开源系统Ankole给出多人共用Agent的Business Harness设计（权限交集、组织记忆、不可逆操作账本）。机制（推断）：单人Agent组织化后的口径分叉、权限泄密与状态分裂，正倒逼'治理先行'的平台化方案，知识治理从BI语义层独立为Agent基建。业务影响：智能体平台的采购评估从模型能力转向企业知识接入深度、权限颗粒度与治理流程；'越用越懂业务'的记忆资产将抬高用户迁移成本。验证指标：Agent 365登记智能体的活跃率口径、口径确认流程在更多企业的复现效果、品牌知识库生成一致性的第三方评测。"
+        },
+        {
+          "title": "智能体的能力上限与安全下限同步进入'可量化'阶段：自主成功率翻倍但任务落差近3倍，内测泄露暴露权限与不可逆操作红线",
+          "summary": "当日信号（事实）：OpenAI研究加速报告显示，2-4小时人工任务的智能体自主成功率半年内从23%升至46%、4-8小时从13%升至35%，但监控训练类达79%而推理与服务栈编码仅25%，任务间落差近3倍；Reuters披露Meta内测Muse智能体疑似访问加密私信、混淆用户对话甚至输出他人银行余额，有员工被误注册每月888美元宠物保险且无法挽回；OpenAI同日发布Codex沙箱权限设计与前沿风险'对齐-沙箱-拦截-监控'四层防御，其团队成员亦证实评测快照因3-4天一轮的迭代而快速过期。机制（推断）：智能体进入长时程与多人环境后，能力方差与权限失控是同一问题的两面，厂商被迫把安全架构公开化为采购信任资产。业务影响：企业应按任务确定性排序落地（监控报表类先行、复杂工程改造缓行），并把跨用户隔离、不可逆操作拦截与沙箱边界写入验收红线和采购条款。验证指标：分层自主成功率在第三方场景的复现、Muse正式版的权限修复说明、沙箱逃逸与拦截率的独立评测。"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "Anthropic IPO 今日登陆公开市场：估值最高1.4万亿美元，华尔街提前造势、散户认购预期翻倍于SpaceX纪录",
+          "summary": "据路透社报道，Anthropic预计于当地时间11月19日登陆公开市场，IPO估值最高可能达到1.4万亿美元；金融机构已推出2倍做多与做空ETF等挂钩产品，Vanda Research预计上市将吸引约2.5亿美元散户净买入，为SpaceX IPO期间1.18亿美元纪录的两倍。这是企业AI基础模型层迄今规模最大的上市事件，其上市初期定价与换手表现将直接影响一级市场对AI应用层的估值锚。"
+        }
+      ]
+    },
     "2026-11-12": {
       "date": "2026-11-12",
       "generated_at": "2026-11-12T10:18:04.599136+08:00",
