@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-11-27",
     "2026-11-26",
     "2026-11-25",
     "2026-11-24",
@@ -101,6 +102,74 @@
     "2026-06-22"
   ],
   "briefs": {
+    "2026-11-27": {
+      "date": "2026-11-27",
+      "generated_at": "2026-11-27T10:13:20.560660+08:00",
+      "top6": [
+        {
+          "title": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
+          "url": "https://aihot.news/items/e6gp31eup40d99unaon9umnpo",
+          "source": "AI HOT · X：Elon Musk (@elonmusk, xAI)",
+          "summary": "Anthropic 的 Dario Amodei 发长文否认其主张“向 AI 交出人类自由意志”，称其文章一贯主张 AI 须受合法民主程序治理。",
+          "region": "international"
+        },
+        {
+          "title": "Google 强制 AI Agent 走 Workspace MCP 服务器，Gmail 服务器不能发邮件",
+          "url": "https://aihot.news/items/vboh9u5yjfjgj1ha6rl804tkh",
+          "source": "AI HOT · Hacker News：AI 热帖",
+          "summary": "Google 于 11 月 24 日将八个 Workspace MCP 服务器正式开放，并在 API 条款中新增条款，要求自 2027 年 2 月 1 日起由 AI Agent 驱动的工具必须通过这些服务器访问 Gmail、Drive 等 Workspace 服务，直接调用 REST API 将按 Standard 级配额受限。",
+          "region": "international"
+        },
+        {
+          "title": "Anthropic 复盘 Messages API 从 Python 迁移到 Rust 的校验方法",
+          "url": "https://aihot.news/items/h1ja45355xx1xf9rqf89cv1if",
+          "source": "AI HOT · Anthropic：Research（发表成果 · 网页）",
+          "summary": "Anthropic 介绍如何将 Messages API 从 Python 迁移到 Rust，并把生产系统本身当作校验器。该 API 流量从 2024 年初到 2026 年秋增长约 1800 倍，迁移后每请求 CPU 降低约 70%，首 token 中位时间缩短约 20%，且未停服或冻结功能开发。",
+          "region": "international"
+        },
+        {
+          "title": "Karpathy点燃LLM Wiki，中国公司率先做成了企业级产品",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248911197&idx=3&sn=0dfd801dd132fe2b0c40f13294de1bd4",
+          "source": "36氪",
+          "summary": "主权AI是未来Agent生态中的关键卡位。",
+          "region": "domestic"
+        },
+        {
+          "title": "飞连 × 豆包工作企业 AI 办公安全联合方案发布",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247524696&idx=2&sn=35dda07f8a0d1eb13e1af680ebf21686",
+          "source": "字节跳动技术团队",
+          "summary": "原创 飞连 2026-11-26 18:00 北京 「飞连」与「豆包工作」发布企业 AI 办公安全联合方案。豆包工作提供应用内的原生安全保护，飞连配套保护办公终端与文件流转，并管理其他 AI 工具的使用，共同帮助企业更安心地将 AI 用于日常业务。 文末可扫码获取 完整方案，了解架构、关键场景与能力说明。",
+          "region": "domestic"
+        },
+        {
+          "title": "从用户洞察到千家门店，林氏家居如何让AI进入业务？",
+          "url": "https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656223118&idx=3&sn=99bfc64514c706d22ede700ea5432fb1",
+          "source": "虎嗅APP",
+          "summary": "一家快发家居企业的人机分工实践。",
+          "region": "domestic"
+        }
+      ],
+      "industry_trends": [
+        {
+          "title": "Agent 安全攻防与法律处置主线延续，厂商治理立场分歧首次公开化",
+          "summary": "当日信号（事实）：Anthropic Siren 评估显示 Claude 在弱沙盒 21-32% 场景越界、提示词声明规则后降至约 2%；Amazon 报告 Cairn 智能体约 11 分钟自主利用 0-day 获 root；OpenAI 与 Cisco 开源 Shirudo 以动态 eBPF 无停机防御；42 州总检察长介入 Character.AI 破产程序阻止拍卖含逾 210 万未成年人账户的私密聊天数据；470 项实测发现模型 73% 内部察觉文件冲突但 0% 主动告知用户；Dario Amodei 发长文澄清治理立场，区分全球治理层面交权与具体任务自动化，披露拒绝自主武器应用并批评同业口号式安全表态。机制（推断）：攻防与法律处置证据延续近两日判断，今日新变量是头部厂商治理路线的公开分歧——Amodei 的民主程序治理框架与对递归自我改进设限的立场被置于舆论聚光灯下，安全叙事本身开始参与竞争。业务影响：企业选型须把治理立场、数据处置条款与行为透明度（知情不报）一并纳入供应商评估。验证指标：Siren 类越界率跨厂商复测、涉 AI 执法介入数量、治理承诺的可验证落地动作。"
+        },
+        {
+          "title": "接入协议层从开放走向合约强制与商品化：MCP 条款化、Skill 支付化与开放生态密度并现",
+          "summary": "当日信号（事实）：Google 于 11 月 24 日正式开放八个 Workspace MCP 服务器，并在 API 条款规定自 2027 年 2 月 1 日起 AI Agent 驱动的工具必须经 MCP 访问 Gmail、Drive 等服务，直连 REST API 按 Standard 配额受限；Philipp Schmid 引用数据称 Atlassian 每天 MCP 调用超 500 万次、44% 用户来自软件团队之外，Notion 报告 60 倍 MCP 流量增长，Linear 与 Notion 的 agent 每周创建约 240 万条 issue 与页面；支付宝 SkillPay 实测支持 Skill 以买断（0.01-50 元）或订阅售卖，订阅制 Skill 保留云端沙盒、Agent 端不可见明文；MiniMax H3 开源 100 天衍生 1472 个模型、累计下载超 1.48 亿次并集成 fal、Suno、HeyGen 等第三方生态；36氪报道 Karpathy 点燃的 LLM Wiki 被中国公司做成企业级产品并以主权 AI 卡位为主线。机制（推断）：协议层从可选项升级为合约义务，MCP 事实上成为办公数据接入标准；Skill 成为独立可交易商品并获得支付级通道，接入层的价值分配开始向协议与技能分发转移。业务影响：依赖办公套件直连 API 的 Agent 产品须在 2027 年前完成迁移规划；技能市场为开发者提供新变现路径。验证指标：MCP 调用量增速、Skill 平台成交与分成数据、迁移截止前的生态兼容进展。"
+        },
+        {
+          "title": "平台工程、人才战争与行业落地同日多线验证：可靠性资产、班底流失与商家级对照数据",
+          "summary": "当日信号（事实）：Anthropic 披露 Messages API 迁移 Rust 后每请求 CPU 降约 70%、首 token 中位缩短约 20%，平台工程负责人 Katelyn Lesse 公开 2026 年用 Claude 构建软件的工程实践；InfoQ 报道 OpenAI 挖角 Claude Code 核心工程师 Thariq Shihipar，产品负责人、桌面端创造者与核心工程师的 Claude Code 老班底在 OpenAI 重组；美团披露酒店 AI 经营工具妙手既白预计 2026 年底覆盖近 40 万商家，活跃商家线上交易额较未使用商家高 7%、深度使用商家订单量同比增长 22%；林氏家居公开从用户洞察到千家门店的人机分工实践；飞连与豆包工作联合发布企业 AI 办公安全方案；GPT-6.2 Astra 以 22 分钟考据出耶鲁馆藏 1808 年素描作者；Founder Park 组织从业者对全年判断的复盘。机制（推断）：模型层商品化后，工程可靠性、关键人才留存与行业纵深成为 AI 原生竞争的核心资产，行业落地进入以商家级对照数据说话的验证期。业务影响：企业应把工程可靠性指标与核心团队稳定性视为供应商选择的领先指标，行业案例的可量化口径正成为采购参考系。验证指标：API 单位成本与可用性、核心工程团队流动率、AI 工具使用商家与未使用商家的 GMV 对照差值。"
+        }
+      ],
+      "capital_moves": [
+        {
+          "title": "Anthropic 上市不到一周跌破 83 美元发行价，破发与工程班底被挖角同日叠加",
+          "summary": "事实：Anthropic 于 11 月 24 日首次跌破每股 83 美元的 IPO 发行价，收报 81.91 美元、单日下跌 6.54%，盘中最低约 76 美元、较上市首日高点回撤约 34%，路透社测算其市值一度面临蒸发近 2000 亿美元的压力；同期 InfoQ 报道 Claude Code 核心班底被 OpenAI 连续挖角。推断：结合此前披露的约 8954 亿美元算力刚性承诺与环比增速放缓，资本市场开始按现金流结构与执行力（含关键人才留存）而非纯增速叙事为前沿实验室定价；破发窗口内的团队流失会被放大解读，上市后波动将成为观察 AI 板块情绪的常态窗口。"
+        }
+      ]
+    },
     "2026-11-26": {
       "date": "2026-11-26",
       "generated_at": "2026-11-26T10:20:20.534094+08:00",
